@@ -10,10 +10,10 @@ Door je Gmail te koppelen kan je AI-werknemer je inbox lezen, e-mails categorise
 
 - Ongelezen e-mails ophalen en samenvatten
 - E-mails categoriseren (actie nodig, informatief, reclame)
-- Conceptantwoorden schrijven (je beoordeelt en verstuurt zelf)
+- Conceptantwoorden schrijven en versturen na jouw bevestiging
 - Je melden als er urgente berichten binnenkomen
 
-Je assistent **verstuurt geen e-mails** uit jouw naam zonder jouw bevestiging. Concepten worden klaargezet in je Gmail conceptenmap.
+Je assistent **verstuurt alleen e-mails na jouw expliciete bevestiging** in het Telegram-gesprek.
 
 ---
 
@@ -21,22 +21,22 @@ Je assistent **verstuurt geen e-mails** uit jouw naam zonder jouw bevestiging. C
 
 1. Ga naar **Dashboard → Instellingen → Integraties**
 2. Klik op **"Gmail koppelen"**
-3. Je wordt doorgestuurd naar Google — log in met het account dat je wil koppelen
-4. Geef dGENIX de gevraagde rechten (e-mails lezen + concepten aanmaken)
-5. Je keert terug naar het dashboard — de integratie is direct actief
+3. Er opent een venster — log in met het Google-account dat je wil koppelen
+4. Geef dGENIX de gevraagde rechten
+5. Het venster sluit automatisch — de integratie is direct actief
 
 ---
 
 ## Welke rechten vraagt dGENIX?
 
-dGENIX vraagt alleen de rechten die nodig zijn:
+dGENIX vraagt de rechten die nodig zijn voor volledig e-mailbeheer via je assistent:
 
 | Recht | Waarvoor |
 |---|---|
-| E-mails lezen (`gmail.readonly`) | Inbox ophalen en samenvatten |
-| Concepten aanmaken (`gmail.compose`) | Conceptantwoorden klaarzetten |
+| E-mails lezen | Inbox ophalen en samenvatten |
+| E-mails versturen | E-mails versturen na jouw bevestiging |
 
-dGENIX kan **geen** e-mails verzenden, verwijderen of je account beheren.
+dGENIX kan **geen** e-mails verwijderen of je account beheren.
 
 ---
 
