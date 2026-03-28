@@ -4,18 +4,7 @@ Je AI-werknemer is geen chatbot. Hij voert echte taken uit — en stuurt je het 
 
 ---
 
-## De 3 kernfuncties
-
-### Leadgenerator
-
-Je geeft een zoekopdracht op — een branche, regio, of type bedrijf. Je assistent zoekt, beoordeelt en scoort prospects. Het resultaat komt als overzicht terug in Telegram, en wordt automatisch opgeslagen in je Google Sheet (indien gekoppeld).
-
-**Voorbeeld:**
-> *"Zoek 20 kappers in Eindhoven die geen eigen website hebben"*
-
-Resultaat: lijst met namen, contactgegevens en scores — klaar om op te handelen.
-
----
+## De kernfuncties
 
 ### E-mailbeheerder
 
@@ -25,6 +14,17 @@ Koppel je Gmail (zie [Gmail koppelen](../integraties/gmail.md)) en je assistent 
 > *"Maak mijn inbox leeg en schrijf concepten voor alles wat een reactie nodig heeft"*
 
 Resultaat: overzicht van verwerkte mails + conceptantwoorden klaar in je conceptenmap.
+
+---
+
+### Agenda-assistent
+
+Koppel je Google Calendar (zie [Google Calendar koppelen](../integraties/google-calendar.md)) en je assistent beheert je afspraken. Hij plant meetings in, geeft je een dagoverzicht en herinnert je aan aankomende afspraken.
+
+**Voorbeeld:**
+> *"Plan een meeting met Jan op vrijdag om 14:00 — stuur hem een uitnodiging"*
+
+Resultaat: afspraak staat in je agenda, Jan ontvangt een uitnodiging.
 
 ---
 
@@ -39,14 +39,25 @@ Resultaat: overzichtelijke samenvatting met bronnen, direct in Telegram.
 
 ---
 
+### Taken & herinneringen
+
+Stuur opdrachten en je assistent voert ze uit. Van eenvoudige vragen tot meerstaps taken — hij houdt je op de hoogte via Telegram zodra het klaar is.
+
+**Voorbeeld:**
+> *"Zet een herinnering voor mijn belafspraak morgen om 10:00"*
+
+Resultaat: herinnering ingesteld, je ontvangt een Telegram-bericht op het geplande moment.
+
+---
+
 ## Hoe werkt de uitvoering?
 
 Elke opdracht die je stuurt wordt verwerkt door je persoonlijke AI-workflow. Die workflow:
 
 1. Ontvangt je bericht via Telegram
 2. Bepaalt welke actie nodig is
-3. Voert de stappen uit (zoeken, ophalen, verwerken, schrijven)
-4. Slaat resultaten op waar van toepassing (Google Sheet, conceptenmap)
+3. Voert de stappen uit (ophalen, verwerken, schrijven, plannen)
+4. Slaat resultaten op waar van toepassing (conceptenmap, agenda)
 5. Stuurt je een melding in Telegram
 
 Dit gebeurt asynchroon — je hoeft niet te wachten. Je krijgt een melding zodra de taak klaar is.
@@ -61,7 +72,7 @@ Elke taak verbruikt credits. Hoeveel hangt af van de complexiteit:
 |---|---|
 | Eenvoudige vraag | 80–200 |
 | E-mail samenvatten | 100–300 |
-| Leads zoeken (10 stuks) | 500–1.500 |
+| Afspraak inplannen | 150–400 |
 | Diepgaand onderzoek | 500–2.000 |
 
 → [Meer over credits](credits.md)
@@ -72,6 +83,6 @@ Elke taak verbruikt credits. Hoeveel hangt af van de complexiteit:
 
 - Hij stuurt geen e-mails uit jouw naam zonder je bevestiging (concepten worden klaargezet)
 - Hij neemt geen betalingen aan of uit
-- Hij heeft geen toegang tot je bestanden, tenzij je dat expliciet instelt
+- Hij verwijdert geen bestanden of e-mails tenzij je dat expliciet opdraagt
 
 Je behoudt altijd de controle.

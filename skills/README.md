@@ -8,7 +8,7 @@ Skills zijn uitbreidingen voor je AI-werknemer. Met een skill geef je hem extra 
 
 ### Eigen Telegram Bot
 
-**Slug:** `own-bot` | **Categorie:** Integratie
+**Slug:** `own-bot` | **Categorie:** Integratie | **Prijs:** €2,99/mnd
 
 Standaard maakt je assistent gebruik van de gedeelde dGENIX bot. Met de **Eigen Bot** skill gebruik je een eigen Telegram bot — met je eigen naam en profielfoto.
 
@@ -37,7 +37,6 @@ Standaard maakt je assistent gebruik van de gedeelde dGENIX bot. Met de **Eigen 
 | **Web Researcher** | Zoekt en analyseert webpagina's op opdracht | €4,99/mnd |
 | **Email Writer** | Schrijft professionele e-mails op basis van context | €4,99/mnd |
 | **Document Reader** | Upload PDF's en Word-documenten voor samenvatting | €6,99/mnd |
-| **Calendar Assistant** | Google Calendar integratie + afsprakenbeheer | €6,99/mnd |
 
 ---
 
@@ -52,12 +51,8 @@ Je kunt een skill op elk moment deactiveren via **Dashboard → Skills → "Verw
 
 ---
 
-## Hoeveel skills kan ik tegelijk hebben?
+## Skills en plannen
 
-| Plan | Skills |
-|---|---|
-| Starter | Basisskills (beperkt) |
-| Growth | 1 betaalde skill |
-| Pro | Alle skills |
+Skills zijn beschikbaar voor alle plannen. Je kunt meerdere skills tegelijk actief hebben — elke skill heeft zijn eigen maandelijks bedrag bovenop je abonnement.
 
 Zie [plannen vergelijken](../plannen-en-prijzen/README.md) voor details.

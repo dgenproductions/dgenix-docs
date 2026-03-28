@@ -34,7 +34,17 @@ Heb je de **Eigen Bot skill** actief? Dan kun je ook je eigen Telegram bot koppe
 
 ---
 
-## Stap 2 — Assistent activeren {#assistent-activeren}
+## Stap 2 — Geef je assistent een naam {#assistent-naam}
+
+Geef je AI-werknemer een naam. Die naam gebruikt hij om zich voor te stellen in Telegram, en is zichtbaar in je dashboard.
+
+**Kies iets wat bij jou past** — een voornaam zoals "Alex" of "Sara", of iets functioneels zoals "Assistent".
+
+De naam wordt opgeslagen bij je account en verschijnt in het welkomstbericht dat je ontvangt zodra je assistent actief is.
+
+---
+
+## Stap 3 — Assistent activeren {#assistent-activeren}
 
 Klik op **"Activeer mijn assistent"**.
 
@@ -49,14 +59,26 @@ Je ontvangt een **welkomstbericht in Telegram** zodra alles klaar is — dan ben
 
 ---
 
-## Stap 3 — Klaar
+## Stap 4 — Integraties koppelen (optioneel)
+
+Koppel Gmail, Google Calendar en Google Drive om je assistent volledige toegang te geven tot je tools.
+
+Ga naar **Dashboard → Instellingen → Integraties** en klik op **"Verbinden"** naast elke tool. Je wordt doorgestuurd naar Google voor toestemming — dit duurt minder dan een minuut per integratie.
+
+→ [Gmail koppelen](../integraties/gmail.md)
+→ [Google Calendar koppelen](../integraties/google-calendar.md)
+→ [Google Drive koppelen](../integraties/google-drive.md)
+
+---
+
+## Stap 5 — Klaar
 
 Je AI-werknemer is actief. Je kunt direct beginnen door een bericht te sturen in Telegram.
 
 **Voorbeeldopdrachten:**
 
-- `Vind 10 leads in de Haagse advocatuur`
 - `Geef me een overzicht van mijn ongelezen mails`
+- `Plan een meeting met Jan vrijdag 14:00`
 - `Onderzoek de beste tools voor social media planning in 2026`
 
 Je assistent voert de taak uit en stuurt het resultaat terug in Telegram.

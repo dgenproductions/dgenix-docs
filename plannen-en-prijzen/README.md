@@ -12,9 +12,11 @@ Voor wie wil beginnen met één AI-werknemer.
 
 - 1 AI-werknemer via Telegram
 - **75.000 credits per maand** (~470 taken)
+- Gmail, Google Calendar & Google Drive
 - E-mails samenvatten en concepten opstellen
+- Agenda beheren en afspraken inplannen
 - Onderzoek & informatie opzoeken
-- Basisagendabeheer
+- Taken & herinneringen
 - E-mail support
 
 ---
@@ -25,10 +27,9 @@ Voor wie dagelijks taken automatiseert en meer volume nodig heeft.
 
 - Alles van Starter
 - **200.000 credits per maand** (~1.250 taken)
-- Eigen Telegram bot (eigen naam + profielfoto)
+- **Projecten** — organiseer je werk in aparte projecten
+- **Kennisbank** — upload bestanden die je assistent als context gebruikt
 - Prioriteitsverwerking
-- E-mail workflow automatisering
-- 1 betaalde skill add-on
 - Prioriteit support
 
 ---
@@ -39,10 +40,7 @@ Voor wie maximale capaciteit en geavanceerde workflows wil.
 
 - Alles van Growth
 - **500.000 credits per maand** (~3.125 taken)
-- Meerdere sub-agents
-- Diepgaand onderzoek (meerdere bronnen tegelijk)
-- Geavanceerde workflow automatisering
-- Alle skill add-ons
+- Vroeg toegang tot nieuwe skills en features
 - Dedicated support
 
 ---
@@ -54,24 +52,28 @@ Voor wie maximale capaciteit en geavanceerde workflows wil.
 | Credits per maand | 75.000 | 200.000 | 500.000 |
 | ~Taken per maand | ~470 | ~1.250 | ~3.125 |
 | AI-assistent via Telegram | ✓ | ✓ | ✓ |
-| Eigen Telegram bot | — | ✓ | ✓ |
-| Gmail integratie | — | ✓ | ✓ |
-| Research skill | ✓ | ✓ | ✓ |
-| Skill add-ons | — | 1 skill | Alle skills |
+| Gmail, Calendar & Drive | ✓ | ✓ | ✓ |
+| Taken & herinneringen | ✓ | ✓ | ✓ |
 | Credits bijkopen | ✓ | ✓ | ✓ |
+| Projecten | — | ✓ | ✓ |
+| Kennisbank (bestanden) | — | ✓ | ✓ |
+| Prioriteitsverwerking | — | ✓ | ✓ |
+| Vroeg toegang nieuwe skills | — | — | ✓ |
 | E-mail support | ✓ | ✓ | ✓ |
 | Prioriteit support | — | ✓ | ✓ |
 | Dedicated support | — | — | ✓ |
+
+> **Eigen Telegram Bot** is een optionele add-on beschikbaar voor alle plannen via **Dashboard → Skills**.
 
 ---
 
 ## Welk plan kies ik?
 
-**Starter** — je wil uitproberen of je use case is beperkt (bijv. alleen onderzoek of af-en-toe een leadlijst).
+**Starter** — je wil uitproberen of je gebruik is gematigd (inbox opruimen, af-en-toe een taak of onderzoek).
 
-**Growth** — je gebruikt je assistent dagelijks voor leads, e-mails of onderzoek. Dit is het populairste plan.
+**Growth** — je gebruikt je assistent dagelijks en wil je werk georganiseerd houden via projecten en een eigen kennisbank.
 
-**Pro** — je wil meerdere taken parallel laten uitvoeren, of je hebt hoge volumes (bijv. 50+ leads per dag).
+**Pro** — je hebt hoge volumes, wil de eerste zijn bij nieuwe features, of hebt dedicated ondersteuning nodig.
 
 ---
 

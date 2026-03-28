@@ -2,7 +2,7 @@
 
 Door je Gmail te koppelen kan je AI-werknemer je inbox lezen, e-mails categoriseren en conceptantwoorden schrijven.
 
-> Gmail integratie is beschikbaar vanaf het **Growth** plan.
+> Gmail is inbegrepen bij **alle plannen** — Starter, Growth en Pro.
 
 ---
 
@@ -20,7 +20,7 @@ Je assistent **verstuurt alleen e-mails na jouw expliciete bevestiging** in het 
 ## Gmail koppelen
 
 1. Ga naar **Dashboard → Instellingen → Integraties**
-2. Klik op **"Gmail koppelen"**
+2. Klik op **"Verbinden"** naast Gmail
 3. Er opent een venster — log in met het Google-account dat je wil koppelen
 4. Geef dGENIX de gevraagde rechten
 5. Het venster sluit automatisch — de integratie is direct actief

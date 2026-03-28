@@ -14,6 +14,11 @@
 * [Wat doet je AI-werknemer?](hoe-het-werkt/README.md)
 * [Het creditsysteem](hoe-het-werkt/credits.md)
 
+## Functies
+
+* [Projecten](functies/projecten.md)
+* [Kennisbank](functies/kennisbank.md)
+
 ## Skills
 
 * [Skills marketplace](skills/README.md)
@@ -26,6 +31,8 @@
 ## Integraties
 
 * [Gmail koppelen](integraties/gmail.md)
+* [Google Calendar koppelen](integraties/google-calendar.md)
+* [Google Drive koppelen](integraties/google-drive.md)
 
 ## Overig
 
