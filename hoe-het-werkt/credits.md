@@ -12,7 +12,7 @@ Credits zijn de munteenheid van dGENIX. Ze worden verbruikt wanneer je assistent
 - Data ophaalt en verwerkt (leads, e-mails, onderzoeksresultaten)
 - Een skill uitvoert (bijv. Gmail lezen, documenten verwerken)
 
-1 credit ≈ 10 tokens. Een gemiddelde opdracht kost ~160 credits.
+Credits zijn gebaseerd op tokenverbruik van het AI-model. Een gemiddelde opdracht kost ~160 credits (Haiku) tot ~600 credits (Sonnet).
 
 ---
 
@@ -20,9 +20,9 @@ Credits zijn de munteenheid van dGENIX. Ze worden verbruikt wanneer je assistent
 
 | Plan | Credits/maand | ~Taken |
 |---|---|---|
-| Starter | 75.000 | ~470 |
-| Growth | 200.000 | ~1.250 |
-| Pro | 500.000 | ~3.125 |
+| Starter | 55.000 | ~345 |
+| Growth | 120.000 | ~750 |
+| Pro | 240.000 | ~1.500 |
 
 Credits worden elke maand automatisch aangevuld op je verlengingsdatum.
 
