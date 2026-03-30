@@ -1,178 +1,151 @@
 # dGENIX — Unit Economics & Winstberekening
 
-> Intern document — niet publiek. Gebaseerd op Anthropic API prijzen (april 2026).
+> Intern document — niet publiek. Gebaseerd op Anthropic API prijzen + 3x credit markup (april 2026).
 
 ---
 
-## 1. Fundament — Wat kost 1 credit?
+## 1. Fundament — Creditmodel
 
-**1 credit = $0,0002 (0,02 cent)**
-→ 5.000 credits per dollar
+**1 credit = $0,0002 (break-even basis)**
+→ 5.000 credits per dollar API-kosten
 
-### Anthropic API prijzen (per 1 miljoen tokens)
+**CREDIT_MARKUP = 3x**
+User spendeert 3× meer credits per token dan de werkelijke API-kosten.
+→ API-kosten = 33% van credit-waarde bij 100% gebruik
+→ Plan-marge afhankelijk van benutting: lagere benutting = hogere marge
 
-| Model | Input | Output |
-|---|---|---|
-| Haiku 4.5 | $0,80 | $4,00 |
-| Sonnet 4.6 | $3,00 | $15,00 |
-| Opus 4.6 | $15,00 | $75,00 |
-
-### Creditformule (code: `router.ts → berekenCredits()`)
-
-```
-Haiku:  ceil((tokensIn × 4  + tokensUit × 20)  / 1000)
-Sonnet: ceil((tokensIn × 15 + tokensUit × 75)  / 1000)
-Opus:   ceil((tokensIn × 75 + tokensUit × 375) / 1000)
-```
-
-**Verificatie Haiku:**
-- 1M tokens input = 1.000.000 × 4 / 1000 = 4.000 credits = $0,80 ✅
-- 1M tokens output = 1.000.000 × 20 / 1000 = 20.000 credits = $4,00 ✅
+Marktbenchmark: Bessemer State of AI 2025 — gezonde AI SaaS heeft API-kosten < 15% van revenue.
 
 ---
 
-## 2. Kosten per interactie (gemiddelde)
+## 2. Anthropic API prijzen (per 1 miljoen tokens)
+
+| Model | Input | Output | Credit-factor input | Credit-factor output |
+|---|---|---|---|---|
+| Haiku 4.5 | $0,80 | $4,00 | ×12 / 1000 tokens | ×60 / 1000 tokens |
+| Sonnet 4.6 | $3,00 | $15,00 | ×45 / 1000 tokens | ×225 / 1000 tokens |
+| Opus 4.6 | $15,00 | $75,00 | ×225 / 1000 tokens | ×1.125 / 1000 tokens |
+
+> Credit-factor = (prijs_per_mtoken × 5 / 1000) × 3 (markup)
+
+**Verificatie Haiku met markup:**
+- 1M tokens input → 4.000 credits (break-even) × 3 = **12.000 credits**
+- API-kosten: $0,80 → credit-waarde: 12.000 × $0,0002 = $2,40 → markup: **3x** ✅
+
+---
+
+## 3. Kosten per interactie (gemiddeld bericht)
 
 **Aannames:**
-- Gemiddelde interactie: 800 tokens in + 400 tokens out (inclusief systeemprompt)
-- ~85% van gesprekken via Haiku (standaard)
-- ~15% via Sonnet (schrijftaken, research)
-- Opus: zelden (<1%)
+- Gemiddelde interactie: 800 tokens in + 400 tokens uit (incl. systeemprompt fragment)
+- **~30% Haiku / ~70% Sonnet** (realistisch — assistent voert continu taken uit)
 
 | Model | Credits verbruikt | API kosten ($) | API kosten (€) |
 |---|---|---|---|
-| Haiku (800in + 400out) | ~11 credits | $0,0022 | ~€0,002 |
-| Sonnet (800in + 400out) | ~36 credits | $0,0072 | ~€0,007 |
-| Gewogen gemiddeld (85/15) | ~15 credits | $0,0031 | ~€0,003 |
+| Haiku (800in + 400out) | **34 credits** | $0,0022 | ~€0,002 |
+| Sonnet (800in + 400out) | **126 credits** | $0,0084 | ~€0,008 |
+| Gewogen gemiddeld (30/70) | **~98 credits** | $0,0065 | ~€0,006 |
 
-**→ 1 interactie kost gemiddeld ~15 credits en ~€0,003 API-kosten**
+**→ 1 bericht kost de user gemiddeld ~98 credits en kost ons ~€0,006 aan API**
 
 ---
 
-## 3. Plannen — Margeberekening
+## 4. Plannen — Margeberekening
 
-**Aanname: 70% kredietbenutting** (gebruiker verbruikt 70% van zijn maandelijkse credits)
+### Bij 70% kredietbenutting (realistisch)
 
-| Plan | Prijs | Credits | Gebruikt (70%) | API kost @70% | Bruto marge |
-|---|---|---|---|---|---|
-| Starter | €19 | 55.000 | 38.500 | ~€0,12/credit × 38.500/5000 = **€6,85** | **€12,15 → 64%** |
-| Growth | €39 | 120.000 | 84.000 | **€14,94** | **€24,06 → 62%** |
-| Pro | €79 | 240.000 | 168.000 | **€29,88** | **€49,12 → 62%** |
+| Plan | Prijs | Credits | Gebruikt (70%) | API-kosten | Stripe (~3%) | **Bruto marge** |
+|---|---|---|---|---|---|---|
+| Starter | €19 | 88.000 | 61.600 | ~€3,73 | €0,57 | **€14,70 → ~77%** |
+| Growth | €39 | 212.000 | 148.400 | ~€9,00 | €1,17 | **€28,83 → ~74%** |
+| Pro | €79 | 495.000 | 346.500 | ~€21,00 | €2,37 | **€55,63 → ~70%** |
 
-> API kosten berekening: credits × $0,0002 × wisselkoers (€1 = $1,10)
-> 38.500 credits × $0,0002 / 1,10 = **€7,00** (iets hoger bij 100% bezetting)
+> API-kosten: credits_gebruikt / 3 × $0,0002 / 1,10 (EUR/USD koers)
 
 ### Bij 100% kredietbenutting (worst case)
 
-| Plan | Prijs | API kost | Marge |
-|---|---|---|---|
-| Starter | €19 | ~€9,78 | **€9,22 → 49%** |
-| Growth | €39 | ~€21,36 | **€17,64 → 45%** |
-| Pro | €79 | ~€42,73 | **€36,27 → 46%** |
+| Plan | Prijs | Credits | API-kosten | Stripe (~3%) | **Netto marge** |
+|---|---|---|---|---|---|
+| Starter | €19 | 88.000 | ~€5,33 | €0,57 | **€13,10 → 69%** |
+| Growth | €39 | 212.000 | ~€12,85 | €1,17 | **€24,98 → 64%** |
+| Pro | €79 | 495.000 | ~€30,00 | €2,37 | **€46,63 → 59%** |
+
+> API-kosten: 88.000 / 3 × $0,0002 / 1,10 = **€5,33** (Starter voorbeeld)
+
+**→ Worst-case marge (100% gebruik): 69% / 64% / 59% (Starter / Growth / Pro)**
+**→ Realistisch (70% gebruik): 77% / 74% / 70%**
+**→ In de praktijk gebruikt niemand alle credits volledig op.**
 
 ---
 
-## 4. Credit Packs — Margeberekening
+## 5. Credit Packs — Margeberekening
 
-| Pack | Credits | Prijs | API kost (100%) | Marge |
-|---|---|---|---|---|
-| Small | 15.000 | €7 | ~€2,64 | **€4,36 → 62%** |
-| Medium | 40.000 | €18 | ~€7,04 | **€10,96 → 61%** |
-| Large | 100.000 | €45 | ~€17,60 | **€27,40 → 61%** |
+| Pack | Credits | Prijs | API-kosten (100%) | Stripe | **Netto marge** |
+|---|---|---|---|---|---|
+| Small | 25.000 | €9 ex BTW | ~€1,52 | €0,27 | **€7,21 → ~80%** |
+| Medium | 60.000 | €20 ex BTW | ~€3,64 | €0,60 | **€15,76 → ~79%** |
+| Large | 150.000 | €45 ex BTW | ~€9,09 | €1,35 | **€34,56 → ~77%** |
 
-> Packs worden bij 100% benut (anders kopen mensen ze niet) — marge is bewust gezet op ~61%.
+> Packs worden bij 100% benut — marge consistent met abonnementsmodel.
 
 ---
 
-## 5. Vaste kosten (maandelijks)
+## 6. Vaste kosten (maandelijks)
 
 | Post | Kosten/mnd |
 |---|---|
 | VPS Hostinger (agent + n8n) | ~€15 |
 | Vercel Pro | ~€20 |
 | Supabase Pro | ~€25 |
-| Nango (OAuth proxy) | ~€0–€50 (afhankelijk van tier) |
-| Stripe fees (2,9% + €0,25/transactie) | variabel |
+| Nango (OAuth proxy) | ~€0–€50 |
+| Stripe fees | variabel (~3% omzet) |
 | Domein + misc | ~€5 |
 | **Totaal vaste infra** | **~€65–€115/mnd** |
 
 ---
 
-## 6. Winst geselecteerd naar gebruikersaantal
+## 7. Netto winst naar gebruikersaantal
 
-**Aannames:**
-- Mix: 60% Starter / 30% Growth / 10% Pro
-- Kredietbenutting: 70%
-- Vaste kosten: €90/mnd (midden)
-- Stripe fees: 3% van omzet
-
-### Formule per gebruiker (gewogen gemiddeld)
+**Mix:** 60% Starter / 30% Growth / 10% Pro | **Gebruik:** 70% | **Vaste kosten:** €90/mnd
 
 ```
-Gem. omzet/user   = 0,60 × €19 + 0,30 × €39 + 0,10 × €79 = €11,40 + €11,70 + €7,90 = €31,00
-Gem. API kost     = 0,60 × €6,85 + 0,30 × €14,94 + 0,10 × €29,88 = €4,11 + €4,48 + €2,99 = €11,58
-Stripe (3%)       = €31,00 × 0,03 = €0,93
-Bruto per user    = €31,00 - €11,58 - €0,93 = €18,49
+Gem. omzet/user   = 0,60×€19 + 0,30×€39 + 0,10×€79 = €31,00
+Gem. API/user     = 0,60×€3,73 + 0,30×€9,00 + 0,10×€21,00 = €7,04
+Stripe (3%)       = €0,93
+Netto/user        = €31,00 - €7,04 - €0,93 = €23,03
 ```
 
-### Netto winst per maand (na vaste kosten)
-
-| Gebruikers | Omzet | API kost | Stripe | Vaste kosten | **Netto winst** | **Netto marge** |
+| Gebruikers | Omzet | API | Stripe | Vaste kosten | **Netto winst** | **Marge** |
 |---|---|---|---|---|---|---|
-| 10 | €310 | €116 | €9 | €90 | **€95** | **31%** |
-| 25 | €775 | €290 | €23 | €90 | **€372** | **48%** |
-| 50 | €1.550 | €579 | €47 | €90 | **€834** | **54%** |
-| 100 | €3.100 | €1.158 | €93 | €90 | **€1.759** | **57%** |
-| 250 | €7.750 | €2.895 | €233 | €90 | **€4.532** | **58%** |
-| 500 | €15.500 | €5.790 | €465 | €90 | **€9.155** | **59%** |
-| 1.000 | €31.000 | €11.580 | €930 | €90 | **€18.400** | **59%** |
-
-> Netto marge stabiliseert boven ~50 users omdat vaste kosten een steeds kleiner deel worden.
+| 10 | €310 | €70 | €9 | €90 | **€141** | **45%** |
+| 25 | €775 | €176 | €23 | €90 | **€486** | **63%** |
+| 50 | €1.550 | €352 | €47 | €90 | **€1.061** | **68%** |
+| 100 | €3.100 | €704 | €93 | €90 | **€2.213** | **71%** |
+| 250 | €7.750 | €1.760 | €233 | €90 | **€5.667** | **73%** |
+| 500 | €15.500 | €3.520 | €465 | €90 | **€11.425** | **74%** |
+| 1.000 | €31.000 | €7.040 | €930 | €90 | **€22.940** | **74%** |
 
 ---
 
-## 7. Break-even analyse
-
-**Break-even = vaste kosten / bruto marge per user**
+## 8. Break-even
 
 ```
-Break-even = €90 / €18,49 ≈ 5 betalende gebruikers
+Break-even = €90 / €23,03 ≈ 4 betalende gebruikers
 ```
 
-Vanaf 5 gebruikers dekt dGENIX de infrastructuurkosten. Elke gebruiker daarna is nettoprofit.
+Vanaf **4 gebruikers** is dGENIX winstgevend.
 
 ---
 
-## 8. Doelstelling — 60% marge halen
-
-### Wanneer halen we 60%+ netto marge?
-
-Boven ~100 betalende gebruikers stabiliseert de netto marge op ~57–59%. Met de juiste plan-mix (meer Growth/Pro) is 60%+ haalbaar.
-
-**Scenario: 100 users, mix verschuift naar 40% Starter / 40% Growth / 20% Pro:**
-
-```
-Gem. omzet/user   = 0,40 × €19 + 0,40 × €39 + 0,20 × €79 = €7,60 + €15,60 + €15,80 = €39,00
-Gem. API kost     = 0,40 × €6,85 + 0,40 × €14,94 + 0,20 × €29,88 = €2,74 + €5,98 + €5,98 = €14,70
-Stripe (3%)       = €39,00 × 0,03 = €1,17
-Bruto per user    = €39,00 - €14,70 - €1,17 = €23,13
-
-Netto (100 users) = €2.313 - €90 = €2.223 → marge 57%
-```
-
-> Add-on skills verhogen de marge verder zonder extra API-kosten voor eenvoudige taken.
-
----
-
-## 9. Risico's & buffers
+## 9. Risico's
 
 | Risico | Impact | Mitigatie |
 |---|---|---|
-| 100% kredietbenutting | Marge daalt naar ~45% | Acceptabel — users bijkopen dan credits (extra marge) |
-| Sonnet gebruik stijgt boven 30% | API kosten stijgen ~2× | Monitor via taaklog — eventueel Sonnet-taken duurder maken |
-| Wisselkoers USD/EUR verslechtert | Hogere API kosten | Build in bij volgende prijsronde |
-| Gebruikersstop vroegtijdig | Lager dan 70% benutting | Marge stijgt juist — voordeel voor dGENIX |
+| 100% kredietbenutting | Marge daalt naar 59–69% | Zware users kopen packs bij (packs hebben 77-80% marge). |
+| Sonnet-gebruik >70% | API-kosten hoger | Monitor via `usage_logs`. Eventueel markup naar 4x. |
+| USD/EUR verslechtert | Hogere API-kosten in euro | Redelijke buffer in 3x markup. Bij >15% verslechtering: markup naar 4x. |
+| Anthropic prijswijziging | Directe impact op marge | `CREDIT_MARKUP` in `router.ts` aanpassen + `berekenCredits` bijwerken. |
 
 ---
 
-*dGENIX — Intern | Unit Economics v1.0 — april 2026*
+*dGENIX — Intern | Unit Economics v4.0 — april 2026 | CREDIT_MARKUP = 3 | Mix: 30% Haiku / 70% Sonnet*

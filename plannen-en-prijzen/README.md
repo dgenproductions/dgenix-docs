@@ -11,7 +11,7 @@ dGENIX heeft 3 plannen. Geen contracten, geen verborgen kosten. Altijd opzegbaar
 Voor wie wil beginnen met één AI-werknemer.
 
 - 1 AI-werknemer via Telegram
-- **75.000 credits per maand** (~470 taken)
+- **88.000 credits per maand** (~900 berichten)
 - Gmail, Google Calendar & Google Drive
 - E-mails samenvatten en concepten opstellen
 - Agenda beheren en afspraken inplannen
@@ -26,7 +26,7 @@ Voor wie wil beginnen met één AI-werknemer.
 Voor wie dagelijks taken automatiseert en meer volume nodig heeft.
 
 - Alles van Starter
-- **200.000 credits per maand** (~1.250 taken)
+- **212.000 credits per maand** (~2.150 berichten)
 - **Projecten** — organiseer je werk in aparte projecten
 - **Kennisbank** — upload bestanden die je assistent als context gebruikt
 - Prioriteitsverwerking
@@ -39,7 +39,7 @@ Voor wie dagelijks taken automatiseert en meer volume nodig heeft.
 Voor wie maximale capaciteit en geavanceerde workflows wil.
 
 - Alles van Growth
-- **500.000 credits per maand** (~3.125 taken)
+- **495.000 credits per maand** (~5.050 berichten)
 - Vroeg toegang tot nieuwe skills en features
 - Dedicated support
 
@@ -49,8 +49,8 @@ Voor wie maximale capaciteit en geavanceerde workflows wil.
 
 | Functie | Starter | Growth | Pro |
 |---|:---:|:---:|:---:|
-| Credits per maand | 75.000 | 200.000 | 500.000 |
-| ~Taken per maand | ~470 | ~1.250 | ~3.125 |
+| Credits per maand | 88.000 | 212.000 | 495.000 |
+| ~Berichten per maand | ~900 | ~2.150 | ~5.050 |
 | AI-assistent via Telegram | ✓ | ✓ | ✓ |
 | Gmail, Calendar & Drive | ✓ | ✓ | ✓ |
 | Taken & herinneringen | ✓ | ✓ | ✓ |

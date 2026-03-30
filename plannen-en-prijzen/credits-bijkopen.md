@@ -8,9 +8,9 @@ Zit je maandlimiet vol maar wil je verder? Koop een eenmalige credit pack — di
 
 | Pack | Credits | Prijs | ~Taken |
 |---|---|---|---|
-| Small | 15.000 credits | €7 | ~95 taken |
-| Medium | 40.000 credits | €18 | ~250 taken |
-| Large | 100.000 credits | €45 | ~625 taken |
+| Small | 25.000 credits | €9 ex BTW | ~255 taken |
+| Medium | 60.000 credits | €20 ex BTW | ~612 taken |
+| Large | 150.000 credits | €45 ex BTW | ~1.530 taken |
 
 Credits worden direct na betaling bijgeschreven op je account.
 

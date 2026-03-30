@@ -20,9 +20,9 @@ Credits zijn gebaseerd op tokenverbruik van het AI-model. Een gemiddelde opdrach
 
 | Plan | Credits/maand | ~Taken |
 |---|---|---|
-| Starter | 55.000 | ~345 |
-| Growth | 120.000 | ~750 |
-| Pro | 240.000 | ~1.500 |
+| Starter | 88.000 | ~900 |
+| Growth | 212.000 | ~2.150 |
+| Pro | 495.000 | ~5.050 |
 
 Credits worden elke maand automatisch aangevuld op je verlengingsdatum.
 
