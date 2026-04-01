@@ -6,11 +6,11 @@ Zit je maandlimiet vol maar wil je verder? Koop een eenmalige credit pack — di
 
 ## Beschikbare packs
 
-| Pack | Credits | Prijs | ~Taken |
-|---|---|---|---|
-| Small | 25.000 credits | €9 ex BTW | ~255 taken |
-| Medium | 60.000 credits | €20 ex BTW | ~612 taken |
-| Large | 150.000 credits | €45 ex BTW | ~1.530 taken |
+| Pack | Credits | Prijs | ~Taken | Waarvoor |
+|---|---|---|---|---|
+| Small | 25.000 credits | €9 ex BTW | ~255 taken | bijv. een week e-mails + agenda |
+| Medium | 60.000 credits | €20 ex BTW | ~612 taken | bijv. een maand full gebruik |
+| Large | 150.000 credits | €45 ex BTW | ~1.530 taken | bijv. kwartaal extra capaciteit |
 
 Credits worden direct na betaling bijgeschreven op je account.
 

@@ -1,6 +1,6 @@
 # Het creditsysteem
 
-dGENIX werkt met credits. Elke taak die je AI-werknemer uitvoert, verbruikt credits.
+dGENIX werkt met credits. Elke taak die je AI Operator uitvoert, verbruikt credits.
 
 ---
 
@@ -12,7 +12,7 @@ Credits zijn de munteenheid van dGENIX. Ze worden verbruikt wanneer je assistent
 - Data ophaalt en verwerkt (leads, e-mails, onderzoeksresultaten)
 - Een skill uitvoert (bijv. Gmail lezen, documenten verwerken)
 
-Credits zijn gebaseerd op tokenverbruik van het AI-model. Een gemiddelde opdracht kost ~160 credits (Haiku) tot ~600 credits (Sonnet).
+Credits zijn de rekeneenheid voor je AI Operator. 1 credit = 10 tokens. Een gemiddelde taak kost ~100 credits.
 
 ---
 
@@ -32,16 +32,18 @@ Credits worden elke maand automatisch aangevuld op je verlengingsdatum.
 
 ## Wat kost een taak?
 
-De creditkosten hangen af van de complexiteit van de opdracht:
+| Taak | ~Credits | Tijdsbesparing |
+|---|---|---|
+| E-mail lezen (inbox) | ~25 cr | ~10 min |
+| E-mail versturen | ~35 cr | ~5 min |
+| Afspraak plannen | ~28 cr | ~5 min |
+| Agenda bekijken | ~22 cr | ~3 min |
+| Bestand zoeken in Drive | ~22 cr | ~5 min |
+| AI-chatgesprek | ~20 cr | ~5 min |
+| Social media post | ~35 cr | ~7 min |
+| Lead zoeken via Maps | ~40 cr | ~10 min |
 
-| Type taak | ~Credits |
-|---|---|
-| Korte vraag beantwoorden | 80–200 |
-| E-mail samenvatten | 100–300 |
-| Conceptantwoord schrijven | 150–400 |
-| 10 leads zoeken en scoren | 500–1.500 |
-| Diepgaand onderzoek (3–5 bronnen) | 500–2.000 |
-| Complexe multi-stap opdracht | 1.000–5.000 |
+Een typische gebruiker besteedt 50–150 credits per actieve werkdag. Met het Starter-plan (88.000 cr/mnd) heb je ruimte voor ~900 taken.
 
 ---
 
