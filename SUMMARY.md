@@ -16,6 +16,7 @@
 
 ## Functies
 
+* [Dashboard](functies/dashboard.md)
 * [Projecten](functies/projecten.md)
 * [Kennisbank](functies/kennisbank.md)
 
