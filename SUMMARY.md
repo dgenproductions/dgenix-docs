@@ -22,6 +22,9 @@
 ## Skills
 
 * [Skills marketplace](skills/README.md)
+* [Lead Scout](skills/lead-scout.md)
+* [Social Media Manager](skills/social-media.md)
+* [Dagplanner & Life Assistant](skills/dagplanner.md)
 
 ## Plannen & Prijzen
 
@@ -33,6 +36,7 @@
 * [Gmail koppelen](integraties/gmail.md)
 * [Google Calendar koppelen](integraties/google-calendar.md)
 * [Google Drive koppelen](integraties/google-drive.md)
+* [Google Sheets koppelen](integraties/google-sheets.md)
 
 ## Overig
 
