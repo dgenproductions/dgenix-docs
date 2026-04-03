@@ -1,29 +1,32 @@
 # dGENIX — Documentatie
 
-Welkom bij de officiële documentatie van **dGENIX** — het platform dat je in 5 minuten een werkende AI-werknemer geeft via Telegram.
+Welkom bij de officiële documentatie van **dGENIX** — het platform dat je een persoonlijke AI-assistent geeft met een modulaire skills marketplace.
 
 ---
 
 ## Wat is dGENIX?
 
-dGENIX geeft je een persoonlijke AI-werknemer die echte taken uitvoert:
+dGENIX geeft je een persoonlijke AI-assistent die echte taken uitvoert. Je stelt hem in via het dashboard op [app.dgenix.com](https://app.dgenix.com) en stuurt opdrachten via het dashboard én via Telegram:
 
-- **E-mails beheren** — leest je Gmail, categoriseert en schrijft conceptantwoorden
-- **Agenda beheren** — plant afspraken in en beheert je Google Calendar
-- **Onderzoek doen** — zoekt informatie op, vergelijkt opties en levert een samenvatting
-- **Taken & herinneringen** — voert opdrachten uit en houdt je op de hoogte via Telegram
+- **E-mails beheren** — Gmail lezen, categoriseren en antwoorden schrijven
+- **Agenda beheren** — afspraken inplannen en Google Calendar beheren
+- **Bestanden** — bestanden zoeken en aanmaken via Google Drive
+- **Leads genereren** — bedrijven zoeken op locatie en branche (Lead Scout)
+- **Content schrijven** — social media posts, blogs en teksten op maat
+- **Taken plannen** — geplande en terugkerende opdrachten instellen
 
-Je communiceert via **Telegram** — geen aparte app, geen nieuw dashboard. Je AI-werknemer is bereikbaar waar je al werkt.
+Je bereikt je assistent via **het dashboard** en via **Telegram** — je kiest zelf waar je werkt.
 
 ---
 
 ## Hoe werkt het?
 
 1. **Maak een account** op [app.dgenix.com](https://app.dgenix.com)
-2. **Koppel Telegram** — in 30 seconden
-3. **Geef je assistent een naam** — zodat hij zich persoonlijk introduceert
-4. **Activeer je assistent** — één klik, en hij staat klaar
-5. **Stuur je eerste opdracht** — via Telegram, direct resultaat
+2. **Stel je assistent in** — geef hem een naam en persoonlijkheid
+3. **Koppel Telegram** — voor toegang onderweg
+4. **Verbind je tools** — Gmail, Google Calendar, Google Drive
+5. **Activeer skills** — kies wat je assistent kan via de Skills Marketplace
+6. **Ga aan de slag** — via dashboard of Telegram, direct resultaat
 
 Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
 
@@ -32,20 +35,21 @@ Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
 ## Wat vind je hier?
 
 | Sectie | Inhoud |
-|---|---|
+| --- | --- |
 | [Aan de slag](aan-de-slag/README.md) | Account aanmaken, Telegram koppelen, assistent activeren |
 | [Hoe het werkt](hoe-het-werkt/README.md) | Wat de AI doet, hoe credits werken |
-| [Skills](skills/README.md) | Extra mogelijkheden toevoegen aan je assistent |
+| [Functies](functies/dashboard.md) | Dashboard, projecten, bestanden, taken |
+| [Skills](skills/README.md) | Skills marketplace — Gmail, Calendar, Drive, Lead Scout en meer |
 | [Plannen & Prijzen](plannen-en-prijzen/README.md) | Overzicht plannen, credits bijkopen |
-| [Integraties](integraties/gmail.md) | Gmail, Google Calendar en Google Drive koppelen |
+| [Integraties](integraties/gmail.md) | Gmail, Google Calendar, Google Drive en Google Sheets koppelen |
 | [Veelgestelde vragen](faq.md) | Snelle antwoorden op veelgestelde vragen |
 
 ---
 
 ## Hulp nodig?
 
-Stuur een bericht naar [info@dgenproductions.nl](mailto:info@dgenproductions.nl) of gebruik het contactformulier op [dgenix.com](https://dgenix.com).
+Stuur een bericht naar [info@dgenproductions.nl](mailto:info@dgenproductions.nl) of gebruik het contactformulier op [dgenix.com/contact](https://dgenix.com/contact).
 
 ---
 
-*dGENIX is een product van [dGEN Productions](https://dgenproductions.nl) — Nederlandse AI-automatiseringsspecialist.*
+*dGENIX is een product van [dGEN Productions](https://dgenproductions.nl) en [Ro-tech Development](https://ro-tech.nl).*

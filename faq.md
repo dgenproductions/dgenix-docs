@@ -5,66 +5,77 @@
 ## Algemeen
 
 **Wat is dGENIX?**
-dGENIX geeft je een persoonlijke AI-werknemer via Telegram. Hij beheert je inbox, beheert je agenda, doet onderzoek en voert taken uit — terwijl jij je richt op wat er echt toe doet.
+dGENIX geeft je een persoonlijke AI-assistent met een modulaire skills marketplace. Je stelt hem in via het dashboard op app.dgenix.com en stuurt opdrachten via het dashboard én via Telegram. Hij beheert je inbox, beheert je agenda, zoekt leads en schrijft content — terwijl jij je richt op wat er echt toe doet.
 
 **Heb ik technische kennis nodig?**
-Nee. Je hebt alleen een Telegram-account nodig. De instelling duurt gemiddeld 5 minuten.
+Nee. De instelling duurt gemiddeld 5 minuten. Geen installatie, geen code.
 
 **Kan ik mijn assistent een naam geven?**
-Ja. Tijdens de activatie kies je een naam voor je assistent. Die naam gebruikt hij om zich voor te stellen in Telegram, en is zichtbaar in je dashboard. Je kunt de naam later aanpassen via Instellingen.
+Ja. Tijdens de onboarding kies je een naam voor je assistent. Die naam gebruikt hij om zich voor te stellen, en is zichtbaar in je dashboard. Je kunt de naam later aanpassen via **Instellingen → Mijn Assistent**.
 
 **Op welke apparaten werkt dGENIX?**
-Je communiceert via Telegram — beschikbaar op Android, iPhone, Windows, Mac en via de browser. Het dashboard (app.dgenix.com) werkt op elke browser.
+Het dashboard ([app.dgenix.com](https://app.dgenix.com)) werkt op elke browser. Via Telegram is je assistent bereikbaar op Android, iPhone, Windows, Mac en in de browser.
+
+**Wie heeft dGENIX gemaakt?**
+dGENIX is ontwikkeld door [dGEN Productions](https://dgenproductions.nl) (Mike Beerens) en [Ro-tech Development](https://ro-tech.nl) (Bart van Rooij).
 
 ---
 
 ## Wat kan mijn assistent doen?
 
 **Welke taken kan mijn assistent uitvoeren?**
-Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), bestanden ophalen (Google Drive), onderzoek doen, vragen beantwoorden, taken bijhouden en je herinneren aan afspraken. Alles via Telegram.
+Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), bestanden ophalen en aanmaken (Google Drive), leads zoeken (Lead Scout), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Alles via het dashboard of Telegram.
 
 **Onthoudt mijn assistent wat ik eerder heb gedaan?**
-Ja. Je assistent heeft geheugen binnen een gesprek en kan terugverwijzen naar eerder gegeven opdrachten. Met de **Projecten** feature (Growth+) sla je opdrachten, resultaten en context op per project — ook over meerdere sessies.
+Ja. Je assistent heeft geheugen binnen een gesprek. Via **Instellingen → Geheugen** sla je langetermijncontext op die hij altijd gebruikt.
 
-**Wat is de Kennisbank?**
-Met de Kennisbank (Growth+) upload je bestanden — zoals bedrijfsdocumenten, productteksten of instructies — die je assistent als achtergrondkennis gebruikt. Zo weet hij wie je bent, wat je verkoopt en hoe hij moet reageren, zonder dat je dit elke keer opnieuw hoeft uit te leggen.
-
-**Wat zijn Projecten?**
-Projecten (Growth+) laten je opdrachten en resultaten groeperen. Je maakt een project aan voor een klant, een campagne of een terugkerende taak — en je assistent werkt altijd in de juiste context.
+**Wat zijn geplande taken?**
+Via **Dashboard → Taken** stel je terugkerende opdrachten in met een vast schema (dagelijks, werkdagen, wekelijks, maandelijks). Je assistent voert ze automatisch uit. Beschikbaar op Growth (3 taken) en Pro (10 taken).
 
 **Stuurt mijn assistent ook e-mails?**
-Hij schrijft conceptantwoorden klaar. Je bevestigt ze in Telegram voor ze verstuurd worden. Je assistent verstuurt nooit zelfstandig e-mails zonder jouw goedkeuring.
+Hij schrijft conceptantwoorden klaar. Je bevestigt ze voor ze verstuurd worden. Je assistent verstuurt nooit zelfstandig e-mails zonder jouw goedkeuring.
 
 ---
 
 ## Integraties
 
 **Welke tools kan ik koppelen?**
-Gmail, Google Calendar en Google Drive. Beschikbaar bij alle plannen via **Dashboard → Instellingen → Integraties**.
+Gmail, Google Calendar, Google Drive en Google Sheets — via een veilige OAuth-koppeling. Beschikbaar bij alle plannen via **Dashboard → Instellingen → Integraties**.
 
 **Hoe werkt de Google-koppeling?**
-Via een veilige OAuth-verbinding — je logt in bij Google, geeft toestemming, en de koppeling is actief. dGENIX slaat geen wachtwoorden op.
+Je logt in bij Google, geeft toestemming, en de koppeling is actief. dGENIX slaat geen wachtwoorden op. De verbinding loopt via [Nango](https://nango.dev) — een beveiligde OAuth-proxy.
 
 **Kan ik mijn eigen Telegram bot gebruiken?**
-Ja, met de **Eigen Bot** skill. Je eigen bot heeft je eigen naam en profielfoto. Beschikbaar voor alle plannen als add-on.
+Ja, met de **Eigen Bot** add-on (€2,99/mnd). Je eigen bot heeft je eigen naam en profielfoto. Beschikbaar voor alle plannen via **Dashboard → Skills**.
 
-→ [Eigen Bot skill](skills/README.md)
+---
+
+## Skills
+
+**Wat zijn skills?**
+Skills zijn modulaire vaardigheden die je aan je assistent toevoegt via de Skills Marketplace. Persoonlijke skills (Gmail, Calendar, Drive, Dagplanner) zijn inbegrepen bij elk plan. Zakelijke skills (Lead Scout, Social Media Manager) zijn beschikbaar als add-on.
+
+**Hoe activeer ik een skill?**
+Ga naar **Dashboard → Skills**, klik op "Activeer" bij de gewenste skill en volg de betaalstappen via Stripe.
+
+**Kan ik een skill weer deactiveren?**
+Ja. Ga naar **Dashboard → Skills** en klik op "Verwijder". De skill blijft actief tot het einde van de lopende betaalperiode.
 
 ---
 
 ## Credits & Gebruik
 
 **Wat zijn credits?**
-Credits zijn de munteenheid van dGENIX. Elke taak die je AI-werknemer uitvoert verbruikt credits. 1 credit ≈ 10 tokens. Een gemiddelde opdracht kost ~160 credits.
+Credits zijn de rekeneenheid van dGENIX. Elke taak die je assistent uitvoert verbruikt credits. Een gemiddelde opdracht kost ~160 credits. Je verbruik zie je real-time in **Dashboard → Gebruik**.
 
 **Hoeveel credits heb ik nodig?**
-Dat hangt af van je gebruik. Indicatie: een dagelijkse opdracht (bijv. inbox opruimen) kost 200–500 credits. Een afspraak inplannen kost 150–400. Het Starter plan (~470 taken) is voldoende voor licht gebruik.
+Richtlijn: een dagelijkse opdracht (inbox opruimen) kost 200–500 credits. Een afspraak inplannen ~150. Het Starter plan (~900 taken/mnd) is voldoende voor licht gebruik.
 
 **Rollen credits over naar de volgende maand?**
-Nee. Maandelijkse credits verlopen aan het einde van je betaalperiode. Bijgekochte credit packs verlopen niet.
+Maandelijkse credits vervallen aan het einde van je betaalperiode. Bijgekochte credit packs vervallen niet.
 
 **Wat gebeurt er als mijn credits op zijn?**
-Je assistent stopt automatisch met nieuwe taken. Je ontvangt een melding in Telegram. Je kunt credits bijkopen of wachten op je verlenging.
+Je assistent stopt automatisch met nieuwe taken. Je ontvangt een melding. Je kunt credits bijkopen of wachten op je verlenging.
 
 → [Credits bijkopen](plannen-en-prijzen/credits-bijkopen.md)
 
@@ -73,16 +84,16 @@ Je assistent stopt automatisch met nieuwe taken. Je ontvangt een melding in Tele
 ## Facturatie & Abonnement
 
 **Hoe wordt er betaald?**
-Via Stripe. Je kunt betalen met creditcard of betaalkaart. Betaling gaat maandelijks automatisch.
+Via Stripe. Creditcard of betaalkaart. Maandelijks of jaarlijks (−20% korting).
 
 **Kan ik opzeggen wanneer ik wil?**
-Ja. Ga naar Dashboard → Billing → "Beheer abonnement". Je houdt toegang tot het einde van de lopende periode.
+Ja. Ga naar **Dashboard → Billing → "Beheer abonnement"**. Je houdt toegang tot het einde van de lopende periode.
 
 **Worden er kosten terugbetaald bij opzegging?**
 Nee. Je behoudt toegang tot het einde van je betaalde periode, maar betaalde bedragen worden niet teruggestort.
 
 **Kan ik van plan wisselen?**
-Ja. Upgraden en downgraden kan op elk moment via Dashboard → Billing. Wijzigingen gaan in per volgende verlengingsdatum.
+Ja. Upgraden en downgraden kan op elk moment via **Dashboard → Billing**. Wijzigingen gaan in per volgende verlengingsdatum.
 
 **Zijn er installatiekosten?**
 Nee. Geen opzetkosten, geen contracten.
@@ -92,10 +103,10 @@ Nee. Geen opzetkosten, geen contracten.
 ## Privacy & Beveiliging
 
 **Wie heeft toegang tot mijn e-mails?**
-Alleen jouw AI-assistent leest je e-mails — om taken uit te voeren die jij opdraagt. dGEN Productions gebruikt je e-mailinhoud niet voor andere doeleinden.
+Alleen jouw AI-assistent leest je e-mails — om taken uit te voeren die jij opdraagt. dGENIX gebruikt je e-mailinhoud niet voor andere doeleinden.
 
 **Hoe lang worden mijn gegevens bewaard?**
-Accountgegevens worden 30 dagen na verwijdering bewaard. Factuurdata 7 jaar (wettelijk verplicht). Logs maximaal 90 dagen. Zie ook het [privacybeleid](https://dgenix.com/privacy).
+Accountgegevens worden 30 dagen na verwijdering bewaard. Factuurdata 7 jaar (wettelijk verplicht). Logs maximaal 90 dagen. Zie het [privacybeleid](https://dgenix.com/privacy).
 
 **Is dGENIX AVG/GDPR-conform?**
 Ja. dGENIX valt onder Nederlands recht. Zie [dgenix.com/privacy](https://dgenix.com/privacy) voor het volledige beleid.
@@ -105,10 +116,10 @@ Ja. dGENIX valt onder Nederlands recht. Zie [dgenix.com/privacy](https://dgenix.
 ## Problemen & Support
 
 **Mijn assistent reageert niet.**
-Controleer of je Telegram-koppeling actief is via Dashboard → Instellingen → Integraties. Controleer ook je creditsaldo.
+Controleer of je Telegram-koppeling actief is via **Dashboard → Instellingen → Integraties**. Controleer ook je creditsaldo via **Dashboard → Gebruik**.
 
 **Ik ontvang geen welkomstbericht.**
-Zorg dat je Telegram de bot hebt opgestart (`/start` gestuurd naar @dGENIXbot) en probeer de activatie opnieuw via Dashboard.
+Zorg dat je @dGENIXbot in Telegram hebt opgestart (`/start` gestuurd) en probeer de activatie opnieuw via het dashboard.
 
 **Ik heb een andere vraag.**
 Stuur een e-mail naar [info@dgenproductions.nl](mailto:info@dgenproductions.nl) of gebruik het contactformulier op [dgenix.com/contact](https://dgenix.com/contact).

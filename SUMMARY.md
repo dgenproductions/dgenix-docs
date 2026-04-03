@@ -11,7 +11,7 @@
 
 ## Hoe het werkt
 
-* [Wat doet je AI-werknemer?](hoe-het-werkt/README.md)
+* [Wat doet je AI-assistent?](hoe-het-werkt/README.md)
 * [Het creditsysteem](hoe-het-werkt/credits.md)
 
 ## Functies
