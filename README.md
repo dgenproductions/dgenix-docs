@@ -6,14 +6,19 @@ Welkom bij de officiële documentatie van **dGENIX** — het platform dat je een
 
 ## Wat is dGENIX?
 
-dGENIX geeft je een persoonlijke AI-assistent die echte taken uitvoert. Je stelt hem in via het dashboard op [app.dgenix.com](https://app.dgenix.com) en stuurt opdrachten via het dashboard én via Telegram:
+dGENIX geeft je een persoonlijke AI-assistent met echt geheugen — klaar voor alles. Je stelt hem in via het dashboard op [app.dgenix.com](https://app.dgenix.com) en stuurt opdrachten via het dashboard én via Telegram:
 
+- **Short video clips maken** — stuur een YouTube URL, hij maakt de clip. Inbegrepen bij elk plan *(BASE skill)*
 - **E-mails beheren** — Gmail lezen, categoriseren en antwoorden schrijven
 - **Agenda beheren** — afspraken inplannen en Google Calendar beheren
 - **Bestanden** — bestanden zoeken en aanmaken via Google Drive
 - **Leads genereren** — bedrijven zoeken op locatie en branche (Lead Scout)
 - **Content schrijven** — social media posts, blogs en teksten op maat
 - **Taken plannen** — geplande en terugkerende opdrachten instellen
+
+Je assistent onthoudt wat je eerder hebt besproken en leert van jouw voorkeuren. Skills stapelen = workflows = volledig geautomatiseerde bedrijfsprocessen.
+
+Ontbreekt er een skill? Dien een aanvraag in via [dgenix.com/contact](https://dgenix.com/contact?type=skill-aanvraag) — dGENIX bouwt hem en voegt hem toe aan de marketplace.
 
 Je bereikt je assistent via **het dashboard** en via **Telegram** — je kiest zelf waar je werkt.
 
@@ -25,7 +30,7 @@ Je bereikt je assistent via **het dashboard** en via **Telegram** — je kiest z
 2. **Stel je assistent in** — geef hem een naam en persoonlijkheid
 3. **Koppel Telegram** — voor toegang onderweg
 4. **Verbind je tools** — Gmail, Google Calendar, Google Drive
-5. **Activeer skills** — kies wat je assistent kan via de Skills Marketplace
+5. **Activeer skills** — kies wat je assistent kan via de Skills Marketplace. De Short Video Generator is al inbegrepen
 6. **Ga aan de slag** — via dashboard of Telegram, direct resultaat
 
 Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
