@@ -12,8 +12,11 @@ Voor wie wil beginnen met AI-automatisering.
 
 - AI-assistent via dashboard + Telegram
 - **88.000 credits per maand** (~900 taken)
+- Eigen geheugen
 - Gmail, Google Calendar & Google Drive (inbegrepen)
-- Dagplanner & Life Assistant (inbegrepen)
+- Taken, reminders & dagplanning
+- Short Video Generator (BASE skill — inbegrepen)
+- 1 Workflow Automation slot
 - E-mail support
 
 ---
@@ -24,9 +27,12 @@ Voor wie dagelijks taken automatiseert en zakelijke skills nodig heeft.
 
 - Alles van Starter
 - **212.000 credits per maand** (~2.150 taken)
-- Social Media Manager (zakelijke skill)
-- Bestanden-dashboard
-- **3 geplande taken**
+- Eigen Telegram-bot (jouw naam & handle)
+- Zakelijke skills: Google Sheets & Social Media Manager
+- AI Beeldgeneratie
+- **5 Workflow Automations slots**
+- Prioriteitsverwerking
+- Extra slot packs bijkopen
 - Prioriteit support
 
 ---
@@ -37,10 +43,10 @@ Voor wie maximale capaciteit en enterprise-functionaliteit wil.
 
 - Alles van Growth
 - **495.000 credits per maand** (~5.050 taken)
-- **10 geplande taken**
+- **10 Workflow Automations slots**
 - Enterprise skills (vroeg toegang)
 - Vroeg toegang tot nieuwe features
-- Dedicated support
+- Prioriteit support
 
 ---
 
@@ -50,9 +56,10 @@ Voor teams en organisaties met specifieke behoeften.
 
 - Alles van Pro
 - Aangepast creditvolume
-- Meerdere AI-assistenten
-- White label optie
-- SLA en dedicated onboarding
+- White label & eigen branding
+- Custom workflows op maat
+- Team assistent (meerdere gebruikers)
+- Dedicated onboarding & support
 
 → [Neem contact op](https://dgenix.com/contact?plan=custom)
 
@@ -78,20 +85,24 @@ Stel de jaarlijkse facturatie in via **Dashboard → Billing**.
 | --- | :---: | :---: | :---: | :---: |
 | Credits per maand | 88.000 | 212.000 | 495.000 | Custom |
 | ~Taken per maand | ~900 | ~2.150 | ~5.050 | Onbeperkt |
-| Dashboard + Telegram | ✓ | ✓ | ✓ | ✓ |
+| AI Assistent via app + Telegram | ✓ | ✓ | ✓ | ✓ |
+| Eigen geheugen | ✓ | ✓ | ✓ | ✓ |
 | Gmail, Calendar & Drive | ✓ | ✓ | ✓ | ✓ |
-| Dagplanner | ✓ | ✓ | ✓ | ✓ |
-| Social Media Manager | — | ✓ | ✓ | ✓ |
-| Bestanden-dashboard | ✓ | ✓ | ✓ | ✓ |
-| Geplande taken | — | 3 | 10 | ∞ |
-| Credits bijkopen | ✓ | ✓ | ✓ | ✓ |
+| Taken, reminders & dagplanning | ✓ | ✓ | ✓ | ✓ |
+| Short Video Generator (BASE) | ✓ | ✓ | ✓ | ✓ |
+| Eigen Telegram-bot | — | ✓ | ✓ | ✓ |
+| Zakelijke skills (Sheets, Social Media) | — | ✓ | ✓ | ✓ |
+| AI Beeldgeneratie | — | ✓ | ✓ | ✓ |
+| Prioriteitsverwerking | — | ✓ | ✓ | ✓ |
+| Workflow Automations slots | 1 | 5 | 10 | Custom |
+| Extra slot packs bijkopen | — | ✓ | ✓ | ✓ |
 | Enterprise skills | — | — | ✓ | ✓ |
-| White label | — | — | — | ✓ |
-| E-mail support | ✓ | ✓ | ✓ | ✓ |
+| Vroeg toegang nieuwe skills | — | — | ✓ | ✓ |
 | Prioriteit support | — | ✓ | ✓ | ✓ |
-| Dedicated support | — | — | ✓ | ✓ |
-
-> **Eigen Telegram Bot** is een optionele add-on (€2,99/mnd) beschikbaar voor alle plannen via **Dashboard → Skills**.
+| White label & branding | — | — | — | ✓ |
+| Team assistent | — | — | — | ✓ |
+| Dedicated onboarding | — | — | — | ✓ |
+| Custom workflows | — | — | — | ✓ |
 
 ---
 

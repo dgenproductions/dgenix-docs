@@ -1,6 +1,6 @@
 # AI Beeldgeneratie
 
-Genereer en bewerk afbeeldingen direct vanuit Telegram of het dashboard. De skill gebruikt Google Imagen 4 en Gemini Flash — de snelste en meest kostenefficiënte modellen voor AI-beeldgeneratie.
+Genereer en bewerk afbeeldingen direct vanuit Telegram of het dashboard. De skill gebruikt Google Imagen 4 (Fast/Standard/Ultra) en Gemini 3 Pro — de nieuwste Google AI modellen voor beeldgeneratie. Kies zelf het model op basis van snelheid, kwaliteit en budget.
 
 **Inbegrepen bij:** Growth, Pro, Custom
 
@@ -19,10 +19,11 @@ Genereer en bewerk afbeeldingen direct vanuit Telegram of het dashboard. De skil
 
 | Model | Intern | Kosten | Gebruik |
 |---|---|---|---|
-| **Gemini Flash** | `fast` | 250 credits | Social media posts, snelle iteraties, dagelijks gebruik |
+| **Imagen 4 Fast** | `fast` | 250 credits | Social media posts, snelle iteraties, dagelijks gebruik |
 | **Imagen 4 Standard** | `standard` | 500 credits | Professionele marketing, zakelijke assets |
-| **Imagen 4 Ultra** | `ultra` | 750 credits | Portfolio, printmateriaal, hoogste kwaliteit |
-| **Gemini Flash Edit** | `edit` | 500 credits | Bewerking van bestaande afbeelding (image-to-image) |
+| **Imagen 4 Ultra** | `ultra` | 750 credits | Portfolio, printmateriaal, scherpe Imagen kwaliteit |
+| **Gemini 3 Pro** | `pro` | 1.500 credits | Complexe composities, tekst in beeld, AI-redenering, maximale kwaliteit |
+| **Gemini 2.5 Flash** | `edit` | 500 credits | Bewerking van bestaande afbeelding (image-to-image) |
 
 Standaard gebruikt je assistent het **fast** model, tenzij je expliciet om hogere kwaliteit vraagt.
 
