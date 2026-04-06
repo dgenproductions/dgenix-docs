@@ -57,17 +57,19 @@ Geen extra koppeling nodig.
 
 ## Zakelijke skills — add-ons
 
-### Lead Scout
+### AI Beeldgeneratie
 
-Bedrijven zoeken op branche en locatie voor sales prospecting. Geeft een gestructureerde lijst met naam, adres, telefoon en website.
+Genereer en bewerk afbeeldingen direct vanuit Telegram of het dashboard. Gebruik Google Imagen 4 en Gemini Flash voor social media posts, marketing materiaal, portfolio-afbeeldingen en meer.
 
-**Voorbeeldopdrachten:**
-- "Zoek kappers in Eindhoven"
-- "Vind 10 restaurants in Amsterdam-centrum"
+**Wat kan je assistent?**
+- Afbeelding genereren op basis van een tekstbeschrijving
+- Bestaande afbeelding bewerken of transformeren (image-to-image)
+- Aspect ratio kiezen: 1:1, 9:16, 16:9, 4:3, 3:4
+- Modelkeuze: snel (250 credits) of hoge kwaliteit (500–750 credits)
 
-**API-kosten inbegrepen:** Google Maps is server-side inbegrepen in de skill-prijs — geen aparte koppeling nodig.
+**Inbegrepen bij:** Growth, Pro, Custom
 
-→ [Lead Scout gebruiken](lead-scout.md)
+→ [AI Beeldgeneratie gebruiken](ai-beeldgeneratie.md)
 
 ### Social Media Manager
 

@@ -12,7 +12,6 @@ dGENIX geeft je een persoonlijke AI-assistent met echt geheugen — klaar voor a
 - **E-mails beheren** — Gmail lezen, categoriseren en antwoorden schrijven
 - **Agenda beheren** — afspraken inplannen en Google Calendar beheren
 - **Bestanden** — bestanden zoeken en aanmaken via Google Drive
-- **Leads genereren** — bedrijven zoeken op locatie en branche (Lead Scout)
 - **Content schrijven** — social media posts, blogs en teksten op maat
 - **Taken plannen** — geplande en terugkerende opdrachten instellen
 
@@ -44,7 +43,7 @@ Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
 | [Aan de slag](aan-de-slag/README.md) | Account aanmaken, Telegram koppelen, assistent activeren |
 | [Hoe het werkt](hoe-het-werkt/README.md) | Wat de AI doet, hoe credits werken |
 | [Functies](functies/dashboard.md) | Dashboard, projecten, bestanden, taken |
-| [Skills](skills/README.md) | Skills marketplace — Gmail, Calendar, Drive, Lead Scout en meer |
+| [Skills](skills/README.md) | Skills marketplace — Gmail, Calendar, Drive, Social Media en meer |
 | [Plannen & Prijzen](plannen-en-prijzen/README.md) | Overzicht plannen, credits bijkopen |
 | [Integraties](integraties/gmail.md) | Gmail, Google Calendar, Google Drive en Google Sheets koppelen |
 | [Veelgestelde vragen](faq.md) | Snelle antwoorden op veelgestelde vragen |

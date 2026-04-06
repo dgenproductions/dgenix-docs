@@ -24,7 +24,6 @@ Voor wie dagelijks taken automatiseert en zakelijke skills nodig heeft.
 
 - Alles van Starter
 - **212.000 credits per maand** (~2.150 taken)
-- Lead Scout (zakelijke skill)
 - Social Media Manager (zakelijke skill)
 - Bestanden-dashboard
 - **3 geplande taken**
@@ -82,7 +81,6 @@ Stel de jaarlijkse facturatie in via **Dashboard → Billing**.
 | Dashboard + Telegram | ✓ | ✓ | ✓ | ✓ |
 | Gmail, Calendar & Drive | ✓ | ✓ | ✓ | ✓ |
 | Dagplanner | ✓ | ✓ | ✓ | ✓ |
-| Lead Scout | — | ✓ | ✓ | ✓ |
 | Social Media Manager | — | ✓ | ✓ | ✓ |
 | Bestanden-dashboard | ✓ | ✓ | ✓ | ✓ |
 | Geplande taken | — | 3 | 10 | ∞ |

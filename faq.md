@@ -24,7 +24,7 @@ dGENIX is ontwikkeld door [dGEN Productions](https://dgenproductions.nl) (Mike B
 ## Wat kan mijn assistent doen?
 
 **Welke taken kan mijn assistent uitvoeren?**
-Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), bestanden ophalen en aanmaken (Google Drive), leads zoeken (Lead Scout), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Alles via het dashboard of Telegram.
+Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), bestanden ophalen en aanmaken (Google Drive), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Alles via het dashboard of Telegram.
 
 **Onthoudt mijn assistent wat ik eerder heb gedaan?**
 Ja. Je assistent heeft geheugen binnen een gesprek. Via **Instellingen → Geheugen** sla je langetermijncontext op die hij altijd gebruikt.
@@ -53,7 +53,7 @@ Ja, met de **Eigen Bot** add-on (€2,99/mnd). Je eigen bot heeft je eigen naam 
 ## Skills
 
 **Wat zijn skills?**
-Skills zijn modulaire vaardigheden die je aan je assistent toevoegt via de Skills Marketplace. Persoonlijke skills (Gmail, Calendar, Drive, Dagplanner) zijn inbegrepen bij elk plan. Zakelijke skills (Lead Scout, Social Media Manager) zijn beschikbaar als add-on.
+Skills zijn modulaire vaardigheden die je aan je assistent toevoegt via de Skills Marketplace. Persoonlijke skills (Gmail, Calendar, Drive, Dagplanner) zijn inbegrepen bij elk plan. Zakelijke skills (Social Media Manager) zijn beschikbaar als add-on.
 
 **Hoe activeer ik een skill?**
 Ga naar **Dashboard → Skills**, klik op "Activeer" bij de gewenste skill en volg de betaalstappen via Stripe.

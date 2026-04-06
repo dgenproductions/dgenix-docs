@@ -46,18 +46,6 @@ De assistent stelt een gestructureerde dagplanning op op basis van je beschrijvi
 
 ---
 
-### Lead Scout
-
-Zoek bedrijven op locatie en branche. De assistent haalt naam, adres, telefoonnummer en website op en zet de resultaten klaar als een gestructureerde lijst.
-
-**Voorbeeldopdrachten:**
-> *"Zoek 10 kappers in Eindhoven"*
-> *"Vind restaurants in Amsterdam-centrum met een telefoonnummer"*
-
-→ [Lead Scout gebruiken](../skills/lead-scout.md)
-
----
-
 ### Social Media Manager
 
 Posts schrijven voor LinkedIn, Instagram, X en Facebook — op basis van jouw input.
@@ -98,7 +86,6 @@ Elke taak verbruikt credits. Hoeveel hangt af van de complexiteit:
 | Afspraak inplannen | 28–150 cr |
 | Bestand zoeken in Drive | ~22 cr |
 | Social media post schrijven | ~35 cr |
-| Lead Scout zoekopdracht | ~40 cr |
 | AI-chatgesprek | ~20 cr |
 
 → [Meer over credits](credits.md)

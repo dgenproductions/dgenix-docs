@@ -23,7 +23,7 @@
 ## Skills
 
 * [Skills marketplace](skills/README.md)
-* [Lead Scout](skills/lead-scout.md)
+* [AI Beeldgeneratie](skills/ai-beeldgeneratie.md)
 * [Social Media Manager](skills/social-media.md)
 * [Dagplanner & Life Assistant](skills/dagplanner.md)
 
