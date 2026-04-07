@@ -17,9 +17,13 @@
 ## Functies
 
 * [Dashboard](functies/dashboard.md)
+* [AI Assistent (web chat)](functies/ai-assistent.md)
+* [Workflow Automations](functies/workflow-automations.md)
+* [Bestanden & Afbeeldingen](functies/bestanden.md)
 * [Projecten](functies/projecten.md)
 * [Kennisbank](functies/kennisbank.md)
 * [Geheugen](functies/geheugen.md)
+* [Instellingen](functies/instellingen.md)
 
 ## Skills
 
@@ -35,6 +39,7 @@
 
 ## Integraties
 
+* [Telegram verbinden](integraties/telegram.md)
 * [Gmail koppelen](integraties/gmail.md)
 * [Google Calendar koppelen](integraties/google-calendar.md)
 * [Google Drive koppelen](integraties/google-drive.md)
