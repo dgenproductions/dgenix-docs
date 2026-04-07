@@ -65,7 +65,7 @@ Genereer en bewerk afbeeldingen direct vanuit Telegram of het dashboard. Gebruik
 - Afbeelding genereren op basis van een tekstbeschrijving
 - Bestaande afbeelding bewerken of transformeren (image-to-image)
 - Aspect ratio kiezen: 1:1, 9:16, 16:9, 4:3, 3:4
-- Modelkeuze: snel (250 credits) of hoge kwaliteit (500–750 credits)
+- Modelkeuze: Imagen 4 Fast (250 cr) / Standard (500 cr) / Ultra (750 cr) / Gemini 2.5 Flash edit (500 cr) / Gemini 3 Pro (1.500 cr)
 
 **Inbegrepen bij:** Growth, Pro, Custom
 

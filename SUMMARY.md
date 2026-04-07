@@ -29,6 +29,7 @@
 
 * [Skills marketplace](skills/README.md)
 * [AI Beeldgeneratie](skills/ai-beeldgeneratie.md)
+* [Short Video Generator](skills/short-generator.md)
 * [Social Media Manager](skills/social-media.md)
 * [Dagplanner & Life Assistant](skills/dagplanner.md)
 
