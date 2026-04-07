@@ -19,6 +19,7 @@
 * [Dashboard](functies/dashboard.md)
 * [Projecten](functies/projecten.md)
 * [Kennisbank](functies/kennisbank.md)
+* [Geheugen](functies/geheugen.md)
 
 ## Skills
 
