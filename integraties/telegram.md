@@ -1,6 +1,6 @@
 # Telegram verbinden
 
-Telegram is het primaire communicatiekanaal van je dGENIX assistent.
+Telegram is een extra interface naast het dGENIX dashboard — beide kanalen zijn synchroon gekoppeld.
 
 ---
 
