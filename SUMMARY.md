@@ -24,6 +24,7 @@
 * [Kennisbank](functies/kennisbank.md)
 * [Geheugen](functies/geheugen.md)
 * [Instellingen](functies/instellingen.md)
+* [Vrienden uitnodigen](functies/vrienden-uitnodigen.md)
 
 ## Skills
 
