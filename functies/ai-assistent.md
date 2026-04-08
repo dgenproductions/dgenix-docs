@@ -54,9 +54,38 @@ Het kennisdocument wordt altijd automatisch meegeladen als context door de assis
 
 ---
 
-## Spraakberichten
+## Voice Chat — inspreken & terugluisteren
 
-Stuur spraakberichten via Telegram — de assistent transcribeert en verwerkt ze automatisch. In de web-app is een microfoonknop beschikbaar voor spraakinvoer.
+Klik op het **microfoon-icoon** rechts van het invoerveld. Je assistent luistert, transcribeert je vraag automatisch en geeft niet alleen een tekstantwoord — hij leest het ook hardop voor in de stem die jij hebt ingesteld.
+
+**Hoe het werkt:**
+
+1. Klik op 🎤 in het chatvenster — opname start direct
+2. Stel je vraag of geef een opdracht in
+3. Klik nogmaals om te stoppen
+4. Je assistent transcribeert → verwerkt → streamt tekstantwoord → speelt het als spraak af
+
+**Stemkeuze instellen:**
+Ga naar **Instellingen → Mijn Assistent → Stem voor spraakantwoord**. Kies uit 6 stemmen:
+
+| Stem | Karakter |
+| --- | --- |
+| Onyx | Diep & gezaghebbend *(standaard)* |
+| Alloy | Neutraal & vriendelijk |
+| Echo | Mannelijk, helder |
+| Fable | Warm, verhalend |
+| Nova | Vrouwelijk, levendig |
+| Shimmer | Zacht & vriendelijk |
+
+**Creditkosten Voice Chat:**
+
+| Actie | Credits |
+| --- | --- |
+| Vraag stellen via microfoon (AI-antwoord) | ~20–36 cr |
+| Spraakantwoord ~500 tekens | ~94 cr |
+| Spraakantwoord ~1.000 tekens | ~188 cr |
+
+Spraakberichten via Telegram worden ook verwerkt — de assistent transcribeert ze automatisch en reageert als tekst.
 
 ---
 
