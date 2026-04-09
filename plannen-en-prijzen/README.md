@@ -30,6 +30,7 @@ Voor wie dagelijks taken automatiseert en zakelijke skills nodig heeft.
 - Eigen Telegram-bot (jouw naam & handle)
 - Zakelijke skills: Google Sheets & Social Media Manager
 - AI Beeldgeneratie
+- **Projectmappen** met eigen instructies per klant of campagne
 - **5 Workflow Automations slots**
 - Prioriteitsverwerking
 - Extra slot packs bijkopen
@@ -90,6 +91,7 @@ Stel de jaarlijkse facturatie in via **Dashboard → Billing**.
 | Gmail, Calendar & Drive | ✓ | ✓ | ✓ | ✓ |
 | Taken, reminders & dagplanning | ✓ | ✓ | ✓ | ✓ |
 | Short Video Generator (BASE) | ✓ | ✓ | ✓ | ✓ |
+| Projectmappen met eigen instructies | — | ✓ | ✓ | ✓ |
 | Eigen Telegram-bot | — | ✓ | ✓ | ✓ |
 | Zakelijke skills (Sheets, Social Media) | — | ✓ | ✓ | ✓ |
 | AI Beeldgeneratie | — | ✓ | ✓ | ✓ |

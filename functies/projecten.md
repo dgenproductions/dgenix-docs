@@ -84,6 +84,17 @@ Combineer Projecten met de [Kennisbank](kennisbank.md) voor maximale context. Up
 
 ---
 
+## Typische use cases
+
+| Use case | Wat je in de projectinstructies zet |
+| --- | --- |
+| Klantwerk | Klantnaam, gewenste toon, merkrichtlijnen |
+| Content creatie | Platform (LinkedIn vs Instagram), doelgroep, stijlgids |
+| Sales campagne | Product, ICP, follow-up stijl, verboden onderwerpen |
+| Intern project | Teamafspraken, deadline, rapportageformat |
+
+---
+
 ## Projecten verwijderen
 
 Ga naar **Dashboard → Assistent → Projecten**, klik op het project en kies **"Verwijder"**. Alle history in dat project wordt permanent verwijderd.

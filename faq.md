@@ -43,7 +43,7 @@ Hij schrijft conceptantwoorden klaar. Je bevestigt ze voor ze verstuurd worden. 
 Gmail, Google Calendar, Google Drive en Google Sheets — via een veilige OAuth-koppeling. Beschikbaar bij alle plannen via **Dashboard → Instellingen → Integraties**.
 
 **Hoe werkt de Google-koppeling?**
-Je logt in bij Google, geeft toestemming, en de koppeling is actief. dGENIX slaat geen wachtwoorden op. De verbinding loopt via [Nango](https://nango.dev) — een beveiligde OAuth-proxy.
+Je logt in bij Google, geeft toestemming, en de koppeling is actief. dGENIX slaat geen wachtwoorden op. De verbinding verloopt via een beveiligde eigen OAuth-integratie.
 
 **Kan ik mijn eigen Telegram bot gebruiken?**
 Ja, met de **Eigen Bot** add-on (€2,99/mnd). Je eigen bot heeft je eigen naam en profielfoto. Beschikbaar voor alle plannen via **Dashboard → Skills**.

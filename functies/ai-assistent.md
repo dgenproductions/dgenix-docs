@@ -63,6 +63,8 @@ Als je een gesprek voert binnen een **projectmap**, combineert de assistent twee
 
 Stel projectinstructies in via het ⚙️ tandwieltje-icoon op een projectmap in de zijbalk. Gesprekken buiten een project gebruiken alleen het globale kennisdocument.
 
+**Resultaat:** een gesprek in project "Bakkerij De Krent" gebruikt automatisch formele toon en merkrichtlijnen — zonder dat je dat elke keer herhaalt.
+
 ---
 
 ## Voice Chat — inspreken & terugluisteren
