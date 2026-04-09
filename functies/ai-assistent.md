@@ -54,6 +54,17 @@ Het kennisdocument wordt altijd automatisch meegeladen als context door de assis
 
 ---
 
+## Context per project
+
+Als je een gesprek voert binnen een **projectmap**, combineert de assistent twee bronnen:
+
+1. **Globaal kennisdocument** — je persoonlijke info, werkwijze en voorkeuren (altijd aanwezig)
+2. **Projectinstructies** — de specifieke context van dat project (klant, toon, regels)
+
+Stel projectinstructies in via het ⚙️ tandwieltje-icoon op een projectmap in de zijbalk. Gesprekken buiten een project gebruiken alleen het globale kennisdocument.
+
+---
+
 ## Voice Chat — inspreken & terugluisteren
 
 Klik op het **microfoon-icoon** rechts van het invoerveld. Je assistent luistert, transcribeert je vraag automatisch en geeft niet alleen een tekstantwoord — hij leest het ook hardop voor in de stem die jij hebt ingesteld.

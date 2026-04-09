@@ -29,6 +29,42 @@ Alle gesprekken en taken in een project worden bewaard. Je kunt later terugkijke
 
 ---
 
+## Projectinstructies
+
+Elk project heeft zijn eigen instructies — extra context die de assistent automatisch meekrijgt bij elk gesprek in dat project.
+
+**Hoe instellen:**
+
+1. Hover over een project in de zijbalk
+2. Klik op het ⚙️ tandwieltje-icoon
+3. Typ je projectinstructies in het tekstveld
+4. Klik **Opslaan**
+
+**Wat zet je erin?**
+
+- Over welke klant of opdracht het project gaat
+- Gewenste toon (formeel / informeel / bondig)
+- Merkrichtlijnen of huisstijl
+- Specifieke werkwijze of regels voor dit project
+
+**Voorbeeld:**
+
+```text
+Dit project gaat over klant Bakkerij De Krent. Gebruik altijd formele toon.
+Vergeet nooit te noemen wat de volgende stap is na elke opdracht.
+Merkkleur: #c8a96e (goud). Doelgroep: horecaprofessionals in Amsterdam.
+```
+
+De projectinstructies worden **gecombineerd met je globale kennisdocument** — je persoonlijke info (naam, bedrijf, werkwijze) is altijd aanwezig, het project voegt daar de specifieke context bovenop.
+
+---
+
+## Gesprekken verplaatsen
+
+Sleep gesprekken in en uit projectmappen via drag & drop (desktop). Op mobiel gebruik je het "..." menu rechts van een gesprek → **Verplaats naar**.
+
+---
+
 ## Geheugen per project
 
 Je assistent onthoudt wat er in een project is gedaan:
