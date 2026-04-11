@@ -10,13 +10,14 @@ dGENIX heeft 4 plannen. Geen contracten, geen verborgen kosten. Altijd opzegbaar
 
 Voor wie wil beginnen met AI-automatisering.
 
-- AI-assistent via dashboard + Telegram
+- AI-assistent via dashboard
 - **88.000 credits per maand** (~900 taken)
 - Eigen geheugen
 - Gmail, Google Calendar & Google Drive (inbegrepen)
 - Taken, reminders & dagplanning
 - Short Video Generator (BASE skill — inbegrepen)
 - 1 Workflow Automation slot
+- Telegram add-on (gratis)
 - E-mail support
 
 ---
@@ -86,7 +87,8 @@ Stel de jaarlijkse facturatie in via **Dashboard → Billing**.
 | --- | :---: | :---: | :---: | :---: |
 | Credits per maand | 88.000 | 212.000 | 495.000 | Custom |
 | ~Taken per maand | ~900 | ~2.150 | ~5.050 | Onbeperkt |
-| AI Assistent via app + Telegram | ✓ | ✓ | ✓ | ✓ |
+| AI Assistent via dashboard | ✓ | ✓ | ✓ | ✓ |
+| Telegram add-on (gratis) | ✓ | ✓ | ✓ | ✓ |
 | Eigen geheugen | ✓ | ✓ | ✓ | ✓ |
 | Gmail, Calendar & Drive | ✓ | ✓ | ✓ | ✓ |
 | Taken, reminders & dagplanning | ✓ | ✓ | ✓ | ✓ |

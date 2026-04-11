@@ -6,7 +6,7 @@ Welkom bij de officiële documentatie van **dGENIX** — het platform dat je een
 
 ## Wat is dGENIX?
 
-dGENIX geeft je een persoonlijke AI-assistent met echt geheugen — klaar voor alles. Je stelt hem in via het dashboard op [app.dgenix.com](https://app.dgenix.com) en stuurt opdrachten via het dashboard én via Telegram:
+dGENIX geeft je een persoonlijke AI-assistent met echt geheugen — klaar voor alles. Je stelt hem in en stuurt opdrachten via het dashboard op [app.dgenix.com](https://app.dgenix.com):
 
 - **Short video clips maken** — stuur een YouTube URL, hij maakt de clip. Inbegrepen bij elk plan *(BASE skill)*
 - **E-mails beheren** — Gmail lezen, categoriseren en antwoorden schrijven
@@ -19,7 +19,7 @@ Je assistent onthoudt wat je eerder hebt besproken en leert van jouw voorkeuren.
 
 Ontbreekt er een skill? Dien een aanvraag in via [dgenix.com/contact](https://dgenix.com/contact?type=skill-aanvraag) — dGENIX bouwt hem en voegt hem toe aan de marketplace.
 
-Je bereikt je assistent via **het dashboard** en via **Telegram** — je kiest zelf waar je werkt.
+Je bereikt je assistent via **het dashboard**. Via de gratis Telegram add-on ben je ook onderweg bereikbaar — activeer hem via Skills wanneer je wil.
 
 ---
 
@@ -27,10 +27,11 @@ Je bereikt je assistent via **het dashboard** en via **Telegram** — je kiest z
 
 1. **Maak een account** op [app.dgenix.com](https://app.dgenix.com)
 2. **Stel je assistent in** — geef hem een naam en persoonlijkheid
-3. **Koppel Telegram** — voor toegang onderweg
-4. **Verbind je tools** — Gmail, Google Calendar, Google Drive
-5. **Activeer skills** — kies wat je assistent kan via de Skills Marketplace. De Short Video Generator is al inbegrepen
-6. **Ga aan de slag** — via dashboard of Telegram, direct resultaat
+3. **Verbind je tools** — Gmail, Google Calendar, Google Drive
+4. **Activeer skills** — kies wat je assistent kan via de Skills Marketplace. De Short Video Generator is al inbegrepen
+5. **Ga aan de slag** — via het dashboard, direct resultaat
+
+> Wil je je assistent ook via Telegram bereiken? Activeer de gratis **Telegram add-on** via Dashboard → Skills.
 
 Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
 
@@ -40,7 +41,7 @@ Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
 
 | Sectie | Inhoud |
 | --- | --- |
-| [Aan de slag](aan-de-slag/README.md) | Account aanmaken, Telegram koppelen, assistent activeren |
+| [Aan de slag](aan-de-slag/README.md) | Account aanmaken, assistent activeren, tools koppelen |
 | [Hoe het werkt](hoe-het-werkt/README.md) | Wat de AI doet, hoe credits werken |
 | [Functies](functies/dashboard.md) | Dashboard, projecten, bestanden, taken |
 | [Skills](skills/README.md) | Skills marketplace — Gmail, Calendar, Drive, Social Media en meer |

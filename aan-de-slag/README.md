@@ -1,13 +1,12 @@
 # Aan de slag
 
-dGENIX is in 5 minuten actief. Je werkt via het dashboard op [app.dgenix.com](https://app.dgenix.com) én via Telegram.
+dGENIX is in 5 minuten actief. Je werkt via het dashboard op [app.dgenix.com](https://app.dgenix.com).
 
 ---
 
 ## Wat heb je nodig?
 
 - Een e-mailadres voor je account
-- Een Telegram account (gratis, [telegram.org](https://telegram.org))
 - Een toegangscode (in de early access fase)
 
 Geen server, geen technische kennis, geen installaties.
@@ -32,17 +31,17 @@ Ga naar [app.dgenix.com/signup](https://app.dgenix.com/signup), vul je e-mail, w
 
 ---
 
-### 3. Assistent instellen
+### 3. Assistent instellen & activeren
 
 Geef je AI-assistent een naam en persoonlijkheid via het dashboard. Bepaal hoe hij communiceert en jou het beste helpt.
 
-→ [Telegram koppelen & assistent activeren](telegram-koppelen.md)
+→ [Assistent instellen](telegram-koppelen.md)
 
 ---
 
-### 4. Telegram & integraties koppelen
+### 4. Integraties koppelen
 
-Verbind je Telegram-account voor toegang onderweg. Koppel Gmail, Google Calendar en Drive — je assistent is meteen actief met jouw tools.
+Koppel Gmail, Google Calendar en Drive — je assistent is meteen actief met jouw tools.
 
 → [Integraties koppelen](../integraties/gmail.md)
 
@@ -56,9 +55,11 @@ Ga naar **Dashboard → Skills** en activeer de skills die je wilt gebruiken.
 
 ---
 
-## Klaar — overal beschikbaar
+## Klaar — direct aan de slag
 
-Je kunt direct beginnen via het dashboard of Telegram. Stuur je eerste opdracht:
+Je kunt direct beginnen via het dashboard. Stuur je eerste opdracht:
+
+> Wil je je assistent ook via Telegram bereiken? Activeer de gratis **Telegram add-on** via Dashboard → Skills.
 
 > *"Zoek 10 leads in de Amsterdamse horeca"*
 

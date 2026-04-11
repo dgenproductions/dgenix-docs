@@ -1,6 +1,6 @@
 # Wat doet je AI-assistent?
 
-Je AI-assistent is geen chatbot. Hij voert echte taken uit en levert resultaten — via het dashboard op [app.dgenix.com](https://app.dgenix.com) én via Telegram.
+Je AI-assistent is geen chatbot. Hij voert echte taken uit en levert resultaten — via het dashboard op [app.dgenix.com](https://app.dgenix.com).
 
 ---
 
@@ -62,11 +62,11 @@ Posts schrijven voor LinkedIn, Instagram, X en Facebook — op basis van jouw in
 
 Elke opdracht die je geeft wordt verwerkt door je persoonlijke AI-assistent. Die:
 
-1. Ontvangt je bericht (dashboard of Telegram)
+1. Ontvangt je bericht (via het dashboard, of via Telegram als je de add-on hebt)
 2. Bepaalt welke actie en skills nodig zijn
 3. Voert de stappen uit (ophalen, verwerken, schrijven, plannen)
 4. Slaat resultaten op waar van toepassing (bestanden, agenda, sheets)
-5. Stuurt je het resultaat terug in het dashboard of Telegram
+5. Stuurt je het resultaat terug in het dashboard
 
 ---
 

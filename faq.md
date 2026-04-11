@@ -5,7 +5,7 @@
 ## Algemeen
 
 **Wat is dGENIX?**
-dGENIX geeft je een persoonlijke AI-assistent met een modulaire skills marketplace. Je stelt hem in via het dashboard op app.dgenix.com en stuurt opdrachten via het dashboard én via Telegram. Hij beheert je inbox, beheert je agenda, zoekt leads en schrijft content — terwijl jij je richt op wat er echt toe doet.
+dGENIX geeft je een persoonlijke AI-assistent met een modulaire skills marketplace. Je stelt hem in en stuurt opdrachten via het dashboard op app.dgenix.com. Hij beheert je inbox, beheert je agenda, zoekt leads en schrijft content — terwijl jij je richt op wat er echt toe doet.
 
 **Heb ik technische kennis nodig?**
 Nee. De instelling duurt gemiddeld 5 minuten. Geen installatie, geen code.
@@ -14,7 +14,7 @@ Nee. De instelling duurt gemiddeld 5 minuten. Geen installatie, geen code.
 Ja. Tijdens de onboarding kies je een naam voor je assistent. Die naam gebruikt hij om zich voor te stellen, en is zichtbaar in je dashboard. Je kunt de naam later aanpassen via **Instellingen → Mijn Assistent**.
 
 **Op welke apparaten werkt dGENIX?**
-Het dashboard ([app.dgenix.com](https://app.dgenix.com)) werkt op elke browser. Via Telegram is je assistent bereikbaar op Android, iPhone, Windows, Mac en in de browser.
+Het dashboard ([app.dgenix.com](https://app.dgenix.com)) werkt op elke browser. Met de gratis Telegram add-on is je assistent ook via Telegram bereikbaar op Android, iPhone, Windows, Mac en in de browser.
 
 **Wie heeft dGENIX gemaakt?**
 dGENIX is ontwikkeld door [dGEN Productions](https://dgenproductions.nl) (Mike Beerens) en [Ro-tech Development](https://ro-tech.nl) (Bart van Rooij).
@@ -24,7 +24,7 @@ dGENIX is ontwikkeld door [dGEN Productions](https://dgenproductions.nl) (Mike B
 ## Wat kan mijn assistent doen?
 
 **Welke taken kan mijn assistent uitvoeren?**
-Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), bestanden ophalen en aanmaken (Google Drive), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Alles via het dashboard of Telegram.
+Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), bestanden ophalen en aanmaken (Google Drive), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Allemaal via het dashboard.
 
 **Onthoudt mijn assistent wat ik eerder heb gedaan?**
 Ja. Je assistent heeft geheugen binnen een gesprek. Via **Instellingen → Geheugen** sla je langetermijncontext op die hij altijd gebruikt.
@@ -116,9 +116,9 @@ Ja. dGENIX valt onder Nederlands recht. Zie [dgenix.com/privacy](https://dgenix.
 ## Problemen & Support
 
 **Mijn assistent reageert niet.**
-Controleer of je Telegram-koppeling actief is via **Dashboard → Instellingen → Integraties**. Controleer ook je creditsaldo via **Dashboard → Gebruik**.
+Controleer je creditsaldo via **Dashboard → Gebruik**. Gebruik je de Telegram add-on? Controleer dan ook of de koppeling actief is via **Dashboard → Instellingen → Integraties**.
 
-**Ik ontvang geen welkomstbericht.**
+**Ik ontvang geen welkomstbericht via Telegram.**
 Zorg dat je @dGENIXbot in Telegram hebt opgestart (`/start` gestuurd) en probeer de activatie opnieuw via het dashboard.
 
 **Ik heb een andere vraag.**
