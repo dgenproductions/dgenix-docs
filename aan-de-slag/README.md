@@ -41,7 +41,7 @@ Geef je AI-assistent een naam en persoonlijkheid via het dashboard. Bepaal hoe h
 
 ### 4. Integraties koppelen
 
-Koppel Gmail, Google Calendar en Drive — je assistent is meteen actief met jouw tools.
+Koppel Gmail, Google Calendar, Sheets en Drive — je assistent is meteen actief met jouw tools.
 
 → [Integraties koppelen](../integraties/gmail.md)
 

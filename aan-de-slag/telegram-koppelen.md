@@ -61,7 +61,7 @@ Je ontvangt een **welkomstbericht in Telegram** zodra alles klaar is — dan ben
 
 ## Stap 4 — Integraties koppelen (optioneel)
 
-Koppel Gmail, Google Calendar en Google Drive om je assistent volledige toegang te geven tot je tools.
+Koppel Gmail, Google Calendar, Google Sheets en Google Drive om je assistent volledige toegang te geven tot je tools.
 
 Ga naar **Dashboard → Instellingen → Integraties** en klik op **"Verbinden"** naast elke tool. Je wordt doorgestuurd naar Google voor toestemming — dit duurt minder dan een minuut per integratie.
 

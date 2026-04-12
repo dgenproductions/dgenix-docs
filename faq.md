@@ -24,7 +24,7 @@ dGENIX is ontwikkeld door [dGEN Productions](https://dgenproductions.nl) (Mike B
 ## Wat kan mijn assistent doen?
 
 **Welke taken kan mijn assistent uitvoeren?**
-Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), bestanden ophalen en aanmaken (Google Drive), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Allemaal via het dashboard.
+Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), spreadsheets beheren (Google Sheets), bestanden ophalen en aanmaken (Google Drive), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Allemaal via het dashboard.
 
 **Onthoudt mijn assistent wat ik eerder heb gedaan?**
 Ja. Je assistent heeft geheugen binnen een gesprek. Via **Instellingen → Geheugen** sla je langetermijncontext op die hij altijd gebruikt.

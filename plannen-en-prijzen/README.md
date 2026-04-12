@@ -13,7 +13,7 @@ Voor wie wil beginnen met AI-automatisering.
 - AI-assistent via dashboard
 - **88.000 credits per maand** (~900 taken)
 - Eigen geheugen
-- Gmail, Google Calendar & Google Drive (inbegrepen)
+- Gmail, Google Calendar, Google Sheets & Google Drive (inbegrepen)
 - Taken, reminders & dagplanning
 - Short Video Generator (BASE skill — inbegrepen)
 - 1 Workflow Automation slot
@@ -90,7 +90,7 @@ Stel de jaarlijkse facturatie in via **Dashboard → Billing**.
 | AI Assistent via dashboard | ✓ | ✓ | ✓ | ✓ |
 | Telegram add-on (gratis) | ✓ | ✓ | ✓ | ✓ |
 | Eigen geheugen | ✓ | ✓ | ✓ | ✓ |
-| Gmail, Calendar & Drive | ✓ | ✓ | ✓ | ✓ |
+| Gmail, Calendar, Sheets & Drive | ✓ | ✓ | ✓ | ✓ |
 | Taken, reminders & dagplanning | ✓ | ✓ | ✓ | ✓ |
 | Short Video Generator (BASE) | ✓ | ✓ | ✓ | ✓ |
 | Projectmappen met eigen instructies | — | ✓ | ✓ | ✓ |

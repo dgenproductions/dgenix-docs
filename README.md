@@ -27,7 +27,7 @@ Je bereikt je assistent via **het dashboard**. Via de gratis Telegram add-on ben
 
 1. **Maak een account** op [app.dgenix.com](https://app.dgenix.com)
 2. **Stel je assistent in** — geef hem een naam en persoonlijkheid
-3. **Verbind je tools** — Gmail, Google Calendar, Google Drive
+3. **Verbind je tools** — Gmail, Google Calendar, Google Sheets, Google Drive
 4. **Activeer skills** — kies wat je assistent kan via de Skills Marketplace. De Short Video Generator is al inbegrepen
 5. **Ga aan de slag** — via het dashboard, direct resultaat
 
@@ -44,7 +44,7 @@ Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
 | [Aan de slag](aan-de-slag/README.md) | Account aanmaken, assistent activeren, tools koppelen |
 | [Hoe het werkt](hoe-het-werkt/README.md) | Wat de AI doet, hoe credits werken |
 | [Functies](functies/dashboard.md) | Dashboard, projecten, bestanden, taken |
-| [Skills](skills/README.md) | Skills marketplace — Gmail, Calendar, Drive, Social Media en meer |
+| [Skills](skills/README.md) | Skills marketplace — Gmail, Calendar, Sheets, Drive, Social Media en meer |
 | [Plannen & Prijzen](plannen-en-prijzen/README.md) | Overzicht plannen, credits bijkopen |
 | [Integraties](integraties/gmail.md) | Gmail, Google Calendar, Google Drive en Google Sheets koppelen |
 | [Veelgestelde vragen](faq.md) | Snelle antwoorden op veelgestelde vragen |
