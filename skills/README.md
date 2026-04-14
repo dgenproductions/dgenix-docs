@@ -90,6 +90,62 @@ Spreadsheets lezen, bijwerken en rijen toevoegen.
 
 → [Google Sheets koppelen](../integraties/google-sheets.md)
 
+### Voorstel Generator
+
+Schrijf in één opdracht een compleet projectvoorstel. Geef de klantnaam, dienst en context — de assistent genereert een professioneel document klaar voor verzending.
+
+**Inbegrepen bij:** Growth, Pro, Custom
+
+→ [Voorstel Generator gebruiken](proposal-generator.md)
+
+### Content Repurposing
+
+Stuur een YouTube URL — de assistent genereert direct herbruikbare content voor LinkedIn, Instagram, X en een blog-samenvatting.
+
+**Inbegrepen bij:** Growth, Pro, Custom
+
+→ [Content Repurposing gebruiken](content-repurposing.md)
+
+### Weekrapport Generator
+
+Automatisch een weekrapport op basis van je Gmail en Google Sheets. Elke week in één opdracht klaar.
+
+**Inbegrepen bij:** Growth, Pro, Custom
+
+→ [Weekrapport Generator gebruiken](weekly-report.md)
+
+### AI Beeldbewerking
+
+Stuur een afbeelding en geef een opdracht — de assistent past formaat, dimensies of aspect ratio aan voor social media of marketing.
+
+**Inbegrepen bij:** Growth, Pro, Custom
+
+→ [AI Beeldbewerking gebruiken](image-resizer.md)
+
+### Video Clipper Pro
+
+YouTube URL → automatische clip-detectie → fragmenten knippen met ondertitels. Voor shorts en highlight reels.
+
+**Inbegrepen bij:** Growth, Pro, Custom
+
+→ [Video Clipper Pro gebruiken](video-clipper-pro.md)
+
+### Lead Research & Outreach
+
+Onderzoek een bedrijf en ontvang direct een cold email en LinkedIn DM. Optioneel direct versturen via Gmail.
+
+**Prijs:** 750 cr per lead | **Plan:** Growth+
+
+→ [Lead Research & Outreach gebruiken](lead-research.md)
+
+### Client Onboarding
+
+Genereer een onboarding-document en plan de kick-off meeting in — in één opdracht.
+
+**Prijs:** 500 cr per onboarding | **Plan:** Growth+
+
+→ [Client Onboarding gebruiken](client-onboarding.md)
+
 ### WhatsApp Business
 
 WhatsApp-berichten lezen, antwoorden opstellen en klantcommunicatie automatiseren.
@@ -161,6 +217,22 @@ Notulen maken, actiepunten vastleggen en samenvattingen opstellen na vergadering
 **Prijs:** €12,99/mnd | **Plan:** Pro | **Vereist:** Geen extra koppeling
 
 → [Vergadering Assistent gebruiken](meeting-assistant.md)
+
+### Renewal & Upsell Intelligence
+
+Scan je inbox op klanten met verlengings- of upgradepotentieel. Ontvang een top 5 en schrijf kant-en-klare re-engagement berichten.
+
+**Prijs:** 150 cr (scan) / 300 cr (bericht) | **Plan:** Pro | **Vereist:** Gmail
+
+→ [Renewal & Upsell Intelligence gebruiken](renewal-upsell.md)
+
+### Support Knowledge Base
+
+Voeg je eigen documentatie toe en laat je assistent vragen beantwoorden op basis van jouw kennisbank.
+
+**Prijs:** 50 cr/document (inladen) / 200 cr (vraag beantwoorden) | **Plan:** Pro
+
+→ [Support Knowledge Base gebruiken](knowledge-base.md)
 
 ---
 
