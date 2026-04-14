@@ -33,6 +33,15 @@
 * [Short Video Generator](skills/short-generator.md)
 * [Social Media Manager](skills/social-media.md)
 * [Dagplanner & Life Assistant](skills/dagplanner.md)
+* [WhatsApp Business](skills/whatsapp-business.md)
+* [Instagram DM Manager](skills/instagram-dm.md)
+* [Stripe Inzichten](skills/stripe-insights.md)
+* [Notion](skills/notion.md)
+* [Slack](skills/slack.md)
+* [CMS Publisher](skills/cms-publisher.md)
+* [HubSpot CRM](skills/hubspot.md)
+* [LinkedIn Automation](skills/linkedin.md)
+* [Vergadering Assistent](skills/meeting-assistant.md)
 
 ## Plannen & Prijzen
 

@@ -90,6 +90,78 @@ Spreadsheets lezen, bijwerken en rijen toevoegen.
 
 → [Google Sheets koppelen](../integraties/google-sheets.md)
 
+### WhatsApp Business
+
+WhatsApp-berichten lezen, antwoorden opstellen en klantcommunicatie automatiseren.
+
+**Prijs:** €14,99/mnd | **Plan:** Growth+
+
+→ [WhatsApp Business gebruiken](whatsapp-business.md)
+
+### Instagram DM Manager
+
+Instagram Direct Messages beheren en leads kwalificeren via je assistent.
+
+**Prijs:** €12,99/mnd | **Plan:** Growth+
+
+→ [Instagram DM Manager gebruiken](instagram-dm.md)
+
+### Stripe Inzichten
+
+Omzet, betalingen en klantdata ophalen vanuit Stripe via chat.
+
+**Prijs:** €7,99/mnd | **Plan:** Growth+
+
+→ [Stripe Inzichten gebruiken](stripe-insights.md)
+
+### Notion
+
+Notion-pagina's aanmaken, bijwerken en doorzoeken via chat.
+
+**Prijs:** €7,99/mnd | **Plan:** Growth+ | **Vereist:** Notion OAuth-koppeling
+
+→ [Notion gebruiken](notion.md)
+
+### Slack
+
+Berichten versturen, kanalen lezen en teamcommunicatie automatiseren.
+
+**Prijs:** €9,99/mnd | **Plan:** Growth+ | **Vereist:** Slack OAuth-koppeling
+
+→ [Slack gebruiken](slack.md)
+
+### CMS Publisher
+
+Content publiceren naar WordPress of Webflow direct vanuit een chatbericht.
+
+**Prijs:** €9,99/mnd | **Plan:** Growth+
+
+→ [CMS Publisher gebruiken](cms-publisher.md)
+
+### HubSpot CRM
+
+Contacten beheren, deals bijwerken en je CRM-pipeline actueel houden.
+
+**Prijs:** €14,99/mnd | **Plan:** Pro
+
+→ [HubSpot CRM gebruiken](hubspot.md)
+
+### LinkedIn Automation
+
+LinkedIn-posts publiceren en statistieken opvragen via je assistent.
+
+**Prijs:** €14,99/mnd | **Plan:** Pro | **Vereist:** LinkedIn OAuth-koppeling
+
+→ [LinkedIn Automation gebruiken](linkedin.md)
+
+### Vergadering Assistent
+
+Notulen maken, actiepunten vastleggen en samenvattingen opstellen na vergaderingen.
+
+**Prijs:** €12,99/mnd | **Plan:** Pro | **Vereist:** Geen extra koppeling
+
+→ [Vergadering Assistent gebruiken](meeting-assistant.md)
+
 ---
 
 ## Add-ons
@@ -130,11 +202,11 @@ Dien een aanvraag in via [dgenix.com/contact](https://dgenix.com/contact?type=sk
 
 | Skill | Beschrijving |
 | --- | --- |
+| **Microsoft 365** | Outlook, Teams en OneDrive beheren via je assistent |
 | **Travel Planner** | Vluchten, hotels en activiteiten zoeken voor reizen |
 | **YouTube Manager** | Video-ideeën genereren, beschrijvingen schrijven |
 | **SEO Blog Schrijver** | SEO-geoptimaliseerde artikelen schrijven |
 | **E-mail Marketing** | Campagnes, follow-ups en sequences automatiseren |
-| **CRM Sync** | HubSpot of Pipedrive automatisch bijwerken |
 | **AI Receptionist** | Telefoontjes beantwoorden, afspraken inplannen |
 | **Team Assistent** | Meerdere AI-assistenten voor je team |
 
