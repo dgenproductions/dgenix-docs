@@ -67,4 +67,10 @@ Ja. Vraag bijv. "Maak een weekplanning met 5 LinkedIn posts over AI" — de assi
 
 ---
 
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra kosten.
+
+---
+
 → Terug naar [Skills marketplace](README.md)

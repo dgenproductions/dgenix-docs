@@ -38,3 +38,14 @@ Situatie → Oplossing → Aanpak → Tijdlijn → Investering → Volgende stap
 | Actie | Credits |
 | --- | --- |
 | Voorstel genereren | 400 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

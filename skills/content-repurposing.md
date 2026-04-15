@@ -38,3 +38,14 @@ Alles wordt opgeslagen als bestand in je dashboard.
 | Actie | Credits |
 | --- | --- |
 | Video analyseren + 4 platform-varianten genereren | 500 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

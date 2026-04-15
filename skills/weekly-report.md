@@ -40,3 +40,14 @@ Je assistent genereert elke week automatisch een overzicht van je werkzaamheden.
 | Actie | Credits |
 | --- | --- |
 | Weekrapport genereren | 300 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

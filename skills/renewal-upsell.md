@@ -41,3 +41,14 @@ Je assistent scant je Gmail en Google Drive op klanten waarvan het contract bijn
 | --- | --- |
 | Renewal scan (top 5 klanten) | 150 cr |
 | Re-engagement bericht schrijven | 300 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

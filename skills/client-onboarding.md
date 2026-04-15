@@ -35,3 +35,14 @@ Je assistent automatiseert de onboarding van nieuwe klanten. Genereer een gepers
 | --- | --- |
 | Onboarding-document genereren | 500 cr |
 | Kick-off meeting inplannen | 100 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

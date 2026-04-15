@@ -1,22 +1,14 @@
 # Skills Marketplace
 
-Skills geven je AI-assistent extra mogelijkheden. Sommige skills zijn direct inbegrepen bij elk plan — andere activeer je per stuk.
+Skills geven je AI-assistent extra mogelijkheden. Sommige skills zijn direct inbegrepen bij je plan — andere betaal je als losse add-on bovenop je abonnement.
 
----
+**Badges uitgelegd:**
+- Geen badge / groen = inbegrepen bij alle plannen
+- **Growth+** = inbegrepen bij Growth, Pro en Custom
+- **Pro** = inbegrepen bij Pro en Custom
+- **+ Add-on** = extra maandkosten bovenop je abonnement
 
-## BASE Skills — volledig inbegrepen
-
-BASE skills zijn standaard actief bij elk abonnement. Geen activatie, geen koppeling, geen extra kosten.
-
-### Short Video Generator
-
-Stuur een YouTube URL — je assistent analyseert de video, kiest het beste fragment en maakt automatisch een short video clip.
-
-**Voorbeeldopdracht:**
-
-- "Maak een short van deze video: youtube.com/watch?v=..."
-
-**Inbegrepen bij:** Starter, Growth, Pro, Custom
+→ [Plannen vergelijken](../plannen-en-prijzen/README.md)
 
 ---
 
@@ -42,7 +34,7 @@ Bestanden zoeken, ophalen en samenvatten uit je Google Drive.
 
 → [Google Drive koppelen](../integraties/google-drive.md)
 
-### Dagplanner
+### Dagplanner & Life Assistant
 
 Plan je dag, prioriteer taken en optimaliseer je routine. Combineert automatisch je agenda (als Google Calendar verbonden is) met je taken en persoonlijke doelen.
 
@@ -53,9 +45,13 @@ Plan je dag, prioriteer taken en optimaliseer je routine. Combineert automatisch
 
 Geen extra koppeling nodig.
 
+→ [Dagplanner gebruiken](dagplanner.md)
+
 ---
 
-## Zakelijke skills — add-ons
+## Zakelijke skills — Growth+ (inbegrepen bij plan)
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill zelf. Sommige skills verbruiken extra credits per taak.
 
 ### AI Beeldgeneratie
 
@@ -66,8 +62,6 @@ Genereer en bewerk afbeeldingen direct vanuit Telegram of het dashboard. Gebruik
 - Bestaande afbeelding bewerken of transformeren (image-to-image)
 - Aspect ratio kiezen: 1:1, 9:16, 16:9, 4:3, 3:4
 - Modelkeuze: Imagen 4 Fast (250 cr) / Standard (500 cr) / Ultra (750 cr) / Gemini 2.5 Flash edit (500 cr) / Gemini 3 Pro (1.500 cr)
-
-**Inbegrepen bij:** Growth, Pro, Custom
 
 → [AI Beeldgeneratie gebruiken](ai-beeldgeneratie.md)
 
@@ -82,6 +76,17 @@ Posts schrijven en plannen voor LinkedIn, X (Twitter), Instagram en Facebook.
 
 → [Social Media Manager gebruiken](social-media.md)
 
+### Short Video Generator
+
+Stuur een YouTube URL — je assistent analyseert de video, kiest het beste fragment en maakt automatisch een short video clip.
+
+**Creditkosten:** 500 + (video_minuten × 90) + (clips × 150)
+
+**Voorbeeldopdracht:**
+- "Maak een short van deze video: youtube.com/watch?v=..."
+
+→ [Short Video Generator gebruiken](short-generator.md)
+
 ### Google Sheets
 
 Spreadsheets lezen, bijwerken en rijen toevoegen.
@@ -94,7 +99,7 @@ Spreadsheets lezen, bijwerken en rijen toevoegen.
 
 Schrijf in één opdracht een compleet projectvoorstel. Geef de klantnaam, dienst en context — de assistent genereert een professioneel document klaar voor verzending.
 
-**Inbegrepen bij:** Growth, Pro, Custom
+**Creditkosten:** 400 cr per voorstel
 
 → [Voorstel Generator gebruiken](proposal-generator.md)
 
@@ -102,7 +107,7 @@ Schrijf in één opdracht een compleet projectvoorstel. Geef de klantnaam, diens
 
 Stuur een YouTube URL — de assistent genereert direct herbruikbare content voor LinkedIn, Instagram, X en een blog-samenvatting.
 
-**Inbegrepen bij:** Growth, Pro, Custom
+**Creditkosten:** 500 cr per video
 
 → [Content Repurposing gebruiken](content-repurposing.md)
 
@@ -110,7 +115,7 @@ Stuur een YouTube URL — de assistent genereert direct herbruikbare content voo
 
 Automatisch een weekrapport op basis van je Gmail en Google Sheets. Elke week in één opdracht klaar.
 
-**Inbegrepen bij:** Growth, Pro, Custom
+**Creditkosten:** 300 cr per rapport
 
 → [Weekrapport Generator gebruiken](weekly-report.md)
 
@@ -118,7 +123,7 @@ Automatisch een weekrapport op basis van je Gmail en Google Sheets. Elke week in
 
 Stuur een afbeelding en geef een opdracht — de assistent past formaat, dimensies of aspect ratio aan voor social media of marketing.
 
-**Inbegrepen bij:** Growth, Pro, Custom
+**Creditkosten:** 200 cr per afbeelding
 
 → [AI Beeldbewerking gebruiken](image-resizer.md)
 
@@ -126,7 +131,7 @@ Stuur een afbeelding en geef een opdracht — de assistent past formaat, dimensi
 
 YouTube URL → automatische clip-detectie → fragmenten knippen met ondertitels. Voor shorts en highlight reels.
 
-**Inbegrepen bij:** Growth, Pro, Custom
+**Creditkosten:** ~150 cr/min video
 
 → [Video Clipper Pro gebruiken](video-clipper-pro.md)
 
@@ -134,7 +139,7 @@ YouTube URL → automatische clip-detectie → fragmenten knippen met ondertitel
 
 Onderzoek een bedrijf en ontvang direct een cold email en LinkedIn DM. Optioneel direct versturen via Gmail.
 
-**Prijs:** 750 cr per lead | **Plan:** Growth+
+**Creditkosten:** 750 cr per lead + 50 cr voor direct verzenden
 
 → [Lead Research & Outreach gebruiken](lead-research.md)
 
@@ -142,87 +147,21 @@ Onderzoek een bedrijf en ontvang direct een cold email en LinkedIn DM. Optioneel
 
 Genereer een onboarding-document en plan de kick-off meeting in — in één opdracht.
 
-**Prijs:** 500 cr per onboarding | **Plan:** Growth+
+**Creditkosten:** 500 cr per onboarding + 100 cr voor kick-off inplannen
 
 → [Client Onboarding gebruiken](client-onboarding.md)
 
-### WhatsApp Business
+---
 
-WhatsApp-berichten lezen, antwoorden opstellen en klantcommunicatie automatiseren.
+## Pro skills — inbegrepen bij Pro en Custom
 
-**Prijs:** €14,99/mnd | **Plan:** Growth+
-
-→ [WhatsApp Business gebruiken](whatsapp-business.md)
-
-### Instagram DM Manager
-
-Instagram Direct Messages beheren en leads kwalificeren via je assistent.
-
-**Prijs:** €12,99/mnd | **Plan:** Growth+
-
-→ [Instagram DM Manager gebruiken](instagram-dm.md)
-
-### Stripe Inzichten
-
-Omzet, betalingen en klantdata ophalen vanuit Stripe via chat.
-
-**Prijs:** €7,99/mnd | **Plan:** Growth+
-
-→ [Stripe Inzichten gebruiken](stripe-insights.md)
-
-### Notion
-
-Notion-pagina's aanmaken, bijwerken en doorzoeken via chat.
-
-**Prijs:** €7,99/mnd | **Plan:** Growth+ | **Vereist:** Notion OAuth-koppeling
-
-→ [Notion gebruiken](notion.md)
-
-### Slack
-
-Berichten versturen, kanalen lezen en teamcommunicatie automatiseren.
-
-**Prijs:** €9,99/mnd | **Plan:** Growth+ | **Vereist:** Slack OAuth-koppeling
-
-→ [Slack gebruiken](slack.md)
-
-### CMS Publisher
-
-Content publiceren naar WordPress of Webflow direct vanuit een chatbericht.
-
-**Prijs:** €9,99/mnd | **Plan:** Growth+
-
-→ [CMS Publisher gebruiken](cms-publisher.md)
-
-### HubSpot CRM
-
-Contacten beheren, deals bijwerken en je CRM-pipeline actueel houden.
-
-**Prijs:** €14,99/mnd | **Plan:** Pro
-
-→ [HubSpot CRM gebruiken](hubspot.md)
-
-### LinkedIn Automation
-
-LinkedIn-posts publiceren en statistieken opvragen via je assistent.
-
-**Prijs:** €14,99/mnd | **Plan:** Pro | **Vereist:** LinkedIn OAuth-koppeling
-
-→ [LinkedIn Automation gebruiken](linkedin.md)
-
-### Vergadering Assistent
-
-Notulen maken, actiepunten vastleggen en samenvattingen opstellen na vergaderingen.
-
-**Prijs:** €12,99/mnd | **Plan:** Pro | **Vereist:** Geen extra koppeling
-
-→ [Vergadering Assistent gebruiken](meeting-assistant.md)
+Inbegrepen bij **Pro** en **Custom** — geen extra maandkosten voor de skill zelf. Creditkosten per taak zijn van toepassing.
 
 ### Renewal & Upsell Intelligence
 
 Scan je inbox op klanten met verlengings- of upgradepotentieel. Ontvang een top 5 en schrijf kant-en-klare re-engagement berichten.
 
-**Prijs:** 150 cr (scan) / 300 cr (bericht) | **Plan:** Pro | **Vereist:** Gmail
+**Creditkosten:** 150 cr (scan) / 300 cr (bericht) | **Vereist:** Gmail
 
 → [Renewal & Upsell Intelligence gebruiken](renewal-upsell.md)
 
@@ -230,24 +169,81 @@ Scan je inbox op klanten met verlengings- of upgradepotentieel. Ontvang een top 
 
 Voeg je eigen documentatie toe en laat je assistent vragen beantwoorden op basis van jouw kennisbank.
 
-**Prijs:** 50 cr/document (inladen) / 200 cr (vraag beantwoorden) | **Plan:** Pro
+**Creditkosten:** 50 cr/document (inladen) / 200 cr (vraag beantwoorden)
 
 → [Support Knowledge Base gebruiken](knowledge-base.md)
 
 ---
 
-## Add-ons
+## Betaalde add-ons — bovenop je abonnement
 
-### Eigen Telegram Bot
+Skills waarbij je naast je abonnement een extra maandelijks bedrag betaalt. Je hebt het bijbehorende plan nodig én betaalt de add-on bovenop.
 
-**Prijs:** €2,99/mnd
+### WhatsApp Business *(Growth+, €14,99/mnd)*
+
+WhatsApp-berichten lezen, antwoorden opstellen en klantcommunicatie automatiseren.
+
+→ [WhatsApp Business gebruiken](whatsapp-business.md)
+
+### Instagram DM Manager *(Growth+, €12,99/mnd)*
+
+Instagram Direct Messages beheren en leads kwalificeren via je assistent.
+
+→ [Instagram DM Manager gebruiken](instagram-dm.md)
+
+### Stripe Inzichten *(Growth+, €7,99/mnd)*
+
+Omzet, betalingen en klantdata ophalen vanuit Stripe via chat.
+
+→ [Stripe Inzichten gebruiken](stripe-insights.md)
+
+### Notion *(Growth+, €7,99/mnd)*
+
+Notion-pagina's aanmaken, bijwerken en doorzoeken via chat. Vereist Notion OAuth-koppeling.
+
+→ [Notion gebruiken](notion.md)
+
+### Slack *(Growth+, €9,99/mnd)*
+
+Berichten versturen, kanalen lezen en teamcommunicatie automatiseren. Vereist Slack OAuth-koppeling.
+
+→ [Slack gebruiken](slack.md)
+
+### CMS Publisher *(Growth+, €9,99/mnd)*
+
+Content publiceren naar WordPress of Webflow direct vanuit een chatbericht.
+
+→ [CMS Publisher gebruiken](cms-publisher.md)
+
+### HubSpot CRM *(Pro, €14,99/mnd)*
+
+Contacten beheren, deals bijwerken en je CRM-pipeline actueel houden.
+
+→ [HubSpot CRM gebruiken](hubspot.md)
+
+### LinkedIn Automation *(Pro, €14,99/mnd)*
+
+LinkedIn-posts publiceren en statistieken opvragen via je assistent. Vereist LinkedIn OAuth-koppeling.
+
+→ [LinkedIn Automation gebruiken](linkedin.md)
+
+### Vergadering Assistent *(Pro, €12,99/mnd)*
+
+Notulen maken, actiepunten vastleggen en samenvattingen opstellen na vergaderingen.
+
+→ [Vergadering Assistent gebruiken](meeting-assistant.md)
+
+---
+
+## Overige add-ons
+
+### Eigen Telegram Bot *(€2,99/mnd — alle plannen)*
 
 Standaard gebruikt je assistent de gedeelde dGENIX bot. Met deze add-on gebruik je een eigen Telegram bot met je eigen naam en profielfoto.
 
 **Nodig:** Een bot aangemaakt via [BotFather](https://t.me/BotFather) + je bot token.
 
 **Voordelen:**
-
 - Eigen naam en branding
 - Klanten zien jouw bot, niet dGENIX
 - Volledig je eigen kanaal

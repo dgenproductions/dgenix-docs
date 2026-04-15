@@ -52,4 +52,10 @@ Stel een dagschema voor op basis van mijn lopende taken
 
 ---
 
+## Prijs
+
+Inbegrepen bij **alle plannen** (Starter, Growth, Pro, Custom) — geen extra kosten.
+
+---
+
 → Terug naar [Skills marketplace](README.md)

@@ -38,3 +38,14 @@ Je assistent onderzoekt potentiële klanten en schrijft kant-en-klare outreach-b
 | --- | --- |
 | Lead research + outreach schrijven | 750 cr |
 | Direct verzenden via Gmail | +50 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

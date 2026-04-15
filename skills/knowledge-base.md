@@ -42,3 +42,14 @@ Voeg je eigen kennisartikelen, FAQ's en handleidingen toe aan je assistent. Daar
 | --- | --- |
 | Document toevoegen aan kennisbank | 50 cr/document |
 | Vraag beantwoorden via kennisbank | 200 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

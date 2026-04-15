@@ -40,3 +40,14 @@ Stuur een afbeelding en geef een opdracht — de assistent past formaat, achterg
 | Actie | Credits |
 | --- | --- |
 | Afbeelding bewerken/resizen | 200 cr |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

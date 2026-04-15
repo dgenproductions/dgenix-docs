@@ -95,4 +95,11 @@ Als Google Drive verbonden is via Instellingen → Integraties, kun je clips aut
 
 ---
 
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per video: zie creditkosten-tabel hierboven.
+
+---
+
 → [Terug naar Skills marketplace](README.md)

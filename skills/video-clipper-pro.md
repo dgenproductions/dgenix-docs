@@ -38,3 +38,14 @@ Stuur een YouTube URL — de assistent analyseert de video, detecteert de sterks
 | --- | --- |
 | Video analyseren + clips maken (per minuut video) | ~150 cr/min |
 | Ondertitels genereren | inbegrepen |
+
+---
+
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per taak: zie tabel hierboven.
+
+---
+
+→ Terug naar [Skills marketplace](README.md)

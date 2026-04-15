@@ -77,4 +77,11 @@ De skill volgt Google's contentrichtlijnen. Afbeeldingen met verboden inhoud (ge
 
 ---
 
+## Prijs
+
+Inbegrepen bij **Growth**, **Pro** en **Custom** — geen extra maandkosten voor de skill.
+Creditkosten per afbeelding: zie modellen-tabel hierboven.
+
+---
+
 → [Terug naar Skills marketplace](README.md)
