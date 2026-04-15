@@ -15,7 +15,7 @@ Publieke gebruikersdocumentatie voor dGENIX, gepubliceerd via GitBook. Bevat gee
 | **Repo** | github.com/dgenproductions/dgenix-docs (privé) |
 | **Publieke URL** | docs.dgenix.com (of via GitBook subdomain) |
 | **Taal** | Nederlands (primair) |
-| **Datum** | 7 april 2026 |
+| **Datum** | 15 april 2026 |
 
 ---
 
@@ -48,7 +48,18 @@ docs/
 │   ├── ai-beeldgeneratie.md
 │   ├── short-generator.md
 │   ├── social-media.md
-│   └── dagplanner.md
+│   ├── dagplanner.md
+│   ├── transcriptie.md              ← Fireworks Whisper v3
+│   ├── flux-image.md                ← Fireworks FLUX-1
+│   ├── whatsapp-business.md         ← Batch 3
+│   ├── instagram-dm.md
+│   ├── stripe-insights.md
+│   ├── notion.md
+│   ├── slack.md
+│   ├── cms-publisher.md
+│   ├── hubspot.md
+│   ├── linkedin.md
+│   └── meeting-assistant.md
 ├── plannen-en-prijzen/
 │   ├── README.md                    ← Planvergelijking
 │   └── credits-bijkopen.md
@@ -144,7 +155,7 @@ Bij elke nieuwe skill die live gaat in de agent (FASE 2 van het uitvoerplan):
 | aan-de-slag/ (4 pagina's) | ✅ Live |
 | hoe-het-werkt/ (2 pagina's) | ✅ Live |
 | functies/ (8 pagina's) | ✅ Live |
-| skills/ (4 skills) | ✅ Live — ai-beeldgeneratie, short-generator, social-media, dagplanner |
+| skills/ (16 skills) | ✅ Live — ai-beeldgeneratie, short-generator, social-media, dagplanner + transcriptie, flux-image + 9 Batch 3 skills (whatsapp-business t/m meeting-assistant) |
 | plannen-en-prijzen/ (2 pagina's) | ✅ Live |
 | integraties/ (5 pagina's) | ✅ Live |
 | faq.md | ✅ Live |

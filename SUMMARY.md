@@ -53,6 +53,16 @@
 * [Vergadering Assistent](skills/meeting-assistant.md)
 * [Audio Transcriptie](skills/transcriptie.md)
 * [FLUX Beeldgeneratie](skills/flux-image.md)
+* [Maaltijdplanner](skills/meal-planner.md)
+* [Persoonlijke Financiën](skills/finance.md)
+* [E-mail Marketing](skills/email-marketing.md)
+* [YouTube Kanaal Manager](skills/youtube.md)
+* [CRM Sync](skills/crm-sync.md)
+* [Factuur Generator](skills/invoice-automator.md)
+* [AI Receptionist](skills/ai-receptionist.md)
+* [Team Assistent](skills/team-assistant.md)
+* [White Label Content](skills/white-label.md)
+* [Eigen Workflows](skills/custom-workflows.md)
 
 ## Plannen & Prijzen
 
