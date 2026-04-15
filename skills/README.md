@@ -151,6 +151,22 @@ Genereer een onboarding-document en plan de kick-off meeting in — in één opd
 
 → [Client Onboarding gebruiken](client-onboarding.md)
 
+### Audio Transcriptie
+
+Zet audio-opnames om naar tekst via Fireworks Whisper v3. Ondersteunt MP3, WAV, M4A, OGG, FLAC en WebM tot 200 MB. Optioneel met tijdstempels en sprekersherkenning.
+
+**Creditkosten:** Turbo 12 cr/min — Large 20 cr/min — diarisering +40%
+
+→ [Audio Transcriptie gebruiken](transcriptie.md)
+
+### FLUX Beeldgeneratie
+
+Genereer fotorealistische afbeeldingen via FLUX-1 modellen. Vier modellen: Schnell (20 cr), Dev (175 cr), Kontext Pro (500 cr) en Kontext Max (1.000 cr). Kontext-modellen passen bestaande afbeeldingen contextbewust aan.
+
+**Creditkosten:** 20–1.000 cr per afbeelding afhankelijk van model
+
+→ [FLUX Beeldgeneratie gebruiken](flux-image.md)
+
 ---
 
 ## Pro skills — inbegrepen bij Pro en Custom

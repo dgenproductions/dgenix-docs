@@ -51,6 +51,8 @@
 * [HubSpot CRM](skills/hubspot.md)
 * [LinkedIn Automation](skills/linkedin.md)
 * [Vergadering Assistent](skills/meeting-assistant.md)
+* [Audio Transcriptie](skills/transcriptie.md)
+* [FLUX Beeldgeneratie](skills/flux-image.md)
 
 ## Plannen & Prijzen
 
