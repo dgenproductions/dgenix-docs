@@ -155,7 +155,7 @@ Bij elke nieuwe skill die live gaat in de agent (FASE 2 van het uitvoerplan):
 | aan-de-slag/ (4 pagina's) | ✅ Live |
 | hoe-het-werkt/ (2 pagina's) | ✅ Live |
 | functies/ (8 pagina's) | ✅ Live |
-| skills/ (16 skills) | ✅ Live — ai-beeldgeneratie, short-generator, social-media, dagplanner + transcriptie, flux-image + 9 Batch 3 skills (whatsapp-business t/m meeting-assistant) |
+| skills/ (24 skills) | ✅ Live — ai-beeldgeneratie, short-generator, social-media, dagplanner + transcriptie, flux-image + 9 Batch 3 skills (whatsapp-business t/m meeting-assistant) + 7 nieuw (gmail, google-calendar, google-drive, google-sheets, document-reader, travel, shopping) + workflow-import |
 | plannen-en-prijzen/ (2 pagina's) | ✅ Live |
 | integraties/ (5 pagina's) | ✅ Live |
 | faq.md | ✅ Live |

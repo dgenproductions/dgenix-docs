@@ -20,19 +20,29 @@ Deze skills zijn gratis inbegrepen. Je hebt alleen een eenmalige OAuth-koppeling
 
 Je inbox lezen, e-mails categoriseren en antwoorden schrijven — direct vanuit Telegram of het dashboard.
 
-→ [Gmail koppelen](../integraties/gmail.md)
+→ [Gmail skill](gmail.md) · [Gmail koppelen](../integraties/gmail.md)
 
 ### Google Calendar
 
 Agenda bekijken, afspraken inplannen en conflicten detecteren.
 
-→ [Google Calendar koppelen](../integraties/google-calendar.md)
+→ [Google Calendar skill](google-calendar.md) · [Google Calendar koppelen](../integraties/google-calendar.md)
 
 ### Google Drive
 
 Bestanden zoeken, ophalen en samenvatten uit je Google Drive.
 
-→ [Google Drive koppelen](../integraties/google-drive.md)
+→ [Google Drive skill](google-drive.md) · [Google Drive koppelen](../integraties/google-drive.md)
+
+### Document Lezer
+
+PDF's, Word-bestanden en tekstdocumenten samenvatten, vergelijken en doorzoeken. Geen extra koppeling nodig — upload het bestand via Dashboard of deel het in de chat.
+
+**Ondersteunde formaten:** PDF, .txt, .md, .docx (via tekstextractie)
+
+**Creditkosten:** 40–80 cr (samenvatten) / 30 cr per vraag
+
+→ [Document Lezer gebruiken](document-reader.md)
 
 ### Dagplanner & Life Assistant
 
@@ -93,7 +103,7 @@ Spreadsheets lezen, bijwerken en rijen toevoegen.
 
 **Vereist:** Google Sheets koppelen via OAuth (eenmalig in Instellingen → Integraties).
 
-→ [Google Sheets koppelen](../integraties/google-sheets.md)
+→ [Google Sheets skill](google-sheets.md) · [Google Sheets koppelen](../integraties/google-sheets.md)
 
 ### Voorstel Generator
 
@@ -167,6 +177,22 @@ Genereer fotorealistische afbeeldingen via FLUX-1 modellen. Vier modellen: Schne
 
 → [FLUX Beeldgeneratie gebruiken](flux-image.md)
 
+### Travel Planner
+
+Reisplannen opstellen op basis van bestemming, budget en duur. Van vluchtroutes en hotels tot dagprogramma's en lokale tips.
+
+**Creditkosten:** 50–100 cr (reisplan) / 30 cr (lokale tips) / 40 cr (dagprogramma)
+
+→ [Travel Planner gebruiken](travel.md)
+
+### Smart Shopping
+
+Snel de beste producten en aanbiedingen vinden op basis van jouw wensen. Producten vergelijken, boodschappenlijsten aanmaken en cadeausuggesties geven.
+
+**Creditkosten:** 30–50 cr (vergelijking) / 20 cr (boodschappenlijst) / 25 cr (cadeausuggesties)
+
+→ [Smart Shopping gebruiken](shopping.md)
+
 ---
 
 ## Pro skills — inbegrepen bij Pro en Custom
@@ -188,6 +214,15 @@ Voeg je eigen documentatie toe en laat je assistent vragen beantwoorden op basis
 **Creditkosten:** 50 cr/document (inladen) / 200 cr (vraag beantwoorden)
 
 → [Support Knowledge Base gebruiken](knowledge-base.md)
+
+### Workflow Builder
+
+Importeer n8n workflow JSON bestanden en laat je assistent ze stap-voor-stap uitvoeren. Elke node wordt uitgevoerd via een ingebouwde Tool Layer — van HTTP requests tot e-mails en AI-generatie.
+
+**Slots:** 3 inbegrepen bij Pro — uitbreidbaar via add-ons (+1/+5/+10 slot)\
+**Creditkosten:** 25 cr (base) + kosten per stap (5–50 cr/node)
+
+→ [Workflow Builder gebruiken](workflow-import.md)
 
 ---
 
@@ -287,7 +322,6 @@ Dien een aanvraag in via [dgenix.com/contact](https://dgenix.com/contact?type=sk
 | Skill | Beschrijving |
 | --- | --- |
 | **Microsoft 365** | Outlook, Teams en OneDrive beheren via je assistent |
-| **Travel Planner** | Vluchten, hotels en activiteiten zoeken voor reizen |
 | **YouTube Manager** | Video-ideeën genereren, beschrijvingen schrijven |
 | **SEO Blog Schrijver** | SEO-geoptimaliseerde artikelen schrijven |
 | **E-mail Marketing** | Campagnes, follow-ups en sequences automatiseren |
