@@ -159,6 +159,7 @@ Bij elke nieuwe skill die live gaat in de agent (FASE 2 van het uitvoerplan):
 | plannen-en-prijzen/ (2 pagina's) | ✅ Live |
 | integraties/ (5 pagina's) | ✅ Live |
 | faq.md | ✅ Live |
+| skills/seo-optimizer.md | ✅ Live |
 | skills/youtube.md | 🔜 Bouwen zodra YouTube skill live is |
 | skills/seo-blog.md | 🔜 Bouwen zodra SEO Blog skill live is |
 | skills/dagplanner.md | ✅ Live |
