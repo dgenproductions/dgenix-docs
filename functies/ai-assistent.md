@@ -6,7 +6,7 @@ De AI Assistent pagina is de web-interface van jouw persoonlijke assistent. Naas
 
 ## Webchat
 
-Stuur opdrachten en vragen via het invoerveld onderaan de pagina. Berichten worden real-time gesynchroniseerd met Telegram — je ziet gesprekken via beide kanalen terug.
+Stuur opdrachten en vragen via het invoerveld onderaan de pagina. Als je de Telegram add-on hebt actief, worden berichten gesynchroniseerd — je ziet gesprekken via beide kanalen terug.
 
 **Nieuwe sessie starten:** klik "Nieuwe gesprek starten" om een nieuw gesprek te beginnen. Eerdere gesprekken blijven bewaard in de geschiedenis.
 

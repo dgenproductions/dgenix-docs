@@ -2,6 +2,14 @@
 
 * [Welkom](README.md)
 
+## Platform Manual
+
+* [Platform Manual — overzicht](handleiding/README.md)
+* [Context en geheugen uitgelegd](handleiding/context-en-geheugen.md)
+* [Skills uitgelegd](handleiding/skills-uitgelegd.md)
+* [Voice Chat gebruiken](handleiding/voice-chat.md)
+* [Geplande taken & automatisering](handleiding/geplande-taken.md)
+
 ## Aan de slag
 
 * [Overzicht](aan-de-slag/README.md)
