@@ -33,6 +33,7 @@
 * [Geheugen](functies/geheugen.md)
 * [Instellingen](functies/instellingen.md)
 * [Vrienden uitnodigen](functies/vrienden-uitnodigen.md)
+* [Komende functies](functies/komende-functies.md)
 
 ## Skills
 
@@ -46,6 +47,7 @@
 * [Weekrapport Generator](skills/weekly-report.md)
 * [AI Beeldbewerking](skills/image-resizer.md)
 * [Video Clipper Pro](skills/video-clipper-pro.md)
+* [Nieuws & Research](skills/nieuws-research.md)
 * [Lead Research & Outreach](skills/lead-research.md)
 * [Client Onboarding](skills/client-onboarding.md)
 * [Renewal & Upsell Intelligence](skills/renewal-upsell.md)
