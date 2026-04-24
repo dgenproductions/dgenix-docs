@@ -137,13 +137,13 @@ Stuur een afbeelding en geef een opdracht — de assistent past formaat, dimensi
 
 → [AI Beeldbewerking gebruiken](image-resizer.md)
 
-### Video Clipper Pro
+### AI Content Engine *(Starter: €19/mnd add-on — Growth+: inbegrepen)*
 
-YouTube URL → automatische clip-detectie → fragmenten knippen met ondertitels. Voor shorts en highlight reels.
+Plak een YouTube URL en ontvang tot 15 virale clips met virality score (0-100), content packs (3 titels + caption + hashtags) en optionele ingebakken captions.
 
-**Creditkosten:** ~150 cr/min video
+**Creditkosten:** 500 cr basiskosten + 600 cr per clip
 
-→ [Video Clipper Pro gebruiken](video-clipper-pro.md)
+→ [AI Content Engine gebruiken](ai-content-engine.md)
 
 ### Lead Research & Outreach
 
@@ -321,6 +321,7 @@ Dien een aanvraag in via [dgenix.com/contact](https://dgenix.com/contact?type=sk
 
 | Skill | Beschrijving |
 | --- | --- |
+| **Video Clipper Pro** | Wordt vervangen door AI Content Engine |
 | **Microsoft 365** | Outlook, Teams en OneDrive beheren via je assistent |
 | **YouTube Manager** | Video-ideeën genereren, beschrijvingen schrijven |
 | **SEO Blog Schrijver** | SEO-geoptimaliseerde artikelen schrijven |

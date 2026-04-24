@@ -46,6 +46,7 @@
 * [Content Repurposing](skills/content-repurposing.md)
 * [Weekrapport Generator](skills/weekly-report.md)
 * [AI Beeldbewerking](skills/image-resizer.md)
+* [AI Content Engine](skills/ai-content-engine.md)
 * [Video Clipper Pro](skills/video-clipper-pro.md)
 * [Nieuws & Research](skills/nieuws-research.md)
 * [Lead Research & Outreach](skills/lead-research.md)
