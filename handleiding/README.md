@@ -124,9 +124,10 @@ Elke interactie met je assistent verbruikt credits. Credits worden maandelijks b
 
 | Plan | Credits/mnd | ~Taken/mnd |
 |---|---|---|
-| Starter | 88.000 | ~900 |
-| Growth | 212.000 | ~2.150 |
-| Pro | 495.000 | ~5.050 |
+| Free | 1.000 | — |
+| Starter | 100.000 | ~1.000 |
+| Growth | 250.000 | ~2.500 |
+| Pro | 500.000 | ~5.000 |
 
 **Wat kost wat?**
 

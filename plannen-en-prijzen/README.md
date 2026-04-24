@@ -1,17 +1,28 @@
 # Plannen & Prijzen
 
-dGENIX heeft 4 plannen. Geen contracten, geen verborgen kosten. Altijd opzegbaar.
+dGENIX heeft 5 plannen. Geen contracten, geen verborgen kosten. Altijd opzegbaar.
 
 ---
 
 ## De plannen
 
-### Starter — €19/maand
+### Free — €0/maand
+
+Voor wie het platform wil verkennen.
+
+- AI-assistent via dashboard (Claude Haiku)
+- **1.000 credits per maand** (hard cap)
+- Alleen AI Chat & Web Search
+- Geen skills activeerbaar (behalve Telegram add-on)
+
+---
+
+### Starter — €23/maand
 
 Voor wie wil beginnen met AI-automatisering.
 
 - AI-assistent via dashboard
-- **88.000 credits per maand** (~900 taken)
+- **100.000 credits per maand** (~1.000 taken)
 - Eigen geheugen
 - Gmail, Google Calendar, Google Sheets & Google Drive (inbegrepen)
 - Taken, reminders & dagplanning
@@ -22,15 +33,15 @@ Voor wie wil beginnen met AI-automatisering.
 
 ---
 
-### Growth — €39/maand ⭐ Meest gekozen
+### Growth — €57/maand ⭐ Meest gekozen
 
 Voor wie dagelijks taken automatiseert en zakelijke skills nodig heeft.
 
 - Alles van Starter
-- **212.000 credits per maand** (~2.150 taken)
+- **250.000 credits per maand** (~2.500 taken)
 - Eigen Telegram-bot (jouw naam & handle)
-- Zakelijke skills: Google Sheets & Social Media Manager
-- AI Beeldgeneratie
+- Alle zakelijke skills inbegrepen (WhatsApp, Notion, Slack, HubSpot, LinkedIn, en meer)
+- AI Beeldgeneratie & FLUX Beeldgeneratie
 - **Projectmappen** met eigen instructies per klant of campagne
 - **5 Workflow Automations slots**
 - Prioriteitsverwerking
@@ -39,14 +50,14 @@ Voor wie dagelijks taken automatiseert en zakelijke skills nodig heeft.
 
 ---
 
-### Pro — €79/maand
+### Pro — €99/maand
 
 Voor wie maximale capaciteit en enterprise-functionaliteit wil.
 
 - Alles van Growth
-- **495.000 credits per maand** (~5.050 taken)
+- **500.000 credits per maand** (~5.000 taken)
 - **10 Workflow Automations slots**
-- Enterprise skills (vroeg toegang)
+- Pro skills: GEO Optimizer, SEO Optimizer, Workflow Builder, Renewal & Upsell, Support Kennisbank
 - Vroeg toegang tot nieuwe features
 - Prioriteit support
 
@@ -73,9 +84,9 @@ Kies jaarlijkse facturatie en betaal 2 maanden gratis.
 
 | Plan | Maandprijs | Jaarprijs/mnd | Besparing |
 | --- | --- | --- | --- |
-| Starter | €19 | €15,20 | −€45,60/jaar |
-| Growth | €39 | €31,20 | −€93,60/jaar |
-| Pro | €79 | €63,20 | −€189,60/jaar |
+| Starter | €23 | €18,40 | −€55,20/jaar |
+| Growth | €57 | €45,60 | −€136,80/jaar |
+| Pro | €99 | €79,20 | −€237,60/jaar |
 
 Stel de jaarlijkse facturatie in via **Dashboard → Billing**.
 
@@ -85,8 +96,8 @@ Stel de jaarlijkse facturatie in via **Dashboard → Billing**.
 
 | Functie | Starter | Growth | Pro | Custom |
 | --- | :---: | :---: | :---: | :---: |
-| Credits per maand | 88.000 | 212.000 | 495.000 | Custom |
-| ~Taken per maand | ~900 | ~2.150 | ~5.050 | Onbeperkt |
+| Credits per maand | 100.000 | 250.000 | 500.000 | Custom |
+| ~Taken per maand | ~1.000 | ~2.500 | ~5.000 | Onbeperkt |
 | AI Assistent via dashboard | ✓ | ✓ | ✓ | ✓ |
 | Telegram add-on (gratis) | ✓ | ✓ | ✓ | ✓ |
 | Eigen geheugen | ✓ | ✓ | ✓ | ✓ |

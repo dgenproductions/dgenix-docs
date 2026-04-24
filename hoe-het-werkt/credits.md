@@ -20,9 +20,10 @@ Credits zijn de rekeneenheid voor je AI Operator. 1 credit = 10 tokens. Een gemi
 
 | Plan | Credits/maand | ~Taken |
 |---|---|---|
-| Starter | 88.000 | ~900 |
-| Growth | 212.000 | ~2.150 |
-| Pro | 495.000 | ~5.050 |
+| Free | 1.000 | — |
+| Starter | 100.000 | ~1.000 |
+| Growth | 250.000 | ~2.500 |
+| Pro | 500.000 | ~5.000 |
 
 Credits worden elke maand automatisch aangevuld op je verlengingsdatum.
 
@@ -43,7 +44,7 @@ Credits worden elke maand automatisch aangevuld op je verlengingsdatum.
 | Social media post | ~35 cr | ~7 min |
 | Lead zoeken via Maps | ~40 cr | ~10 min |
 
-Een typische gebruiker besteedt 50–150 credits per actieve werkdag. Met het Starter-plan (88.000 cr/mnd) heb je ruimte voor ~900 taken.
+Een typische gebruiker besteedt 50–150 credits per actieve werkdag. Met het Starter-plan (100.000 cr/mnd) heb je ruimte voor ~1.000 taken.
 
 ---
 

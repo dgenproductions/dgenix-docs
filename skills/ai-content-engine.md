@@ -6,18 +6,13 @@ Plak een YouTube URL of directe videolink en de AI Content Engine genereert auto
 
 ## Vereisten
 
-- **Plan:** Growth+ (inbegrepen) of Starter (€19/mnd add-on)
+- **Plan:** Growth+
 - **Integraties:** Geen extra koppelingen nodig
 
 ## Hoe activeer je de skill?
 
-**Als je Growth of Pro hebt:**
 1. Ga naar **Skills** in je dashboard
-2. Zoek **AI Content Engine** en klik **Activeren** (gratis)
-
-**Als je Starter hebt:**
-1. Ga naar **Abonnement** → **AI Content Engine**
-2. Klik **Activeren voor €19/mnd** — Stripe Checkout
+2. Zoek **AI Content Engine** en klik **Activeren** (gratis bij Growth+)
 
 Na activatie verschijnt **AI Content Engine** in de Sidebar.
 
@@ -68,9 +63,7 @@ Per clip genereert de AI automatisch:
 
 | Plan | Toegang |
 | --- | --- |
-| Growth | Inbegrepen — activeer gratis |
-| Pro | Inbegrepen — activeer gratis |
-| Starter | €19/mnd add-on via Abonnement |
+| Growth+ | Inbegrepen — activeer gratis |
 
 ---
 
