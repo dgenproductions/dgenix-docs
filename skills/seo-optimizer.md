@@ -6,13 +6,13 @@ SEO Optimizer analyseert je webpagina's op alle technische SEO-factoren: on-page
 
 ## Vereisten
 
-- **Plan:** Growth+ (add-on €29/mnd) of Pro (inbegrepen)
+- **Plan:** Growth+
 - **Integraties:** Geen — de audit analyseert je publieke webpagina rechtstreeks
 
 ## Hoe activeer je de skill?
 
-1. Ga naar **Factuurgegevens** in het dashboard
-2. Klik **SEO Optimizer activeren** (Growth) of ga direct naar het Optimizer dashboard (Pro)
+1. Ga naar **Skills** in het dashboard
+2. Zoek **SEO Optimizer** en klik op Activeren
 3. Ga via het zijmenu naar **Optimizer** → tab **SEO**
 4. Voer je pagina-URL in en klik op de **+** knop
 

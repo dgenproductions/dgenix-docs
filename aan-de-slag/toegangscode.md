@@ -1,34 +1,31 @@
-# Toegangscode aanvragen
+# Account aanmaken
 
-dGENIX is momenteel in early access. Je hebt een toegangscode nodig om te registreren.
+dGENIX is gratis beschikbaar voor iedereen. Je hebt geen toegangscode meer nodig om te registreren.
 
 ---
 
-## Hoe vraag je een code aan?
+## Hoe maak je een account aan?
 
-1. Ga naar [dgenix.com/invite](https://dgenix.com/invite)
+1. Ga naar [app.dgenix.com/signup](https://app.dgenix.com/signup) (of [app.dgenix.nl/signup](https://app.dgenix.nl/signup))
 2. Vul je naam en e-mailadres in
-3. Klik op "Aanvragen"
+3. Kies een wachtwoord en klik op "Account aanmaken"
 
-Je ontvangt de code binnen 24 uur per e-mail.
-
----
-
-## Wat kun je doen met een toegangscode?
-
-Met een toegangscode kun je:
-- Een gratis account aanmaken
-- **5.000 startcredits** activeren (~30 taken)
-- Gratis uitproberen — geen creditcard nodig
+Je account is direct actief. Geen creditcard nodig.
 
 ---
 
-## Al een code?
+## Gratis plan
 
-Ga direct naar [app.dgenix.com/signup](https://app.dgenix.com/signup) en vul de code in bij registratie.
+Met een gratis account krijg je:
+
+- **1.000 credits** per maand
+- Toegang tot de AI-assistent (web chat)
+- Webzoekopdrachten inbegrepen
+
+Wil je meer doen? Bekijk de [plannen en prijzen](../plannen-en-prijzen/README.md).
 
 ---
 
-## Geen code ontvangen?
+## Vragen?
 
-Controleer je spamfolder. Niets? Stuur een bericht naar [info@dgenproductions.nl](mailto:info@dgenproductions.nl).
+Neem contact op via [contact@dgenix.nl](mailto:contact@dgenix.nl).

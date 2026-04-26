@@ -1,5 +1,9 @@
 # Video Clipper Pro
 
+> **Let op:** deze skill is vervangen door de [AI Content Engine](ai-content-engine.md). Video Clipper Pro is niet meer beschikbaar in de Skills Marketplace. Gebruik AI Content Engine voor hetzelfde resultaat — met virality scoring en content packs als bonus.
+
+---
+
 ## Wat doet deze skill?
 
 Stuur een YouTube URL — de assistent analyseert de video, detecteert de sterkste fragmenten en knipt automatisch clips met ondertitels. Ideaal voor shorts, sociale media content en highlight reels.
