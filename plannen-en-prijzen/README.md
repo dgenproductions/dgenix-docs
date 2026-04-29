@@ -27,7 +27,7 @@ Voor wie wil beginnen met AI-automatisering.
 - Gmail, Google Calendar, Google Sheets & Google Drive (inbegrepen)
 - Taken, reminders & dagplanning
 - Short Video Generator (BASE skill — inbegrepen)
-- 1 Workflow Automation slot
+- 1 slot voor geplande taken
 - Telegram add-on (gratis)
 - E-mail support
 
@@ -43,7 +43,7 @@ Voor wie dagelijks taken automatiseert en zakelijke skills nodig heeft.
 - Alle zakelijke skills inbegrepen (WhatsApp, Notion, Slack, HubSpot, LinkedIn, en meer)
 - AI Beeldgeneratie & FLUX Beeldgeneratie
 - **Projectmappen** met eigen instructies per klant of campagne
-- **5 Workflow Automations slots**
+- **5 slots voor geplande taken**
 - Prioriteitsverwerking
 - Extra slot packs bijkopen
 - Prioriteit support
@@ -56,7 +56,7 @@ Voor wie maximale capaciteit en enterprise-functionaliteit wil.
 
 - Alles van Growth
 - **500.000 credits per maand** (~5.000 taken)
-- **10 Workflow Automations slots**
+- **10 slots voor geplande taken**
 - Pro skills: GEO Optimizer, SEO Optimizer, Workflow Builder, Renewal & Upsell, Support Kennisbank
 - Vroeg toegang tot nieuwe features
 - Prioriteit support
