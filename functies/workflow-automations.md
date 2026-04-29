@@ -54,7 +54,7 @@ Workflow Automations zijn terugkerende opdrachten die je assistent automatisch u
 | Growth | 5 slots |
 | Pro | 10 slots |
 
-**Extra slots bijkopen:** €4,99/mnd per +5 slots (beschikbaar voor Growth & Pro). Koop extra slots via **Billing** of via de info-sectie op de Workflows pagina.
+**Extra slots bijkopen:** €9,99/mnd per +5 slots (beschikbaar voor Growth & Pro). Koop extra slots via **Billing** of via de info-sectie op de Workflows pagina.
 
 ---
 
