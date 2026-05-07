@@ -66,6 +66,7 @@
 * [Vergadering Assistent](skills/meeting-assistant.md)
 * [GEO Optimizer](skills/geo-optimizer.md)
 * [SEO Optimizer](skills/seo-optimizer.md)
+* [Deep Research](skills/deep-research.md)
 * [Gmail](skills/gmail.md)
 * [Google Calendar](skills/google-calendar.md)
 * [Google Drive](skills/google-drive.md)
