@@ -86,3 +86,56 @@ Als je Google Calendar hebt verbonden (Settings → Integraties), verschijnt een
 ## Credits
 
 Elke automatische uitvoering verbruikt credits op basis van de complexiteit van de taak en het gebruikte model. Bekijk de creditkosten per uitvoering in de uitvoeringsgeschiedenis.
+
+---
+
+## Tabs: Workflows en Templates
+
+De pagina heeft twee tabs bovenaan:
+
+- **Workflows** , je actieve geplande workflows met kalender + lijst + slot-pakketten
+- **Templates** , kant-en-klare voorbeelden om snel een workflow op te zetten
+
+Je kunt direct linken naar een tab via `?tab=workflows` of `?tab=templates` in de URL , handig om te delen met je team.
+
+---
+
+## Workflow Templates
+
+In de Templates-tab vind je kant-en-klare voorbeelden voor terugkerende workflows. Elke template heeft een titel, korte beschrijving en de skills die nodig zijn.
+
+### Voor jou
+
+Bovenaan staat een rij **Voor jou**: zes templates die het beste passen bij jouw plan en de skills die je actief hebt. Klik op de **Vernieuwen** knop voor een nieuwe selectie.
+
+### Categorie-secties
+
+Daaronder zie je de templates per categorie: Marketing, Sales, Content, Onderzoek, Communicatie, Rapportage, Operaties en Persoonlijk. Elke categorie heeft zijn eigen indigo icoon.
+
+### Zoeken en filteren
+
+- **Zoekbalk** rechts bovenaan filtert op titel, beschrijving en skill-slug
+- **Categorie-dropdown** beperkt de weergave tot één categorie
+
+### Een template gebruiken
+
+Klik op een template-card om een formulier te openen met:
+- Titel en instructie al ingevuld
+- Frequentie (dagelijks, wekelijks, maandelijks)
+- Tijdstip en eventueel dag van de week of maand
+
+In de instructie zie je teksten tussen blokhaken zoals `[mijn segment-naam]`. **Vervang die door je eigen gegevens** (e-mailadres, segmentnaam, klantnaam, bestemming, etc). Wat je weglaat, vraagt de assistent bij de eerste uitvoering.
+
+### Skills die nog niet actief zijn
+
+Als een template skills nodig heeft die jij nog niet hebt geactiveerd, zie je:
+- **Geel waarschuwingsbadge** op de template-card (rechts naast de tier-badge) met het aantal ontbrekende skills
+- **Oranje waarschuwingsbanner in het formulier** met directe link naar de Skills marketplace
+
+Je kunt de workflow nog wel aanmaken, maar hij faalt bij elke uitvoering tot de skills geactiveerd zijn.
+
+### Geen template gevonden?
+
+Als je zoekopdracht geen resultaten oplevert verschijnen twee knoppen:
+- **Nieuwe workflow** , maak zelf een workflow vanaf nul (open formulier zonder template)
+- **Template aanvragen** , beschrijf welke workflow je mist; je aanvraag komt direct bij dGENIX support en we voegen geschikte templates toe

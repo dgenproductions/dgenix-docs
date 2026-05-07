@@ -107,3 +107,43 @@ Spraakberichten via Telegram worden ook verwerkt — de assistent transcribeert 
 Via het paperclip-icoon in het invoerveld kun je bestanden meesturen met je bericht:
 - Afbeeldingen → de assistent bekijkt en beschrijft ze
 - PDF/Word → de assistent leest de inhoud
+
+## Camera in de chat
+
+Klik op de **+** knop links van het invoerveld en kies **Camera / Selfie** om een foto te maken zonder de chat te verlaten.
+
+Hoe het werkt:
+- Live camera-preview opent in een venster
+- Knop in het midden = foto maken
+- Knop met pijl = wisselen tussen voor- en achtercamera (op apparaten met meerdere camera's)
+- Na het maken kun je de foto opnieuw maken of bevestigen
+- Bevestigde foto wordt direct als bijlage toegevoegd aan je volgende bericht
+
+Werkt op desktop (webcam) en mobiel (selfie + achtercamera). Bij eerste gebruik vraagt je browser om toestemming voor de camera.
+
+## Persoonlijke suggesties op het lege chatscherm
+
+Als je een nieuw gesprek opent zie je 6 suggestiekaarten. Klik er één om de tekst direct in je invoerveld te zetten , je kunt nog aanpassen voor je verstuurt.
+
+Hoe ze gekozen worden:
+- Op basis van je plan (Free/Starter/Growth/Pro)
+- Suggesties voor skills die jij actief hebt komen vaker bovenaan
+- Suggesties voor skills die op je plan beschikbaar zijn maar nog niet actief, worden ook getoond , handig om te ontdekken wat dGENIX nog meer kan
+
+Klik op de **Vernieuwen / Shuffle** knop rechtsboven de cards voor een nieuwe set.
+
+## Tools-knop , modes voor diepere antwoorden
+
+Naast de **+** knop staat een **gereedschaps-icoon (Tools)**. Klik om uit 5 modes te kiezen die je antwoord op een andere manier laten genereren:
+
+| Mode | Plan | Wat het doet |
+|---|---|---|
+| **Deep Research** | Growth+ | Multi-iteratie web search met genummerde bronnenlijst , ideaal voor markt- en concurrentie-analyses |
+| **SEO Optimizer** | Growth+ | Audit van een URL met top 5 verbeterpunten |
+| **GEO Optimizer** | Pro+ | Audit voor AI-zoekmachines (ChatGPT, Claude, Perplexity) |
+| **Stap-voor-stap** | Alle plannen | Antwoord in genummerde stappen, ideaal voor handleidingen |
+| **Web zoeken aan** | Alle plannen | Forceer web search bij dit bericht voor actuele info met bronvermelding |
+
+Een actieve mode toont een indigo chip boven het invoerveld met een kruisje om hem uit te schakelen. Bij modes die een specifieke skill nodig hebben (Deep Research, SEO/GEO) krijg je een upgrade- of activeer-melding als je die nog niet hebt.
+
+Bronnen die de assistent gebruikt verschijnen automatisch als klikbare links onderaan zijn antwoord.
