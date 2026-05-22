@@ -17,7 +17,7 @@ Met de Gmail-skill leest, schrijft en beheert je assistent je e-mail via het das
 ## Vereisten
 
 - **Plan:** Starter, Growth of Pro (inbegrepen bij alle plannen)
-- **Integratie:** Google-account koppelen via **Dashboard → Instellingen → Integraties**
+- **Integratie:** Google-account koppelen via **Dashboard → Connectors**
 
 ---
 
@@ -25,8 +25,8 @@ Met de Gmail-skill leest, schrijft en beheert je assistent je e-mail via het das
 
 1. Ga naar **Dashboard → Skills**
 2. Klik op **"Activeer"** bij Gmail
-3. Je wordt doorgestuurd naar **Instellingen → Integraties**
-4. Klik op **"Koppel Google"** en doorloop het Google consent-scherm
+3. Ga naar **Dashboard → Connectors**
+4. Klik op **"Verbinden"** bij Gmail en doorloop het Google consent-scherm
 5. Na goedkeuring is Gmail direct actief
 
 ---

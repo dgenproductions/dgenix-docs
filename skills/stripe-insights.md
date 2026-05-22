@@ -25,7 +25,7 @@ Vraag omzetdata, betalingsinformatie en klantgegevens op uit je Stripe-account �
 
 1. Ga naar **Dashboard → Skills**
 2. Klik op **"Activeer"** bij Stripe Inzichten
-3. Ga naar **Dashboard → Instellingen → Integraties**
+3. Ga naar **Dashboard → Connectors**
 4. Maak in je Stripe Dashboard een **Restricted Key** aan met lees-rechten
 5. Voer de API-sleutel in bij dGENIX
 6. De skill is direct actief

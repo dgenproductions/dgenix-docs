@@ -25,7 +25,7 @@ Beheer je Instagram Direct Messages via je AI-assistent. Lees inkomende DMs, kwa
 
 1. Ga naar **Dashboard → Skills**
 2. Klik op **"Activeer"** bij Instagram DM Manager
-3. Ga naar **Dashboard → Instellingen → Integraties**
+3. Ga naar **Dashboard → Connectors**
 4. Voer je Instagram Business API credentials in (Access Token, Business Account ID)
 5. De skill is direct actief
 

@@ -25,7 +25,7 @@ Beheer je Notion-workspace via chat. Maak pagina's aan, werk bestaande content b
 
 1. Ga naar **Dashboard → Skills**
 2. Klik op **"Activeer"** bij Notion
-3. Ga naar **Dashboard → Instellingen → Integraties**
+3. Ga naar **Dashboard → Connectors**
 4. Klik op **"Verbinden"** bij Notion
 5. Log in met je Notion-account en geef toegang
 6. De skill is direct actief na verbinding

@@ -24,7 +24,7 @@ Publiceer LinkedIn-posts en bekijk statistieken via je AI-assistent. Schrijf, op
 
 1. Ga naar **Dashboard → Skills**
 2. Klik op **"Activeer"** bij LinkedIn Automation
-3. Ga naar **Dashboard → Instellingen → Integraties**
+3. Ga naar **Dashboard → Connectors**
 4. Klik op **"Verbinden"** bij LinkedIn
 5. Log in met je LinkedIn-account en geef toegang
 6. De skill is actief na verbinding

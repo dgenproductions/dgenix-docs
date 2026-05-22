@@ -25,7 +25,7 @@ Beheer je HubSpot CRM direct via chat. Voeg contacten toe, werk deals bij en hou
 
 1. Ga naar **Dashboard → Skills**
 2. Klik op **"Activeer"** bij HubSpot CRM
-3. Ga naar **Dashboard → Instellingen → Integraties**
+3. Ga naar **Dashboard → Connectors**
 4. Maak in HubSpot een **Private App** aan: *Instellingen → Integraties → Private Apps*
 5. Geef de scopes: `crm.objects.contacts.read/write`, `crm.objects.deals.read/write`, `crm.objects.notes.write`
 6. Voer het gegenereerde token in bij dGENIX

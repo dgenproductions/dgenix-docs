@@ -93,13 +93,26 @@
 * [Alle plannen](plannen-en-prijzen/README.md)
 * [Credits bijkopen](plannen-en-prijzen/credits-bijkopen.md)
 
-## Integraties
+## Connectors
+
+* [Connectors overzicht](connectors/README.md)
+* [Gmail / Google Workspace](connectors/gmail.md)
+* [Google Drive](connectors/google-drive.md)
+* [Google Calendar](connectors/google-calendar.md)
+* [Google Sheets](connectors/google-sheets.md)
+* [Slack](connectors/slack.md)
+* [Notion](connectors/notion.md)
+* [LinkedIn](connectors/linkedin.md)
+* [WhatsApp Business](connectors/whatsapp-business.md)
+* [Instagram Business](connectors/instagram.md)
+* [Stripe](connectors/stripe.md)
+* [HubSpot](connectors/hubspot.md)
+* [Microsoft 365](connectors/microsoft-365.md)
+* [Canva](connectors/canva.md)
+
+## Integraties (legacy)
 
 * [Telegram verbinden](integraties/telegram.md)
-* [Gmail koppelen](integraties/gmail.md)
-* [Google Calendar koppelen](integraties/google-calendar.md)
-* [Google Drive koppelen](integraties/google-drive.md)
-* [Google Sheets koppelen](integraties/google-sheets.md)
 
 ## Overig
 

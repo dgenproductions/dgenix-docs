@@ -7,14 +7,14 @@ Maak en exporteer Canva designs direct vanuit je AI-assistent. Zoek bestaande de
 ## Vereisten
 
 - Plan: **Starter** of hoger (inbegrepen bij alle plannen)
-- Integraties: Canva account koppelen via **Instellingen → Integraties → Canva**
+- Integraties: Canva account koppelen via **Dashboard → Connectors**
 
 > ⚠️ De Canva skill is momenteel in voorbereiding (coming soon). Zodra de Canva developer API beschikbaar is, wordt de koppeling geactiveerd.
 
 ## Hoe activeer je de skill?
 
-1. Ga naar **Instellingen** → **Integraties**
-2. Klik op **Canva koppelen** en log in met je Canva account
+1. Ga naar **Dashboard → Connectors**
+2. Klik op **Verbinden** bij Canva en log in met je Canva account
 3. Geef de gevraagde toegangsrechten
 4. Ga naar **Skills** in je dashboard en activeer **Canva**
 5. De skill is direct beschikbaar via de web-assistent

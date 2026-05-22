@@ -11,6 +11,10 @@ Verstuur berichten, lees kanaalupdates en automatiseer teamcommunicatie via je A
 - Thread-samenvattingen ophalen
 - Automatische statusupdates bij taakvoltooiing
 - Kanalen overzichtelijk weergeven
+- Berichten doorzoeken op trefwoord of periode
+- Direct messages sturen naar individuele teamleden
+- Reageren op berichten met emoji-reacties
+- Nieuwe kanalen aanmaken voor projecten of teams
 
 ---
 
@@ -25,7 +29,7 @@ Verstuur berichten, lees kanaalupdates en automatiseer teamcommunicatie via je A
 
 1. Ga naar **Dashboard → Skills**
 2. Klik op **"Activeer"** bij Slack
-3. Ga naar **Dashboard → Instellingen → Integraties**
+3. Ga naar **Dashboard → Connectors**
 4. Klik op **"Verbinden"** bij Slack
 5. Log in met je Slack-workspace en geef toegang
 6. De skill is direct actief na verbinding
@@ -51,8 +55,11 @@ Stuur een update naar #sales over de deal met Klant X
 | Actie | ~Credits |
 |---|---|
 | Kanaal lezen + samenvatten | ~40 cr |
-| Bericht versturen | ~30 cr |
+| Bericht versturen (kanaal of DM) | ~30 cr |
 | Thread samenvatten | ~50 cr |
+| Berichten doorzoeken | ~25 cr |
+| Reageren op bericht | ~15 cr |
+| Kanaal aanmaken | ~20 cr |
 
 ---
 
