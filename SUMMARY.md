@@ -48,7 +48,6 @@
 * [AI Beeldbewerking](skills/image-resizer.md)
 * [AI Content Engine](skills/ai-content-engine.md)
 * [SEO Blog Schrijver](skills/seo-blog.md)
-* [Video Clipper Pro](skills/video-clipper-pro.md)
 * [Nieuws & Research](skills/nieuws-research.md)
 * [Lead Research & Outreach](skills/lead-research.md)
 * [Client Onboarding](skills/client-onboarding.md)
@@ -113,6 +112,7 @@
 ## Integraties (legacy)
 
 * [Telegram verbinden](integraties/telegram.md)
+* [YouTube koppelen](integraties/youtube.md)
 
 ## Overig
 
