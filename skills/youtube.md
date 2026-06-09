@@ -2,7 +2,7 @@
 
 ## Wat doet deze skill?
 
-De YouTube skill analyseert je YouTube-kanaaldata, genereert video-ideeën op basis van je statistieken en maakt professionele upload-checklists. Gekoppeld via Google OAuth zodat de assistent jouw kanaaldata direct kan ophalen.
+De YouTube skill analyseert je kanaaldata, genereert video-ideeën, maakt upload-checklists en toont analytics inzichten. Gekoppeld via Google OAuth zodat je assistent live kanaaldata kan ophalen.
 
 ## Vereisten
 
@@ -12,9 +12,11 @@ De YouTube skill analyseert je YouTube-kanaaldata, genereert video-ideeën op ba
 ## Google YouTube koppelen
 
 1. Ga naar **Instellingen → Integraties**
-2. Klik op **YouTube** en vervolgens **Koppelen**
+2. Klik op **YouTube Manager** en vervolgens **Koppelen**
 3. Log in met je Google-account en geef toestemming
-4. Je kanaal is nu gekoppeld
+4. Je kanaal is direct actief
+
+> Als je YouTube al eerder koppelde: verbreek de verbinding en koppel opnieuw om Analytics-rechten te activeren.
 
 ## Wat kun je ermee?
 
@@ -22,24 +24,35 @@ De YouTube skill analyseert je YouTube-kanaaldata, genereert video-ideeën op ba
 > "Analyseer mijn YouTube kanaal en laat de laatste 10 video's zien"
 
 **Video-ideeën genereren:**
-> "Genereer 10 video-ideeën voor mijn kanaal op basis van mijn beste video's"
+> "Genereer 10 video-ideeën voor mijn kanaal in de niche fitness"
 
 **Upload-checklist maken:**
-> "Maak een upload-checklist voor mijn volgende YouTube video over [onderwerp]"
+> "Maak een upload-checklist voor mijn video over thuistraining"
 
-**Andere voorbeelden:**
-- Trends in eigen kanaal ontdekken
-- Beste uploaddag/-tijdstip analyseren
-- SEO-beschrijving en tags genereren
+**Video statistieken ophalen:**
+> "Wat zijn de statistieken van video dQw4w9WgXcQ?"
+
+**Reacties analyseren:**
+> "Analyseer de reacties op mijn laatste video op contentkansen"
+
+**Analytics rapport:**
+> "Geef een analytics rapport voor de afgelopen 28 dagen"
+
+**Doelgroepinzichten:**
+> "Wanneer kan ik mijn video's het beste uploaden?"
 
 ## Creditkosten
 
 | Actie | Credits |
-|---|---|
+| --- | --- |
 | Kanaal analyseren | 10 cr |
-| Video-ideeën genereren | 15 cr |
-| Upload-checklist maken | 10 cr |
+| Video-ideeën genereren | 50 cr |
+| Upload-checklist maken | 40 cr |
+| Video statistieken | 25 cr |
+| Reacties analyseren | 35 cr |
+| Analytics rapport | 40 cr |
+| Doelgroepinzichten | 30 cr |
 
 ---
 
-*dGENIX — Growth skill — Vereist: Google OAuth (YouTube)*
+dGENIX — Growth skill — Vereist: Google OAuth (YouTube + YouTube Analytics)
