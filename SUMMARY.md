@@ -86,6 +86,11 @@
 * [Team Assistent](skills/team-assistant.md)
 * [White Label Content](skills/white-label.md)
 * [Eigen Workflows](skills/custom-workflows.md)
+* [Google Bedrijfsprofiel](skills/google-business-profile.md)
+* [Google Analytics](skills/google-analytics.md)
+* [Google Docs](skills/google-docs.md)
+* [Search Console](skills/google-search-console.md)
+* [Google Taken](skills/google-tasks.md)
 
 ## Plannen & Prijzen
 
