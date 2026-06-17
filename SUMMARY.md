@@ -100,6 +100,7 @@
 ## Connectors
 
 * [Connectors overzicht](connectors/README.md)
+* [MCP-connectors](connectors/mcp-connectors.md)
 * [Gmail / Google Workspace](connectors/gmail.md)
 * [Google Drive](connectors/google-drive.md)
 * [Google Calendar](connectors/google-calendar.md)

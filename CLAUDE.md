@@ -164,3 +164,4 @@ Bij elke nieuwe skill die live gaat in de agent (FASE 2 van het uitvoerplan):
 | skills/youtube.md | ✅ Live |
 | skills/dagplanner.md | ✅ Live |
 | skills/news.md | 🔜 Bouwen zodra Daily News skill live is |
+| connectors/mcp-connectors.md | ✅ Live — MCP-connectors uitleg (Model Context Protocol, eigen account, credits, OAuth/API-sleutel) — 16 juni 2026 |

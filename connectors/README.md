@@ -50,6 +50,14 @@ Connectors zijn externe koppelingen die je aan je AI-assistent toevoegt. Via **D
 
 ---
 
+### Uitbreidbaar via MCP
+
+| Connector | Skills | Plan |
+|---|---|---|
+| [MCP-connectors](mcp-connectors.md) | Groeiend ecosysteem via Model Context Protocol | Growth+ |
+
+---
+
 ## OAuth vs. API-sleutel
 
 **OAuth (klik + autoriseer):** Gmail, Google Calendar, Google Drive, Google Sheets, Slack, Notion, LinkedIn, Microsoft 365, Canva
