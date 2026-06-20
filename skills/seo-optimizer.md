@@ -20,13 +20,14 @@ SEO Optimizer analyseert je webpagina's op alle technische SEO-factoren: on-page
 
 ### Website audit
 
-Voer een audit uit op elke pagina die je wilt verbeteren. Kies uit drie dieptes:
+Voer een audit uit op elke pagina die je wilt verbeteren. Kies uit vier dieptes:
 
 | Type | Inhoud | Credits |
 |---|---|---|
-| Quick Check | Basisscores, on-page elementen | 1.000 cr |
-| Standaard Audit | Volledige analyse, 4 categorieën | 3.000 cr |
-| Deep Audit | Tot 10 subpagina's analyseren | 8.000 cr |
+| Quick Check | Basisscores, on-page elementen | 1.500 cr |
+| Standaard Audit | Volledige analyse, 4 categorieën, 5 pagina's | 4.000 cr |
+| Deep Audit | Tot 10 subpagina's analyseren | 10.000 cr |
+| **Max Audit** | Deep + JS-rendering + echte Core Web Vitals + keyword-posities & zoekvolume | 22.000 cr |
 
 ### Wat wordt gemeten?
 
@@ -36,9 +37,17 @@ Voer een audit uit op elke pagina die je wilt verbeteren. Kies uit drie dieptes:
 
 **Content** — leesbaarheid, keyword density (indien opgegeven), tekstlengte, unieke content signalen.
 
-**Technisch** — HTTPS, canonical tag, viewport meta, robots.txt, laadtijd indicatoren, gebroken links.
+**Technisch** — HTTPS, canonical tag, viewport meta, robots.txt, **echte Core Web Vitals** (LCP/INP/CLS via Google PageSpeed), Open Graph, alt-teksten.
 
 **Structuur** — URL-diepte, breadcrumb aanwezigheid, interne linkstructuur, sitemap verwijzingen.
+
+### Max Audit , de diepste analyse
+
+De **Max Audit** voegt drie dingen toe bovenop een Deep Audit:
+
+- **JavaScript-rendering** , de pagina wordt eerst volledig geladen (zoals in een echte browser), zodat content die via JavaScript binnenkomt (Wix, Shopify, React) ook wordt geanalyseerd.
+- **Echte Core Web Vitals** , LCP, INP en CLS uit Google PageSpeed Insights in plaats van een schatting.
+- **Keyword-posities & zoekvolume** , voor welke zoekwoorden je site rankt, op welke positie, met het maandelijkse zoekvolume (via DataForSEO).
 
 ### Doelzoekwoord opgeven
 
@@ -55,9 +64,10 @@ Per audit krijg je:
 
 | Actie | Credits |
 |---|---|
-| Quick Check | 1.000 |
-| Standaard Audit | 3.000 |
-| Deep Audit (tot 10 pagina's) | 8.000 |
+| Quick Check | 1.500 |
+| Standaard Audit | 4.000 |
+| Deep Audit (tot 10 pagina's) | 10.000 |
+| Max Audit (+ render + CWV + keywords) | 22.000 |
 
 ## Tips
 

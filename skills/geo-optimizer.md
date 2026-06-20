@@ -19,13 +19,14 @@ GEO Optimizer analyseert je website op zichtbaarheid in AI-zoekmachines zoals Ch
 ## Wat kun je ermee?
 
 ### Website audit
-Voer een audit uit op elke website die je beheert. Kies uit drie dieptes:
+Voer een audit uit op elke website die je beheert. Kies uit vier dieptes:
 
 | Type | Inhoud | Credits |
 |---|---|---|
-| Quick Check | 1 pagina, basisscores | 5.000 cr |
-| Standaard Audit | 1 pagina, volledig | 15.000 cr |
-| Deep Audit | Tot 10 pagina's via sitemap | 40.000 cr |
+| Quick Check | 1 pagina, basisscores | 8.000 cr |
+| Standaard Audit | 5 pagina's + schema-analyse | 20.000 cr |
+| Deep Audit | Tot 10 pagina's via sitemap + cross-page | 55.000 cr |
+| **Max Audit** | Deep + JS-rendering + echte Core Web Vitals + **AI Share-of-Voice** (4 engines) | 95.000 cr |
 
 ### Wat wordt gemeten?
 
@@ -33,11 +34,17 @@ De **GEO Score** (0–100) is samengesteld uit vijf factoren:
 
 | Factor | Gewicht | Wat het meet |
 |---|---|---|
-| Citability | 25% | Hoe goed je content geciteerd kan worden door AI |
-| Crawler Access | 25% | Of 14 AI-bots toegang hebben tot je site |
-| Technical | 20% | HTTPS, meta tags, heading structuur, HTML vs JS-only |
+| Citability | 30% | Hoe goed je content geciteerd kan worden door AI (directe antwoorden, lengte, leesbaarheid, concrete cijfers) |
+| Crawler Access | 20% | Of de 14 AI-bots toegang hebben tot je site (retrieval-bots niet blokkeren) |
+| Entiteit & Autoriteit | 20% | Organization-schema, sameAs-links, Person-schema , herkent AI je merk als entiteit |
+| Technical | 15% | HTTPS, leesbare HTML-content, canonical, echte Core Web Vitals |
 | Schema | 15% | Volledigheid van JSON-LD schema markup |
-| AI Visibility | 15% | llms.txt aanwezig, noai/noindex afwezig |
+
+### AI Share of Voice (Max Audit)
+
+De **Max Audit** is de echte differentiator. We genereren realistische klantvragen in jouw niche en stellen die aan **Claude, ChatGPT, Gemini én Perplexity**. Vervolgens meten we hoe vaak jouw merk genoemd of geciteerd wordt , je **Share of Voice** in AI-antwoorden, per engine en als totaalpercentage. Plus JS-rendering en echte Core Web Vitals.
+
+Waar klassieke SEO posities in Google meet, meet dit of AI jou daadwerkelijk noemt , steeds vaker de eerste plek waar klanten een antwoord krijgen.
 
 ### 14 AI-crawlers gecontroleerd
 
@@ -67,9 +74,10 @@ Meer info: [llmstxt.org](https://llmstxt.org)
 
 | Actie | Credits |
 |---|---|
-| Quick Check | 5.000 |
-| Standaard Audit | 15.000 |
-| Deep Audit (10 pagina's) | 40.000 |
+| Quick Check | 8.000 |
+| Standaard Audit | 20.000 |
+| Deep Audit (10 pagina's) | 55.000 |
+| Max Audit (+ render + CWV + AI Share-of-Voice) | 95.000 |
 | AI Fix genereren | 8.000 |
 | Schema markup genereren | 5.000 |
 | llms.txt genereren | 8.000 |
