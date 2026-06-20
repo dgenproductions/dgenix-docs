@@ -1,4 +1,4 @@
-# SEO Optimizer
+# SEO Engine
 
 ## Wat doet deze skill?
 

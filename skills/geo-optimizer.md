@@ -1,4 +1,4 @@
-# GEO Optimizer
+# GEO Engine
 
 ## Wat doet deze skill?
 
