@@ -44,6 +44,12 @@ De **GEO Score** (0–100) is samengesteld uit vijf factoren:
 
 De **Max Audit** is de echte differentiator. We genereren realistische klantvragen in jouw niche en stellen die aan **Claude, ChatGPT, Gemini én Perplexity**. Vervolgens meten we hoe vaak jouw merk genoemd of geciteerd wordt , je **Share of Voice** in AI-antwoorden, per engine en als totaalpercentage. Plus JS-rendering en echte Core Web Vitals.
 
+De Max Audit laat daarnaast zien:
+
+- **Concurrent-vergelijking** , geef een concurrent op en je ziet jullie Share of Voice naast elkaar.
+- **Geciteerde bronnen** , welke domeinen de AI-engines noemen (jouw site en die van de concurrent gemarkeerd).
+- **Per-prompt zichtbaarheid** , in welke vragen jouw merk wel of niet genoemd wordt, per engine.
+
 Waar klassieke SEO posities in Google meet, meet dit of AI jou daadwerkelijk noemt , steeds vaker de eerste plek waar klanten een antwoord krijgen.
 
 ### 14 AI-crawlers gecontroleerd

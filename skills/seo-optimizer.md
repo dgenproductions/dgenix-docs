@@ -37,7 +37,7 @@ Voer een audit uit op elke pagina die je wilt verbeteren. Kies uit vier dieptes:
 
 **Content** — leesbaarheid, keyword density (indien opgegeven), tekstlengte, unieke content signalen.
 
-**Technisch** — HTTPS, canonical tag, viewport meta, robots.txt, **echte Core Web Vitals** (LCP/INP/CLS via Google PageSpeed), Open Graph, alt-teksten.
+**Technisch** — HTTPS, canonical tag, viewport meta, **echte Core Web Vitals** (LCP/INP/CLS via Google PageSpeed), Open Graph, alt-teksten. Plus de **fundamenten**: robots.txt-validatie, XML-sitemap-check, **gebroken links** (4xx/5xx) en **redirect-ketens** (inclusief HTTP→HTTPS).
 
 **Structuur** — URL-diepte, breadcrumb aanwezigheid, interne linkstructuur, sitemap verwijzingen.
 
@@ -47,7 +47,7 @@ De **Max Audit** voegt drie dingen toe bovenop een Deep Audit:
 
 - **JavaScript-rendering** , de pagina wordt eerst volledig geladen (zoals in een echte browser), zodat content die via JavaScript binnenkomt (Wix, Shopify, React) ook wordt geanalyseerd.
 - **Echte Core Web Vitals** , LCP, INP en CLS uit Google PageSpeed Insights in plaats van een schatting.
-- **Keyword-posities & zoekvolume** , voor welke zoekwoorden je site rankt, op welke positie, met het maandelijkse zoekvolume (via DataForSEO).
+- **Keyword-posities & zoekvolume** , voor welke zoekwoorden je site rankt, op welke positie, met het maandelijkse zoekvolume (via DataForSEO). Instelbaar **per land en taal**, zodat de data klopt voor jouw markt (NL, BE, DE, UK, US en meer).
 
 ### Doelzoekwoord opgeven
 
