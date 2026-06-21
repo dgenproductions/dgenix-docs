@@ -6,6 +6,7 @@ De **Authority Engine** is de stap van *meten* naar *doen*: GENI schrijft verbet
 
 1. **Koppel je CMS** , verbind WordPress (Application Password) of Webflow (API key + collection ID) in het Authority-dashboard.
 2. **Genereer content** , geef een onderwerp (en optioneel een doelzoekwoord) op. GENI schrijft een origineel, E-E-A-T-gericht artikel. Dit blijft een **concept in dGENIX** , er gaat niets naar je site.
+   - **Of bouw een topical map** , geef een hoofdonderwerp en GENI maakt een **pillar + clusterartikelen** (keyword-clustering). Genereer per stuk een concept; clusterartikelen verwijzen automatisch intern naar de pillar , de bewezen structuur voor topical authority.
 3. **Beoordeel in de wachtrij** , bekijk het concept in de goedkeuringswachtrij.
 4. **Jij beslist** , kies per stuk:
    - **Naar CMS als concept** , wordt als draft in je CMS gezet (jij publiceert daar zelf).
