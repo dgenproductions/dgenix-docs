@@ -60,6 +60,10 @@ Per audit krijg je:
 - **Issues** gesorteerd op ernst (Kritiek / Hoog / Medium / Laag) met type en beschrijving
 - **Aanbevelingen** gesorteerd op prioriteit (High / Medium) met concrete actiestappen en verwacht resultaat
 
+### Exporteren & vergelijken
+
+Exporteer elk rapport als **PDF** (client-ready) of **CSV** (scores, issues, keywords en concurrenten , handig voor bureaus). Bij een tweede audit toont het dashboard automatisch de **verandering t.o.v. de vorige audit** (score, deelscores en aantal problemen) plus je **vooruitgang over tijd**.
+
 ## Creditkosten
 
 | Actie | Credits |

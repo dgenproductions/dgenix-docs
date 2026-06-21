@@ -71,6 +71,10 @@ Na een audit kun je met één klik concrete fixes laten genereren:
 | Schema markup (JSON-LD) | 5.000 cr |
 | llms.txt bestand | 8.000 cr |
 
+### Exporteren & vergelijken
+
+Exporteer elk GEO-rapport als **PDF** of **CSV** (Share-of-Voice per engine, geciteerde bronnen, per-prompt zichtbaarheid). Bij een volgende audit zie je automatisch de **verandering t.o.v. de vorige audit** plus je **AI Share-of-Voice-trend** over tijd.
+
 ## Wat is llms.txt?
 
 `llms.txt` is een standaard bestand (vergelijkbaar met `robots.txt`) waarmee je AI-zoekmachines vertelt welke content ze mogen lezen en indexeren. De GEO Optimizer genereert een op maat gemaakt `llms.txt` bestand op basis van je website-inhoud.
