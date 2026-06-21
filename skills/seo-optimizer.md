@@ -37,7 +37,7 @@ Voer een audit uit op elke pagina die je wilt verbeteren. Kies uit vier dieptes:
 
 **Content** — leesbaarheid, keyword density (indien opgegeven), tekstlengte, unieke content signalen.
 
-**Technisch** — HTTPS, canonical tag, viewport meta, **echte Core Web Vitals** (LCP/INP/CLS via Google PageSpeed), Open Graph, alt-teksten. Plus de **fundamenten**: robots.txt-validatie, XML-sitemap-check, **gebroken links** (4xx/5xx) en **redirect-ketens** (inclusief HTTP→HTTPS).
+**Technisch** — HTTPS, canonical tag, viewport meta, **echte Core Web Vitals** (LCP/INP/CLS via Google PageSpeed, instelbaar mobiel/desktop), Open Graph, alt-teksten. Plus de **fundamenten**: robots.txt-validatie, XML-sitemap-check, **gebroken links** (4xx/5xx), **redirect-ketens** (inclusief HTTP→HTTPS), **mixed-content**, **hreflang** en verouderd **beeldformaat** (WebP/AVIF-advies).
 
 **Structuur** — URL-diepte, breadcrumb aanwezigheid, interne linkstructuur, sitemap verwijzingen.
 

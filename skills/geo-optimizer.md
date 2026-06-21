@@ -49,6 +49,7 @@ De Max Audit laat daarnaast zien:
 - **Concurrent-vergelijking** , geef een concurrent op en je ziet jullie Share of Voice naast elkaar.
 - **Geciteerde bronnen** , welke domeinen de AI-engines noemen (jouw site en die van de concurrent gemarkeerd).
 - **Per-prompt zichtbaarheid** , in welke vragen jouw merk wel of niet genoemd wordt, per engine.
+- **Sentiment** , de toon waarmee je merk in de AI-antwoorden genoemd wordt (positief, neutraal of negatief) met korte toelichting.
 
 Waar klassieke SEO posities in Google meet, meet dit of AI jou daadwerkelijk noemt , steeds vaker de eerste plek waar klanten een antwoord krijgen.
 
