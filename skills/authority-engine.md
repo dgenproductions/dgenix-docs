@@ -23,4 +23,4 @@ De **Authority Engine** is de stap van *meten* naar *doen*: GENI schrijft verbet
 
 ## Beschikbaarheid
 
-Inbegrepen vanaf het **Pro-plan**. Ondersteunde CMS'en: **WordPress, WooCommerce, Webflow, Shopify, HubSpot, Wix**. Storyblok en Magento volgen.
+Inbegrepen vanaf het **Pro-plan**. Ondersteunde CMS'en: **WordPress, WooCommerce, Webflow, Shopify, HubSpot, Wix, Storyblok, Magento**. (Framer volgt zodra hun schrijf-API volwassen is.)
