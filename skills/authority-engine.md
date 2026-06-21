@@ -14,6 +14,10 @@ De **Authority Engine** is de stap van *meten* naar *doen*: GENI schrijft verbet
    - **Verwerp** , gooi het concept weg.
 5. **Rollback** , een live of in-CMS gezet item kun je met één klik terugzetten naar concept.
 
+## Via GENI en op de automaat
+
+De Authority Engine is een echte skill van GENI. Je kunt 'm dus ook gewoon **vragen in de chat** ("schrijf een concept over X" of "bouw een topical map over Y"), en , belangrijker , **inplannen via Automations**. Maak op de Tasks-pagina een geplande taak (of gebruik een kant-en-klare template als "Wekelijks contentconcept"), en GENI schrijft op jouw ritme nieuwe concepten. Die landen altijd in de goedkeuringswachtrij , publiceren blijft jouw keuze.
+
 ## Veilig by design
 
 - **Draft-first** , GENI raakt je site nooit aan zonder dat jij expliciet publiceert.
