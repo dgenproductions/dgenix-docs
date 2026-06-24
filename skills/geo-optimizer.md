@@ -53,6 +53,19 @@ De Max Audit laat daarnaast zien:
 
 Waar klassieke SEO posities in Google meet, meet dit of AI jou daadwerkelijk noemt , steeds vaker de eerste plek waar klanten een antwoord krijgen.
 
+### AI-visibility-meter, trend & AI-zoekvolume
+
+Boven op de Share-of-Voice toont de GEO Engine:
+
+- **AI-visibility-meter** , één heldere status ("Great / Good") op basis van je Share-of-Voice.
+- **Trend per engine** , je AI-zichtbaarheid over tijd, totaal én per engine (Claude, ChatGPT, Gemini, Perplexity).
+- **AI-zoekvolume** , hoe vaak je kernzoekwoorden binnen AI-tools (ChatGPT e.d.) gevraagd worden , de vraag-kant naast je zichtbaarheid.
+- **Concurrent-gap** , de prompts waar je concurrent wél genoemd wordt en jij niet, plus de bronnen die hen citeren en jou niet.
+
+### Local SEO , Google Bedrijfsprofiel
+
+In de GEO Engine zit een **Local SEO-kaart**: typ een bedrijfsnaam + locatie en je krijgt de **rating**, het **aantal reviews**, de **categorie** en de **GBP-status** (geclaimd/niet geclaimd). Werkt voor elk bedrijf , ook je concurrenten. **1.500 credits** per check.
+
 ### 14 AI-crawlers gecontroleerd
 
 | Tier | Bots |
@@ -92,4 +105,5 @@ Meer info: [llmstxt.org](https://llmstxt.org)
 | AI Fix genereren | 8.000 |
 | Schema markup genereren | 5.000 |
 | llms.txt genereren | 8.000 |
+| Local SEO check (rating/reviews/GBP) | 1.500 |
 | Volledig optimalisatie pakket | 65.000 |

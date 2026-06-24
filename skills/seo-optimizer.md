@@ -64,6 +64,38 @@ Per audit krijg je:
 
 Exporteer elk rapport als **PDF** (client-ready) of **CSV** (scores, issues, keywords en concurrenten , handig voor bureaus). Bij een tweede audit toont het dashboard automatisch de **verandering t.o.v. de vorige audit** (score, deelscores en aantal problemen) plus je **vooruitgang over tijd**.
 
+## Site Audit , echte multi-page crawl
+
+Naast de snelle audit heeft de SEO Engine een **Site Audit**: een echte crawl van je hele site (geen losse pagina). Je krijgt een getabd paneel met **Overzicht**, **Issues** (met "hoe op te lossen" per type), **Crawled pages** en **Statistieken**, plus een **Site Health-meter**.
+
+| Tier | Pagina's | Inhoud | Credits |
+|---|---|---|---|
+| Light | tot 25 | 100+ checks, duplicate titles/descriptions, gebroken links, redirects | 6.000 cr |
+| Standaard | tot 50 | + meer resources en checks | 12.000 cr |
+| Pro | tot 100 | + JavaScript-rendering + Lighthouse | 22.000 cr |
+
+De pagina-limiet bepaalt de kosten , je houdt de crawl (en dus de credits) altijd in de hand.
+
+## Keyword Research
+
+Geef een zoekwoord en je krijgt een werkblad met **long-tail-ideeen**: maandelijks **zoekvolume**, **difficulty**, **zoekintentie** (informationeel/commercieel/transactioneel) en een **AI-Overview-kans**-vlag (kandidaten die goed scoren in AI-antwoorden). **500 credits** per zoekopdracht.
+
+## Links & Authority
+
+In de tab **Links** analyseer je je backlink-profiel:
+
+- **Authority Score** , je domein-autoriteit (0–100)
+- **Domein-overzicht** , backlinks, verwijzende domeinen, IP's, gebroken links, keywords
+- **Nieuwe & verloren** verwijzende domeinen over tijd
+- **Toxic / risico-domeinen** , verwijzende domeinen met een hoge spam-score
+- **(Pro) Link gap** , domeinen die je concurrent wél linken en jou niet, plus een domein-vs-domein vergelijking
+
+| Tier | Inhoud | Credits |
+|---|---|---|
+| Links Check | Authority + top verwijzende domeinen | 8.000 cr |
+| Links Audit | + new/lost + toxic-links | 15.000 cr |
+| Links Audit Pro | + concurrent link-gap + compare | 25.000 cr |
+
 ## Creditkosten
 
 | Actie | Credits |
@@ -72,6 +104,9 @@ Exporteer elk rapport als **PDF** (client-ready) of **CSV** (scores, issues, key
 | Standaard Audit | 4.000 |
 | Deep Audit (tot 10 pagina's) | 10.000 |
 | Max Audit (+ render + CWV + keywords) | 22.000 |
+| Site Audit (Light / Standaard / Pro) | 6.000 / 12.000 / 22.000 |
+| Keyword Research (per zoekopdracht) | 500 |
+| Links & Authority (Check / Audit / Pro) | 8.000 / 15.000 / 25.000 |
 
 ## Tips
 
