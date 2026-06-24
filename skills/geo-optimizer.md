@@ -62,6 +62,10 @@ Boven op de Share-of-Voice toont de GEO Engine:
 - **AI-zoekvolume** , hoe vaak je kernzoekwoorden binnen AI-tools (ChatGPT e.d.) gevraagd worden , de vraag-kant naast je zichtbaarheid.
 - **Concurrent-gap** , de prompts waar je concurrent wél genoemd wordt en jij niet, plus de bronnen die hen citeren en jou niet.
 
+### AI Overviews-tracking
+
+Naast AI-chatbots heeft Google nu **AI Overviews** bovenaan de zoekresultaten. In de GEO Engine kun je per zoekwoord checken of er een AI Overview verschijnt én of jouw site daarin **geciteerd** wordt (met je organische positie). Herhaalde checks bouwen een trend op. **400 credits per zoekwoord.**
+
 ### Local SEO , Google Bedrijfsprofiel
 
 In de GEO Engine zit een **Local SEO-kaart**: typ een bedrijfsnaam + locatie en je krijgt de **rating**, het **aantal reviews**, de **categorie** en de **GBP-status** (geclaimd/niet geclaimd). Werkt voor elk bedrijf , ook je concurrenten. **1.500 credits** per check.

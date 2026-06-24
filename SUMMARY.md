@@ -66,6 +66,7 @@
 * [GEO Engine](skills/geo-optimizer.md)
 * [SEO Engine](skills/seo-optimizer.md)
 * [Authority Engine](skills/authority-engine.md)
+* [Reputation Engine](skills/reputation-engine.md)
 * [Deep Research](skills/deep-research.md)
 * [Gmail](skills/gmail.md)
 * [Google Calendar](skills/google-calendar.md)
