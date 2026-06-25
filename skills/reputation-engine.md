@@ -23,7 +23,7 @@ Geef de campagne een naam en je bedrijfsnaam. Klik op **Zoek link** , we vinden 
 
 ### 2. Contacten toevoegen
 
-Plak de e-mailadressen van je eigen klanten (per regel of komma-gescheiden). Uitgeschreven adressen worden automatisch overgeslagen.
+Plak de e-mailadressen van je eigen klanten (per regel of komma-gescheiden), of klik op **Importeer uit Sheets** en plak een Google Sheets-link , we lezen de e-mailkolom automatisch uit (koppel eerst Google Sheets in Connectors). Uitgeschreven adressen worden automatisch overgeslagen.
 
 ### 3. Versturen
 
@@ -51,4 +51,3 @@ Je kunt GENI vragen om je review-link op te zoeken, de status van je campagnes t
 
 - Trustpilot en andere review-platformen
 - SMS-verzoeken als optionele add-on
-- Import vanuit Google Sheets
