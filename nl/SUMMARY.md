@@ -25,6 +25,7 @@
 
 * [Dashboard](functies/dashboard.md)
 * [AI Assistent (web chat)](functies/ai-assistent.md)
+* [Werkruimte](functies/werkruimte.md)
 * [Workflow Automations](functies/workflow-automations.md)
 * [Bestanden & Afbeeldingen](functies/bestanden.md)
 * [Projecten](functies/projecten.md)
