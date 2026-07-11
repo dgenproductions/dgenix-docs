@@ -57,6 +57,17 @@ In `Instellingen` kun je aanzetten dat GENI actiepunten uit je gesprekken detect
 
 ---
 
+## Slimme functies (vanaf Starter)
+
+De Werkruimte heeft een AI-laag die je helpt sneller vastleggen en terugvinden:
+
+- **Semantisch zoeken** , zoek op betekenis, niet alleen op exacte woorden. Typ een vraag in de zoekbalk (of vraag het GENI) en je vindt de juiste notitie ook zonder dezelfde woorden.
+- **Vergelijkbare notities** , in een geopende notitie zie je automatisch eerder opgeslagen notities die erbij passen.
+- **AI-tags** , laat GENI passende tags voorstellen op basis van de inhoud, met één klik.
+- **Voice-notities** , spreek je notitie in; GENI zet 'm om naar tekst en bewaart 'm meteen in je werkruimte.
+
+---
+
 ## Wat het kost
 
-Notities en taken zijn gratis op elk plan. De AI-functies (GENI die taken voorstelt en je werkruimte aanstuurt) zijn beschikbaar vanaf Starter.
+Notities en taken zijn gratis op elk plan. De AI-functies (semantisch zoeken, AI-tags, voice-notities en GENI die je werkruimte aanstuurt) zijn beschikbaar vanaf Starter. Voice-notities kosten een klein aantal credits per opname; zoeken en tags zijn inbegrepen.

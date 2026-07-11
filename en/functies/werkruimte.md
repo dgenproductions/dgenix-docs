@@ -57,6 +57,17 @@ In `Settings` you can enable GENI to detect action items from your conversations
 
 ---
 
+## Smart features (from Starter)
+
+The Workspace has an AI layer that helps you capture and find things faster:
+
+- **Semantic search** , search by meaning, not just exact words. Type a question in the search bar (or ask GENI) and you find the right note even without the same words.
+- **Similar notes** , inside an open note you automatically see earlier notes that relate to it.
+- **AI tags** , let GENI suggest fitting tags based on the content, in one click.
+- **Voice notes** , speak your note; GENI transcribes it and saves it straight to your workspace.
+
+---
+
 ## What it costs
 
-Notes and tasks are free on every plan. The AI features (GENI suggesting tasks and driving your workspace) are available from Starter.
+Notes and tasks are free on every plan. The AI features (semantic search, AI tags, voice notes and GENI driving your workspace) are available from Starter. Voice notes cost a small number of credits per recording; search and tags are included.
