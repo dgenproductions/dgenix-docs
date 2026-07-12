@@ -1,109 +1,93 @@
-# Geheugen
+# Geheugen (Memory AI)
 
-De Geheugen-pagina geeft je direct inzicht in alles wat je assistent over jou onthoudt. Je kunt herinneringen bekijken, toevoegen, bewerken en verwijderen, en je assistent kan ze zelf opslaan via de chat.
+Het geheugen van GENI is het bindweefsel van dGENIX. Alles wat je op het platform doet komt automatisch in het geheugen van je assistent, zodat GENI je werk kent, meedenkt en op eerder werk doorbouwt. Je geheugen is strikt privé en alleen van jou.
+
+De Geheugen-pagina (**Dashboard → Geheugen**, Brain-icoon in de zijbalk) geeft je direct inzicht in alles wat GENI over jou onthoudt.
+
+---
+
+## Eén verweven geheugen
+
+Het geheugen bestaat uit drie samenwerkende lagen:
+
+1. **Wat GENI weet over jou**: feiten, voorkeuren, doelen en instructies die je zelf toevoegt of die GENI uit je gesprekken oppikt.
+2. **Wat je op het platform doet**: elke afbeelding, audit, transcriptie, afgeronde taak en automation-run landt automatisch in je geheugen. Zo weet GENI waar je mee bezig bent.
+3. **Je documenten en notities**: je kennisbank en je Werkruimte-notities zijn doorzoekbaar en verbonden met hetzelfde geheugen.
+
+GENI bereikt hetzelfde geheugen op elk kanaal: het dashboard, Telegram, spraakgesprekken en geplande taken.
 
 ---
 
 ## Wat zijn herinneringen?
 
-Herinneringen zijn persoonlijke notities die je assistent gebruikt als context bij elk gesprek. Er zijn vier types:
+Herinneringen zijn korte, persoonlijke feiten die GENI als context gebruikt. Er zijn acht types:
 
-| Type | Omschrijving | Voorbeeld |
-| --- | --- | --- |
-| **Feit** | Objectieve informatie over jou | "Ik werk bij een marketingbureau in Amsterdam" |
-| **Voorkeur** | Persoonlijke smaak of werkwijze | "Ik wil antwoorden altijd in bullet points" |
-| **Doel** | Wat je wil bereiken | "Ik wil mijn e-mailresponstijd halveren" |
-| **Instructie** | Hoe de assistent zich moet gedragen | "Houd antwoorden altijd onder 150 woorden" |
+| Type | Voorbeeld |
+| --- | --- |
+| **Feit** | "Ik werk bij een marketingbureau in Amsterdam" |
+| **Voorkeur** | "Ik wil antwoorden altijd in bullet points" |
+| **Doel** | "Ik wil mijn e-mailresponstijd halveren" |
+| **Instructie** | "Houd antwoorden altijd onder 150 woorden" |
+| **Contact** | "Mijn vaste ontwerper is Lisa" |
+| **Patroon** | "Ik plan altijd op maandag" |
+| **Situatie** | "We zitten in een groeifase, team van 3" |
+| **Vaardigheden** | "Ik ben expert in copywriting, geen developer" |
 
----
-
-## Hoe kom je bij het geheugen?
-
-Ga naar **Dashboard → Geheugen** (Brain-icoon in de zijbalk).
-
----
-
-## Geheugen netwerk
-
-Bovenaan de pagina zie je een visueel netwerk: een centrale GENI-node verbonden met vier clusters, Feiten, Voorkeuren, Doelen en Instructies. Je ziet per cluster hoeveel herinneringen er opgeslagen zijn. Klik op een cluster om direct naar die sectie te scrollen.
+Feiten, voorkeuren, doelen en instructies staan als knooppunten rond het brein bovenaan de pagina; alle types staan als uitvouwbare rijen eronder.
 
 ---
 
-## Herinneringen bekijken
+## Vraag je geheugen (semantisch zoeken)
 
-Alle herinneringen staan gegroepeerd in vier uitvouwbare secties (één per type). Per herinnering zie je:
+Met de zoekbalk "Vraag je geheugen" doorzoek je alles wat GENI over je weet op **betekenis**, niet op trefwoord. Typ bijvoorbeeld "wat weet je over mijn schrijfstijl?" en GENI haalt de relevante herinneringen terug, ook als je andere woorden gebruikte dan in de herinnering staan.
 
-- De inhoud
-- Optioneel een titel
-- De bron (Handmatig / Chat / Import)
-- De datum waarop de herinnering is opgeslagen
+> Slim doorzoeken gebruikt AI en kost een kleine hoeveelheid credits per zoekopdracht. Beschikbaar vanaf Starter.
 
 ---
 
-## Herinneringen toevoegen
+## Wat GENI over je leerde (activiteit)
 
-### Via de invoerbalk
-
-Onderaan de pagina staat een vaste invoerbalk:
-
-1. Kies het type via het dropdownmenu (Feit / Voorkeur / Doel / Instructie)
-2. Voer optioneel een titel in
-3. Typ de inhoud in het tekstveld
-4. Klik op **Opslaan** of gebruik `Ctrl+Enter`
-
-De herinnering is direct zichtbaar in de lijst.
-
-### Via de chat
-
-Je assistent slaat herinneringen automatisch op als je iets deelt dat relevant is. Zeg bijvoorbeeld:
-
-> "Onthoud dat ik elke ochtend beginnen met de e-mail inbox."
-
-Of:
-
-> "Bewaar dit als voorkeur: ik wil altijd een samenvatting boven aan het antwoord."
-
-De assistent gebruikt daarvoor de `geheugen_opslaan` tool. De herinnering verschijnt daarna op de Geheugen-pagina met bron "Chat".
+De activiteit-tijdlijn toont wat je recent op het platform deed, van gegenereerde afbeeldingen tot voltooide audits en taken. Dit is wat GENI automatisch heeft opgemerkt en meeneemt in zijn context, zodat je vragen kunt stellen als "ga verder met de SEO-audit van gisteren".
 
 ---
 
-## Herinneringen bewerken
+## Per merk of project (brand-switching)
 
-Klik op het potlood-icoon naast een herinnering om de inhoud aan te passen. Bevestig met het vinkje of annuleer met de X.
-
----
-
-## Herinneringen verwijderen
-
-Klik op het prullenbak-icoon naast een herinnering. Je krijgt een bevestigingsvraag.
+Werk je voor meerdere merken of klanten? Maak een project aan in de AI Assistent en GENI houdt het geheugen per project gescheiden. Bovenaan de Geheugen-pagina wissel je tussen je **Hoofdgeheugen** en je projecten. Wat je in een project toevoegt, blijft aan dat project gekoppeld en lekt niet naar je andere werk.
 
 ---
 
-## Maximum
+## Proactieve GENI (optioneel)
 
-Je kunt maximaal **500 herinneringen** opslaan. Bij het bereiken van het maximum verschijnt een melding.
+Zet je **Proactieve GENI** aan (in **Instellingen → AI-assistent**), dan denkt GENI één keer per dag met je mee op basis van wat je deed: het zet voorgestelde vervolgtaken klaar in je Werkruimte en stuurt een korte update. Standaard uit, geen spam, altijd door jou goed te keuren.
+
+---
+
+## Herinneringen toevoegen, bewerken en verwijderen
+
+- **Toevoegen**: via de invoerbalk (kies type, optioneel een titel, typ de inhoud) of gewoon door het in de chat te zeggen: *"Onthoud dat ik elke ochtend met de inbox begin."* GENI slaat het dan op met de `geheugen_opslaan`-tool.
+- **Bewerken**: klik op het potlood-icoon naast een herinnering.
+- **Verwijderen**: klik op het prullenbak-icoon. Via de Beheer-balk kun je ook meerdere tegelijk selecteren, importeren/exporteren (JSON) of naar de kennisbank archiveren.
 
 ---
 
 ## Kennisdocument
 
-Onderaan de Geheugen-pagina vind je een samenvatting van je kennisdocument. Dit is de persoonlijke context die je in **Instellingen → Kennisdocument** hebt ingevuld. Klik op **"Bewerken in Instellingen"** om het bij te werken.
-
-> Het kennisdocument werkt als langetermijngeheugen: het is altijd aanwezig in de context van je assistent, ongeacht het plan.
+Onderaan de pagina vind je een samenvatting van je kennisdocument, de persoonlijke context uit **Instellingen → Kennisdocument**. Dit werkt als langetermijngeheugen: het is altijd aanwezig in de context van je assistent, ongeacht je plan.
 
 ---
 
 ## Veelgestelde vragen
 
-**Kan mijn assistent herinneringen zelf ophalen?**
-Ja. Via de `geheugen_ophalen` tool laadt je assistent relevante herinneringen op wanneer dat nuttig is, ook tussen sessies.
-
-**Ziet mijn assistent alle herinneringen tegelijk?**
-Nee. Je assistent haalt herinneringen op wanneer dat relevant is, niet per definitie bij elk bericht.
+**Wat komt er automatisch in mijn geheugen?**
+Alles wat je op het platform maakt of doet: afbeeldingen, transcripties, SEO/GEO-audits, afgeronde taken en automations. Plus de feiten die GENI uit je gesprekken oppikt.
 
 **Zijn herinneringen zichtbaar voor anderen?**
-Nee. Herinneringen zijn volledig privé en gekoppeld aan jouw account.
+Nee. Je geheugen is volledig privé en strikt gekoppeld aan jouw account, nooit gedeeld of gemixt met andere gebruikers.
+
+**Hoeveel kan ik opslaan?**
+Afhankelijk van je plan (van 100 op Free en Starter tot 5.000 op Business). Bij de limiet archiveert GENI automatisch de minst belangrijke herinneringen naar je kennisbank.
 
 ---
 
-dGENIX Docs, Geheugen, bijgewerkt mei 2026
+dGENIX Docs, Geheugen (Memory AI), bijgewerkt juli 2026

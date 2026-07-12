@@ -1,94 +1,93 @@
-# Memory
+# Memory (Memory AI)
 
-The Memory page gives you direct insight into everything your assistant remembers about you. You can view, add, edit and delete memories, and your assistant can store them itself via chat.
+GENI's memory is the connective tissue of dGENIX. Everything you do on the platform automatically flows into your assistant's memory, so GENI knows your work, thinks along and builds on earlier work. Your memory is strictly private and only yours.
+
+The Memory page (**Dashboard → Memory**, Brain icon in the sidebar) gives you direct insight into everything GENI remembers about you.
+
+---
+
+## One connected memory
+
+Memory consists of three layers that work together:
+
+1. **What GENI knows about you**: facts, preferences, goals and instructions you add yourself or that GENI picks up from your conversations.
+2. **What you do on the platform**: every image, audit, transcript, completed task and automation run automatically lands in your memory. So GENI knows what you're working on.
+3. **Your documents and notes**: your knowledge base and your Workspace notes are searchable and connected to the same memory.
+
+GENI reaches the same memory on every channel: the dashboard, Telegram, voice calls and scheduled tasks.
 
 ---
 
 ## What are memories?
 
-Memories are personal notes your assistant uses as context in every conversation. There are four types:
+Memories are short, personal facts GENI uses as context. There are eight types:
 
-| Type | Description | Example |
-| --- | --- | --- |
-| **Fact** | Objective information about you | "I work at a marketing agency in Eindhoven" |
-| **Preference** | Personal taste or way of working | "I always want answers in bullet points" |
-| **Goal** | What you want to achieve | "I want to halve my email response time" |
-| **Instruction** | How the assistant should behave | "Always keep answers under 150 words" |
+| Type | Example |
+| --- | --- |
+| **Fact** | "I work at a marketing agency in Amsterdam" |
+| **Preference** | "Always give answers in bullet points" |
+| **Goal** | "I want to halve my email response time" |
+| **Instruction** | "Keep answers under 150 words" |
+| **Contact** | "My regular designer is Lisa" |
+| **Pattern** | "I always plan on Mondays" |
+| **Context** | "We're in a growth phase, team of 3" |
+| **Skills** | "I'm an expert copywriter, not a developer" |
 
----
-
-## How to reach memory
-
-Go to **Dashboard -> Memory** (Brain icon in the sidebar).
-
----
-
-## Memory network
-
-At the top of the page you see a visual network: a central GENI node linked to four clusters, Facts, Preferences, Goals and Instructions. Each cluster shows how many memories are stored. Click a cluster to scroll to that section.
+Facts, preferences, goals and instructions appear as nodes around the brain at the top of the page; all types appear as expandable rows below it.
 
 ---
 
-## Viewing memories
+## Ask your memory (semantic search)
 
-All memories are grouped into four expandable sections (one per type). Per memory you see the content, an optional title, the source (Manual / Chat / Import) and the date it was stored.
+With the "Ask your memory" search bar you search everything GENI knows about you by **meaning**, not by keyword. Type "what do you know about my writing style?" and GENI brings back the relevant memories, even if you used different words than the ones in the memory.
 
----
-
-## Adding memories
-
-### Via the input bar
-
-At the bottom of the page is a fixed input bar:
-
-1. Pick the type from the dropdown (Fact / Preference / Goal / Instruction)
-2. Optionally enter a title
-3. Type the content
-4. Click **Save** or use `Ctrl+Enter`
-
-The memory appears in the list right away.
-
-### Via chat
-
-Your assistant stores memories automatically when you share something relevant. For example:
-
-> "Remember that I start every morning with my email inbox."
-
-Or:
-
-> "Save this as a preference: I always want a summary at the top of the answer."
-
-The memory then appears on the Memory page with source "Chat".
+> Smart search uses AI and costs a small amount of credits per search. Available from Starter.
 
 ---
 
-## Editing and deleting
+## What GENI learned about you (activity)
 
-Click the pencil icon next to a memory to edit the content. Click the trash icon to delete it (with a confirmation).
+The activity timeline shows what you recently did on the platform, from generated images to completed audits and tasks. This is what GENI automatically noticed and carries into its context, so you can ask things like "continue with yesterday's SEO audit".
 
 ---
 
-## Maximum
+## Per brand or project (brand switching)
 
-You can store up to **500 memories**. A notice appears when you reach the maximum.
+Working across multiple brands or clients? Create a project in the AI Assistant and GENI keeps memory separated per project. At the top of the Memory page you switch between your **Main memory** and your projects. What you add inside a project stays tied to that project and never leaks into your other work.
+
+---
+
+## Proactive GENI (optional)
+
+Turn on **Proactive GENI** (in **Settings → AI assistant**) and GENI thinks along once a day based on what you did: it stages suggested follow-up tasks in your Workspace and sends a short update. Off by default, no spam, always for you to approve.
+
+---
+
+## Adding, editing and deleting memories
+
+- **Add**: via the input bar (pick a type, optional title, type the content) or simply by saying it in chat: *"Remember that I start every morning with my inbox."* GENI then saves it with the `geheugen_opslaan` tool.
+- **Edit**: click the pencil icon next to a memory.
+- **Delete**: click the trash icon. From the Manage bar you can also select several at once, import/export (JSON) or archive to your knowledge base.
 
 ---
 
 ## Knowledge document
 
-At the bottom of the Memory page you find a summary of your knowledge document, the personal context you set in **Settings -> Knowledge document**. Click **"Edit in Settings"** to update it.
-
-> The knowledge document works as long-term memory: it is always present in your assistant's context, regardless of plan.
+At the bottom of the page you'll find a summary of your knowledge document, the personal context from **Settings → Knowledge document**. This acts as long-term memory: it's always present in your assistant's context, regardless of your plan.
 
 ---
 
 ## Frequently asked questions
 
-**Can my assistant retrieve memories itself?**
-Yes. It loads relevant memories when useful, also across sessions.
-
-**Does it see all memories at once?**
-No. It retrieves memories when relevant, not necessarily on every message.
+**What flows into my memory automatically?**
+Everything you create or do on the platform: images, transcripts, SEO/GEO audits, completed tasks and automations. Plus the facts GENI picks up from your conversations.
 
 **Are memories visible to others?**
-No. Memories are fully private and tied to your account.
+No. Your memory is fully private and strictly tied to your account, never shared or mixed with other users.
+
+**How much can I store?**
+Depends on your plan (from 100 on Free and Starter up to 5,000 on Business). At the limit GENI automatically archives the least important memories to your knowledge base.
+
+---
+
+dGENIX Docs, Memory (Memory AI), updated July 2026
