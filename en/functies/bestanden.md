@@ -19,32 +19,28 @@ Each image shows a thumbnail preview, the prompt used, the model used, credits s
 
 ---
 
-## Uploading files (for the assistant)
+## Sending files in the chat
 
-Files you want to give your assistant as context are uploaded via:
-**AI Assistant -> Knowledge base tab -> Upload file**
+Click the attachment button in the AI Assistant to send a file. GENI reads the content and uses it directly in its answer.
 
-Supported formats:
-| Type | Extensions |
-|------|-----------|
-| PDF | `.pdf` |
-| Word | `.doc`, `.docx` |
-| Images | `.jpg`, `.jpeg`, `.png`, `.webp` |
+| Type | Extensions | What GENI does |
+|------|-----------|----------------|
+| Images | `.jpg`, `.jpeg`, `.png`, `.webp`, `.gif` | Analyse visually |
+| PDF | `.pdf` | Read the content |
+| Text | `.txt`, `.md`, `.csv` | Read the content |
+| Word | `.docx` | Extract and read the text |
+| Excel | `.xlsx` | Extract and read the cells |
+| Audio / video | `.mp3`, `.mp4`, `.webm`, `.wav`, `.m4a` | Transcribe (Whisper) and read |
 
-The assistant reads the content and uses it as context in its answer. Images are analysed visually.
+**Audio/video** is transcribed automatically via Whisper. This costs **12 credits per minute** of audio; shorter clips cost proportionally less. Documents and images have no separate charge (just normal message usage).
+
+For safety, files are validated server-side (type and content). `.json` files are refused. For larger documents or longer audio, use the **Knowledge base** or the **Audio Transcription** skill (URL, up to 200 MB).
 
 ---
 
-## Supported file types (overview)
+## Uploading files to the knowledge base
 
-| Type | Supported | Note |
-|------|-------------|-------------|
-| PDF | ✅ | Upload as context |
-| Word (.docx) | ✅ | Upload as context |
-| Excel (.xlsx) | Via Google Sheets | Use the Google Sheets skill |
-| Images (JPG/PNG) | ✅ | Upload + AI Image Generation |
-| Video | ❌ | Not supported for upload |
-| Voice/audio | Via Telegram or transcription | Send voice messages, or use the Audio Transcription skill |
+Want to add a document as lasting knowledge (not just for one message)? Upload it via **AI Assistant -> Knowledge base -> Upload file**. The assistant searches your knowledge base whenever relevant.
 
 ---
 
