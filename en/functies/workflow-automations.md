@@ -50,9 +50,11 @@ Workflow Automations are recurring commands your assistant runs automatically at
 
 | Plan | Slots included |
 |------|-----------------|
+| Free | 0 slots |
 | Starter | 1 slot |
 | Growth | 5 slots |
-| Pro | 15 slots |
+| Pro | 10 slots |
+| Business | 20 slots |
 
 **Extra slots:** available to buy via **Account -> Subscription** (slot add-on packs).
 

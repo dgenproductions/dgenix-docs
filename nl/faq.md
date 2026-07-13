@@ -30,7 +30,7 @@ Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar),
 Ja. Je assistent heeft geheugen binnen een gesprek. Via **Instellingen → Geheugen** sla je langetermijncontext op die hij altijd gebruikt.
 
 **Wat zijn geplande taken?**
-Via **Dashboard → Taken** stel je terugkerende opdrachten in met een vast schema (dagelijks, werkdagen, wekelijks, maandelijks). Je assistent voert ze automatisch uit. Beschikbaar op Growth (5 taken) en Pro (15 taken).
+Via **Dashboard → Taken** stel je terugkerende opdrachten in met een vast schema (dagelijks, werkdagen, wekelijks, maandelijks). Je assistent voert ze automatisch uit. Het aantal terugkerende taken hangt af van je plan: Starter 1, Growth 5, Pro 10, Business 20.
 
 **Stuurt mijn assistent ook e-mails?**
 Hij schrijft conceptantwoorden klaar. Je bevestigt ze voor ze verstuurd worden. Je assistent verstuurt nooit zelfstandig e-mails zonder jouw goedkeuring.

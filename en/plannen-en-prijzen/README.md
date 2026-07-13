@@ -58,7 +58,7 @@ For agencies and professionals who get the most out of GENI.
 - Everything in Growth, plus 350,000 credits per month
 - Pro skills: GEO Engine, Authority Engine, Reputation Engine, AI Content Engine, Workflow Builder, Support Knowledge Base, Meeting Assistant, CRM Sync, Invoice Generator
 - Your own Telegram bot (your name and handle, included)
-- 15 scheduled-task slots
+- 10 scheduled-task slots
 - Early access to new features
 
 ## Business, €249/month
@@ -66,6 +66,7 @@ For agencies and professionals who get the most out of GENI.
 For power users and teams with high volume.
 
 - Everything in Pro, plus 1,000,000 credits per month
+- 20 scheduled-task slots
 - The highest limits on the platform
 - Ideal if you use GENI intensively and broadly
 
@@ -133,7 +134,7 @@ Using the engines heavily? The SEO, GEO, Authority and backlink tools are credit
 | GEO / Authority / Reputation / AI Content Engine |, |, |, | ✓ | ✓ |
 | Workflow Builder |, |, |, | ✓ | ✓ |
 | Own Telegram bot |, |, |, | ✓ | ✓ |
-| Scheduled-task slots |, | 1 | 5 | 15 | 15+ |
+| Scheduled-task slots | 0 | 1 | 5 | 10 | 20 |
 | Support |, | Email | Priority | Priority | Priority |
 
 > White label, team assistants and dedicated support are in **Custom**.

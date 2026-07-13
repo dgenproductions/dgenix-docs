@@ -30,7 +30,7 @@ GENI can process email (Gmail), schedule appointments (Google Calendar), manage 
 Yes. GENI has memory within a conversation, and via **Settings -> Memory** you store long-term context it always uses.
 
 **What are scheduled tasks?**
-Via **Dashboard -> Tasks** you set up recurring commands on a fixed schedule (daily, weekdays, weekly, monthly). GENI runs them automatically. Available on Growth (5 tasks) and Pro (15 tasks).
+Via **Dashboard -> Tasks** you set up recurring commands on a fixed schedule (daily, weekdays, weekly, monthly). GENI runs them automatically. The number of recurring tasks depends on your plan: Starter 1, Growth 5, Pro 10, Business 20.
 
 **Does my assistant send emails too?**
 It prepares draft replies. You confirm them before they are sent. GENI never sends emails on its own without your approval.

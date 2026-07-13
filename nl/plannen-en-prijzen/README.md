@@ -58,7 +58,7 @@ Voor bureaus en professionals die het maximale uit GENI halen.
 - Alles uit Growth, plus 350.000 credits per maand
 - Pro-skills: GEO Engine, Authority Engine, Reputation Engine, AI Content Engine, Workflow Builder, Support Kennisbank, Vergadering Assistent, CRM Sync, Factuur Automator
 - Eigen Telegram-bot (jouw naam en handle, inbegrepen)
-- 15 slots voor geplande taken
+- 10 slots voor geplande taken
 - Vroeg toegang tot nieuwe features
 
 ## Business, €249/maand
@@ -66,6 +66,7 @@ Voor bureaus en professionals die het maximale uit GENI halen.
 Voor power-users en teams met veel volume.
 
 - Alles uit Pro, plus 1.000.000 credits per maand
+- 20 slots voor geplande taken
 - De hoogste limieten van het platform
 - Ideaal als je GENI intensief en breed inzet
 
@@ -133,7 +134,7 @@ Gebruik je de engines intensief? De SEO-, GEO-, Authority- en backlink-tools zij
 | GEO / Authority / Reputation / AI Content Engine |, |, |, | ✓ | ✓ |
 | Workflow Builder |, |, |, | ✓ | ✓ |
 | Eigen Telegram-bot |, |, |, | ✓ | ✓ |
-| Slots voor geplande taken |, | 1 | 5 | 15 | 15+ |
+| Slots voor geplande taken | 0 | 1 | 5 | 10 | 20 |
 | Support |, | E-mail | Prioriteit | Prioriteit | Prioriteit |
 
 > White label, team-assistenten en dedicated support zitten in **Custom**.
