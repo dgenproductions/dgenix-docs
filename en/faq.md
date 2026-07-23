@@ -111,6 +111,9 @@ Account data is kept 30 days after deletion. Invoice data 7 years (legally requi
 **Is dGENIX GDPR-compliant?**
 Yes. dGENIX is governed by Dutch law. See [dgenix.com/privacy](https://dgenix.com/privacy) for the full policy.
 
+**How do you protect my data?**
+Your connections are stored encrypted, your data sits on European servers and we never use it to train AI. You decide per tool what GENI may do, and you can disconnect at any time. The full overview is on [dgenix.com/security](https://dgenix.com/security).
+
 ---
 
 ## Problems & support

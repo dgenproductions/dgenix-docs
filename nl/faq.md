@@ -111,6 +111,9 @@ Accountgegevens worden 30 dagen na verwijdering bewaard. Factuurdata 7 jaar (wet
 **Is dGENIX AVG/GDPR-conform?**
 Ja. dGENIX valt onder Nederlands recht. Zie [dgenix.com/privacy](https://dgenix.com/privacy) voor het volledige beleid.
 
+**Hoe beveiligen jullie mijn gegevens?**
+Je koppelingen worden versleuteld bewaard, je gegevens staan op Europese servers en we gebruiken ze nooit om AI te trainen. Jij bepaalt per tool wat GENI mag en je verbreekt een koppeling wanneer je wilt. Het volledige overzicht staat op [dgenix.com/security](https://dgenix.com/security).
+
 ---
 
 ## Problemen & Support
