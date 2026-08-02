@@ -64,9 +64,9 @@ Per audit krijg je:
 
 Exporteer elk rapport als **PDF** (client-ready) of **CSV** (scores, issues, keywords en concurrenten, handig voor bureaus). Bij een tweede audit toont het dashboard automatisch de **verandering t.o.v. de vorige audit** (score, deelscores en aantal problemen) plus je **vooruitgang over tijd**.
 
-## Site Audit, echte multi-page crawl
+## Website-crawl, echte multi-page crawl
 
-Naast de snelle audit heeft de SEO Engine een **Site Audit**: een echte crawl van je hele site (geen losse pagina). Je krijgt een getabd paneel met **Overzicht**, **Issues** (met "hoe op te lossen" per type), **Crawled pages** en **Statistieken**, plus een **Site Health-meter**.
+Naast de snelle audit heeft de SEO Engine een **Website-crawl**: een echte crawl van je hele site (geen losse pagina). Je krijgt een getabd paneel met **Overzicht**, **Issues** (met "hoe op te lossen" per type), **Crawled pages** en **Statistieken**, plus een **Site Health-meter**.
 
 | Tier | Pagina's | Inhoud | Credits |
 |---|---|---|---|
@@ -104,7 +104,7 @@ In de tab **Links** analyseer je je backlink-profiel:
 | Standaard Audit | 4.000 |
 | Deep Audit (tot 10 pagina's) | 10.000 |
 | Max Audit (+ render + CWV + keywords) | 22.000 |
-| Site Audit (Light / Standaard / Pro) | 6.000 / 12.000 / 22.000 |
+| Website-crawl (Light / Standaard / Pro) | 6.000 / 12.000 / 22.000 |
 | Keyword Research (per zoekopdracht) | 500 |
 | Links & Authority (Check / Audit / Pro) | 8.000 / 15.000 / 25.000 |
 

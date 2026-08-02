@@ -64,9 +64,9 @@ Per audit you get:
 
 Export any report as **PDF** (client-ready) or **CSV** (scores, issues, keywords and competitors, handy for agencies). On a second audit the dashboard automatically shows the **change versus the previous audit** (score, sub-scores and number of issues) plus your **progress over time**.
 
-## Site Audit, a real multi-page crawl
+## Site Crawl, a real multi-page crawl
 
-Besides the quick audit, the SEO Engine has a **Site Audit**: a real crawl of your whole site (not a single page). You get a tabbed panel with **Overview**, **Issues** (with "how to fix" per type), **Crawled pages** and **Statistics**, plus a **Site Health meter**.
+Besides the quick audit, the SEO Engine has a **Site Crawl**: a real crawl of your whole site (not a single page). You get a tabbed panel with **Overview**, **Issues** (with "how to fix" per type), **Crawled pages** and **Statistics**, plus a **Site Health meter**.
 
 | Tier | Pages | Content | Credits |
 |---|---|---|---|
@@ -104,7 +104,7 @@ In the **Links** tab you analyse your backlink profile:
 | Standard Audit | 4,000 |
 | Deep Audit (up to 10 pages) | 10,000 |
 | Max Audit (+ render + CWV + keywords) | 22,000 |
-| Site Audit (Light / Standard / Pro) | 6,000 / 12,000 / 22,000 |
+| Site Crawl (Light / Standard / Pro) | 6,000 / 12,000 / 22,000 |
 | Keyword Research (per query) | 500 |
 | Links & Authority (Check / Audit / Pro) | 8,000 / 15,000 / 25,000 |
 
