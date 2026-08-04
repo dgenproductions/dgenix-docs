@@ -142,3 +142,10 @@ For more detail see [Projects](../functies/projecten.md).
 **Check your memory periodically.** Remove outdated items via Settings -> Memory.
 
 **Write personal instructions as rules, not wishes:** "Always give three options" instead of "Preferably give three options".
+
+---
+
+Next: [Context storage compared](../concepten/context-opslag-vergeleken.md) · [Memory](../functies/geheugen.md) · [Knowledge base](../functies/kennisbank.md) · [Projects](../functies/projecten.md)
+On the site: [how dGENIX works](https://dgenix.com/hoe-het-werkt)
+
+*dGENIX Docs, Context and memory, updated August 2026*

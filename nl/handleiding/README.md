@@ -223,3 +223,10 @@ Ga naar **Connectors** of **Billing** en deactiveer de skill of add-on. Credits 
 ---
 
 _Platform Manual v1.0, dGENIX | April 2026_
+
+---
+
+→ Verder: [Wat is dGENIX](../concepten/wat-is-dgenix.md) · [Hoe alles samenwerkt](../concepten/hoe-alles-samenwerkt.md) · [Alle skills](../skills/README.md)
+→ Op de site: [hoe dGENIX werkt](https://dgenix.nl/hoe-het-werkt) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Handleiding, bijgewerkt augustus 2026*

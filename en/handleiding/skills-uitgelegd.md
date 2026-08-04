@@ -163,3 +163,10 @@ The assistant reports the error in chat. Check that your integration is still ac
 
 **Can I test a skill before activating?**
 No, you have to activate it. Skills included in your plan activate for free and can be deactivated any time.
+
+---
+
+Next: [How it all fits together](../concepten/hoe-alles-samenwerkt.md) · [Connectors](../connectors/README.md) · [All skills](../skills/README.md) · [The credit system](../hoe-het-werkt/credits.md)
+On the site: [all skills](https://dgenix.com/skills) · [the five Growth Engines](https://dgenix.com/engines)
+
+*dGENIX Docs, Skills explained, updated August 2026*

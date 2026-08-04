@@ -223,3 +223,10 @@ Go to **Connectors** or **Account -> Subscription** and deactivate the skill or 
 ---
 
 _Platform Manual, dGENIX | June 2026_
+
+---
+
+Next: [What is dGENIX](../concepten/wat-is-dgenix.md) · [How it all fits together](../concepten/hoe-alles-samenwerkt.md) · [All skills](../skills/README.md)
+On the site: [how dGENIX works](https://dgenix.com/hoe-het-werkt) · [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, Manual, updated August 2026*

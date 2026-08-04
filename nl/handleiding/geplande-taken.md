@@ -122,3 +122,68 @@ Let op: taken worden uitgevoerd ook als je saldo laag is. Zorg dat je genoeg cre
 **Wees specifiek over het gewenste format.** Een taak die een rapport maakt is pas echt nuttig als je ook zegt hoe dat rapport eruit moet zien.
 
 **Gebruik frequentie 'eenmalig' voor deadlines.** Als je een rappel wil voor een specifieke deadline, stel een eenmalige taak in op de dag ervoor.
+
+---
+
+## Wat je ziet
+
+Je plant een dagoverzicht in voor elke werkdag om 08:00. Vanaf de volgende
+ochtend staat dit klaar zonder dat je erom vroeg:
+
+> **Goedemorgen. Dit staat er vandaag.**
+>
+> - **10:00** , bellen met De Vries over de offerte
+> - **13:30** , leverancier, Industrieweg 4
+> - **16:00** , teamoverleg
+>
+> **Uit je inbox:** 2 mails vragen actie. De boekhouder wil de btw-cijfers vóór
+> de 25e, en Sofie wacht op het contract.
+>
+> Je enige vrije blok is tussen 12:00 en 13:30.
+
+Precies hetzelfde als wanneer je het zelf had gevraagd, alleen hoefde je er niet
+aan te denken.
+
+## Grenzen
+
+- **Het aantal taken hangt af van je plan**: Free 0, Starter 1, Growth 5, Pro 10, Business 20.
+- **Onomkeerbare acties vragen ook hier om bevestiging.** Een geplande taak die iets verstuurt of publiceert wacht op jouw akkoord.
+- **Credits worden per uitvoering afgeschreven.** Een dagelijkse zware taak telt op; reken vooraf uit wat een maand kost.
+- **Zonder credits stopt de uitvoering** tot je saldo is aangevuld. Je krijgt daar een melding van.
+- **Ontbreekt een skill of koppeling, dan faalt de taak.** Test de opdracht daarom eerst met de hand.
+- **De kleinste frequentie is dagelijks.** Iets dat vaker moet draaien, start je zelf.
+
+## Problemen oplossen
+
+**De taak draait niet.** Kijk of hij aan staat en of er nog credits zijn. Een gepauzeerde taak blijft bestaan maar voert niets uit.
+
+**Hij faalt steeds.** In de uitvoeringsgeschiedenis staat de foutmelding. Meestal ontbreekt een koppeling of is die verlopen.
+
+**Het resultaat komt niet bij je aan.** Zonder bezorgstap blijft het in het dashboard staan. Zet in de opdracht waar het heen moet, bijvoorbeeld "mail het resultaat naar mij".
+
+**De uitvoering valt op een raar tijdstip.** De tijd volgt de tijdzone van je account; controleer die in Instellingen.
+
+**Het resultaat wisselt sterk per keer.** Maak de opdracht specifieker, vooral over het gewenste format. Vage instructies leveren wisselende output.
+
+## Veelgestelde vragen
+
+**Wat is het verschil met een taak in de Werkruimte?**
+Een geplande taak voert GENI zelf uit op een tijdstip. Een Werkruimte-taak is
+een to-do die jij afvinkt. Zie [Werkruimte](../functies/werkruimte.md).
+
+**Kan ik een taak tijdelijk uitzetten?**
+Ja, met de aan/uit-schakelaar. Je instellingen blijven bewaard.
+
+**Kan ik zien wat er gedraaid heeft?**
+Ja, per taak staat de uitvoeringsgeschiedenis met status, credits en resultaat.
+
+**Kost een geplande taak extra?**
+Nee, alleen het werk dat hij doet kost credits, net als wanneer je het zelf
+vraagt.
+
+---
+
+→ Verder: [Workflow Automations](../functies/workflow-automations.md) · [Werkruimte](../functies/werkruimte.md) · [Het creditsysteem](../hoe-het-werkt/credits.md)
+→ Op de site: [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Geplande taken, bijgewerkt augustus 2026*

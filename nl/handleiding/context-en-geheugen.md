@@ -176,3 +176,10 @@ In het project "Bakkerij De Krent" weet je assistent automatisch voor welke klan
 **Check je geheugen periodiek.** Je assistent onthoudt misschien dingen die verouderd zijn (een oud project, een vorige baan). Verwijder ze via Instellingen → Geheugen.
 
 **Schrijf persoonlijke instructies als werkregels.** Niet als wensen maar als regels: "Geef altijd drie opties" in plaats van "Geef liefst drie opties."
+
+---
+
+→ Verder: [Contextopslag vergeleken](../concepten/context-opslag-vergeleken.md) · [Geheugen](../functies/geheugen.md) · [Kennisbank](../functies/kennisbank.md) · [Projecten](../functies/projecten.md)
+→ Op de site: [hoe dGENIX werkt](https://dgenix.nl/hoe-het-werkt)
+
+*dGENIX Docs, Context en geheugen, bijgewerkt augustus 2026*

@@ -112,3 +112,67 @@ Note: tasks run even if your balance is low. Make sure you have enough credits f
 **Be specific about the format you want.** A report task is only useful if you also say what the report should look like.
 
 **Use frequency 'once' for deadlines.** For a reminder before a specific deadline, set a one-time task on the day before.
+
+---
+
+## What you see
+
+You schedule a daily overview for every weekday at 08:00. From the next morning
+this is waiting without you asking:
+
+> **Good morning. Here is today.**
+>
+> - **10:00** , call De Vries about the quote
+> - **13:30** , supplier, Industrieweg 4
+> - **16:00** , team meeting
+>
+> **From your inbox:** 2 emails need action. The accountant wants the VAT
+> figures before the 25th, and Sofie is waiting on the contract.
+>
+> Your only free block is between 12:00 and 13:30.
+
+Exactly what you would have got by asking, except you did not have to remember
+to ask.
+
+## Limits
+
+- **The number of tasks depends on your plan**: Free 0, Starter 1, Growth 5, Pro 10, Business 20.
+- **Irreversible actions ask for confirmation here too.** A scheduled task that sends or publishes waits for your approval.
+- **Credits are deducted per run.** A heavy daily task adds up; work out what a month costs first.
+- **Without credits execution stops** until your balance is topped up. You get a notification.
+- **If a skill or connection is missing, the task fails.** So test the request by hand first.
+- **The smallest frequency is daily.** Anything more frequent you start yourself.
+
+## Troubleshooting
+
+**The task does not run.** Check whether it is switched on and whether credits remain. A paused task stays but executes nothing.
+
+**It keeps failing.** The run history shows the error. Usually a connection is missing or has expired.
+
+**The result does not reach you.** Without a delivery step it stays in the dashboard. State in the request where it should go, for example "email the result to me".
+
+**It runs at an odd time.** Timing follows your account's time zone; check it in Settings.
+
+**The result varies a lot between runs.** Make the request more specific, especially about the format you want. Vague instructions produce variable output.
+
+## Frequently asked questions
+
+**What is the difference with a Workspace task?**
+A scheduled task is executed by GENI at a set time. A Workspace task is a to-do
+you tick off. See [Workspace](../functies/werkruimte.md).
+
+**Can I pause a task?**
+Yes, with the on/off switch. Your settings are kept.
+
+**Can I see what has run?**
+Yes, each task has a run history with status, credits and result.
+
+**Does a scheduled task cost extra?**
+No, only the work it performs uses credits, just as when you ask yourself.
+
+---
+
+Next: [Workflow Automations](../functies/workflow-automations.md) · [Workspace](../functies/werkruimte.md) · [The credit system](../hoe-het-werkt/credits.md)
+On the site: [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, Scheduled tasks, updated August 2026*

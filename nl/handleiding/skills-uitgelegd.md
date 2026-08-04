@@ -168,3 +168,10 @@ De assistent meldt de fout in de chat. Controleer of je integratie nog actief is
 
 **Kan ik een skill testen voor ik activeer?**
 Nee, je moet hem activeren. Gratis skills zijn direct te deactiveren. Add-ons lopen via Stripe, zorg dat je de beschrijving goed leest voor activatie.
+
+---
+
+→ Verder: [Hoe alles samenwerkt](../concepten/hoe-alles-samenwerkt.md) · [Connectors](../connectors/README.md) · [Alle skills](../skills/README.md) · [Het creditsysteem](../hoe-het-werkt/credits.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [de vijf Growth Engines](https://dgenix.nl/engines)
+
+*dGENIX Docs, Skills uitgelegd, bijgewerkt augustus 2026*
