@@ -1,59 +1,96 @@
 # FLUX Image Generation
 
-## What does this skill do?
+With the FLUX skill GENI generates images from a description, with four models that let you trade speed against quality.
 
-Generate photorealistic images via Fireworks FLUX-1 models. Pick the model that fits your budget and quality needs, from fast iterations to premium context-aware editing of existing images.
+Available from **Growth**. No connection needed.
+
+## What can GENI do with FLUX?
+
+- **Generate an image** from a text description, with a choice of four models
+
+The model choice decides almost everything: 20 credits for a quick sketch
+against 1,000 for a premium edit is a factor of 50.
+
+| Model | For | Credits |
+|---|---|---|
+| **Schnell** | Fast iterations, concepts, trying things out | 20 |
+| **Dev** | High quality, sharp detail, portraits | 175 |
+| **Kontext Pro** | Adjusting an existing image, context-aware | 500 |
+| **Kontext Max** | Premium context-aware editing | 1,000 |
+
+## Example: what you ask, what you get
+
+```
+Make a hero image for my website: an installer at work in a Dutch living room,
+warm daylight
+```
+
+> Done with **Dev** (175 credits).
+>
+> The image is in your Workspace under Files. If you want variations, I can make
+> three with **Schnell** for 60 credits total; then you pick the direction and
+> have that one redone in Dev.
+
+That is usually the cheapest way to work: explore cheaply first, then render
+once at quality.
 
 ## Requirements
 
-- Plan: **Growth** or higher
-- Integrations: none, works directly via prompt (and optional input URL)
+- **Plan:** Growth and up
+- **Connection:** none
 
-## How do you activate the skill?
+## Activating
 
-1. Go to **Skills** in your dashboard
-2. Find **FLUX Image Generation** and click **Activate**
-3. The skill is available right away via Telegram and the web assistant
+1. Go to **Dashboard -> Skills** and activate **FLUX Image Generation**
+2. Describe what you want to see and optionally name the model
 
-## What can you do with it?
+## What it costs
 
-- Generate photorealistic product photos from a description
-- Intelligently adjust an existing image with FLUX Kontext (composition stays intact)
-- Quickly generate variants with FLUX Schnell
-- Render high-quality portraits, scenes or concepts with FLUX Dev
+See the table above: from 20 to 1,000 credits per image. Without a model choice
+GENI picks a sensible default and states the cost before starting. See
+[The credit system](../hoe-het-werkt/credits.md).
 
-**Example commands:**
+## Limits
 
-- "Generate a photo of a coffee cup on a desk, daylight, minimalist"
-- "Make a professional headshot from this photo: [URL], with a neutral background"
-- "Generate 4 variants in 9:16 for Instagram Stories"
+- **Do not expect literal text in the image.** For text in an image
+  [Nano Banana Pro](ai-beeldgeneratie.md) is a better fit.
+- **No recognisable people or brand logos.** Descriptions asking for those are refused.
+- **You will not always get what was in your head.** Expect a few attempts; that is what Schnell is for.
+- **Every attempt costs credits**, including ones you do not like.
+- **No editing an existing image** except with the Kontext models.
+- **You are responsible for how you use the result.**
 
-## Models
+## Troubleshooting
 
-| Model | Use | Credit cost |
-| --- | --- | --- |
-| **Schnell** | Fast iterations, concepts, experiments | 20 cr/image |
-| **Dev** | High quality, sharp detail, portraits | 175 cr/image |
-| **Kontext Pro** | Adjust an existing image (context-aware) | 500 cr/image |
-| **Kontext Max** | Premium context-aware editing | 1,000 cr/image |
+**The result does not match your description.** Be more concrete about composition, light and style. "An installer" leaves a lot open; "an installer seen from the side, warm daylight from the left" much less.
 
-**Kontext models** require an input image. Provide the URL or upload a file in your message.
+**It costs more than expected.** You were probably on Dev or Kontext. Name **Schnell** explicitly when you want to explore quickly.
 
-## Aspect ratio
+**Hands or faces come out wrong.** A known weakness of image models. Dev does better than Schnell; otherwise frame the shot differently.
 
-Available formats: **1:1**, **3:4**, **4:3**, **9:16**, **16:9**
+**Your request is refused.** The description touches on recognisable people, brands or other material that may not be generated.
 
-## FLUX vs AI Image Generation
+## Frequently asked questions
 
-dGENIX has two image-generation skills. Choose by goal:
+**What is the difference with AI image generation?**
+That runs on Nano Banana and is stronger at text-in-image and business assets.
+FLUX gives you more control over style plus a cheap fast option. See
+[AI image generation](ai-beeldgeneratie.md).
 
-| | **FLUX Image Generation** | **AI Image Generation** |
-|---|---|---|
-| Strength | Photorealism, sharp detail | Artistic styles, colourful illustrations |
-| Technology | Fireworks FLUX-1 | Google Nano Banana + Nano Banana Pro |
-| Context-aware editing | ✅ Kontext Pro/Max | ✅ Gemini Flash edit |
-| Cheapest option | 20 cr (Schnell) | 500 cr (Nano Banana) |
+**Where do the images end up?**
+In your Workspace, Files tab. See [Files](../functies/bestanden.md).
+
+**May I use the images commercially?**
+Yes, with the caveat that you remain responsible for what you publish.
+
+**Can I have an existing image adjusted?**
+Yes, with Kontext Pro or Max. For scaling and cropping,
+[AI image editing](image-resizer.md) is far cheaper.
 
 ---
 
 Back to [Skills marketplace](README.md)
+See also: [AI image generation](ai-beeldgeneratie.md) · [AI image editing](image-resizer.md) · [Files](../functies/bestanden.md)
+On the site: [all skills](https://dgenix.com/skills)
+
+*dGENIX Docs, FLUX Image Generation, updated August 2026*
