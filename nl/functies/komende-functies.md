@@ -32,7 +32,7 @@ Koppel honderden externe tools via het Model Context Protocol (MCP), op je eigen
 
 De afgelopen maanden zijn live gegaan, onder andere:
 
-- De **5 Growth Engines**: SEO, GEO, Authority, Reputation en AI Content. Zie [Groei Tools](../engines/README.md).
+- De **5 [Growth Engines](https://dgenix.nl/engines)**: SEO, GEO, Authority, Reputation en AI Content. Zie [Groei Tools](../engines/README.md).
 - **Nieuws & Research** en **Deep Research**
 - **SEO Blog Schrijver**
 - De volledige **Google-suite** (Docs, Taken, Analytics, Search Console, Bedrijfsprofiel)
@@ -43,7 +43,7 @@ De afgelopen maanden zijn live gegaan, onder andere:
 
 ## Op de hoogte blijven
 
-Nieuwe functies en skills verschijnen automatisch in je Skills Marketplace zodra ze beschikbaar zijn, en je krijgt een melding. Heb je een idee voor een nieuwe skill? Gebruik de **Skill aanvragen**-knop in je dashboard, of de [contactpagina](https://dgenix.com/contact?type=skill).
+Nieuwe functies en skills verschijnen automatisch in je Skills Marketplace zodra ze beschikbaar zijn, en je krijgt een melding. Heb je een idee voor een nieuwe skill? Gebruik de **Skill aanvragen**-knop in je dashboard, of de [contactpagina](https://dgenix.nl/contact?type=skill).
 
 Bekijk alles wat nu al kan in de [Skills Marketplace](../skills/README.md).
 

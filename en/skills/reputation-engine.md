@@ -2,7 +2,7 @@
 
 ## What does this skill do?
 
-The Reputation Engine helps you get more and better reviews. You automatically ask your own customers for a review via a branded email with a direct review link. Ideal for local businesses (hospitality, salons, fitness, real estate).
+The [Reputation Engine](https://dgenix.com/engines/reputation) helps you get more and better reviews. You automatically ask your own customers for a review via a branded email with a direct review link. Ideal for local businesses (hospitality, salons, fitness, real estate).
 
 ## Requirements
 

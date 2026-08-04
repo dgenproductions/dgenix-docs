@@ -313,7 +313,7 @@ Jij geeft één opdracht. De rest gaat automatisch.
 
 ## Skill ontbreekt?
 
-Dien een aanvraag in via [dgenix.com/contact](https://dgenix.com/contact?type=skill-aanvraag), dGENIX bouwt de skill en voegt hem toe aan de marketplace.
+Dien een aanvraag in via [Contact](https://dgenix.nl/contact?type=skill-aanvraag), dGENIX bouwt de skill en voegt hem toe aan de marketplace.
 
 ---
 

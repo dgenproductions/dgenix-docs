@@ -1,6 +1,6 @@
 # Authority Engine
 
-The **Authority Engine** is the step from *measuring* to *doing*: GENI writes improved content and places it in your CMS, but **never without your approval**. Safe for your search presence.
+The **[Authority Engine](https://dgenix.com/engines/authority)** is the step from *measuring* to *doing*: GENI writes improved content and places it in your CMS, but **never without your approval**. Safe for your search presence.
 
 ## How it works
 

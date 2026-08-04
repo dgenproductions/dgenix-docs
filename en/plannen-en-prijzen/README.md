@@ -46,7 +46,7 @@ Your personal assistant with the basics.
 For automating daily work. All business skills included.
 
 - Everything in Starter, plus 175,000 credits per month
-- Business skills: AI Image Generation, FLUX, Social Media Manager, SEO Engine, Lead Research, Client Onboarding, WhatsApp Business, Instagram DM, Notion, Slack, HubSpot, LinkedIn, Airtable, Typeform, Calendly, the Google-suite skills and more
+- Business skills: AI Image Generation, FLUX, Social Media Manager, [SEO Engine](https://dgenix.com/engines/seo), Lead Research, Client Onboarding, WhatsApp Business, Instagram DM, Notion, Slack, HubSpot, LinkedIn, Airtable, Typeform, Calendly, the Google-suite skills and more
 - Project folders with their own instructions per client or campaign
 - 5 scheduled-task slots
 - Priority processing
@@ -56,7 +56,7 @@ For automating daily work. All business skills included.
 For agencies and professionals who get the most out of GENI.
 
 - Everything in Growth, plus 350,000 credits per month
-- Pro skills: GEO Engine, Authority Engine, Reputation Engine, AI Content Engine, Workflow Builder, Support Knowledge Base, Meeting Assistant, CRM Sync, Invoice Generator
+- Pro skills: [GEO Engine](https://dgenix.com/engines/geo), Authority Engine, Reputation Engine, AI Content Engine, Workflow Builder, Support Knowledge Base, Meeting Assistant, CRM Sync, Invoice Generator
 - Your own Telegram bot (your name and handle, included)
 - 10 scheduled-task slots
 - Early access to new features
@@ -158,4 +158,4 @@ Credits are the unit of account in dGENIX and are topped up each month on your b
 
 Upgrade, downgrade and cancel any time via **Dashboard -> Account -> Subscription**. An upgrade takes effect immediately, a downgrade at your next period. You keep access until the end of the paid period.
 
-See current rates at [dgenix.com/pricing](https://dgenix.com/pricing).
+See current rates at [Pricing](https://dgenix.com/pricing).

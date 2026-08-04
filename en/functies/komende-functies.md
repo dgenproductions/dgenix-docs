@@ -32,7 +32,7 @@ Connect hundreds of external tools via the Model Context Protocol (MCP), on your
 
 Recent additions include:
 
-- The **5 Growth Engines**: SEO, GEO, Authority, Reputation and AI Content. See [Growth Tools](../engines/README.md).
+- The **5 [Growth Engines](https://dgenix.com/engines)**: SEO, GEO, Authority, Reputation and AI Content. See [Growth Tools](../engines/README.md).
 - **News & Research** and **Deep Research**
 - **SEO Blog Writer**
 - The full **Google suite** (Docs, Tasks, Analytics, Search Console, Business Profile)

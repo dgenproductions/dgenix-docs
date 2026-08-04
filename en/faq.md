@@ -53,7 +53,7 @@ Yes, with the **Own Telegram Bot**, included from the Pro plan. Your own bot has
 ## Skills
 
 **What are skills?**
-Skills are modular capabilities you add to GENI via the Skills Marketplace. Personal skills (Gmail, Calendar, Drive, Daily Planner) are in Starter+. Business skills (Social Media Manager, AI Image Generation, SEO Engine and more) are included from Growth+; the heaviest engines from Pro+. You pay per action in credits, not per skill per month.
+Skills are modular capabilities you add to GENI via the Skills Marketplace. Personal skills (Gmail, Calendar, Drive, Daily Planner) are in Starter+. Business skills (Social Media Manager, AI Image Generation, [SEO Engine](https://dgenix.com/engines/seo) and more) are included from Growth+; the heaviest engines from Pro+. You pay per action in credits, not per skill per month.
 
 **How do I activate a skill?**
 Go to **Dashboard -> Skills** and click "Activate" on the skill you want. Skills included in your plan activate for free with one click.
@@ -109,10 +109,10 @@ Only your AI assistant reads your emails, to run the tasks you ask for. dGENIX d
 Account data is kept 30 days after deletion. Invoice data 7 years (legally required). Logs up to 90 days. See the [privacy policy](https://dgenix.com/privacy).
 
 **Is dGENIX GDPR-compliant?**
-Yes. dGENIX is governed by Dutch law. See [dgenix.com/privacy](https://dgenix.com/privacy) for the full policy.
+Yes. dGENIX is governed by Dutch law. See [Privacy policy](https://dgenix.com/privacy) for the full policy.
 
 **How do you protect my data?**
-Your connections are stored encrypted, your data sits on European servers and we never use it to train AI. You decide per tool what GENI may do, and you can disconnect at any time. The full overview is on [dgenix.com/security](https://dgenix.com/security).
+Your connections are stored encrypted, your data sits on European servers and we never use it to train AI. You decide per tool what GENI may do, and you can disconnect at any time. The full overview is on [Security](https://dgenix.com/security).
 
 ---
 
@@ -122,4 +122,4 @@ Your connections are stored encrypted, your data sits on European servers and we
 Check your credit balance via **Dashboard -> Account -> Usage**. Using the Telegram add-on? Also check that the connection is active via **Dashboard -> Skills**.
 
 **I have another question.**
-Email [contact@dgenix.nl](mailto:contact@dgenix.nl) or use the contact form at [dgenix.com/contact](https://dgenix.com/contact).
+Email [contact@dgenix.nl](mailto:contact@dgenix.nl) or use the contact form at [Contact](https://dgenix.com/contact).

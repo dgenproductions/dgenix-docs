@@ -46,7 +46,7 @@ Je persoonlijke assistent met de basis.
 Voor wie dagelijks werk automatiseert. Alle zakelijke skills inbegrepen.
 
 - Alles uit Starter, plus 175.000 credits per maand
-- Zakelijke skills: AI Beeldgeneratie, FLUX, Social Media Manager, SEO Engine, Lead Research, Client Onboarding, WhatsApp Business, Instagram DM, Notion, Slack, HubSpot, LinkedIn, Airtable, Typeform, Calendly, de Google-suite-skills en meer
+- Zakelijke skills: AI Beeldgeneratie, FLUX, Social Media Manager, [SEO Engine](https://dgenix.nl/engines/seo), Lead Research, Client Onboarding, WhatsApp Business, Instagram DM, Notion, Slack, HubSpot, LinkedIn, Airtable, Typeform, Calendly, de Google-suite-skills en meer
 - Projectmappen met eigen instructies per klant of campagne
 - 5 slots voor geplande taken
 - Prioriteitsverwerking
@@ -56,7 +56,7 @@ Voor wie dagelijks werk automatiseert. Alle zakelijke skills inbegrepen.
 Voor bureaus en professionals die het maximale uit GENI halen.
 
 - Alles uit Growth, plus 350.000 credits per maand
-- Pro-skills: GEO Engine, Authority Engine, Reputation Engine, AI Content Engine, Workflow Builder, Support Kennisbank, Vergadering Assistent, CRM Sync, Factuur Automator
+- Pro-skills: [GEO Engine](https://dgenix.nl/engines/geo), Authority Engine, Reputation Engine, AI Content Engine, Workflow Builder, Support Kennisbank, Vergadering Assistent, CRM Sync, Factuur Automator
 - Eigen Telegram-bot (jouw naam en handle, inbegrepen)
 - 10 slots voor geplande taken
 - Vroeg toegang tot nieuwe features
@@ -79,7 +79,7 @@ Voor teams en organisaties met specifieke behoeften.
 - Team-assistenten (meerdere gebruikers)
 - Custom workflows en dedicated onboarding + support
 
-[Neem contact op](https://dgenix.com/contact?plan=custom)
+[Neem contact op](https://dgenix.nl/contact?plan=custom)
 
 ---
 
@@ -158,4 +158,4 @@ Credits zijn de rekeneenheid van dGENIX, ze worden elke maand aangevuld op je fa
 
 Upgraden, downgraden en opzeggen kan op elk moment via **Dashboard -> Account -> Abonnement**. Een upgrade gaat direct in, een downgrade bij je volgende periode. Je houdt toegang tot het einde van de betaalde periode.
 
-Bekijk de actuele tarieven op [dgenix.com/pricing](https://dgenix.com/pricing).
+Bekijk de actuele tarieven op [Prijzen](https://dgenix.nl/pricing).

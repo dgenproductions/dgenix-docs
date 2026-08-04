@@ -2,7 +2,7 @@
 
 ## Wat doet deze skill?
 
-De GEO Engine analyseert je website op zichtbaarheid in AI-zoekmachines zoals ChatGPT, Perplexity, Claude en Google AI Overviews. Je krijgt een gedetailleerde audit met scores per categorie, een lijst met problemen en concrete aanbevelingen om je AI-zichtbaarheid te verbeteren.
+De [GEO Engine](https://dgenix.nl/engines/geo) analyseert je website op zichtbaarheid in AI-zoekmachines zoals ChatGPT, Perplexity, Claude en Google AI Overviews. Je krijgt een gedetailleerde audit met scores per categorie, een lijst met problemen en concrete aanbevelingen om je AI-zichtbaarheid te verbeteren.
 
 ## Vereisten
 

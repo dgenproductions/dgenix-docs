@@ -1,6 +1,6 @@
 # Authority Engine
 
-De **Authority Engine** is de stap van *meten* naar *doen*: GENI schrijft verbeterde content en plaatst die in je CMS, maar **nooit zonder jouw goedkeuring**. Veilig voor je vindbaarheid.
+De **[Authority Engine](https://dgenix.nl/engines/authority)** is de stap van *meten* naar *doen*: GENI schrijft verbeterde content en plaatst die in je CMS, maar **nooit zonder jouw goedkeuring**. Veilig voor je vindbaarheid.
 
 ## Hoe het werkt
 

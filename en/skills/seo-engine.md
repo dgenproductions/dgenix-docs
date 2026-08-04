@@ -2,7 +2,7 @@
 
 ## What does this skill do?
 
-The SEO Engine analyses your web pages on all technical SEO factors: on-page elements, content quality, technical health and site structure. You get an overall score, sub-scores per category, a list of issues found and priority actions to rank higher on Google.
+The [SEO Engine](https://dgenix.com/engines/seo) analyses your web pages on all technical SEO factors: on-page elements, content quality, technical health and site structure. You get an overall score, sub-scores per category, a list of issues found and priority actions to rank higher on Google.
 
 ## Requirements
 

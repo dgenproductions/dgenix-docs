@@ -2,7 +2,7 @@
 
 ## What does this skill do?
 
-The GEO Engine analyses your website for visibility in AI search engines like ChatGPT, Perplexity, Claude and Google AI Overviews. You get a detailed audit with scores per category, a list of issues and concrete recommendations to improve your AI visibility.
+The [GEO Engine](https://dgenix.com/engines/geo) analyses your website for visibility in AI search engines like ChatGPT, Perplexity, Claude and Google AI Overviews. You get a detailed audit with scores per category, a list of issues and concrete recommendations to improve your AI visibility.
 
 ## Requirements
 

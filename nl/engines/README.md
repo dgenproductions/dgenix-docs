@@ -1,6 +1,6 @@
 # Groei Tools, de 5 Growth Engines
 
-Naast de losse skills heeft dGENIX vijf **Growth Engines**: de zwaarste, outcome-gerichte tools van het platform. Ze meten, schrijven en publiceren. GENI bedient ze via chat én je plant ze in via Automations. Je vindt ze in het dashboard onder **Groei Tools** (`/dashboard/engines`).
+Naast de losse skills heeft dGENIX vijf **[Growth Engines](https://dgenix.nl/engines)**: de zwaarste, outcome-gerichte tools van het platform. Ze meten, schrijven en publiceren. GENI bedient ze via chat én je plant ze in via Automations. Je vindt ze in het dashboard onder **Groei Tools** (`/dashboard/engines`).
 
 Vaste volgorde: SEO, GEO, Authority, Reputation, AI Content.
 
@@ -8,7 +8,7 @@ Bovenaan de Groei Tools staat het tabblad **Overzicht**: één gecombineerd dash
 
 **Voor bureaus:** het **portfolio-overzicht** toont al je klant-sites in één tabel met per site de laatste SEO-, GEO- en Authority-scores plus de verkeerswaarde (klik op een rij om naar die klant te springen). Lever **white-label rapporten** (vanaf Pro): zet je eigen bureau-naam, logo en accentkleur op de PDF-audit-rapporten. En maak in de AI-assistent een **project** (chat-map) per klant en voeg met "Naar project" de audits en fixes van die klant toe. GENI kent die context dan in elke chat binnen dat project, zodat je per klant kunt werken, plannen en rapporteren.
 
-> **Gratis proberen?** Op [dgenix.nl/demo](https://dgenix.nl/demo) scan je je website gratis op SEO en AI-vindbaarheid (GEO), zonder account. Je krijgt direct je score en de belangrijkste verbeterpunten. De volledige resultaten en de engines zelf zitten achter een (gratis) account.
+> **Gratis proberen?** Op [Gratis scan](https://dgenix.nl/demo) scan je je website gratis op SEO en AI-vindbaarheid (GEO), zonder account. Je krijgt direct je score en de belangrijkste verbeterpunten. De volledige resultaten en de engines zelf zitten achter een (gratis) account.
 
 ---
 

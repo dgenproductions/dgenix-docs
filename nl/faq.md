@@ -53,7 +53,7 @@ Ja, met de **Eigen Telegram Bot**, inbegrepen vanaf het Pro-plan. Je eigen bot h
 ## Skills
 
 **Wat zijn skills?**
-Skills zijn modulaire vaardigheden die je aan GENI toevoegt via de Skills Marketplace. Persoonlijke skills (Gmail, Calendar, Drive, Dagplanner) zitten in Starter+. Zakelijke skills (Social Media Manager, AI Beeldgeneratie, SEO Engine en meer) zijn inbegrepen vanaf Growth+; de zwaarste engines vanaf Pro+. Je betaalt per uitgevoerde actie in credits, niet per skill per maand.
+Skills zijn modulaire vaardigheden die je aan GENI toevoegt via de Skills Marketplace. Persoonlijke skills (Gmail, Calendar, Drive, Dagplanner) zitten in Starter+. Zakelijke skills (Social Media Manager, AI Beeldgeneratie, [SEO Engine](https://dgenix.nl/engines/seo) en meer) zijn inbegrepen vanaf Growth+; de zwaarste engines vanaf Pro+. Je betaalt per uitgevoerde actie in credits, niet per skill per maand.
 
 **Hoe activeer ik een skill?**
 Ga naar **Dashboard → Skills** en klik op "Activeer" bij de gewenste skill. Skills die in je plan zitten activeer je gratis met één klik.
@@ -106,13 +106,13 @@ Nee. Geen opzetkosten, geen contracten.
 Alleen jouw AI-assistent leest je e-mails, om taken uit te voeren die jij opdraagt. dGENIX gebruikt je e-mailinhoud niet voor andere doeleinden.
 
 **Hoe lang worden mijn gegevens bewaard?**
-Accountgegevens worden 30 dagen na verwijdering bewaard. Factuurdata 7 jaar (wettelijk verplicht). Logs maximaal 90 dagen. Zie het [privacybeleid](https://dgenix.com/privacy).
+Accountgegevens worden 30 dagen na verwijdering bewaard. Factuurdata 7 jaar (wettelijk verplicht). Logs maximaal 90 dagen. Zie het [privacybeleid](https://dgenix.nl/privacy).
 
 **Is dGENIX AVG/GDPR-conform?**
-Ja. dGENIX valt onder Nederlands recht. Zie [dgenix.com/privacy](https://dgenix.com/privacy) voor het volledige beleid.
+Ja. dGENIX valt onder Nederlands recht. Zie [Privacybeleid](https://dgenix.nl/privacy) voor het volledige beleid.
 
 **Hoe beveiligen jullie mijn gegevens?**
-Je koppelingen worden versleuteld bewaard, je gegevens staan op Europese servers en we gebruiken ze nooit om AI te trainen. Jij bepaalt per tool wat GENI mag en je verbreekt een koppeling wanneer je wilt. Het volledige overzicht staat op [dgenix.com/security](https://dgenix.com/security).
+Je koppelingen worden versleuteld bewaard, je gegevens staan op Europese servers en we gebruiken ze nooit om AI te trainen. Jij bepaalt per tool wat GENI mag en je verbreekt een koppeling wanneer je wilt. Het volledige overzicht staat op [Beveiliging](https://dgenix.nl/security).
 
 ---
 
@@ -125,4 +125,4 @@ Controleer je creditsaldo via **Dashboard → Account → Gebruik**. Gebruik je 
 Zorg dat je @dGENIXbot in Telegram hebt opgestart (`/start` gestuurd) en probeer de activatie opnieuw via het dashboard.
 
 **Ik heb een andere vraag.**
-Stuur een e-mail naar [contact@dgenix.nl](mailto:contact@dgenix.nl) of gebruik het contactformulier op [dgenix.com/contact](https://dgenix.com/contact).
+Stuur een e-mail naar [contact@dgenix.nl](mailto:contact@dgenix.nl) of gebruik het contactformulier op [Contact](https://dgenix.nl/contact).

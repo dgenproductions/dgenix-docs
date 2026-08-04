@@ -59,4 +59,4 @@ You can also revoke access via [myaccount.google.com/permissions](https://myacco
 
 **Analytics unavailable:** disconnect and reconnect, your current connection may not have Analytics permissions.
 
-**Questions?** Use the contact form at [dgenix.com/contact](https://dgenix.com/contact).
+**Questions?** Use the contact form at [Contact](https://dgenix.com/contact).

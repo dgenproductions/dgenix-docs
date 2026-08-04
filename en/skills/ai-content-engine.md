@@ -2,7 +2,7 @@
 
 ## What does this skill do?
 
-Paste a YouTube URL or direct video link and the AI Content Engine automatically generates up to 15 viral short-form clips. Each clip gets a virality score (0-100), three viral title suggestions, a caption and 15-20 hashtags. Captions can optionally be burned into the video. Everything is available in the dashboard once processing is done.
+Paste a YouTube URL or direct video link and the [AI Content Engine](https://dgenix.com/engines/ai-content) automatically generates up to 15 viral short-form clips. Each clip gets a virality score (0-100), three viral title suggestions, a caption and 15-20 hashtags. Captions can optionally be burned into the video. Everything is available in the dashboard once processing is done.
 
 ## Requirements
 

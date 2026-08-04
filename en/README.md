@@ -17,7 +17,7 @@ dGENIX gives you a personal AI assistant with real memory, ready for anything. Y
 
 GENI remembers what you discussed earlier and learns your preferences. Stacking skills builds workflows, fully automated business processes.
 
-Missing a skill? Request it via [dgenix.com/contact](https://dgenix.com/contact?type=skill) and dGENIX builds it and adds it to the marketplace.
+Missing a skill? Request it via [Contact](https://dgenix.com/contact?type=skill) and dGENIX builds it and adds it to the marketplace.
 
 You reach GENI through **the dashboard**. With the free Telegram add-on you are also reachable on the go, activate it via Skills whenever you like.
 
@@ -52,7 +52,7 @@ No technical knowledge needed. Average setup time: 5 minutes.
 
 ## Need help?
 
-Use the contact form at [dgenix.com/contact](https://dgenix.com/contact) or email [contact@dgenix.nl](mailto:contact@dgenix.nl).
+Use the contact form at [Contact](https://dgenix.com/contact) or email [contact@dgenix.nl](mailto:contact@dgenix.nl).
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Wat doet deze skill?
 
-De SEO Engine analyseert je webpagina's op alle technische SEO-factoren: on-page elementen, content kwaliteit, technische gezondheid en sitestructuur. Je krijgt een totaalscore, deelscores per categorie, een lijst met gevonden problemen en prioritaire acties om hoger te scoren in Google.
+De [SEO Engine](https://dgenix.nl/engines/seo) analyseert je webpagina's op alle technische SEO-factoren: on-page elementen, content kwaliteit, technische gezondheid en sitestructuur. Je krijgt een totaalscore, deelscores per categorie, een lijst met gevonden problemen en prioritaire acties om hoger te scoren in Google.
 
 ## Vereisten
 

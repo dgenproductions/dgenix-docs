@@ -52,4 +52,4 @@ You can also revoke access via [myaccount.google.com/permissions](https://myacco
 
 **Connection failed:** try again and make sure you are logged in to the right Google account in your browser.
 
-**Questions?** Use the contact form at [dgenix.com/contact](https://dgenix.com/contact).
+**Questions?** Use the contact form at [Contact](https://dgenix.com/contact).

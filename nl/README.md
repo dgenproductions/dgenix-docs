@@ -17,7 +17,7 @@ dGENIX geeft je een persoonlijke AI-assistent met echt geheugen, klaar voor alle
 
 Je assistent onthoudt wat je eerder hebt besproken en leert van jouw voorkeuren. Skills stapelen = workflows = volledig geautomatiseerde bedrijfsprocessen.
 
-Ontbreekt er een skill? Dien een aanvraag in via [dgenix.com/contact](https://dgenix.com/contact?type=skill-aanvraag), dGENIX bouwt hem en voegt hem toe aan de marketplace.
+Ontbreekt er een skill? Dien een aanvraag in via [Contact](https://dgenix.nl/contact?type=skill-aanvraag), dGENIX bouwt hem en voegt hem toe aan de marketplace.
 
 Je bereikt je assistent via **het dashboard**. Via de gratis Telegram add-on ben je ook onderweg bereikbaar, activeer hem via Skills wanneer je wil.
 
@@ -54,7 +54,7 @@ Geen technische kennis nodig. Gemiddelde insteltijd: 5 minuten.
 
 ## Hulp nodig?
 
-Gebruik het contactformulier op [dgenix.com/contact](https://dgenix.com/contact) of mail [contact@dgenix.nl](mailto:contact@dgenix.nl).
+Gebruik het contactformulier op [Contact](https://dgenix.nl/contact) of mail [contact@dgenix.nl](mailto:contact@dgenix.nl).
 
 ---
 

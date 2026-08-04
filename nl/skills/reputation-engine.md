@@ -2,7 +2,7 @@
 
 ## Wat doet deze skill?
 
-De Reputation Engine helpt je meer en betere reviews te krijgen. Je vraagt je eigen klanten automatisch om een review via een branded e-mail met een directe review-link. Ideaal voor lokale bedrijven (horeca, kappers, fitness, makelaars).
+De [Reputation Engine](https://dgenix.nl/engines/reputation) helpt je meer en betere reviews te krijgen. Je vraagt je eigen klanten automatisch om een review via een branded e-mail met een directe review-link. Ideaal voor lokale bedrijven (horeca, kappers, fitness, makelaars).
 
 ## Vereisten
 

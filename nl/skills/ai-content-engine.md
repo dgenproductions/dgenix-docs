@@ -2,7 +2,7 @@
 
 ## Wat doet deze skill?
 
-Plak een YouTube URL of directe videolink en de AI Content Engine genereert automatisch tot 15 virale short-form clips. Elke clip krijgt een virality score (0-100), drie virale titelsuggesties, een caption en 15-20 hashtags. Optioneel worden captions ingebrand in de video. Alles beschikbaar via het dashboard zodra de verwerking klaar is.
+Plak een YouTube URL of directe videolink en de [AI Content Engine](https://dgenix.nl/engines/ai-content) genereert automatisch tot 15 virale short-form clips. Elke clip krijgt een virality score (0-100), drie virale titelsuggesties, een caption en 15-20 hashtags. Optioneel worden captions ingebrand in de video. Alles beschikbaar via het dashboard zodra de verwerking klaar is.
 
 ## Vereisten
 

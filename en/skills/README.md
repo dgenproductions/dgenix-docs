@@ -47,7 +47,7 @@ Included from the Growth plan.
 - **Notion**, **Slack**, **HubSpot CRM**, **LinkedIn Automation**, **CMS Publisher**
 - **Airtable**, **Typeform**, **Calendly**
 - **Google Business Profile**, **Google Analytics**, **Google Docs**, **Search Console**
-- **SEO Engine**, [see Growth Tools](../engines/README.md)
+- **[SEO Engine](https://dgenix.com/engines/seo)**, [see Growth Tools](../engines/README.md)
 - **Microsoft 365**, coming soon
 - **Canva**, coming soon
 
@@ -57,7 +57,7 @@ Included from the Growth plan.
 
 Included from the Pro plan.
 
-- **GEO Engine**, AI Share-of-Voice in ChatGPT/Perplexity/Gemini/Claude
+- **[GEO Engine](https://dgenix.com/engines/geo)**, AI Share-of-Voice in ChatGPT/Perplexity/Gemini/Claude
 - **Authority Engine**, write and publish content draft-first to your CMS
 - **Reputation Engine**, review campaigns via branded email
 - **AI Content Engine**, one video into a week of viral clips

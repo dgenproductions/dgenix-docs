@@ -26,4 +26,4 @@ Na activatie geeft de koppeling toegang tot:
 ---
 
 → Terug naar [Connectors overzicht](README.md)
-→ Zie ook: [Microsoft 365 skill](../skills/microsoft-365.md)
+→ Zie ook: [Microsoft 365 skill](https://dgenix.nl/skills/microsoft-365)
