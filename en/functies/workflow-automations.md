@@ -1,6 +1,19 @@
 # Workflow Automations
 
-Workflow Automations are recurring commands your assistant runs automatically at set times, with no effort from you.
+Workflow Automations are recurring commands GENI runs automatically at set times, with no effort from you.
+
+The rule of thumb: anything you can ask by hand you can also schedule. If a
+request works in chat, it works as an automation.
+
+## What you can do with it
+
+| What you schedule | When it runs |
+|---|---|
+| Daily overview of your inbox and calendar | Every weekday at 08:00 |
+| Weekly report to your mailbox | Every Monday |
+| SEO audit of your site | Monthly |
+| Review requests to new customers | Every Monday |
+| Social post from your latest blog | Weekly |
 
 ---
 
@@ -56,7 +69,13 @@ Workflow Automations are recurring commands your assistant runs automatically at
 | Pro | 10 slots |
 | Business | 20 slots |
 
-**Extra slots:** available to buy via **Account -> Subscription** (slot add-on packs).
+**Extra slots** (from Pro), via **Account -> Subscription**:
+
+| Pack | Price |
+|---|---|
+| +1 slot | €6.99/mo |
+| +5 slots | €29.99/mo |
+| +10 slots | €59.99/mo |
 
 ---
 
@@ -127,3 +146,50 @@ If a template needs skills you have not activated, you see a warning badge on th
 ### No template found?
 
 If your search returns nothing, two buttons appear: **New workflow** (build one from scratch) and **Request a template** (describe what you are missing; the request goes to dGENIX support).
+
+---
+
+## Limits
+
+- **The number of slots depends on your plan**: Free 0, Starter 1, Growth 5, Pro 10, Business 20. Extra slots can be bought separately from Pro.
+- **Irreversible actions ask for confirmation inside an automation too.** No email or publication ever goes out unseen.
+- **An automation fails if a required skill or connection is missing.** You see that as a warning on the template beforehand.
+- **Credits are deducted per run.** A heavy daily task adds up; check the cost per run first.
+- **Without credits execution stops** until your balance is topped up.
+- **The smallest frequency is daily.** For anything more frequent, start it by hand.
+
+## Troubleshooting
+
+**Your automation does not run.** Check whether it is switched on and whether you still have credits. A paused task stays but executes nothing.
+
+**It fails every time.** A skill or connection is probably missing. The overview shows the last run with the error.
+
+**You cannot create a new automation.** Your slots are full. Delete an existing one or buy extra slots.
+
+**The result does not reach you.** Check that the task has a delivery step, for example "email the result to me". Without it the result stays in the dashboard.
+
+**The timing is off.** Execution follows your account's time zone; check it in Settings.
+
+## Frequently asked questions
+
+**What is the difference with a Workspace task?**
+An automation is executed by GENI at a set time. A Workspace task is a to-do you
+tick off. See [Workspace](werkruimte.md).
+
+**Can I pause an automation?**
+Yes, with the on/off switch. Your settings are kept.
+
+**Does an automation cost extra?**
+The automation itself does not; only the work it performs uses credits, just as
+when you ask for it by hand.
+
+**Can I see what has run?**
+Yes, each automation shows its last run with the result, and everything also
+appears in your Workspace timeline.
+
+---
+
+Next: [Scheduled tasks](../handleiding/geplande-taken.md) · [Workspace](werkruimte.md) · [The credit system](../hoe-het-werkt/credits.md)
+On the site: [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, Workflow Automations, updated August 2026*

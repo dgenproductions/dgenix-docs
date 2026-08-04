@@ -1,6 +1,6 @@
 # Files and images
 
-Everything GENI makes for you, and everything you send it, comes together in **Dashboard -> Files**.
+Everything GENI makes for you, and everything you send it, comes together in the **Files** tab of your [Workspace](werkruimte.md).
 
 Those are two different things: files you **send** in a conversation GENI uses on
 the spot, and files it **creates** are kept so you can download them later.

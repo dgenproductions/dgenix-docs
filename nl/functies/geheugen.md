@@ -77,6 +77,59 @@ Onderaan de pagina vind je een samenvatting van je kennisdocument, de persoonlij
 
 ---
 
+## Wat je hiermee kunt
+
+| Wat je doet | Wat GENI ermee doet |
+|---|---|
+| Iets vertellen in een gesprek | Slaat het op als het relevant blijft voor later |
+| "Onthoud dat..." zeggen | Legt het direct vast als herinnering |
+| Een vraag stellen over eerder werk | Zoekt op betekenis in je geheugen en activiteit |
+| Wisselen naar een project | Gebruikt eerst de herinneringen van dat project |
+| Een herinnering corrigeren | Past hem aan of gooit hem weg, jij houdt de regie |
+
+## Wat je ziet
+
+Je werkt een paar weken met GENI en vraagt dan iets waar je hem nooit expliciet
+over verteld hebt:
+
+```
+Schrijf een offerte voor mevrouw De Vries
+```
+
+> Ik heb de offerte opgesteld met wat ik van je weet:
+>
+> - **formele toon**, zoals je voorkeur is
+> - **30 dagen geldig**, dat hanteer je standaard
+> - je **btw-nummer en bankgegevens** onderaan
+> - opgemaakt vanuit **Installatiebedrijf Jansen**
+>
+> Ik heb de prijzen uit je catalogus gehaald. Zal ik hem als PDF klaarzetten?
+
+Niets daarvan heb je in deze opdracht getypt. Dat is het verschil tussen een
+chatvenster en een assistent die je kent.
+
+## Grenzen
+
+- **Je geheugen is strikt van jou.** Niemand anders kan erbij, ook niet binnen hetzelfde bedrijf.
+- **GENI verzint niets bij.** Weet hij iets niet, dan vraagt hij het in plaats van te gokken.
+- **Een verkeerde herinnering blijft doorwerken** tot je hem aanpast. Klopt iets structureel niet, corrigeer het dan in je kennisdocument in plaats van steeds bij te sturen.
+- **De opslaglimiet hangt af van je plan**: 100 op Free en Starter, 500 op Growth, 2.000 op Pro, 5.000 op Business.
+- **Bij de limiet archiveert GENI zelf** de minst belangrijke herinneringen naar je kennisbank; er gaat niets zomaar verloren.
+- **Projectherinneringen blijven in dat project.** Dat is opzet, maar betekent dat je iets soms twee keer vertelt.
+- **Semantisch zoeken zit vanaf Starter.** Op Free werkt het geheugen wel, alleen zonder zoeken op betekenis.
+
+## Problemen oplossen
+
+**GENI weet iets niet meer.** Kijk op de Geheugen-pagina of het er staat. Zo niet, zeg het opnieuw met "onthoud dat...".
+
+**Hij gebruikt verouderde informatie.** Zoek de herinnering op en pas hem aan of verwijder hem; een nieuwe toevoegen laat de oude staan.
+
+**Hij haalt klanten door elkaar.** Klantspecifieke feiten horen in een [project](projecten.md), niet in je algemene geheugen.
+
+**Je zit aan de limiet.** GENI archiveert zelf naar je kennisbank. Wil je zelf opruimen, verwijder dan verouderde herinneringen op de Geheugen-pagina.
+
+**Er wordt te veel opgeslagen.** Je kunt elke herinnering verwijderen, en met "wis alle herinneringen" begin je opnieuw.
+
 ## Veelgestelde vragen
 
 **Wat komt er automatisch in mijn geheugen?**

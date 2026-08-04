@@ -1,6 +1,6 @@
 # Bestanden en afbeeldingen
 
-Alles wat GENI voor je maakt, en alles wat je hem meestuurt, komt samen in **Dashboard → Bestanden**.
+Alles wat GENI voor je maakt, en alles wat je hem meestuurt, komt samen in het tabblad **Bestanden** van je [Werkruimte](werkruimte.md).
 
 Dat zijn twee verschillende dingen: bestanden die je **meestuurt** in een gesprek
 gebruikt GENI ter plekke, en bestanden die hij **maakt** blijven bewaard zodat je

@@ -110,3 +110,74 @@ Next to the **+** button is a **tools icon**. Click to pick from 5 modes that ch
 | **Web search on** | All plans | Force web search for this message, for current info with sources |
 
 An active mode shows an indigo chip above the input field with an x to switch it off. Modes that need a specific skill (Deep Research, SEO/GEO) show an upgrade or activate prompt if you do not have it yet. Sources the assistant uses appear as clickable links below its answer.
+
+---
+
+## What you can do with it
+
+| What you ask | What GENI does |
+|---|---|
+| "Summarise my unread mail" | Reads your inbox and lists the action items |
+| "Find out what this company does" | Researches and returns a summary with sources |
+| "Write a quote for this client" | Uses your knowledge document, memory and knowledge base |
+| "Analyse my site for visibility" | Starts an audit and explains the outcome |
+| "Put this conversation in my workspace" | Saves it as a note or task |
+
+## What you see
+
+You ask for an inbox summary. You do not get a raw list but an ordered answer:
+
+> **12 unread, 3 need action**
+>
+> - **Sofie van Dijk** , quote approved, wants to sign this week. *Action: send contract.*
+> - **Accountant** , VAT return due before the 25th. *Action: supply figures.*
+> - **Jan Bakker** , asks whether Thursday's meeting can move.
+>
+> The other 9 are newsletters and notifications. Shall I archive those?
+
+For an action that changes something or costs money, GENI asks for confirmation
+first. You always see the text of an email before it goes out.
+
+## Limits
+
+- **No connection, no access.** GENI only reaches accounts you connected.
+- **Irreversible actions always ask for approval**: sending, publishing, scheduling.
+- **It never deletes anything.** No mail, no file, no calendar entry.
+- **It does not fill in the blanks.** If information is missing, it asks.
+- **It does not start on its own.** GENI waits for your instruction or a scheduled task.
+- **Model choice and some modes sit in higher plans.** On Free you chat in a limited form.
+
+## Troubleshooting
+
+**It says it cannot reach something.** The connection is missing or expired. Check [Connectors](../connectors/README.md) to see whether the account still shows as Connected.
+
+**The answer is too long or too short.** Adjust your communication style or personal instructions in [Settings](instellingen.md).
+
+**It forgets something from an earlier conversation.** Check your [Memory](geheugen.md); what is not in it, it does not know.
+
+**It uses the wrong client context.** Work in a [project](projecten.md) per client.
+
+**A mode is unavailable.** Deep Research needs Growth, the GEO Engine needs Pro. The chip shows that in advance.
+
+## Frequently asked questions
+
+**Do I have to say which skill it should use?**
+No, GENI picks. Steering is allowed: *"use the Social Media Manager to..."*.
+
+**Are my conversations kept?**
+Yes, in the side panel. You can organise them into project folders.
+
+**Can it read files I send?**
+Yes: images, PDF, Word, Excel, text and audio. See [Files](bestanden.md).
+
+**What does a conversation cost?**
+A short question costs little; heavy tasks such as an audit or research cost
+more. The cost shows on the button before you start. See
+[The credit system](../hoe-het-werkt/credits.md).
+
+---
+
+Next: [Memory](geheugen.md) · [Projects](projecten.md) · [Workspace](werkruimte.md)
+On the site: [how dGENIX works](https://dgenix.com/hoe-het-werkt) · [all skills](https://dgenix.com/skills)
+
+*dGENIX Docs, AI assistant, updated August 2026*

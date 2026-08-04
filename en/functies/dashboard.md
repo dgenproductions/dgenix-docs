@@ -1,120 +1,116 @@
 # Dashboard
 
-The dGENIX dashboard is your central hub for everything around your AI assistant, from credits and usage to tasks, files and settings.
+The dashboard is where you configure everything and find everything back: your conversations, your skills, your connections, your usage and your subscription.
 
-You reach it at [app.dgenix.com](https://app.dgenix.com).
+You reach it at [app.dgenix.com](https://app.dgenix.com) or
+[app.dgenix.nl](https://app.dgenix.nl). Which address you use sets the language:
+`.com` is English, `.nl` is Dutch.
 
----
+## What you can do with it
 
-## Navigation
+The sidebar is split into three groups, so you know where to look:
 
-The dashboard has a sidebar with these sections:
-
-| Section | Description |
-|---|---|
-| **Home** | Quick overview of your balance, recent activity and shortcuts |
-| **AI Assistant** | Configure your assistant, manage projects and knowledge base |
-| **Skills** | Activate and manage extra capabilities |
-| **Connectors** | Link your own tools (Google, Slack, Notion and more) |
-| **Growth Tools** | The 5 Growth Engines (SEO, GEO, Authority, Reputation, AI Content) |
-| **Tasks** | Scheduled and recurring commands |
-| **Account** | Subscription, usage, billing and assistant configuration |
-
----
+| Group | Item | For |
+|---|---|---|
+| **Work** | Home | Balance, recent activity and shortcuts |
+| | Assistant | Chatting with GENI, projects and your knowledge base |
+| | Workspace | Notes, tasks, timeline and your files |
+| **Growth** | Skills | Switching on capabilities and connecting accounts |
+| | Tasks | Work that runs automatically on schedule |
+| | Growth Tools | The five engines: SEO, GEO, Authority, Reputation, AI Content |
+| | Memory | What GENI remembers about you |
+| **Account** | Account | Usage and subscription |
+| | Settings | Profile, assistant, Telegram, notifications, privacy |
+| | Help and support | Guidance and contact |
 
 ## Home
 
-The home page gives an instant overview of your account:
+The first screen gives you the state of play: your **credit balance**, your
+**recent activity** and a row of **shortcuts** that adapts to your plan. On Free
+those are things that work without connections; on Pro the engines are there.
 
-- **Credit balance**, your current balance at a glance
-- **Active skills and scheduled tasks**, live counts
-- **Recent activity**, your latest commands and results
-- **Shortcuts**, direct access to common features
+At the top sits an input bar so you can ask GENI something without going to the
+chat first.
 
----
+## What you see
 
-## AI Assistant
+The Home screen of an account on Growth looks like this:
 
-Here you manage the core of GENI:
+> **142,500 credits** of 175,000 · renews 8 September
+>
+> | | |
+> |---|---|
+> | Active skills | 9 |
+> | Scheduled tasks | 3 of 5 |
+> | Used this month | 32,500 |
+>
+> **Recent activity**
+> - Inbox summarised , 240 cr
+> - SEO audit dgenix.com , 4,000 cr
+> - LinkedIn post published , 180 cr
 
-- **Configure your assistant**, name, response style and focus areas
-- **Projects**, workspaces per client, campaign or workflow (see [Projects](projecten.md))
-- **Knowledge base**, upload documents your assistant uses as context (see [Knowledge base](kennisbank.md))
+That way you see at a glance whether you are on track, and where your credits
+go.
 
----
+## Account: usage and subscription
 
-## Skills
+Under **Account** there are two tabs.
 
-The Skills page shows every capability available to your assistant:
+**Usage** shows your balance, a progress bar for the current month, your recent
+transactions and a graph of your credit history per day, week, month or year.
+Useful for seeing whether a spike was one-off or structural.
 
-- **Active skills**, currently enabled, ready to use
-- **Marketplace**, activate new skills by category (personal, business)
-- **Status badges**, active, coming soon or plan required
-
-See the [Skills marketplace](../skills/README.md) for the full overview.
-
----
-
-## Account, Usage
-
-The Usage page shows your credit consumption:
-
-- **Current balance**, your live balance, active plan and a progress bar of monthly credits used
-- **Recent transactions**, the latest credit movements with description, amount and date
-- **Credit history (chart)**, your balance over time (day / week / month / year)
-
-### Buy extra credits
-
-At the bottom you buy one-time credit packs:
+This is also where you top up, from Starter:
 
 | Pack | Credits | Price |
 |---|---|---|
-| S | 25,000 | €12 |
-| M | 60,000 | €27 |
-| L | 150,000 | €60 |
+| Small | 25,000 | €12 |
+| Medium | 60,000 | €27 |
+| Large | 150,000 | €60 |
 | XL | 350,000 | €130 |
 | XXL | 750,000 | €260 |
 
-See also [Buy extra credits](../plannen-en-prijzen/credits-bijkopen.md).
+**Subscription** shows your current plan, the renewal date and your invoices,
+and is where you change plan or update your payment method.
+
+## Limits
+
+- **The dashboard is per user.** There is no shared team view.
+- **Topping up is available from Starter.** On Free there is a hard limit of 1,000 credits.
+- **Unused credits expire** at the monthly renewal; they do not stack.
+- **Files live in the Workspace**, not as a separate menu item.
+- **Admin screens are only visible to administrators.**
+
+## Troubleshooting
+
+**Your balance does not match what you expected.** Check the transaction list under Account. Every deduction is listed with a description; a failed paid action is refunded and shows there too.
+
+**You cannot see Growth Tools.** The engines sit in Growth (SEO) and Pro (the rest).
+
+**A menu item is missing.** Some parts sit in a higher plan. The skill card states which plan it starts from.
+
+**The dashboard is in the wrong language.** Language follows the domain: use `app.dgenix.com` for English and `app.dgenix.nl` for Dutch.
+
+**Your renewal date looks wrong.** It follows your first payment, not the calendar month. That same date determines when your credits and monthly limits reset.
+
+## Frequently asked questions
+
+**Where are my files?**
+Under **Workspace**, in the Files tab. See [Files](bestanden.md).
+
+**What is the difference between Tasks and Workspace tasks?**
+Tasks in the menu are jobs GENI executes itself at a set time. Workspace tasks
+are to-dos you tick off. See [Scheduled tasks](../handleiding/geplande-taken.md).
+
+**Can I use the dashboard on my phone?**
+Yes, with a tab bar at the bottom instead of the sidebar.
+
+**Do I have to use Telegram?**
+No. The dashboard is the main entrance; Telegram is an optional extra.
 
 ---
 
-## Account, Subscription (Billing)
+Next: [Workspace](werkruimte.md) · [Memory](geheugen.md) · [The credit system](../hoe-het-werkt/credits.md)
+On the site: [pricing](https://dgenix.com/pricing) · [how dGENIX works](https://dgenix.com/hoe-het-werkt)
 
-Manage your subscription here:
-
-- **Current plan**, active period and renewal date
-- **Invoices**, overview of earlier payments
-- **Change plan**, upgrade or downgrade via Stripe
-- **Payment method**, managed via the Stripe customer portal
-
----
-
-## Files
-
-An overview of everything your assistant created or received: documents, summaries, reports and generated images. Per file you see the name, type, date and the skill that created it. Download or view directly.
-
----
-
-## Tasks
-
-Manage scheduled and recurring commands:
-
-- **Active tasks**, commands that run automatically
-- **Frequency**, daily, weekly or at a fixed time
-- **Status**, last run and result
-- **On/off**, pause tasks without deleting them
-
----
-
-## Settings
-
-The settings page has several tabs:
-
-- **Profile**, name, email and password
-- **Assistant**, name, response style, focus areas and custom rules
-- **Knowledge document**, your personal context document (company info, way of working)
-- **Voice**, pick a voice for Voice Chat (Dutch or English)
-- **Telegram**, connection status of your Telegram add-on (if active)
-
-Integrations are managed on the separate **Connectors** page.
+*dGENIX Docs, Dashboard, updated August 2026*

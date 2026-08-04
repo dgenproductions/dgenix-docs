@@ -1,100 +1,123 @@
 # Projecten
 
-> Projecten zijn beschikbaar vanaf het **Growth** plan.
+Een project is een afgeschermde werkruimte met eigen instructies, eigen gesprekken en eigen geheugen. Binnen het project van klant A weet GENI niets van klant B.
 
-Met Projecten organiseer je het werk van je AI-assistent in aparte werkruimtes. Elk project heeft zijn eigen context, taken en history, zodat je assistent altijd weet waar hij mee bezig is.
+Dat is precies waarom bureaus hiermee werken. Zonder projecten haalt GENI vroeg
+of laat de tone of voice of de cijfers van de één door het werk van de ander.
+Beschikbaar vanaf **Growth**.
 
----
+## Wat je hiermee kunt
 
-## Wat zijn projecten?
+| Situatie | Wat een project oplost |
+|---|---|
+| Je werkt voor meerdere klanten | Elke klant krijgt eigen context, niets lekt over |
+| Je beheert meerdere merken | Per merk een eigen toon en huisstijl |
+| Een lopende campagne | GENI weet wat er al gedaan is en wat nog moet |
+| Een terugkerende workflow | Opgebouwde context blijft staan tussen weken door |
 
-Een project is een afgebakende werkruimte voor een specifiek doel:
-
-- **Een klant**, alle taken, e-mails en research voor die klant op één plek
-- **Een campagne**, bijhouden wat er gedaan is, wat er nog moet gebeuren
-- **Een terugkerende workflow**, elke week dezelfde taken, met opgebouwde context
-
-Je assistent werkt altijd in het context van het actieve project, hij weet wat eerder is gedaan en wat de huidige stand van zaken is.
-
----
-
-## Hoe werken projecten?
+## Een project opzetten
 
 1. Ga naar **Dashboard → Assistent → Projecten**
-2. Klik op **"Nieuw project"**
-3. Geef het project een naam
-4. Start een gesprek in het project, je assistent werkt in die context
+2. Klik op **Nieuw project** en geef het een naam
+3. Klik op het tandwiel naast het project en vul de **projectinstructies** in
+4. Start een gesprek binnen het project
 
-Alle gesprekken en taken in een project worden bewaard. Je kunt later terugkijken, een samenvatting opvragen of verder gaan waar je gebleven was.
-
----
+Stap 3 is waar het verschil zit. Zonder instructies is een project alleen een
+map; mét instructies is het een aparte werkomgeving.
 
 ## Projectinstructies
 
-Elk project heeft zijn eigen instructies, extra context die de assistent automatisch meekrijgt bij elk gesprek in dat project.
-
-**Hoe instellen:**
-
-1. Hover over een project in de zijbalk
-2. Klik op het ⚙️ tandwieltje-icoon
-3. Typ je projectinstructies in het tekstveld
-4. Klik **Opslaan**
-
-**Wat zet je erin?**
-
-- Over welke klant of opdracht het project gaat
-- Gewenste toon (formeel / informeel / bondig)
-- Merkrichtlijnen of huisstijl
-- Specifieke werkwijze of regels voor dit project
-
-**Voorbeeld:**
+Deze tekst krijgt GENI bij élk gesprek in dat project mee:
 
 ```text
-Dit project gaat over klant Bakkerij De Krent. Gebruik altijd formele toon.
-Vergeet nooit te noemen wat de volgende stap is na elke opdracht.
+Dit project gaat over klant Bakkerij De Krent. Gebruik altijd een formele toon.
+Noem na elke opdracht wat de volgende stap is.
 Merkkleur: #c8a96e (goud). Doelgroep: horecaprofessionals in Amsterdam.
 ```
 
-De projectinstructies worden **gecombineerd met je globale kennisdocument**, je persoonlijke info (naam, bedrijf, werkwijze) is altijd aanwezig, het project voegt daar de specifieke context bovenop.
+Projectinstructies komen **bovenop** je kennisdocument. Je eigen gegevens en
+werkwijze blijven gelden; het project voegt de specifieke context toe.
 
----
+| Soort project | Wat je in de instructies zet |
+|---|---|
+| Klantwerk | Klantnaam, gewenste toon, merkrichtlijnen |
+| Contentcreatie | Platform, doelgroep, stijlgids |
+| Salescampagne | Product, ideale klant, follow-upstijl, verboden onderwerpen |
+| Intern project | Teamafspraken, deadline, rapportageformat |
+
+## Wat je ziet
+
+Je werkt een week in het project "Bakkerij De Krent" en vraagt daarna:
+
+```
+Wat hadden we vorige week afgesproken?
+```
+
+> Vorige week hebben we voor De Krent:
+>
+> - de zomercampagne-teksten opgeleverd, in formele toon zoals afgesproken
+> - besloten om Instagram over te slaan en op LinkedIn en de nieuwsbrief te richten
+> - vastgelegd dat de nieuwe prijslijst per 1 september ingaat
+>
+> **Nog open:** de nieuwsbriefteksten voor week 36. Zal ik daarmee beginnen?
+
+Dezelfde vraag buiten dit project levert niets op. Dat is opzet: de context zit
+in het project, niet in je account.
 
 ## Gesprekken verplaatsen
 
-Sleep gesprekken in en uit projectmappen via drag & drop (desktop). Op mobiel gebruik je het "..." menu rechts van een gesprek → **Verplaats naar**.
+Op desktop sleep je een gesprek in of uit een projectmap. Op mobiel gebruik je
+het **...**-menu naast een gesprek en kiest **Verplaats naar**.
+
+## Combineren met de kennisbank
+
+Upload klantdocumenten in de [kennisbank](kennisbank.md) van dat project. GENI
+gebruikt ze dan alleen daar, dus de catalogus van de ene klant komt nooit terecht
+in werk voor de andere.
+
+## Grenzen
+
+- **Projecten delen niets met elkaar**, en ook niets met je algemene chat. Dat is de bedoeling, maar het betekent wel dat je iets soms twee keer vertelt.
+- **Een project is geen team.** Het is jouw werkruimte; er is geen gedeelde toegang voor collega's.
+- **Verwijderen is definitief.** De gesprekshistorie van dat project gaat mee.
+- **Projectinstructies gaan vóór je algemene instellingen.** Werkt GENI anders dan je verwacht, kijk daar eerst.
+- **Projecten zitten vanaf Growth.** Op Free en Starter werk je in één gedeelde context.
+
+## Problemen oplossen
+
+**GENI weet niets van eerder werk.** Waarschijnlijk zit je gesprek buiten het project. Sleep het naar de projectmap of start een nieuw gesprek binnen het project.
+
+**Hij gebruikt de verkeerde toon.** Controleer de projectinstructies; die wegen zwaarder dan je algemene stijlinstelling.
+
+**Een klantdocument wordt niet gevonden.** Het is op accountniveau geüpload in plaats van in het project, of andersom.
+
+**Je ziet Projecten niet.** Die zitten vanaf Growth.
+
+**Informatie van een andere klant duikt op.** Dan staat die in je algemene geheugen of kennisdocument, niet in een project. Verplaats klantspecifieke feiten naar het juiste project.
+
+## Veelgestelde vragen
+
+**Hoeveel projecten kan ik maken?**
+Genoeg voor normaal gebruik. Eén project per klant of merk werkt in de praktijk
+het beste.
+
+**Kan een collega in mijn project?**
+Nee. Projecten zijn per gebruiker; er is geen gedeelde teamtoegang.
+
+**Werkt het geheugen ook per project?**
+Ja. In een projectchat gebruikt GENI eerst de herinneringen van dat project. Zie
+[Contextopslag vergeleken](../concepten/context-opslag-vergeleken.md).
+
+**Kan ik een project archiveren?**
+Je kunt het laten staan; een ongebruikt project doet niets en kost niets.
+
+**Kan ik engine-resultaten aan een project koppelen?**
+Ja. Bij een SEO- of GEO-audit kun je het resultaat aan een project toevoegen,
+zodat GENI die cijfers kent in elk gesprek daarbinnen.
 
 ---
 
-## Geheugen per project
+→ Verder: [Kennisbank](kennisbank.md) · [Geheugen](geheugen.md) · [Contextopslag vergeleken](../concepten/context-opslag-vergeleken.md)
+→ Op de site: [voor bureaus](https://dgenix.nl/agencies) · [prijzen](https://dgenix.nl/pricing)
 
-Je assistent onthoudt wat er in een project is gedaan:
-
-- Eerder gegeven opdrachten
-- Opgehaalde informatie en onderzoeksresultaten
-- Lopende taken en hun status
-- Afspraken en beslissingen
-
-**Voorbeeld:** je start een project voor klant "Bakkerij De Krent". Na een week vraag je: "Wat hebben we de vorige keer afgesproken?", je assistent geeft direct een overzicht.
-
----
-
-## Projects en de Kennisbank
-
-Combineer Projecten met de [Kennisbank](kennisbank.md) voor maximale context. Upload klantdocumenten, briefings of productinfo, je assistent gebruikt die informatie automatisch bij elke taak in dat project.
-
----
-
-## Typische use cases
-
-| Use case | Wat je in de projectinstructies zet |
-| --- | --- |
-| Klantwerk | Klantnaam, gewenste toon, merkrichtlijnen |
-| Content creatie | Platform (LinkedIn vs Instagram), doelgroep, stijlgids |
-| Sales campagne | Product, ICP, follow-up stijl, verboden onderwerpen |
-| Intern project | Teamafspraken, deadline, rapportageformat |
-
----
-
-## Projecten verwijderen
-
-Ga naar **Dashboard → Assistent → Projecten**, klik op het project en kies **"Verwijder"**. Alle history in dat project wordt permanent verwijderd.
+*dGENIX Docs, Projecten, bijgewerkt augustus 2026*

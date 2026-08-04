@@ -71,3 +71,72 @@ The Workspace has an AI layer that helps you capture and find things faster:
 ## What it costs
 
 Notes and tasks are free on every plan. The AI features (semantic search, AI tags, voice notes and GENI driving your workspace) are available from Starter. Voice notes cost a small number of credits per recording; search and tags are included.
+
+## What you see
+
+You throw a messy thought into the chat and ask for a plan:
+
+```
+Make a plan out of these loose ideas: redo the website, De Vries quote,
+VAT return, find a new photographer, revise prices
+```
+
+> I turned them into five tasks and ordered them by urgency:
+>
+> | Task | Priority | Due |
+> |---|---|---|
+> | File VAT return | High | 25 August |
+> | Finish De Vries quote | High | 8 August |
+> | Revise prices | Normal | , |
+> | Find a photographer | Normal | , |
+> | Redo the website | Low | , |
+>
+> The VAT return is at the top because of the statutory deadline. They are under
+> **Suggested by GENI**; accept or reject them.
+
+They arrive as a *proposal*, not as fact. You approve.
+
+## Limits
+
+- **Suggested tasks never become active on their own.** You accept or reject them.
+- **Automatic task detection is off by default.** You switch it on yourself in Settings.
+- **Notes and tasks are per user.** There is no shared workspace for a team.
+- **The Timeline shows, it does not schedule.** To have something actually executed, use [Scheduled tasks](../handleiding/geplande-taken.md).
+- **The AI layer sits in Starter and up.** On Free notes and tasks work fine, just without semantic search, AI tags and voice.
+- **A deleted note is gone.** There is no bin.
+
+## Troubleshooting
+
+**GENI cannot find your note.** Search on meaning rather than an exact word ("what did I write about the new website?"). On Free semantic search is unavailable, so there you do have to hit the words.
+
+**No suggested tasks appear.** The option is off by default. Switch it on in **Settings**.
+
+**A voice note is transcribed poorly.** Background noise and people talking over each other make it hard. Speak briefly and close to the microphone.
+
+**Tasks from an engine audit do not show up.** Only audits with concrete issues produce tasks; a clean audit yields none.
+
+**Your note is in the wrong folder.** Open it and change the folder in the editor.
+
+## Frequently asked questions
+
+**What is the difference between a task and a scheduled task?**
+A Workspace task is a to-do you tick off. A scheduled task is work GENI executes
+itself at a set time. See [Scheduled tasks](../handleiding/geplande-taken.md).
+
+**Can GENI use my notes as knowledge?**
+Yes, it searches them when relevant. For whole documents use the
+[knowledge base](kennisbank.md).
+
+**Does the Workspace work per project?**
+Notes and tasks sit on your account. To keep work strictly separated per client,
+use [Projects](projecten.md) for the conversations.
+
+**Does a note cost credits?**
+No. Only the AI features use credits, and search and tags are included in that.
+
+---
+
+Next: [Scheduled tasks](../handleiding/geplande-taken.md) · [Memory](geheugen.md) · [Projects](projecten.md)
+On the site: [how dGENIX works](https://dgenix.com/hoe-het-werkt)
+
+*dGENIX Docs, Workspace, updated August 2026*

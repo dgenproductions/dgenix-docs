@@ -147,3 +147,75 @@ Naast de **+** knop staat een **gereedschaps-icoon (Tools)**. Klik om uit 5 mode
 Een actieve mode toont een indigo chip boven het invoerveld met een kruisje om hem uit te schakelen. Bij modes die een specifieke skill nodig hebben (Deep Research, SEO/GEO) krijg je een upgrade- of activeer-melding als je die nog niet hebt.
 
 Bronnen die de assistent gebruikt verschijnen automatisch als klikbare links onderaan zijn antwoord.
+
+---
+
+## Wat je hiermee kunt
+
+| Wat je vraagt | Wat GENI doet |
+|---|---|
+| "Vat mijn ongelezen mail samen" | Leest je inbox en zet de actiepunten op een rij |
+| "Zoek uit wat dit bedrijf doet" | Onderzoekt en levert een samenvatting met bronnen |
+| "Schrijf een offerte voor deze klant" | Gebruikt je kennisdocument, geheugen en kennisbank |
+| "Analyseer mijn site op vindbaarheid" | Start een audit en legt de uitkomst uit |
+| "Zet dit gesprek in mijn werkruimte" | Bewaart het als notitie of taak |
+
+## Wat je ziet
+
+Je vraagt om een inboxsamenvatting. Je krijgt geen ruwe lijst maar een geordend
+antwoord:
+
+> **12 ongelezen, 3 vragen actie**
+>
+> - **Sofie van Dijk** , offerte akkoord, wil deze week tekenen. *Actie: contract sturen.*
+> - **Boekhouder** , btw-aangifte vóór de 25e. *Actie: cijfers aanleveren.*
+> - **Jan Bakker** , vraagt of de afspraak van donderdag kan verzetten.
+>
+> De andere 9 zijn nieuwsbrieven en notificaties. Zal ik die archiveren?
+
+Bij een actie die iets verandert of geld kost, vraagt GENI eerst om bevestiging.
+Je ziet de tekst van een mail altijd vóór hij weggaat.
+
+## Grenzen
+
+- **Zonder koppeling geen toegang.** GENI komt alleen bij accounts die je hebt gekoppeld.
+- **Onomkeerbare acties vragen altijd om akkoord**: versturen, publiceren, plannen.
+- **Hij verwijdert nooit iets.** Geen mail, geen bestand, geen agenda-item.
+- **Hij verzint niets bij.** Ontbreekt informatie, dan vraagt hij ernaar.
+- **Hij begint niet uit zichzelf.** GENI wacht op jouw opdracht of op een geplande taak.
+- **Modelkeuze en sommige modes zitten in hogere plannen.** Op Free chat je in beperkte vorm.
+
+## Problemen oplossen
+
+**Hij zegt dat hij ergens niet bij kan.** De koppeling ontbreekt of is verlopen. Kijk bij [Connectors](../connectors/README.md) of het account nog als Verbonden staat.
+
+**Het antwoord is te lang of te kort.** Pas je communicatiestijl of persoonlijke instructies aan in [Instellingen](instellingen.md).
+
+**Hij vergeet iets uit een eerder gesprek.** Controleer je [Geheugen](geheugen.md); wat er niet in staat, weet hij niet.
+
+**Hij gebruikt de verkeerde klantcontext.** Werk in een [project](projecten.md) per klant.
+
+**Een mode is niet beschikbaar.** Deep Research vraagt Growth, de GEO Engine vraagt Pro. De chip toont dat vooraf.
+
+## Veelgestelde vragen
+
+**Moet ik zeggen welke skill hij moet gebruiken?**
+Nee, GENI kiest zelf. Sturen mag: *"gebruik de Social Media Manager om..."*.
+
+**Blijven mijn gesprekken bewaard?**
+Ja, in het zijpaneel. Je kunt ze in projectmappen ordenen.
+
+**Kan hij bestanden lezen die ik meestuur?**
+Ja: afbeeldingen, PDF, Word, Excel, tekst en audio. Zie [Bestanden](bestanden.md).
+
+**Wat kost een gesprek?**
+Een korte vraag kost weinig; zware taken zoals een audit of research kosten
+meer. De kosten staan op de knop voordat je start. Zie
+[Het creditsysteem](../hoe-het-werkt/credits.md).
+
+---
+
+→ Verder: [Geheugen](geheugen.md) · [Projecten](projecten.md) · [Werkruimte](werkruimte.md)
+→ Op de site: [hoe dGENIX werkt](https://dgenix.nl/hoe-het-werkt) · [alle skills](https://dgenix.nl/skills)
+
+*dGENIX Docs, AI-assistent, bijgewerkt augustus 2026*

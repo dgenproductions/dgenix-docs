@@ -1,6 +1,19 @@
 # Workflow Automations
 
-Workflow Automations zijn terugkerende opdrachten die je assistent automatisch uitvoert op vaste tijdstippen, zonder dat jij er iets voor hoeft te doen.
+Workflow Automations zijn terugkerende opdrachten die GENI automatisch uitvoert op vaste tijdstippen, zonder dat jij er iets voor hoeft te doen.
+
+De vuistregel: alles wat je met de hand kunt vragen, kun je ook inplannen. Werkt
+een opdracht in de chat, dan werkt hij ook als automation.
+
+## Wat je hiermee kunt
+
+| Wat je inplant | Wanneer het draait |
+|---|---|
+| Dagoverzicht van je inbox en agenda | Elke werkdag om 08:00 |
+| Weekrapport naar je mailbox | Elke maandag |
+| SEO-audit van je site | Elke maand |
+| Reviewverzoeken naar nieuwe klanten | Elke maandag |
+| Social post uit je laatste blog | Wekelijks |
 
 ---
 
@@ -8,13 +21,13 @@ Workflow Automations zijn terugkerende opdrachten die je assistent automatisch u
 
 1. Maak een workflow aan met een naam, instructie en frequentie
 2. De assistent voert de taak automatisch uit op het ingestelde tijdstip
-3. Je ontvangt het resultaat via Telegram
+3. Het resultaat verschijnt in je dashboard, en wordt gemaild of naar Telegram gestuurd als je dat in de instructie vraagt
 
 ---
 
 ## Een workflow aanmaken
 
-1. Ga naar **Dashboard → Workflows**
+1. Ga naar **Dashboard → Taken**
 2. Klik **+ Nieuwe workflow**
 3. Vul in:
    - **Naam:** korte omschrijving (bijv. "Dagelijks nieuwsoverzicht")
@@ -56,7 +69,13 @@ Workflow Automations zijn terugkerende opdrachten die je assistent automatisch u
 | Pro | 10 slots |
 | Business | 20 slots |
 
-**Extra slots bijkopen:** €9,99/mnd per +5 slots (beschikbaar voor Growth & Pro). Koop extra slots via **Billing** of via de info-sectie op de Workflows pagina.
+**Extra slots bijkopen** (vanaf Pro), via **Account → Abonnement**:
+
+| Pakket | Prijs |
+|---|---|
+| +1 slot | €6,99/mnd |
+| +5 slots | €29,99/mnd |
+| +10 slots | €59,99/mnd |
 
 ---
 
@@ -81,7 +100,7 @@ Klik op het prullenbakicoon. De workflow wordt permanent verwijderd.
 
 ## Google Calendar integratie
 
-Als je Google Calendar hebt verbonden (Settings → Integraties), verschijnt een **GCal** knop naast elke workflow. Klik erop om de workflow toe te voegen als terugkerend agenda-event, zo zie je de taken ook direct in je agenda.
+Als je Google Calendar hebt verbonden (Dashboard → Connectors), verschijnt een **GCal** knop naast elke workflow. Klik erop om de workflow toe te voegen als terugkerend agenda-event, zo zie je de taken ook direct in je agenda.
 
 ---
 
@@ -141,3 +160,50 @@ Je kunt de workflow nog wel aanmaken, maar hij faalt bij elke uitvoering tot de 
 Als je zoekopdracht geen resultaten oplevert verschijnen twee knoppen:
 - **Nieuwe workflow**, maak zelf een workflow vanaf nul (open formulier zonder template)
 - **Template aanvragen**, beschrijf welke workflow je mist; je aanvraag komt direct bij dGENIX support en we voegen geschikte templates toe
+
+---
+
+## Grenzen
+
+- **Het aantal slots hangt af van je plan**: Free 0, Starter 1, Growth 5, Pro 10, Business 20. Extra slots zijn los bij te kopen vanaf Pro.
+- **Onomkeerbare acties vragen ook binnen een automation om bevestiging.** Er gaat nooit ongezien een mail of publicatie de deur uit.
+- **Een automation faalt als een benodigde skill of koppeling ontbreekt.** Je ziet dat vooraf als waarschuwing bij de template.
+- **Credits worden per uitvoering afgeschreven.** Een dagelijkse zware taak telt dus op; kijk vooraf naar de kosten per run.
+- **Zonder credits stopt de uitvoering** tot je saldo is aangevuld.
+- **De kleinste frequentie is dagelijks.** Voor iets dat vaker moet, start je het handmatig.
+
+## Problemen oplossen
+
+**Je automation draait niet.** Kijk of hij aan staat en of je nog credits hebt. Een gepauzeerde taak blijft staan maar voert niets uit.
+
+**Hij faalt elke keer.** Waarschijnlijk mist een skill of een koppeling. In het overzicht staat de laatste uitvoering met de foutmelding erbij.
+
+**Je kunt geen nieuwe automation aanmaken.** Je slots zijn vol. Verwijder een bestaande of koop extra slots bij.
+
+**Het resultaat komt niet binnen.** Controleer of de taak een bezorgstap heeft, bijvoorbeeld "mail het resultaat naar mij". Zonder die stap blijft het resultaat in het dashboard staan.
+
+**De tijd klopt niet.** Uitvoering volgt de tijdzone van je account; controleer die in Instellingen.
+
+## Veelgestelde vragen
+
+**Wat is het verschil met een taak in de Werkruimte?**
+Een automation voert GENI zelf uit op een tijdstip. Een Werkruimte-taak is een
+to-do die jij afvinkt. Zie [Werkruimte](werkruimte.md).
+
+**Kan ik een automation tijdelijk uitzetten?**
+Ja, met de aan/uit-schakelaar. Je instellingen blijven bewaard.
+
+**Kost een automation extra?**
+De automation zelf niet; alleen het werk dat hij uitvoert kost credits, net als
+wanneer je het met de hand vraagt.
+
+**Kan ik zien wat er gedraaid heeft?**
+Ja, per automation staat de laatste uitvoering met resultaat, en alles komt ook
+in de tijdlijn van je Werkruimte.
+
+---
+
+→ Verder: [Geplande taken](../handleiding/geplande-taken.md) · [Werkruimte](werkruimte.md) · [Het creditsysteem](../hoe-het-werkt/credits.md)
+→ Op de site: [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Workflow Automations, bijgewerkt augustus 2026*

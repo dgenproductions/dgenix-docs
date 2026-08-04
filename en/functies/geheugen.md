@@ -77,6 +77,59 @@ At the bottom of the page you'll find a summary of your knowledge document, the 
 
 ---
 
+## What you can do with it
+
+| What you do | What GENI does with it |
+|---|---|
+| Mention something in a conversation | Stores it if it stays relevant later |
+| Say "remember that..." | Records it as a memory straight away |
+| Ask about earlier work | Searches your memory and activity by meaning |
+| Switch to a project | Uses that project's memories first |
+| Correct a memory | Adjusts or discards it, you stay in control |
+
+## What you see
+
+You work with GENI for a few weeks and then ask something you never explicitly
+told it:
+
+```
+Write a quote for Mrs De Vries
+```
+
+> I drafted the quote using what I know about you:
+>
+> - **formal tone**, as you prefer
+> - **valid for 30 days**, your standard
+> - your **VAT number and bank details** at the bottom
+> - issued from **Installatiebedrijf Jansen**
+>
+> I took the prices from your catalogue. Shall I prepare it as a PDF?
+
+None of that was in your request. That is the difference between a chat window
+and an assistant that knows you.
+
+## Limits
+
+- **Your memory is strictly yours.** Nobody else can reach it, not even within the same company.
+- **GENI does not fill in the blanks.** If it does not know something, it asks rather than guesses.
+- **A wrong memory keeps having effect** until you fix it. If something is structurally off, correct your knowledge document instead of steering every time.
+- **The storage limit depends on your plan**: 100 on Free and Starter, 500 on Growth, 2,000 on Pro, 5,000 on Business.
+- **At the limit GENI archives** the least important memories to your knowledge base itself; nothing is simply lost.
+- **Project memories stay in that project.** That is by design, but it means you sometimes say something twice.
+- **Semantic search sits in Starter and up.** On Free memory works, just without searching by meaning.
+
+## Troubleshooting
+
+**GENI no longer knows something.** Check the Memory page to see whether it is there. If not, say it again with "remember that...".
+
+**It uses outdated information.** Find the memory and edit or delete it; adding a new one leaves the old in place.
+
+**It mixes up clients.** Client-specific facts belong in a [project](projecten.md), not in your general memory.
+
+**You have hit the limit.** GENI archives to your knowledge base itself. To clear space yourself, delete outdated memories on the Memory page.
+
+**Too much is being stored.** You can delete any memory, and "clear all memories" starts you over.
+
 ## Frequently asked questions
 
 **What flows into my memory automatically?**

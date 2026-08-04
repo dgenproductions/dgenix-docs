@@ -1,95 +1,122 @@
 # Projects
 
-> Projects are available from the **Growth** plan.
+A project is a walled-off workspace with its own instructions, its own conversations and its own memory. Inside client A's project GENI knows nothing about client B.
 
-With Projects you organise your AI assistant's work into separate workspaces. Each project has its own context, tasks and history, so GENI always knows what it is working on.
+That is exactly why agencies work this way. Without projects GENI will sooner or
+later carry one client's tone of voice or figures into another's work. Available
+from **Growth**.
 
----
+## What you can do with it
 
-## What are projects?
+| Situation | What a project solves |
+|---|---|
+| You work for several clients | Each client gets its own context, nothing leaks across |
+| You manage several brands | A separate tone and style per brand |
+| A running campaign | GENI knows what is done and what is still open |
+| A recurring workflow | Accumulated context survives between weeks |
 
-A project is a dedicated workspace for a specific goal:
-
-- **A client**, all tasks, emails and research for that client in one place
-- **A campaign**, track what is done and what still needs doing
-- **A recurring workflow**, the same tasks each week, with accumulated context
-
-Your assistant always works in the context of the active project, it knows what was done before and the current state.
-
----
-
-## How do projects work?
+## Setting up a project
 
 1. Go to **Dashboard -> Assistant -> Projects**
-2. Click **"New project"**
-3. Give the project a name
-4. Start a conversation in the project, your assistant works in that context
+2. Click **New project** and give it a name
+3. Click the gear next to the project and fill in the **project instructions**
+4. Start a conversation inside the project
 
-All conversations and tasks in a project are kept. You can review later, request a summary or continue where you left off.
-
----
+Step 3 is where the difference is. Without instructions a project is just a
+folder; with them it is a separate working environment.
 
 ## Project instructions
 
-Each project has its own instructions, extra context the assistant automatically receives for every conversation in that project.
-
-**How to set them:**
-
-1. Hover over a project in the sidebar
-2. Click the gear icon
-3. Type your project instructions in the text field
-4. Click **Save**
-
-**What to put in:**
-
-- Which client or assignment the project is about
-- Desired tone (formal / informal / concise)
-- Brand guidelines or house style
-- Specific way of working or rules for this project
-
-**Example:**
+GENI receives this text with *every* conversation in that project:
 
 ```text
-This project is about client De Krent Bakery. Always use a formal tone.
-Never forget to state the next step after each task.
-Brand colour: #c8a96e (gold). Audience: hospitality professionals.
+This project is about client Bakkerij De Krent. Always use a formal tone.
+After every task, state what the next step is.
+Brand colour: #c8a96e (gold). Audience: hospitality professionals in Amsterdam.
 ```
 
-Project instructions are **combined with your global knowledge document**, your personal info (name, company, way of working) is always present, the project adds the specific context on top.
+Project instructions sit **on top of** your knowledge document. Your own details
+and way of working still apply; the project adds the specific context.
 
----
+| Kind of project | What goes in the instructions |
+|---|---|
+| Client work | Client name, desired tone, brand guidelines |
+| Content creation | Platform, audience, style guide |
+| Sales campaign | Product, ideal customer, follow-up style, topics to avoid |
+| Internal project | Team agreements, deadline, reporting format |
+
+## What you see
+
+You work for a week in the project "Bakkerij De Krent" and then ask:
+
+```
+What did we agree last week?
+```
+
+> Last week for De Krent we:
+>
+> - delivered the summer campaign copy, in the formal tone agreed
+> - decided to skip Instagram and focus on LinkedIn and the newsletter
+> - recorded that the new price list takes effect on 1 September
+>
+> **Still open:** the newsletter copy for week 36. Shall I start on that?
+
+The same question outside this project returns nothing. That is by design: the
+context lives in the project, not in your account.
 
 ## Moving conversations
 
-Drag conversations in and out of project folders (desktop). On mobile use the "..." menu next to a conversation -> **Move to**.
+On desktop you drag a conversation into or out of a project folder. On mobile
+use the **...** menu next to a conversation and choose **Move to**.
+
+## Combining with the knowledge base
+
+Upload client documents into that project's [knowledge base](kennisbank.md).
+GENI then uses them only there, so one client's catalogue never ends up in work
+for another.
+
+## Limits
+
+- **Projects share nothing with each other**, nor with your general chat. That is intended, but it does mean you sometimes say something twice.
+- **A project is not a team.** It is your workspace; there is no shared access for colleagues.
+- **Deleting is permanent.** That project's conversation history goes with it.
+- **Project instructions take precedence over your general settings.** If GENI behaves unexpectedly, look there first.
+- **Projects sit in Growth and up.** On Free and Starter you work in one shared context.
+
+## Troubleshooting
+
+**GENI knows nothing about earlier work.** Your conversation is probably outside the project. Drag it into the project folder or start a new conversation inside it.
+
+**It uses the wrong tone.** Check the project instructions; they outweigh your general style setting.
+
+**A client document is not found.** It was uploaded at account level instead of in the project, or the other way round.
+
+**You cannot see Projects.** They sit in Growth and up.
+
+**Information from another client shows up.** That means it lives in your general memory or knowledge document, not in a project. Move client-specific facts into the right project.
+
+## Frequently asked questions
+
+**How many projects can I create?**
+Enough for normal use. One project per client or brand works best in practice.
+
+**Can a colleague join my project?**
+No. Projects are per user; there is no shared team access.
+
+**Does memory work per project too?**
+Yes. In a project chat GENI uses that project's memories first. See
+[Context storage compared](../concepten/context-opslag-vergeleken.md).
+
+**Can I archive a project?**
+You can simply leave it. An unused project does nothing and costs nothing.
+
+**Can I attach engine results to a project?**
+Yes. On an SEO or GEO audit you can add the result to a project, so GENI knows
+those figures in every conversation inside it.
 
 ---
 
-## Memory per project
+Next: [Knowledge base](kennisbank.md) · [Memory](geheugen.md) · [Context storage compared](../concepten/context-opslag-vergeleken.md)
+On the site: [for agencies](https://dgenix.com/agencies) · [pricing](https://dgenix.com/pricing)
 
-Your assistant remembers what was done in a project: earlier commands, fetched information and research, ongoing tasks and their status, agreements and decisions.
-
-**Example:** you start a project for client "De Krent Bakery". A week later you ask: "What did we agree last time?", your assistant gives an instant overview.
-
----
-
-## Projects and the Knowledge base
-
-Combine Projects with the [Knowledge base](kennisbank.md) for maximum context. Upload client documents, briefings or product info, your assistant uses that information automatically for every task in that project.
-
----
-
-## Typical use cases
-
-| Use case | What you put in the project instructions |
-| --- | --- |
-| Client work | Client name, desired tone, brand guidelines |
-| Content creation | Platform (LinkedIn vs Instagram), audience, style guide |
-| Sales campaign | Product, ICP, follow-up style, off-limits topics |
-| Internal project | Team agreements, deadline, reporting format |
-
----
-
-## Deleting projects
-
-Go to **Dashboard -> Assistant -> Projects**, click the project and choose **"Delete"**. All history in that project is permanently removed.
+*dGENIX Docs, Projects, updated August 2026*
