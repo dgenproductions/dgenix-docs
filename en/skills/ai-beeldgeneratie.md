@@ -1,84 +1,100 @@
 # AI Image Generation
 
-Generate and edit images straight from Telegram or the dashboard. The skill uses Google **Nano Banana** (Gemini 2.5 Flash Image) and **Nano Banana Pro** (Gemini 3 Pro Image), the latest Google AI image models. Pick the model based on speed, quality and budget.
+With the Image Generation skill GENI creates images from a description and adjusts existing ones. Its strong point: readable text *inside* the image.
 
-**Included in:** Growth, Pro, Custom
+Available from **Growth**. No connection needed.
 
----
+## What can GENI do with image generation?
 
-## What can your assistant do?
+- **Generate an image** from a description
+- **Edit an existing image**, by describing what should change
 
-- **Text-to-image**, describe what you want and your assistant generates it
-- **Image-to-image**, send an existing photo + instruction and your assistant adjusts it
-- **Aspect ratio choice**, social media, Stories, banners, portraits
-- **Model choice**, fast or high quality, depending on your goal
+You pick from three variants:
 
----
+| Variant | For | Credits |
+|---|---|---|
+| **Nano Banana** | Social media, marketing, business assets, everyday use | 500 |
+| **Nano Banana Pro** | Complex compositions, text in image, up to 4K | 1,700 |
+| **Editing** | Adjusting an existing image | 500 |
 
-## Models & credits
+## Example: what you ask, what you get
 
-| Model | Internal | Cost | Use |
-|---|---|---|---|
-| **Nano Banana** (Gemini 2.5 Flash Image) | `standard` | 500 credits | Social media, marketing, business assets, daily use |
-| **Nano Banana Pro** (Gemini 3 Pro Image) | `pro` | 1,700 credits | Complex compositions, text in image, AI reasoning, max quality, up to 4K |
-| **Edit** (Nano Banana image-to-image) | `edit` | 500 credits | Editing an existing image |
+```
+Make an announcement for our open day on 14 September, with that date in the image
+```
 
-By default your assistant uses the **standard** model (Nano Banana) unless you explicitly ask for top quality.
+> Done with **Nano Banana Pro** (1,700 credits), because you wanted readable
+> text in the image.
+>
+> A workshop with open doors and warm light, with "OPEN DAY , 14 SEPTEMBER" in
+> clear lettering across the lower half.
+>
+> The image is in your Workspace. If you also want it square for Instagram,
+> [AI image editing](image-resizer.md) can do that for 200 credits, cheaper than
+> generating again.
 
----
+That last part is the pattern that saves the most: generate once, scale
+afterwards.
 
-## Example commands
+## Requirements
 
-**Text-to-image:**
-- "Make an image of a sunset over Eindhoven"
-- "Generate a professional LinkedIn banner for an IT company"
-- "Make an Instagram post for my coffee bar, warm vibe, morning light"
+- **Plan:** Growth and up
+- **Connection:** none
 
-**High quality:**
-- "Make a high-quality portrait of a businessman, professional, studio lighting"
-- "Generate a portfolio-grade product photo of a watch on a marble surface"
+## Activating
 
-**Aspect ratio:**
-- "Make an Instagram Story (9:16) of a summer beach scene"
-- "Generate a YouTube thumbnail in 16:9 with the text 'AI in 2026'"
+1. Go to **Dashboard -> Skills** and activate **AI Image Generation**
+2. Describe what you want to see, and optionally name the variant
 
-**Image-to-image:**
-- Send a photo -> "Make this in the style of an oil painting"
-- Send a logo -> "Give this a futuristic look"
+## What it costs
 
----
+See the table above. GENI states the cost before starting; choose deliberately,
+because Pro is well over three times the price of the standard variant. See
+[The credit system](../hoe-het-werkt/credits.md).
 
-## How to activate?
+## Limits
 
-1. Go to **app.dgenix.com/skills**
-2. Find **AI Image Generation** in the Business skills
-3. Click **Activate** (included in Growth and Pro, no extra cost)
-4. Then send a message via Telegram or the dashboard
+- **Every attempt costs credits**, including ones you do not like.
+- **No recognisable people or brand logos.** Requests asking for those are refused.
+- **Text in image only works well on Pro.** On the standard variant letters often come out garbled.
+- **Editing works by description**, not with a brush. Small, precise retouching is hard.
+- **Scaling and cropping do not belong here.** [AI image editing](image-resizer.md) does that for 200 credits.
+- **You are responsible for how you use the result.**
 
----
+## Troubleshooting
 
-## Aspect ratios
+**The text in the image is wrong.** Use Nano Banana Pro; the standard variant is not strong at this.
 
-| Ratio | Use |
-|---|---|
-| 1:1 | Instagram posts, Facebook posts (default) |
-| 9:16 | Instagram Stories, TikTok, Reels |
-| 16:9 | YouTube thumbnails, banners, presentations |
-| 4:3 | Presentation slides, traditional photos |
-| 3:4 | Portraits, Pinterest |
+**The result does not match your description.** Be more concrete about composition, light and style, and say what should *not* be in it.
 
----
+**It costs more than expected.** You were probably on Pro. Name the standard variant explicitly when text-in-image is not needed.
 
-## Guidelines
+**An edit changes too much.** Describe precisely what should stay the same, not only what should change.
 
-The skill follows Google's content guidelines. Images with prohibited content (violence, explicit content, misleading deepfakes) are refused automatically. Your assistant gives a friendly notice and suggests an alternative.
+**Your request is refused.** The description touches on recognisable people, brands or other material that may not be generated.
 
----
+## Frequently asked questions
 
-## Pricing
+**What is the difference with FLUX?**
+Nano Banana is stronger at text-in-image and business assets.
+[FLUX](flux-image.md) gives more control over style and has a cheap fast variant
+from 20 credits. For exploring, FLUX is cheaper; for a final result with text,
+Pro is better.
 
-Included in **Growth**, **Pro** and **Custom**, no extra monthly cost for the skill. Credit cost per image: see the model table above.
+**Where do the images end up?**
+In your Workspace, Files tab, with the prompt and model used. See
+[Files](../functies/bestanden.md).
+
+**May I use the images commercially?**
+Yes, with the caveat that you remain responsible for what you publish.
+
+**Does this work through Telegram too?**
+Yes, if you use the Telegram add-on the image comes back there as a photo.
 
 ---
 
 Back to [Skills marketplace](README.md)
+See also: [FLUX Image Generation](flux-image.md) · [AI image editing](image-resizer.md) · [Files](../functies/bestanden.md)
+On the site: [all skills](https://dgenix.com/skills)
+
+*dGENIX Docs, AI Image Generation, updated August 2026*
