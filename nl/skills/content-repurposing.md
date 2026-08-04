@@ -1,51 +1,93 @@
 # Content Repurposing
 
-## Wat doet deze skill?
+Met de Content Repurposing-skill maakt GENI van één stuk content meerdere platformversies, elk in de vorm die daar werkt.
 
-Stuur een YouTube URL, de assistent analyseert de video en genereert direct herbruikbare content voor 4 platforms: LinkedIn-post, Instagram-caption, tweet en een korte blog-samenvatting.
+Beschikbaar vanaf **Growth**. Je hebt geen koppeling nodig.
+
+## Wat kan GENI met Content Repurposing?
+
+- **Eén bron omzetten naar meerdere platformvarianten** in één opdracht
+
+Het punt is niet dat dezelfde tekst vier keer wordt gekopieerd. LinkedIn wil een
+persoonlijk verhaal, X wil kort en scherp, een nieuwsbrief wil context en
+Instagram wil een haakje. Dezelfde inhoud, vier verschillende vormen.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Maak van dit blogartikel content voor LinkedIn, X, mijn nieuwsbrief en Instagram
+```
+
+> **LinkedIn** , 140 woorden, persoonlijke insteek
+> "Vorige week belde een klant met een vraag die ik vaker hoor…"
+>
+> **X** , 3 losse posts, elk onder 280 tekens
+> "De meeste sites blokkeren precies de AI-bots die hen zouden citeren. Al jaren."
+>
+> **Nieuwsbrief** , 320 woorden, met een korte inleiding en een afsluiter
+>
+> **Instagram** , caption van 90 woorden plus 12 hashtags, met een suggestie voor
+> het beeld: een screenshot van de robots.txt-regel.
+>
+> Alles staat in je Werkruimte. Zal ik de LinkedIn-versie meteen publiceren?
 
 ## Vereisten
 
-- **Plan:** Growth+
-- **Integraties:** Geen extra koppelingen nodig
+- **Plan:** Growth en hoger
+- **Koppeling:** geen, tenzij je meteen wilt publiceren
 
-## Hoe activeer je de skill?
+## Activeren
 
-1. Ga naar **Skills** in je dashboard
-2. Zoek **Content Repurposing** en klik Activeren
+1. Ga naar **Dashboard → Skills** en activeer **Content Repurposing**
+2. Geef een artikel, video-URL of tekst en zeg voor welke platforms je varianten wilt
 
-## Wat kun je ermee?
-
-**Voorbeeldopdrachten:**
-
-- "Hergebruik deze video voor sociale media: youtube.com/watch?v=..."
-- "Maak content van dit YouTube-fragment voor LinkedIn en Instagram"
-
-**Wat de assistent doet:**
-
-1. Haalt de transcript op van de YouTube-video
-2. Analyseert de kernboodschap en hoogtepunten
-3. Genereert 4 platform-specifieke varianten:
-   - **LinkedIn**, professionele post met inzicht
-   - **Instagram**, visueel onderschrift met hashtags
-   - **X (Twitter)**, korte prikkelende tweet
-   - **Blog**, korte samenvatting (intro + 3 kernpunten)
-
-Alles wordt opgeslagen als bestand in je dashboard.
-
-## Creditkosten
+## Wat het kost
 
 | Actie | Credits |
-| --- | --- |
-| Video analyseren + 4 platform-varianten genereren | 500 cr |
+|---|---|
+| Bron analyseren en vier platformvarianten genereren | 500 |
+
+Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
+
+## Grenzen en limieten
+
+- **Publiceren gebeurt niet vanzelf.** Je krijgt de teksten; plaatsen doe je zelf of via [LinkedIn](linkedin.md) of de [Social Media Manager](social-media.md).
+- **Hij verzint geen feiten bij.** Wat niet in je bron staat, komt er ook niet in.
+- **Geen beeld.** Hij stelt hooguit voor wat je zou kunnen tonen.
+- **De kwaliteit hangt af van de bron.** Een dun artikel levert dunne varianten op.
+- **Je blijft verantwoordelijk voor wat je plaatst.** Lees de teksten na op cijfers en beloftes.
+
+## Problemen oplossen
+
+**De varianten lijken te veel op elkaar.** Zeg per platform wat je wilt ("LinkedIn persoonlijk, X scherp"), dan differentieert hij sterker.
+
+**De toon klopt niet.** Leg je schrijfstijl vast in [Instellingen](../functies/instellingen.md); die geldt dan overal.
+
+**Hij mist de kern van het artikel.** Noem zelf de kernboodschap in je opdracht, dan bouwt hij daaromheen.
+
+**Een videobron levert weinig op.** Zonder duidelijke spraak valt er weinig te herbruiken; controleer of de video transcribeerbaar is.
+
+## Veelgestelde vragen
+
+**Welke bronnen kan ik gebruiken?**
+Een blogartikel, een video-URL, of gewoon tekst die je in de chat plakt.
+
+**Kan ik dit inplannen?**
+Ja, bijvoorbeeld wekelijks je nieuwste blog omzetten naar social. Zie
+[Geplande taken](../handleiding/geplande-taken.md).
+
+**Wat is het verschil met de Short Generator?**
+Die maakt videoclips. Deze skill maakt tekst voor verschillende kanalen. Zie
+[Short Generator](short-generator.md).
+
+**Kan hij het meteen publiceren?**
+Alleen via een skill die dat kan, zoals [LinkedIn](linkedin.md), en altijd met
+bevestiging.
 
 ---
 
-## Prijs
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [LinkedIn](linkedin.md) · [Social Media Manager](social-media.md) · [Short Generator](short-generator.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills)
 
-Inbegrepen bij **Growth**, **Pro** en **Custom**, geen extra maandkosten voor de skill.
-Creditkosten per taak: zie tabel hierboven.
-
----
-
-→ Terug naar [Skills marketplace](README.md)
+*dGENIX Docs, Content Repurposing, bijgewerkt augustus 2026*

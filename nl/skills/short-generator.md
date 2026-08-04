@@ -1,105 +1,97 @@
 # Short Generator
 
-Stuur een video-URL, je assistent analyseert de video, detecteert automatisch de beste fragmenten en maakt virale korte clips. Geschikt voor YouTube Shorts, Instagram Reels, TikToks en meer.
+Met de Short Generator stuur je een video-URL en knipt GENI daar automatisch korte clips uit, geschikt voor Shorts, Reels en TikTok.
 
-**Beschikbaar vanaf:** Starter en hoger, inbegrepen zonder extra maandkosten
+Beschikbaar vanaf **Starter**. Je hebt geen koppeling nodig.
 
----
+## Wat kan GENI met de Short Generator?
 
-## Wat kan je assistent?
+- **Een video analyseren** en de bruikbare fragmenten voorstellen voordat er iets geknipt wordt
+- **De clips laten maken** op basis van die analyse
+- **De status opvragen** terwijl de verwerking loopt
 
-- **Highlight detectie**, AI analyseert het transcript en kiest automatisch de meest interessante of virale momenten
-- **Clips renderen**, fragmenten worden gesneden en gerenderd in het formaat naar keuze
-- **Meerdere clips tegelijk**, vraag meerdere clips van één video in één opdracht
-- **Google Drive opslaan**, clips worden automatisch opgeslagen in je Drive (optioneel)
-- **Captions**, automatisch ondertitels toevoegen aan de clips (optioneel)
+Die eerste stap is de moeite waard: je ziet wat hij wil knippen voordat je
+credits uitgeeft aan het knippen zelf.
 
-**Ondersteunde video-bronnen:** YouTube, Instagram, TikTok, Vimeo, en directe video-URL's (MP4)
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
 
----
+```
+Analyseer deze video en maak er 3 shorts van
+```
 
-## Hoe werkt het?
+> **Video van 12 minuten, 5 bruikbare momenten gevonden**
+>
+> | Fragment | Tijd | Waarover |
+> |---|---|---|
+> | 1 | 1:14-1:52 | De uitspraak over te vroeg opschalen |
+> | 2 | 4:03-4:41 | Het voorbeeld met de mislukte campagne |
+> | 3 | 7:28-8:02 | Concrete tip over prijsstelling |
+>
+> Deze drie hebben een duidelijke openingszin en lopen niet midden in een zin af.
+> Zal ik ze knippen? Dat kost ongeveer 1.850 credits.
 
-De assistent werkt in twee stappen:
+## Vereisten
 
-1. **Analyseer**, stuur een URL en je voorkeur. De assistent toont een schatting van het aantal clips, de duur en de creditkosten. Jij bevestigt.
-2. **Genereer**, na bevestiging start de verwerking op de achtergrond. Je ontvangt een melding zodra je clips klaar zijn.
+- **Plan:** Starter en hoger
+- **Koppeling:** geen
 
-**Achtergrondverwerking:**
-1. Video downloaden (yt-dlp)
-2. Audio transcriberen (Whisper)
-3. Beste fragmenten detecteren (Claude)
-4. Clips renderen (FFmpeg)
-5. Clips uploaden naar Supabase + optioneel Google Drive
-6. Resultaat sturen via Telegram
+## Activeren
 
----
+1. Ga naar **Dashboard → Skills** en activeer **Short Generator**
+2. Geef een video-URL en zeg hoeveel clips je wilt
 
-## Clip-formaten
+## Wat het kost
 
-| Formaat | Gebruik |
-|---------|---------|
-| **9:16** | Instagram Reels, TikTok, YouTube Shorts (standaard) |
-| **1:1** | Instagram posts, Facebook |
-| **16:9** | YouTube, LinkedIn video |
+| Situatie | Lengte | Clips | Credits |
+|---|---|---|---|
+| Korte test | 5 min | 1 | ~1.000 |
+| Standaard | 10 min | 3 | ~1.850 |
+| Podcast-fragment | 30 min | 5 | ~3.950 |
+| Lange video | 60 min | 10 | ~7.400 |
 
----
+De prijs hangt af van de lengte van de bronvideo én het aantal clips. Zie
+[Het creditsysteem](../hoe-het-werkt/credits.md).
 
-## Creditkosten
+## Grenzen en limieten
 
-**Formule:** `500 + (video_minuten × 90) + (clips × 150)`
-
-| Voorbeeld | Video-lengte | Clips | Credits |
-|-----------|-------------|-------|---------|
-| Korte test | 5 min | 1 clip | ~1.000 cr |
-| Standaard | 10 min | 3 clips | ~1.850 cr |
-| Podcast-fragment | 30 min | 5 clips | ~3.950 cr |
-| Lange video | 60 min | 10 clips | ~7.400 cr |
-
-**Limieten:** maximaal 60 minuten per video, maximaal 10 clips per opdracht.
-
----
-
-## Voorbeeldopdrachten
-
-- "Maak een short van deze video: youtube.com/watch?v=..."
-- "Clip de 3 beste momenten uit deze YouTube video in 9:16"
-- "Maak 5 TikTok-clips van dit interview, sla ze op in mijn Drive"
-- "Knip het beste fragment uit deze video en voeg ondertitels toe"
-- "Genereer 2 clips van 30-60 seconden uit deze podcast aflevering"
-
----
-
-## Google Drive integratie
-
-Als Google Drive verbonden is via Connectors, kun je clips automatisch laten opslaan:
-
-- Vermeld "sla op in Drive" of "in mijn Drive" in je opdracht
-- De assistent vraagt om bevestiging als Drive niet gekoppeld is
-
-→ [Google Drive koppelen](../connectors/google-drive.md)
-
----
+- **De video moet publiek bereikbaar zijn.** Privé, verborgen of achter een login werkt niet.
+- **Gesproken content werkt het best.** De detectie leunt op de transcriptie, dus muziek zonder spraak levert weinig op.
+- **Geen automatisch publiceren.** Je downloadt de clips en plaatst ze zelf.
+- **De uitsnede is verticaal geoptimaliseerd**; breedbeeld wordt bijgesneden.
+- **Verwerking duurt minuten, geen seconden.**
+- **Mislukte verwerkingen worden terugbetaald.**
 
 ## Problemen oplossen
 
-**Verwerking duurt lang:**
-- Langere video's duren langer, je ontvangt automatisch een Telegram-bericht zodra klaar
+**De video kan niet opgehaald worden.** Test de URL in een incognitovenster; zie jij hem daar niet, dan wij ook niet.
 
-**Video niet ondersteund:**
-- Controleer of de URL publiek toegankelijk is
-- Privé YouTube-video's en leeftijdsbeperkte content worden niet ondersteund
+**De clips beginnen midden in een zin.** Vraag eerst om de analyse en kies zelf de fragmenten die je wilt.
 
-**Credits niet voldoende:**
-- Koop extra credits bij via [app.dgenix.com/billing](https://app.dgenix.com/billing)
+**Er worden weinig momenten gevonden.** Bij een video zonder duidelijke uitspraken of verhalen valt er weinig te knippen.
+
+**Het kost meer dan verwacht.** Zowel de lengte van de bronvideo als het aantal clips telt mee. Analyseer eerst, knip daarna.
+
+## Veelgestelde vragen
+
+**Wat is het verschil met de AI Content Engine?**
+De Short Generator knipt clips. De
+[AI Content Engine](ai-content-engine.md) voegt een viraliteits-score, drie
+titelvarianten, een caption en hashtags toe, zodat je een rangorde en
+kant-en-klare teksten hebt. Die zit vanaf Pro.
+
+**Welke bronnen worden ondersteund?**
+YouTube-URL's en directe links naar een videobestand.
+
+**Waar komen de clips terecht?**
+In je Werkruimte, tabblad Bestanden.
+
+**Mag ik clips maken van andermans video?**
+Technisch kan het, juridisch is het jouw verantwoordelijkheid.
 
 ---
 
-## Prijs
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [AI Content Engine](ai-content-engine.md) · [Content Repurposing](content-repurposing.md) · [Bestanden](../functies/bestanden.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills)
 
-Inbegrepen vanaf **Starter** en hoger, geen extra maandkosten voor de skill.
-Creditkosten per video: zie creditkosten-tabel hierboven.
-
----
-
-→ [Terug naar Skills marketplace](README.md)
+*dGENIX Docs, Short Generator, bijgewerkt augustus 2026*

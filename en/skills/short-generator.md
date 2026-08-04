@@ -1,88 +1,97 @@
 # Short Generator
 
-Send a video URL and your assistant analyses the video, automatically detects the best moments and makes viral short clips. Suitable for YouTube Shorts, Instagram Reels, TikToks and more.
+With the Short Generator you send a video URL and GENI cuts short clips out of it automatically, suitable for Shorts, Reels and TikTok.
 
-**Available from:** Starter and up, included at no extra monthly cost
+Available from **Starter**. No connection needed.
 
----
+## What can GENI do with the Short Generator?
 
-## What can your assistant do?
+- **Analyse a video** and propose the usable fragments before anything is cut
+- **Produce the clips** based on that analysis
+- **Check the status** while processing runs
 
-- **Highlight detection**, AI analyses the transcript and automatically picks the most interesting or viral moments
-- **Render clips**, moments are cut and rendered in the format you choose
-- **Multiple clips at once**, request several clips from one video in a single command
-- **Save to Google Drive**, clips are saved to your Drive automatically (optional)
-- **Captions**, add subtitles to the clips automatically (optional)
+That first step is worth using: you see what it wants to cut before spending
+credits on the cutting itself.
 
-**Supported sources:** YouTube, Instagram, TikTok, Vimeo and direct video URLs (MP4)
+## Example: what you ask, what you get
 
----
+```
+Analyse this video and make 3 shorts from it
+```
 
-## How does it work?
+> **12-minute video, 5 usable moments found**
+>
+> | Fragment | Time | About |
+> |---|---|---|
+> | 1 | 1:14-1:52 | The remark about scaling too early |
+> | 2 | 4:03-4:41 | The example of the failed campaign |
+> | 3 | 7:28-8:02 | Concrete tip on pricing |
+>
+> These three have a clear opening line and do not cut off mid-sentence. Shall I
+> cut them? That costs about 1,850 credits.
 
-The assistant works in two steps:
+## Requirements
 
-1. **Analyse**, send a URL and your preference. The assistant shows an estimate of the number of clips, duration and credit cost. You confirm.
-2. **Generate**, after confirmation, processing runs in the background. You get a notification when your clips are ready.
+- **Plan:** Starter and up
+- **Connection:** none
 
-**Background processing:** download (yt-dlp) -> transcribe (Whisper) -> detect best moments (Claude) -> render (FFmpeg) -> upload to storage + optional Google Drive -> notify.
+## Activating
 
----
+1. Go to **Dashboard -> Skills** and activate **Short Generator**
+2. Give a video URL and say how many clips you want
 
-## Clip formats
+## What it costs
 
-| Format | Use |
-|---------|---------|
-| **9:16** | Instagram Reels, TikTok, YouTube Shorts (default) |
-| **1:1** | Instagram posts, Facebook |
-| **16:9** | YouTube, LinkedIn video |
+| Case | Length | Clips | Credits |
+|---|---|---|---|
+| Short test | 5 min | 1 | ~1,000 |
+| Standard | 10 min | 3 | ~1,850 |
+| Podcast excerpt | 30 min | 5 | ~3,950 |
+| Long video | 60 min | 10 | ~7,400 |
 
----
+The price depends on the source video's length *and* the number of clips. See
+[The credit system](../hoe-het-werkt/credits.md).
 
-## Credit cost
+## Limits
 
-**Formula:** `500 + (video_minutes × 90) + (clips × 150)`
-
-| Example | Length | Clips | Credits |
-|-----------|-------------|-------|---------|
-| Short test | 5 min | 1 clip | ~1,000 cr |
-| Standard | 10 min | 3 clips | ~1,850 cr |
-| Podcast excerpt | 30 min | 5 clips | ~3,950 cr |
-| Long video | 60 min | 10 clips | ~7,400 cr |
-
-**Limits:** max 60 minutes per video, max 10 clips per command.
-
----
-
-## Example commands
-
-- "Make a short from this video: youtube.com/watch?v=..."
-- "Clip the 3 best moments from this YouTube video in 9:16"
-- "Make 5 TikTok clips from this interview, save them to my Drive"
-- "Cut the best moment from this video and add subtitles"
-
----
-
-## Google Drive integration
-
-If Google Drive is connected via Connectors, clips can be saved automatically: mention "save to Drive" in your command. The assistant asks for confirmation if Drive is not connected.
-
-[Google Drive connector](../connectors/google-drive.md)
-
----
+- **The video has to be publicly reachable.** Private, unlisted or behind a login does not work.
+- **Spoken content works best.** Detection leans on the transcript, so music without speech yields little.
+- **No automatic publishing.** You download the clips and post them yourself.
+- **The crop is optimised for vertical**; widescreen gets cropped.
+- **Processing takes minutes, not seconds.**
+- **Failed runs are refunded.**
 
 ## Troubleshooting
 
-- **Processing takes a while:** longer videos take longer, you get a notification when done
-- **Video not supported:** check that the URL is publicly accessible; private or age-restricted videos are not supported
-- **Not enough credits:** buy extra credits via your dashboard
+**The video cannot be fetched.** Test the URL in an incognito window; if you cannot see it there, neither can we.
 
----
+**Clips start mid-sentence.** Ask for the analysis first and pick the fragments yourself.
 
-## Pricing
+**Few moments are found.** With a video without clear statements or stories there is little to cut.
 
-Included from **Starter** and up, no extra monthly cost for the skill. Credit cost per video: see the table above.
+**It costs more than expected.** Both the source video's length and the number of clips count. Analyse first, cut after.
+
+## Frequently asked questions
+
+**What is the difference with the AI Content Engine?**
+The Short Generator cuts clips. The
+[AI Content Engine](ai-content-engine.md) adds a virality score, three title
+variants, a caption and hashtags, so you get a ranking and ready-to-use copy.
+That one sits in Pro.
+
+**Which sources are supported?**
+YouTube URLs and direct links to a video file.
+
+**Where do the clips end up?**
+In your Workspace, Files tab.
+
+**May I make clips from someone else's video?**
+Technically you can, legally it is your responsibility.
 
 ---
 
 Back to [Skills marketplace](README.md)
+See also: [AI Content Engine](ai-content-engine.md) · [Content Repurposing](content-repurposing.md) · [Files](../functies/bestanden.md)
+On the site: [all skills](https://dgenix.com/skills)
+
+*dGENIX Docs, Short Generator, updated August 2026*
