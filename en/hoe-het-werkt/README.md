@@ -57,17 +57,15 @@ Via **Dashboard -> Tasks** you set up recurring commands. GENI runs them automat
 
 ## What does a task cost?
 
-Every task uses credits, depending on its complexity:
+Every task uses credits, and how many depends on its complexity. A short chat
+question costs a fraction of a full website audit.
 
-| Task type | ~Credits |
-| --- | --- |
-| Read / summarise email | 5-15 cr |
-| Schedule an appointment | ~10 cr |
-| Find a file in Drive | ~5 cr |
-| Write a social post | ~2 cr |
-| AI chat message | ~20 cr |
+All indicative prices live in one place, so they cannot drift apart:
+**[The credit system](credits.md)**. It lists what each type of task costs,
+which actions have a fixed price, and how your credits are topped up.
 
-[More about credits](credits.md)
+Before you start a paid action, the dashboard always shows the exact cost on the
+button. If the action fails, the credits are refunded automatically.
 
 ---
 

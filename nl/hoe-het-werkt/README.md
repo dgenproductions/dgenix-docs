@@ -78,17 +78,16 @@ Via **Dashboard → Taken** stel je terugkerende opdrachten in. Je assistent voe
 
 ## Wat kost een taak?
 
-Elke taak verbruikt credits. Hoeveel hangt af van de complexiteit:
+Elke taak verbruikt credits, en hoeveel hangt af van de complexiteit. Een korte
+chatvraag kost een fractie van een uitgebreide website-audit.
 
-| Type taak | ~Credits |
-| --- | --- |
-| E-mail lezen / samenvatten | 25–100 cr |
-| Afspraak inplannen | 28–150 cr |
-| Bestand zoeken in Drive | ~22 cr |
-| Social media post schrijven | ~35 cr |
-| AI-chatgesprek | ~20 cr |
+De volledige richtprijzen staan op één plek, zodat ze niet uit de pas kunnen
+lopen: **[Het creditsysteem](credits.md)**. Daar vind je per taaktype wat je
+ongeveer kwijt bent, welke acties een vaste prijs hebben en hoe je credits
+worden aangevuld.
 
-→ [Meer over credits](credits.md)
+Voordat je een betaalde actie start, toont het dashboard altijd de exacte kosten
+op de knop. Mislukt de actie? Dan worden de credits automatisch teruggestort.
 
 ---
 

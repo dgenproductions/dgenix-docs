@@ -134,18 +134,19 @@ Go to **Dashboard -> Skills** or **Account -> Subscription** and click "Deactiva
 
 Every skill action uses credits. A guideline:
 
-| Skill | Action | ~Credits |
-|---|---|---|
-| Gmail | Read and summarise email | 50-100 cr |
-| Gmail | Write and send email | 100-200 cr |
-| AI Image Generation | Generate image (standard) | 250-500 cr |
-| FLUX Image Generation | Generate image | 100-1,000 cr |
-| Audio Transcription | Per minute of audio | 12-20 cr |
-| Social Media Manager | Write a post | 100-300 cr |
-| Lead Research | Per lead research | 750 cr |
-| Voice Call | Per ~500 chars TTS | ~1,375 cr |
+Indicative prices per task type live in one place: **[The credit system](../hoe-het-werkt/credits.md)**.
+It shows roughly what a chat question, an email action or an engine audit costs.
 
-Exact costs are shown per skill in the marketplace card and the related skill documentation.
+Two things determine the price of a skill action. Each skill has a fixed
+overhead, and on top of that the language model is billed by usage. A quick
+question about three emails therefore costs less than summarising a full inbox,
+even though it is the same skill.
+
+Actions with a fixed price, such as an audit or an image generation, are exact.
+Those appear as an amount on the button before you start them.
+
+Beyond that, exact costs are shown per skill in the marketplace card and the
+related skill documentation.
 
 ---
 

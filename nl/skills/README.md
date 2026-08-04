@@ -1,12 +1,17 @@
 # Skills Marketplace
 
-Skills geven je AI-assistent extra mogelijkheden. Sommige skills zijn direct inbegrepen bij je plan, andere betaal je als losse add-on bovenop je abonnement.
+Skills geven je AI-assistent extra mogelijkheden. **Elke skill zit in je plan
+inbegrepen** , je betaalt er geen apart maandbedrag voor. Wat je plan bepaalt is
+vanaf welk niveau een skill beschikbaar is, en het gebruik reken je af in credits.
 
 **Badges uitgelegd:**
-- Geen badge / groen = inbegrepen bij alle plannen
-- **Growth+** = inbegrepen bij Growth, Pro en Custom
-- **Pro** = inbegrepen bij Pro en Custom
-- **+ Add-on** = extra maandkosten bovenop je abonnement
+- Geen badge / groen = beschikbaar vanaf Starter
+- **Growth+** = beschikbaar vanaf Growth
+- **Pro** = beschikbaar vanaf Pro
+
+De enige losse maandbedragen op het platform zijn extra slots voor herhaalde
+taken en het optionele Growth Engines-abonnement voor intensief engine-gebruik.
+Beide staan bij [Plannen vergelijken](../plannen-en-prijzen/README.md).
 
 → [Plannen vergelijken](../plannen-en-prijzen/README.md)
 
@@ -226,9 +231,11 @@ Importeer n8n workflow JSON bestanden en laat je assistent ze stap-voor-stap uit
 
 ---
 
-## Betaalde add-ons, bovenop je abonnement
+## Skills die een koppeling nodig hebben
 
-Skills waarbij je naast je abonnement een extra maandelijks bedrag betaalt. Je hebt het bijbehorende plan nodig én betaalt de add-on bovenop.
+Deze skills zitten gewoon in je plan, maar werken pas nadat je het bijbehorende
+account hebt gekoppeld via **Dashboard → Connectors**. Je betaalt er geen extra
+maandbedrag voor; alleen het gebruik kost credits.
 
 ### WhatsApp Business *(Growth+)*
 

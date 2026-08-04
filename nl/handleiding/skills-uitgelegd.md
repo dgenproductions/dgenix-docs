@@ -139,18 +139,19 @@ Verbruikte credits worden niet teruggestort.
 
 Elke skill-actie verbruikt credits. Een richtlijn:
 
-| Skill | Actie | ~Credits |
-|---|---|---|
-| Gmail | E-mail lezen en samenvatten | 50–100 cr |
-| Gmail | E-mail schrijven en versturen | 100–200 cr |
-| AI Beeldgeneratie | Afbeelding genereren (standaard) | 250–500 cr |
-| FLUX Beeldgeneratie | Afbeelding genereren | 100–1.000 cr |
-| Audio Transcriptie | Per minuut audio | 12–20 cr |
-| Social Media Manager | Post schrijven | 100–300 cr |
-| Lead Research | Per leadonderzoek | 750 cr |
-| Voice Call | Per ~500 tekens TTS | ~1.375 cr |
+De richtprijzen per taaktype staan op één plek: **[Het creditsysteem](../hoe-het-werkt/credits.md)**.
+Daar zie je wat een chatvraag, een e-mailactie of een engine-audit ongeveer kost.
 
-Exacte kosten staan per skill in de marketplace-kaart en de bijbehorende skill-documentatie.
+Twee dingen bepalen de prijs van een skill-actie. Er is een vaste opslag per
+skill, en daarbovenop reken je het taalmodel af naar gebruik. Een korte vraag
+over drie mails kost dus minder dan een samenvatting van een volle inbox, ook al
+is het dezelfde skill.
+
+Acties met een vaste prijs, zoals een audit of een beeldgeneratie, zijn wél
+exact. Die staan als bedrag op de knop voordat je ze start.
+
+Exacte kosten staan verder per skill in de marketplace-kaart en in de
+bijbehorende skill-documentatie.
 
 ---
 

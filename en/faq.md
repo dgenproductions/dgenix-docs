@@ -27,7 +27,12 @@ dGENIX is developed by [dGEN Productions](https://dgenproductions.nl) (Mike Beer
 GENI can process email (Gmail), schedule appointments (Google Calendar), manage spreadsheets (Google Sheets), fetch and create files (Google Drive), write social posts (Social Media Manager), plan your day (Daily Planner) and run recurring tasks, all from the dashboard.
 
 **Does it remember what I did before?**
-Yes. GENI has memory within a conversation, and via **Settings -> Memory** you store long-term context it always uses.
+Yes, and not only within a single conversation. GENI builds up a memory of
+facts, preferences, goals and agreements, and uses it across every channel ,
+web chat, Telegram and voice. It also learns from what you do on the platform.
+You stay in control via **Dashboard -> Memory**: review, add, edit or wipe.
+Working for several clients or brands? A project keeps that context separate.
+See [Memory (Memory AI)](functies/geheugen.md).
 
 **What are scheduled tasks?**
 Via **Dashboard -> Tasks** you set up recurring commands on a fixed schedule (daily, weekdays, weekly, monthly). GENI runs them automatically. The number of recurring tasks depends on your plan: Starter 1, Growth 5, Pro 10, Business 20.

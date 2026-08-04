@@ -27,7 +27,12 @@ dGENIX is ontwikkeld door [dGEN Productions](https://dgenproductions.nl) (Mike B
 Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar), spreadsheets beheren (Google Sheets), bestanden ophalen en aanmaken (Google Drive), social media posts schrijven (Social Media Manager), je dag plannen (Dagplanner) en terugkerende taken uitvoeren. Allemaal via het dashboard.
 
 **Onthoudt mijn assistent wat ik eerder heb gedaan?**
-Ja. Je assistent heeft geheugen binnen een gesprek. Via **Instellingen → Geheugen** sla je langetermijncontext op die hij altijd gebruikt.
+Ja, en niet alleen binnen één gesprek. GENI bouwt een geheugen op met feiten,
+voorkeuren, doelen en afspraken, en gebruikt dat in elk kanaal , webchat,
+Telegram en voice. Daarnaast leert hij van wat je op het platform doet. Je
+beheert alles zelf via **Dashboard → Geheugen**: bekijken, aanvullen,
+aanpassen of wissen. Werk je voor meerdere klanten of merken? Dan houdt een
+project de context gescheiden. Zie [Geheugen (Memory AI)](functies/geheugen.md).
 
 **Wat zijn geplande taken?**
 Via **Dashboard → Taken** stel je terugkerende opdrachten in met een vast schema (dagelijks, werkdagen, wekelijks, maandelijks). Je assistent voert ze automatisch uit. Het aantal terugkerende taken hangt af van je plan: Starter 1, Growth 5, Pro 10, Business 20.
