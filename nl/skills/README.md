@@ -25,19 +25,19 @@ Deze skills zijn gratis inbegrepen. Je hebt alleen een eenmalige OAuth-koppeling
 
 Je inbox lezen, e-mails categoriseren en antwoorden schrijven, direct vanuit Telegram of het dashboard.
 
-→ [Gmail skill](gmail.md) · [Gmail koppelen](../integraties/gmail.md)
+→ [Gmail skill](gmail.md) · [Gmail koppelen](../connectors/gmail.md)
 
 ### Google Calendar
 
 Agenda bekijken, afspraken inplannen en conflicten detecteren.
 
-→ [Google Calendar skill](google-calendar.md) · [Google Calendar koppelen](../integraties/google-calendar.md)
+→ [Google Calendar skill](google-calendar.md) · [Google Calendar koppelen](../connectors/google-calendar.md)
 
 ### Google Drive
 
 Bestanden zoeken, ophalen en samenvatten uit je Google Drive.
 
-→ [Google Drive skill](google-drive.md) · [Google Drive koppelen](../integraties/google-drive.md)
+→ [Google Drive skill](google-drive.md) · [Google Drive koppelen](../connectors/google-drive.md)
 
 ### Document Lezer
 
@@ -108,7 +108,7 @@ Spreadsheets lezen, bijwerken en rijen toevoegen.
 
 **Vereist:** Google Sheets koppelen via OAuth (eenmalig in Connectors).
 
-→ [Google Sheets skill](google-sheets.md) · [Google Sheets koppelen](../integraties/google-sheets.md)
+→ [Google Sheets skill](google-sheets.md) · [Google Sheets koppelen](../connectors/google-sheets.md)
 
 ### Voorstel Generator
 

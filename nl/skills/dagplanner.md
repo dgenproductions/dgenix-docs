@@ -39,7 +39,7 @@ Stel een dagschema voor op basis van mijn lopende taken
 3. Direct actief, geen extra koppeling vereist
 
 **Optioneel:** Koppel Google Calendar voor een completer dagoverzicht.
-→ [Google Calendar koppelen](../integraties/google-calendar.md)
+→ [Google Calendar koppelen](../connectors/google-calendar.md)
 
 ---
 

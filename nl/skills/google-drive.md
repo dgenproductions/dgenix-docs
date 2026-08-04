@@ -67,4 +67,4 @@ Inbegrepen bij **Starter**, **Growth**, **Pro** en **Custom**, geen extra kosten
 ---
 
 → Terug naar [Skills marketplace](README.md)
-→ Zie ook: [Google Drive koppelen](../integraties/google-drive.md)
+→ Zie ook: [Google Drive koppelen](../connectors/google-drive.md)

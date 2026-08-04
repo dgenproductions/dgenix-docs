@@ -8,7 +8,7 @@ Je AI-assistent is geen chatbot. Hij voert echte taken uit en levert resultaten,
 
 ### Gmail
 
-Koppel je Gmail (zie [Gmail koppelen](../integraties/gmail.md)) en je assistent beheert je inbox. Hij leest berichten, categoriseert ze en schrijft conceptantwoorden klaar voor e-mails die een reactie nodig hebben.
+Koppel je Gmail (zie [Gmail koppelen](../connectors/gmail.md)) en je assistent beheert je inbox. Hij leest berichten, categoriseert ze en schrijft conceptantwoorden klaar voor e-mails die een reactie nodig hebben.
 
 **Voorbeeldopdrachten:**
 > *"Geef me een overzicht van mijn ongelezen e-mails"*
@@ -18,7 +18,7 @@ Koppel je Gmail (zie [Gmail koppelen](../integraties/gmail.md)) en je assistent 
 
 ### Google Calendar
 
-Koppel je Google Calendar (zie [Google Calendar koppelen](../integraties/google-calendar.md)) en je assistent beheert je agenda. Hij plant meetings in, geeft je een dagoverzicht en helpt bij het inplannen van afspraken.
+Koppel je Google Calendar (zie [Google Calendar koppelen](../connectors/google-calendar.md)) en je assistent beheert je agenda. Hij plant meetings in, geeft je een dagoverzicht en helpt bij het inplannen van afspraken.
 
 **Voorbeeldopdrachten:**
 > *"Plan een meeting met Jan op vrijdag om 14:00"*
@@ -28,7 +28,7 @@ Koppel je Google Calendar (zie [Google Calendar koppelen](../integraties/google-
 
 ### Google Drive
 
-Koppel je Google Drive (zie [Google Drive koppelen](../integraties/google-drive.md)) en je assistent zoekt, opent en maakt bestanden voor je aan.
+Koppel je Google Drive (zie [Google Drive koppelen](../connectors/google-drive.md)) en je assistent zoekt, opent en maakt bestanden voor je aan.
 
 **Voorbeeldopdrachten:**
 > *"Zoek het document over het Q1-rapport"*

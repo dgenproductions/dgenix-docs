@@ -62,4 +62,4 @@ Inbegrepen bij **Starter**, **Growth**, **Pro** en **Custom**, geen extra kosten
 ---
 
 → Terug naar [Skills marketplace](README.md)
-→ Zie ook: [Google Calendar koppelen](../integraties/google-calendar.md)
+→ Zie ook: [Google Calendar koppelen](../connectors/google-calendar.md)

@@ -109,6 +109,7 @@
 * [Google Drive](connectors/google-drive.md)
 * [Google Calendar](connectors/google-calendar.md)
 * [Google Sheets](connectors/google-sheets.md)
+* [YouTube](connectors/youtube.md)
 * [Slack](connectors/slack.md)
 * [Notion](connectors/notion.md)
 * [LinkedIn](connectors/linkedin.md)

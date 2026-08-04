@@ -47,6 +47,49 @@ Voorbeelden:
 
 ---
 
+## Commando's in Telegram
+
+Naast gewone opdrachten kent de bot een paar vaste commando's:
+
+| Commando | Wat het doet |
+|---|---|
+| `/start` | Assistent activeren en je koppelcode invoeren |
+| `/credits` | Je huidige creditsaldo opvragen |
+| `/help` | Korte lijst met beschikbare commando's |
+
+---
+
+## Spraakberichten
+
+Stuur een spraakbericht in Telegram en GENI zet het automatisch om naar tekst en
+verwerkt het als een gewone opdracht. Je hoeft niets in te stellen. Handig
+onderweg: inspreken wat er moet gebeuren, GENI regelt de rest.
+
+---
+
+## Web en Telegram lopen synchroon
+
+Wat je in de webchat stuurt verschijnt ook in Telegram, en andersom. Je
+gespreksgeschiedenis, je geheugen en je actieve skills zijn in beide kanalen
+hetzelfde. Je begint dus een gesprek achter je bureau en maakt het onderweg af.
+
+---
+
+## Problemen oplossen
+
+**GENI reageert niet in Telegram.** Controleer of de koppeling nog actief is via
+**Dashboard → Skills → Telegram**, en of je creditsaldo niet op nul staat (je
+ziet het saldo rechtsboven in het dashboard).
+
+**Koppeling kwijt na het wisselen van telefoon.** Je Telegram-account blijft
+gekoppeld aan je dGENIX-account, niet aan een toestel. Stuur opnieuw `/start`
+met je koppelcode uit het dashboard.
+
+**Verkeerde bot.** Gebruik je een eigen bot, dan reageert `@dGENIXbot` niet meer
+op jouw account. Chat met je eigen bot.
+
+---
+
 ## Telegram ontkoppelen
 
 Ga naar **Dashboard -> Skills**, open de Telegram-add-on en kies ontkoppelen. Je account, credits en geschiedenis blijven bewaard, je blijft gewoon via het dashboard werken.

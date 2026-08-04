@@ -47,6 +47,50 @@ Examples:
 
 ---
 
+## Commands in Telegram
+
+Besides ordinary requests, the bot knows a few fixed commands:
+
+| Command | What it does |
+|---|---|
+| `/start` | Activate the assistant and enter your link code |
+| `/credits` | Check your current credit balance |
+| `/help` | Short list of available commands |
+
+---
+
+## Voice messages
+
+Send a voice message in Telegram and GENI transcribes it automatically, then
+handles it like any other request. Nothing to set up. Handy on the move: say
+what needs to happen and GENI takes it from there.
+
+---
+
+## Web and Telegram stay in sync
+
+What you send in the web chat also appears in Telegram, and the other way
+around. Your conversation history, your memory and your active skills are the
+same in both channels. So you start a conversation at your desk and finish it
+on the go.
+
+---
+
+## Troubleshooting
+
+**GENI does not reply in Telegram.** Check that the connection is still active
+via **Dashboard -> Skills -> Telegram**, and that your credit balance is not at
+zero (you see the balance top right in the dashboard).
+
+**Lost the connection after switching phones.** Your Telegram account is linked
+to your dGENIX account, not to a device. Send `/start` again with the link code
+from your dashboard.
+
+**Wrong bot.** If you use your own bot, `@dGENIXbot` no longer responds to your
+account. Chat with your own bot instead.
+
+---
+
 ## Disconnect Telegram
 
 Go to **Dashboard -> Skills**, open the Telegram add-on and disconnect. Your account, credits and history are kept, you simply keep working from the dashboard.

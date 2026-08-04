@@ -112,7 +112,7 @@ Verbind je assistent met externe diensten via OAuth of API-key. Gekoppelde diens
 **API-key integraties** (credentials invoeren in Settings):
 - WhatsApp Business, Instagram DM, Stripe, HubSpot
 
-**Telegram** is een aparte add-on, zie [Telegram add-on](../integraties/telegram.md).
+**Telegram** is een aparte add-on, zie [Telegram add-on](../aan-de-slag/telegram-koppelen.md).
 
 Integraties beheer je via **Connectors**.
 
@@ -176,7 +176,7 @@ Telegram is geen verplicht onderdeel van dGENIX, het is een optionele add-on. Al
 
 Gesprekken worden gesynchroniseerd: wat je in Telegram stuurt, is ook zichtbaar in het dashboard.
 
-→ [Telegram add-on activeren](../integraties/telegram.md)
+→ [Telegram add-on activeren](../aan-de-slag/telegram-koppelen.md)
 
 ---
 

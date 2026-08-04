@@ -62,4 +62,4 @@ Inbegrepen bij **Starter**, **Growth**, **Pro** en **Custom**, geen extra kosten
 ---
 
 → Terug naar [Skills marketplace](README.md)
-→ Zie ook: [Google Sheets koppelen](../integraties/google-sheets.md)
+→ Zie ook: [Google Sheets koppelen](../connectors/google-sheets.md)

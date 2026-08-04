@@ -145,7 +145,7 @@ Koppel externe diensten via OAuth:
 - Google Drive
 - Google Sheets
 
-Zie [Integraties](../integraties/gmail.md) voor stap-voor-stap instructies.
+Zie [Integraties](../connectors/gmail.md) voor stap-voor-stap instructies.
 
 ### Assistent
 - **Naam**, hoe je assistent zich introduceert via Telegram

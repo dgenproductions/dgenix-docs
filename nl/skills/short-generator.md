@@ -77,7 +77,7 @@ Als Google Drive verbonden is via Connectors, kun je clips automatisch laten ops
 - Vermeld "sla op in Drive" of "in mijn Drive" in je opdracht
 - De assistent vraagt om bevestiging als Drive niet gekoppeld is
 
-→ [Google Drive koppelen](../integraties/google-drive.md)
+→ [Google Drive koppelen](../connectors/google-drive.md)
 
 ---
 

@@ -62,4 +62,4 @@ Inbegrepen bij **Starter**, **Growth**, **Pro** en **Custom**, geen extra kosten
 ---
 
 → Terug naar [Skills marketplace](README.md)
-→ Zie ook: [Gmail koppelen](../integraties/gmail.md)
+→ Zie ook: [Gmail koppelen](../connectors/gmail.md)
