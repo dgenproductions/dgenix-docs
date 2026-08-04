@@ -1,52 +1,85 @@
 # Komende functies
 
-dGENIX groeit continu. Hier zie je wat er binnenkort bij komt, en wat er recent al is uitgerold.
+Op deze pagina staat wat er binnenkort bij komt en wat er recent is uitgerold, zodat je weet waar je wel en niet op kunt rekenen.
 
----
+Nieuwe skills en koppelingen verschijnen automatisch in je marktplaats zodra ze
+klaar zijn. Je hoeft niets te installeren of bij te werken.
 
 ## Binnenkort beschikbaar
 
-### Microsoft 365
+| Wat | Plan | Waar het op wacht |
+|---|---|---|
+| [Microsoft 365](../connectors/microsoft-365.md) | Growth+ | Azure OAuth-verificatie bij Microsoft |
+| [Canva](../connectors/canva.md) | Starter+ | Goedkeuring van het Canva Developer-programma |
+| [MCP-connectors](../connectors/mcp-connectors.md) | Growth+ | Wordt stapsgewijs uitgebreid |
 
-Werk met Outlook, Teams en Microsoft Calendar via GENI: e-mails plannen, vergaderingen inboeken en taken aanmaken in Teams, vanuit één plek.
+**Microsoft 365** brengt Outlook-mail, je agenda en meelezen in Teams naar GENI,
+zodat je niet naar Google hoeft over te stappen om hem te kunnen gebruiken.
 
-- **Plan:** inbegrepen vanaf Growth+
-- **Status:** wacht op Azure OAuth-verificatie
+**Canva** laat GENI designs zoeken, brand templates invullen en exporteren,
+zonder dat je de editor opent.
 
-### Canva
+**MCP-connectors** is geen losse koppeling maar een open standaard waarmee tools
+sneller aangesloten kunnen worden dan wanneer we er één voor één een koppeling
+voor bouwen.
 
-Ontwerp en bewerk Canva-designs rechtstreeks via GENI: een design maken, een template toepassen of een ontwerp exporteren, zonder de Canva-editor te openen.
+## Wat je ziet
 
-- **Plan:** inbegrepen vanaf Growth+
-- **Status:** wacht op Canva developer-credentials
+Zolang iets nog niet beschikbaar is, staat het gewoon in je marktplaats met een
+**Binnenkort**-label. Je kunt het niet activeren en er wordt niets in rekening
+gebracht. Zodra het live gaat verdwijnt het label en krijg je een melding.
 
-### MCP-connectors
-
-Koppel honderden externe tools via het Model Context Protocol (MCP), op je eigen account. Lees meer in [MCP-connectors](../connectors/mcp-connectors.md).
-
-- **Status:** in uitrol
-
----
+Wat wél beschikbaar is, herken je aan de activeerknop. Alles zonder label werkt
+vandaag.
 
 ## Recent uitgerold
 
-De afgelopen maanden zijn live gegaan, onder andere:
-
-- De **5 [Growth Engines](https://dgenix.nl/engines)**: SEO, GEO, Authority, Reputation en AI Content. Zie [Groei Tools](../engines/README.md).
-- **Nieuws & Research** en **Deep Research**
+- De vijf **[Growth Engines](../engines/README.md)**: SEO, GEO, Authority, Reputation en AI Content
+- **Nieuws en Research** en **Deep Research**
 - **SEO Blog Schrijver**
-- De volledige **Google-suite** (Docs, Taken, Analytics, Search Console, Bedrijfsprofiel)
+- De volledige **Google-suite**: Docs, Taken, Analytics, Search Console en Bedrijfsprofiel
 - **Airtable**, **Typeform** en **Calendly**
-- **Voice chat** met realistische stemmen en het **Geheugen**-netwerk
+- **Voice chat** met realistische stemmen
+- De **[Werkruimte](werkruimte.md)** met notities, taken en tijdlijn
+- **[Memory AI](geheugen.md)**, het geheugen dat ook leert van wat je op het platform doet
+
+## Grenzen
+
+- **Er staan geen datums bij.** Microsoft en Canva bepalen zelf wanneer ze goedkeuren; een datum noemen die we niet waarmaken helpt niemand.
+- **Deze lijst is niet volledig.** Kleinere verbeteringen halen deze pagina niet.
+- **Een aangevraagde skill is geen toezegging.** We wegen elk verzoek, maar niet alles wordt gebouwd.
+- **Binnenkort-items kun je niet vooraf activeren**, ook niet op een hoger plan.
+
+## Problemen oplossen
+
+**Een skill staat als Binnenkort terwijl je hem nodig hebt.** Kijk of een bestaande skill hetzelfde oplost. Voor Microsoft 365 is dat vaak de Google-suite; voor Canva de [AI Beeldgeneratie](../skills/ai-beeldgeneratie.md).
+
+**Je ziet een nieuwe skill niet.** Ververs je dashboard. Nieuwe skills verschijnen automatisch, maar een openstaand tabblad haalt niet vanzelf op.
+
+**Je mist een koppeling die je elders wel ziet.** Sommige koppelingen zitten in een hoger plan. Op de skill-kaart staat vanaf welk plan.
+
+## Zelf iets aanvragen
+
+Heb je een skill of koppeling nodig die er niet is? Gebruik de knop **Skill
+aanvragen** in je dashboard of de [contactpagina](https://dgenix.nl/contact?type=skill). Wat vaak
+gevraagd wordt, komt bovenaan de lijst.
+
+## Veelgestelde vragen
+
+**Kost een nieuwe skill extra?**
+Bijna nooit. Skills zitten in je plan; je betaalt credits per uitvoering. Zie
+[Het creditsysteem](../hoe-het-werkt/credits.md).
+
+**Krijg ik bericht als iets live gaat?**
+Ja, je krijgt een melding in het dashboard.
+
+**Kan ik meedoen aan een test?**
+Soms testen we met een kleine groep. Laat het weten via de contactpagina als je
+mee wilt doen.
 
 ---
 
-## Op de hoogte blijven
+→ Verder: [Alle skills](../skills/README.md) · [Connectors](../connectors/README.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [prijzen](https://dgenix.nl/pricing)
 
-Nieuwe functies en skills verschijnen automatisch in je Skills Marketplace zodra ze beschikbaar zijn, en je krijgt een melding. Heb je een idee voor een nieuwe skill? Gebruik de **Skill aanvragen**-knop in je dashboard, of de [contactpagina](https://dgenix.nl/contact?type=skill).
-
-Bekijk alles wat nu al kan in de [Skills Marketplace](../skills/README.md).
-
----
-
-*Laatste update: juni 2026*
+*dGENIX Docs, Komende functies, bijgewerkt augustus 2026*
