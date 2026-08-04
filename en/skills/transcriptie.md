@@ -1,63 +1,99 @@
 # Audio Transcription
 
-## What does this skill do?
+With the Transcription skill GENI turns audio and video into text, and summarises it right away if you ask.
 
-Automatically convert audio recordings to text via Fireworks Whisper v3. Send a URL to an audio or video file and receive a full transcription, optionally with timestamps per segment and speaker recognition.
+Available from **Growth**. No connection needed; you give a URL or attach a file.
+
+## What can GENI do with transcription?
+
+- **Turn audio or video into text**, with a choice of two quality levels
+- Then **summarise, extract action items or translate**, because once it is text
+  GENI can do anything with it that it does with text
+
+That second part is the point. A raw transcript of an hour-long meeting is still
+an hour of reading; the summary is what you are after.
+
+## Example: what you ask, what you get
+
+```
+Transcribe this recording and give me the action items
+```
+
+> **Meeting, 47 minutes, 4 speakers**
+>
+> **Decided**
+> - The De Vries quote goes out this week, with a 10 percent discount
+> - The maintenance contract will not be renewed
+>
+> **Action items**
+> - **You** , finish the De Vries quote, before Friday
+> - **Sanne** , call the supplier about the lead time
+> - **Nobody yet** , who takes on customer communication?
+>
+> **Worth noting:** around minute 31 an 8 percent price increase is mentioned
+> that was never formally decided.
+>
+> The full transcript is in your Workspace.
 
 ## Requirements
 
-- Plan: **Growth** or higher
-- Integrations: none, works directly via URL
+- **Plan:** Growth and up
+- **Connection:** none
 
-## How do you activate the skill?
+## Activating
 
-1. Go to **Skills** in your dashboard
-2. Find **Audio Transcription** and click **Activate**
-3. The skill is available right away via Telegram and the web assistant
+1. Go to **Dashboard -> Skills** and activate **Audio Transcription**
+2. Give a URL to the file, or attach it in the chat
 
-## What can you do with it?
+## What it costs
 
-- Transcribe a meeting recording into minutes
-- Write out an interview with timestamps per fragment
-- Turn a podcast episode into a blog post or social content
-- Process voice notes into structured text
+| Quality | Speed | Credits |
+|---|---|---|
+| Turbo, default | Fast | 12 per minute |
+| Large | Slower, maximum quality | 20 per minute |
 
-**Example commands:**
+A 30-minute recording on Turbo therefore costs about 360 credits. See
+[The credit system](../hoe-het-werkt/credits.md).
 
-- "Transcribe this conversation: [URL]"
-- "Write out this interview with timestamps: [URL]"
-- "Transcribe in English with speaker recognition: [URL]"
+## Limits
 
-## Supported formats
+- **The price runs per minute of audio.** A long recording adds up; check the length first.
+- **Speakers are not identified by name.** GENI distinguishes voices but does not know who is who unless the conversation makes it clear.
+- **Background noise and people talking over each other** noticeably reduce quality.
+- **Up to 200 MB via a URL.** Larger files you split.
+- **An attachment in chat is more limited**; for long audio use a URL.
+- **Nothing is translated unless you ask.** The transcript follows the spoken language.
 
-MP3, WAV, M4A, OGG, FLAC, WebM, up to 200 MB per file.
+## Troubleshooting
 
-## Models
+**The transcript is full of errors.** Usually background noise or overlapping speakers. Try the Large quality; it is slower but noticeably better.
 
-| Model | Speed | Accuracy | Credit cost |
-| --- | --- | --- | --- |
-| **Turbo** (default) | Fast | Good | 12 cr/min |
-| **Large** | Slower | Maximum | 20 cr/min |
+**It cost more credits than expected.** The price is per minute. An hour-long podcast is 720 credits on Turbo.
 
-Diarisation (speaker recognition) costs 40% extra credits.
+**The file cannot be fetched.** Check that the URL is publicly reachable and points directly at the file, not at a page around it.
 
-## Credit cost
+**Jargon comes out wrong.** Mention the terms in your request and GENI takes them into account when summarising.
 
-Credits are calculated on the **actual duration** of the audio file, not an estimate. After transcription the exact credits are charged.
+## Frequently asked questions
 
-**Examples:**
+**Which file formats work?**
+The common audio and video formats: mp3, mp4, wav, m4a and webm.
 
-| Duration | Model | Credits |
-| --- | --- | --- |
-| 5 minutes | Turbo | 60 cr |
-| 10 minutes | Turbo | 120 cr |
-| 30 minutes | Large | 600 cr |
-| 60 minutes | Large + diarisation | 1,680 cr |
+**What is the difference with attaching a file in chat?**
+An attachment is transcribed too, at the same per-minute rate. This skill is
+meant for longer recordings via a URL. See [Files](../functies/bestanden.md).
 
-## Language detection
+**Can it summarise a meeting while it is running?**
+No, it works on a recording afterwards. For live meetings the
+[Meeting Assistant](meeting-assistant.md) is the one.
 
-Without a specified language the transcription detects the language automatically. Optionally pass a language code for higher accuracy on clearly known languages (e.g. `nl`, `en`, `de`).
+**Where does the transcript end up?**
+In your Workspace, so you can find it back later.
 
 ---
 
 Back to [Skills marketplace](README.md)
+See also: [Meeting Assistant](meeting-assistant.md) · [Files](../functies/bestanden.md) · [Workspace](../functies/werkruimte.md)
+On the site: [all skills](https://dgenix.com/skills)
+
+*dGENIX Docs, Audio Transcription, updated August 2026*

@@ -1,53 +1,93 @@
 # AI Beeldbewerking
 
-## Wat doet deze skill?
+Met de Beeldbewerking-skill schaalt, snijdt en optimaliseert GENI je afbeeldingen naar het formaat dat je nodig hebt, zonder dat je een beeldbewerker opent.
 
-Stuur een afbeelding en geef een opdracht, de assistent past formaat, achtergrond of stijl aan. Handig voor social media formaten, productfoto's en marketing-afbeeldingen.
+Beschikbaar vanaf **Starter**. Je hebt geen koppeling nodig.
+
+## Wat kan GENI met beeldbewerking?
+
+- **Een afbeelding bijschalen** naar een opgegeven formaat
+- **Bijsnijden** naar de verhouding die een platform vraagt
+- **Comprimeren** zodat het bestand kleiner wordt zonder zichtbaar kwaliteitsverlies
+
+Handig als je één beeld hebt en het op vier plekken nodig hebt: een
+LinkedIn-post, een websiteheader, een e-mail en een Instagram-vierkant vragen
+allemaal iets anders.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Maak van deze foto een LinkedIn-header en een vierkant voor Instagram
+```
+
+> Klaar, twee versies:
+>
+> | Versie | Formaat | Grootte |
+> |---|---|---|
+> | LinkedIn-header | 1584 × 396 | 184 KB |
+> | Instagram-vierkant | 1080 × 1080 | 241 KB |
+>
+> Bij de header heb ik horizontaal uitgesneden rond het onderwerp, zodat het
+> hoofd niet wegvalt. Beide staan in je Werkruimte onder Bestanden.
 
 ## Vereisten
 
-- **Plan:** Growth+
-- **Integraties:** Geen extra koppelingen nodig
+- **Plan:** Starter en hoger
+- **Koppeling:** geen
 
-## Hoe activeer je de skill?
+## Activeren
 
-1. Ga naar **Skills** in je dashboard
-2. Zoek **AI Beeldbewerking** en klik Activeren
-3. Stuur een afbeelding als bijlage in de chat
+1. Ga naar **Dashboard → Skills** en activeer **AI Beeldbewerking**
+2. Stuur een afbeelding mee in de chat en zeg wat je ermee wilt
 
-## Wat kun je ermee?
-
-**Voorbeeldopdrachten:**
-
-- "Pas deze afbeelding aan naar een vierkant formaat voor Instagram"
-- "Maak deze productfoto 1080×1080 pixels"
-- "Converteer naar 9:16 voor een Instagram Reel-thumbnail"
-- "Verklein dit beeld naar maximaal 800 pixels breed"
-
-**Ondersteunde formaten:**
-
-- JPEG, PNG, WebP
-- Outputformaten: 1:1, 9:16, 16:9, 4:3
-
-**Wat de assistent doet:**
-
-1. Verwerkt de bijgevoegde afbeelding
-2. Past het gewenste formaat of de dimensies toe
-3. Slaat het resultaat op in je **Bestanden → Afbeeldingen** in het dashboard
-
-## Creditkosten
+## Wat het kost
 
 | Actie | Credits |
-| --- | --- |
-| Afbeelding bewerken/resizen | 200 cr |
+|---|---|
+| Afbeelding bewerken of schalen | 200 |
+
+Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
+
+## Grenzen en limieten
+
+- **Hij bewerkt de inhoud niet.** Objecten weghalen, achtergronden vervangen of iets bijtekenen kan niet; daarvoor is [AI Beeldgeneratie](ai-beeldgeneratie.md) met bewerkingsmodus.
+- **Geen tekst toevoegen of opmaak.** Voor ontwerp met tekst is Canva geschikter.
+- **Opschalen heeft grenzen.** Een kleine, korrelige foto wordt bij vergroten niet scherper.
+- **Eén afbeelding per opdracht.** Een reeks doe je stuk voor stuk.
+- **Het origineel blijft ongewijzigd.** Je krijgt een nieuwe versie terug.
+
+## Problemen oplossen
+
+**De uitsnede valt verkeerd.** Zeg erbij wat belangrijk is ("houd het gezicht in beeld"), dan snijdt GENI daaromheen.
+
+**Het bestand is nog te groot.** Vraag om sterkere compressie of een kleiner formaat; onder een bepaalde grootte gaat kwaliteit merkbaar achteruit.
+
+**De kwaliteit valt tegen na vergroten.** Er zit niet meer detail in het origineel dan er is. Werk met een grotere bronafbeelding.
+
+**Je afbeelding wordt geweigerd.** Controleer het formaat; ondersteund zijn de gangbare beeldformaten die je ook in de chat kunt meesturen.
+
+## Veelgestelde vragen
+
+**Wat is het verschil met AI Beeldgeneratie?**
+Beeldgeneratie maakt een nieuwe afbeelding uit een beschrijving. Deze skill
+bewerkt een bestaande. Zie [AI Beeldgeneratie](ai-beeldgeneratie.md).
+
+**Waar komen de bewerkte bestanden terecht?**
+In je Werkruimte, tabblad Bestanden. Zie
+[Bestanden](../functies/bestanden.md).
+
+**Kan hij een hele map verwerken?**
+Nee, per afbeelding. Voor grote hoeveelheden is een vaste beeldbewerker
+efficiënter.
+
+**Kost het credits als het resultaat niet bevalt?**
+De bewerking is uitgevoerd, dus die telt. Beschrijf vooraf zo precies mogelijk
+wat je wilt.
 
 ---
 
-## Prijs
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [AI Beeldgeneratie](ai-beeldgeneratie.md) · [Bestanden](../functies/bestanden.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills)
 
-Inbegrepen bij **Growth**, **Pro** en **Custom**, geen extra maandkosten voor de skill.
-Creditkosten per taak: zie tabel hierboven.
-
----
-
-→ Terug naar [Skills marketplace](README.md)
+*dGENIX Docs, AI Beeldbewerking, bijgewerkt augustus 2026*
