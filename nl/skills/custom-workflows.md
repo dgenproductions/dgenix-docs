@@ -6,7 +6,7 @@ Met Eigen Workflows koppel je je eigen n8n workflows of andere webhook-gebaseerd
 
 ## Vereisten
 
-- **Plan:** Growth of hoger
+- **Plan:** Pro of hoger
 - **Integraties:** Eigen webhook-URLs (bijv. n8n, Make.com, Zapier)
 
 ## Workflows instellen

@@ -6,7 +6,7 @@ De Team Assistent verwerkt teamberichten, vergadernotities en statusupdates. Pla
 
 ## Vereisten
 
-- **Plan:** Growth of hoger
+- **Plan:** Pro of hoger
 - **Integraties:** Slack (optioneel, voor automatisch berichten ophalen)
 
 ## Slack koppelen (optioneel)

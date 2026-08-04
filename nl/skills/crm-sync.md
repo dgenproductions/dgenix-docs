@@ -6,7 +6,7 @@ De CRM Sync skill koppelt je HubSpot CRM-data aan de AI-assistent. Haal contacte
 
 ## Vereisten
 
-- **Plan:** Growth of hoger
+- **Plan:** Pro of hoger
 - **Integraties:** HubSpot Private App token
 
 ## HubSpot koppelen

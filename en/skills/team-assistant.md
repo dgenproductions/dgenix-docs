@@ -6,7 +6,7 @@ The Team Assistant processes team messages, meeting notes and status updates. Pa
 
 ## Requirements
 
-- **Plan:** Growth or higher
+- **Plan:** Pro or higher
 - **Integrations:** Slack (optional, for automatic message retrieval)
 
 ## Connecting Slack (optional)

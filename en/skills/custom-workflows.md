@@ -6,7 +6,7 @@ With Custom Workflows you connect your own n8n workflows or other webhook-based 
 
 ## Requirements
 
-- **Plan:** Growth or higher
+- **Plan:** Pro or higher
 - **Integrations:** your own webhook URLs (e.g. n8n, Make.com, Zapier)
 
 ## Setting up workflows

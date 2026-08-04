@@ -6,7 +6,7 @@ The Email Marketing skill writes professional email campaigns with AI and sends 
 
 ## Requirements
 
-- **Plan:** Growth or higher
+- **Plan:** Pro or higher
 - **Integrations:** Resend API key (required for sending)
 
 ## Connecting Resend

@@ -6,7 +6,7 @@ The CRM Sync skill connects your HubSpot CRM data to your AI assistant. Fetch co
 
 ## Requirements
 
-- **Plan:** Growth or higher
+- **Plan:** Pro or higher
 - **Integrations:** HubSpot Private App token
 
 ## Connecting HubSpot

@@ -16,7 +16,7 @@ Beheer je HubSpot CRM direct via chat. Voeg contacten toe, werk deals bij en hou
 
 ## Vereisten
 
-- **Plan:** Pro
+- **Plan:** Growth of hoger
 - **Integraties:** HubSpot Private App Token (aanmaken in HubSpot-instellingen)
 
 ---

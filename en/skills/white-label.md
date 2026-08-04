@@ -6,7 +6,7 @@ With White Label Content you generate copy fully in the style and identity of a 
 
 ## Requirements
 
-- **Plan:** Growth or higher
+- **Plan:** Pro or higher
 - **Integrations:** none (prompt-only skill)
 
 ## How do you activate the skill?

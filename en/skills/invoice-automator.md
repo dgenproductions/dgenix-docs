@@ -6,7 +6,7 @@ The Invoice Generator creates professional invoices based on client details and 
 
 ## Requirements
 
-- **Plan:** Growth or higher
+- **Plan:** Pro or higher
 - **Integrations:** Google Drive (optional, only for automatic saving)
 
 ## Connecting Google Drive (optional)

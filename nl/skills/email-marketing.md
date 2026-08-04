@@ -6,7 +6,7 @@ De E-mail Marketing skill schrijft professionele e-mailcampagnes via AI en verst
 
 ## Vereisten
 
-- **Plan:** Growth of hoger
+- **Plan:** Pro of hoger
 - **Integraties:** Resend API key (verplicht voor verzenden)
 
 ## Resend koppelen

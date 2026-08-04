@@ -6,7 +6,7 @@ De Factuur Generator maakt professionele facturen op basis van klantgegevens en 
 
 ## Vereisten
 
-- **Plan:** Growth of hoger
+- **Plan:** Pro of hoger
 - **Integraties:** Google Drive (optioneel, alleen voor automatisch opslaan)
 
 ## Google Drive koppelen (optioneel)

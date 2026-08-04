@@ -6,7 +6,7 @@ Met White Label Content genereer je teksten volledig in de stijl en identiteit v
 
 ## Vereisten
 
-- **Plan:** Growth of hoger
+- **Plan:** Pro of hoger
 - **Integraties:** geen (prompt-only skill)
 
 ## Hoe activeer je de skill?
