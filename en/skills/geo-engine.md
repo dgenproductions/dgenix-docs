@@ -112,3 +112,81 @@ More info: [llmstxt.org](https://llmstxt.org)
 | Generate llms.txt | 8,000 |
 | Local SEO check (rating/reviews/GBP) | 1,500 |
 | Full optimisation pack | 65,000 |
+
+If an audit fails, you get the credits back. See
+[The credit system](../hoe-het-werkt/credits.md).
+
+## Example: what a Max Audit produces
+
+You run a Max Audit on your site and name a competitor. You get more than a
+score, you get an answer to "does AI actually mention us?":
+
+> **GEO score 58 / 100** · **AI Share of Voice 24%** (competitor: 41%)
+>
+> | Engine | You | Competitor |
+> |---|---|---|
+> | ChatGPT | 30% | 40% |
+> | Claude | 20% | 40% |
+> | Gemini | 30% | 50% |
+> | Perplexity | 20% | 30% |
+>
+> **Where you are mentioned:** "best accounting software for freelancers"
+> **Where you are missed:** "compare accounting packages", "which package for small businesses"
+>
+> **Critical:** GPTBot and ClaudeBot are blocked in your robots.txt
+> **High:** no Organization schema, AI does not recognise your brand as an entity
+
+That first critical line is usually the payoff: many sites unintentionally block
+exactly the bots that could cite them.
+
+## Limits
+
+- **The engine changes nothing on your site.** It measures and delivers ready-made fixes; you put them in place.
+- **Share of Voice is a sample**, not a full count. AI answers vary between runs, so read it as direction and trend, not as an exact figure.
+- **Share of Voice is Max Audit only.** Lower tiers measure your foundation, not your mentions.
+- **Your site has to be publicly reachable**, including to the crawlers themselves.
+- **Being cited cannot be bought.** You can improve your visibility, but no vendor can guarantee an AI will mention you.
+- **Brand names that look like ordinary words** add noise to the measurement, because a mention is harder to distinguish.
+
+## Troubleshooting
+
+**Your Share of Voice is 0%.** Often correct and valuable: your brand simply does not appear in the answers. Look at crawler access and entity schema first, those are the two biggest levers.
+
+**The crawler check reports blocked bots you do not block.** A firewall or CDN can stop bots before your robots.txt is consulted. Check the security settings at your hosting provider.
+
+**The score moves between audits without you changing anything.** That is the AI sampling. Look at the trend line across several audits rather than at one measurement.
+
+**The generated `llms.txt` does not work.** The file has to sit at the root of your domain, so `yoursite.com/llms.txt`, not in a subfolder.
+
+**Local SEO cannot find your business.** Add the town name and check that your Google Business Profile is claimed.
+
+## Frequently asked questions
+
+**What exactly is GEO?**
+Generative Engine Optimization: making sure AI assistants mention you when
+someone asks them something in your field. Where SEO is about a position in a
+list, GEO is about appearing in the answer itself.
+
+**Does this replace SEO?**
+No, it comes on top. Most customers still arrive through Google, but the share
+that asks an AI first is growing. The [SEO Engine](seo-engine.md) and this one
+measure two different things.
+
+**How often should I measure this?**
+A Max Audit is a heavy measurement; monthly or quarterly is enough. For your
+foundation you can run a lower tier more often.
+
+**Why does a GEO audit cost more than an SEO audit?**
+A Max Audit puts real questions to four different AI engines and analyses those
+answers. That is considerably more work than reading a page.
+
+**Can I use this for clients?**
+Yes, and it makes a strong pitch, because few agencies measure it. Work in a
+separate project per client.
+
+---
+
+Next: [SEO Engine](seo-engine.md) · [Authority Engine](authority-engine.md) · [All Growth Tools](../engines/README.md)
+On the site: [GEO Engine](https://dgenix.com/engines/geo) · [free scan](https://dgenix.com/demo) · [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, GEO Engine, updated August 2026*

@@ -108,9 +108,88 @@ In de tab **Links** analyseer je je backlink-profiel:
 | Keyword Research (per zoekopdracht) | 500 |
 | Links & Authority (Check / Audit / Pro) | 8.000 / 15.000 / 25.000 |
 
+## Voorbeeld: wat je krijgt na een audit
+
+Je draait een Standaard Audit op je dienstenpagina. Het resultaat is geen lijst
+met technische meldingen maar een geordend oordeel:
+
+> **SEO-score 61 / 100** , was 54 bij je vorige audit *(+7)*
+>
+> | Categorie | Score |
+> |---|---|
+> | On-page | 72 |
+> | Content | 58 |
+> | Technisch | 49 |
+> | Structuur | 66 |
+>
+> **Kritiek (2)**
+> - Meta description ontbreekt op deze pagina
+> - 3 interne links geven een 404
+>
+> **Hoog (1)**
+> - LCP is 4,1 seconde op mobiel, streef naar onder 2,5
+>
+> **Aanbevolen actie:** schrijf een meta description van 150-160 tekens rond je
+> doelzoekwoord. Verwacht effect: hogere doorklikratio vanuit Google.
+
+De volgorde is de opbrengst: je weet welke drie dingen je maandag doet, in
+plaats van dat je zelf uit honderd signalen moet kiezen.
+
+## Grenzen
+
+- **De engine wijzigt niets aan je site.** Hij meet en adviseert; aanpassen doe je zelf of via de [Authority Engine](authority-engine.md).
+- **Je pagina moet publiek bereikbaar zijn.** Een staging-omgeving achter een login of wachtwoord kan niet worden geanalyseerd.
+- **Een score is geen positiegarantie.** Een hogere score verbetert je fundament, maar posities hangen ook af van concurrentie, autoriteit en zoekintentie.
+- **De pagina-limiet per tier is hard.** Een crawl gaat tot 25, 50 of 100 pagina's; grotere sites analyseer je in delen.
+- **Zonder Max Audit geen JavaScript-rendering.** Op een site die zijn content via JavaScript laadt, ziet een lagere tier minder dan er staat.
+- **Keyword-data is per land en taal.** Kies de juiste markt, anders zijn de volumes niet van jouw publiek.
+
+## Problemen oplossen
+
+**De audit blijft op "bezig" staan.** Grote crawls duren minuten. Blijft het langer dan een kwartier hangen, start dan opnieuw; mislukte audits worden terugbetaald.
+
+**De score is veel lager dan verwacht.** Kijk of je een lagere tier gebruikte op een JavaScript-site: zonder rendering leest de audit een vrijwel lege pagina. Draai een Max Audit of Website-crawl Pro.
+
+**Core Web Vitals zijn leeg.** Google levert die alleen als er genoeg meetdata is. Voor een nieuwe of weinig bezochte pagina is dat normaal.
+
+**Er worden gebroken links gemeld die werken.** Sommige servers blokkeren geautomatiseerde verzoeken. Controleer de link handmatig; werkt hij, dan kun je de melding negeren.
+
+**Je zoekwoorden staan er niet bij.** Controleer het ingestelde land en de taal. Zoekwoorden zonder meetbaar volume worden weggelaten.
+
+## Veelgestelde vragen
+
+**Wat is het verschil tussen een pagina-analyse en een website-crawl?**
+Diepte tegenover breedte. De audit gaat de diepte in op één pagina, met
+AI-aanbevelingen, keyword-posities en Core Web Vitals. De crawl gaat de breedte
+over je hele site, met honderd mechanische checks, dubbele titels en gebroken
+links, maar zonder AI-advies per pagina.
+
+**Hoe vaak moet ik auditen?**
+Na elke grote wijziging, en verder maandelijks. Je kunt het ook automatisch
+laten draaien, dan zie je de trend zonder eraan te denken.
+
+**Kan ik het rapport aan een klant geven?**
+Ja. Exporteer als PDF; op Pro en hoger zet je daar je eigen logo, kleur en
+bureaunaam op.
+
+**Werkt dit ook voor webshops?**
+Ja. Let bij grote webshops op de pagina-limiet en crawl in delen, bijvoorbeeld
+per categorie.
+
+**Wat is het verschil met de GEO Engine?**
+De SEO Engine meet je positie in Google. De [GEO Engine](geo-engine.md) meet of
+AI-assistenten je noemen. Steeds vaker heb je allebei nodig.
+
 ## Tips
 
-- **Start met Standaard Audit** voor een volledige analyse van je belangrijkste landingspagina
-- **Geef een doelzoekwoord op** voor pagina's die je wilt ranken op een specifieke term
-- **Gebruik Deep Audit** voor nieuwe websites of na een grote redesign
-- **Vergelijk audits** in de historie om de impact van wijzigingen te meten
+- **Start met een Standaard Audit** voor een volledig beeld van je belangrijkste landingspagina
+- **Geef een doelzoekwoord op** voor pagina's die je op een specifieke term wilt laten ranken
+- **Gebruik een Deep Audit** bij een nieuwe site of na een redesign
+- **Vergelijk audits** in de historie om te zien of je wijzigingen effect hadden
+
+---
+
+→ Verder: [GEO Engine](geo-engine.md) · [Authority Engine](authority-engine.md) · [Alle Groei Tools](../engines/README.md)
+→ Op de site: [SEO Engine](https://dgenix.nl/engines/seo) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, SEO Engine, bijgewerkt augustus 2026*

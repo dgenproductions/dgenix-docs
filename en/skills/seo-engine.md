@@ -108,9 +108,89 @@ In the **Links** tab you analyse your backlink profile:
 | Keyword Research (per query) | 500 |
 | Links & Authority (Check / Audit / Pro) | 8,000 / 15,000 / 25,000 |
 
+## Example: what you get after an audit
+
+You run a Standard Audit on your services page. The result is not a list of
+technical notices but an ordered judgement:
+
+> **SEO score 61 / 100** , was 54 at your previous audit *(+7)*
+>
+> | Category | Score |
+> |---|---|
+> | On-page | 72 |
+> | Content | 58 |
+> | Technical | 49 |
+> | Structure | 66 |
+>
+> **Critical (2)**
+> - Meta description missing on this page
+> - 3 internal links return a 404
+>
+> **High (1)**
+> - LCP is 4.1 seconds on mobile, aim for under 2.5
+>
+> **Recommended action:** write a meta description of 150-160 characters around
+> your target keyword. Expected effect: a higher click-through rate from Google.
+
+The ordering is the payoff: you know which three things to do on Monday, instead
+of picking from a hundred signals yourself.
+
+## Limits
+
+- **The engine changes nothing on your site.** It measures and advises; you make the changes yourself or through the [Authority Engine](authority-engine.md).
+- **Your page has to be publicly reachable.** A staging environment behind a login or password cannot be analysed.
+- **A score is not a ranking guarantee.** A higher score improves your foundation, but positions also depend on competition, authority and search intent.
+- **The page limit per tier is hard.** A crawl covers 25, 50 or 100 pages; larger sites you analyse in parts.
+- **No JavaScript rendering below Max.** On a site that loads its content through JavaScript, a lower tier sees less than is actually there.
+- **Keyword data is per country and language.** Pick the right market, otherwise the volumes are not your audience.
+
+## Troubleshooting
+
+**The audit stays on "running".** Large crawls take minutes. If it hangs longer than fifteen minutes, start again; failed audits are refunded.
+
+**The score is far lower than expected.** Check whether you used a lower tier on a JavaScript site: without rendering the audit reads a near-empty page. Run a Max Audit or Site Crawl Pro.
+
+**Core Web Vitals are empty.** Google only supplies those when there is enough field data. For a new or rarely visited page that is normal.
+
+**Broken links are reported that work fine.** Some servers block automated requests. Check the link by hand; if it works, you can ignore the notice.
+
+**Your keywords are missing.** Check the country and language setting. Keywords without measurable volume are left out.
+
+## Frequently asked questions
+
+**What is the difference between a page analysis and a site crawl?**
+Depth versus breadth. The audit goes deep on one page, with AI recommendations,
+keyword positions and Core Web Vitals. The crawl goes wide across your whole
+site, with a hundred mechanical checks, duplicate titles and broken links, but
+without per-page AI advice.
+
+**How often should I audit?**
+After every major change, and monthly beyond that. You can also have it run
+automatically, so you see the trend without thinking about it.
+
+**Can I hand the report to a client?**
+Yes. Export as PDF; on Pro and up you put your own logo, colour and agency name
+on it.
+
+**Does this work for webshops?**
+Yes. On large shops watch the page limit and crawl in parts, for example per
+category.
+
+**What is the difference with the GEO Engine?**
+The SEO Engine measures your position in Google. The
+[GEO Engine](geo-engine.md) measures whether AI assistants mention you.
+Increasingly you need both.
+
 ## Tips
 
-- **Start with a Standard Audit** for a full analysis of your most important landing page
+- **Start with a Standard Audit** for a full picture of your most important landing page
 - **Provide a target keyword** for pages you want to rank for a specific term
-- **Use a Deep Audit** for new websites or after a major redesign
-- **Compare audits** in the history to measure the impact of changes
+- **Use a Deep Audit** on a new site or after a redesign
+- **Compare audits** in the history to see whether your changes had an effect
+
+---
+
+Next: [GEO Engine](geo-engine.md) · [Authority Engine](authority-engine.md) · [All Growth Tools](../engines/README.md)
+On the site: [SEO Engine](https://dgenix.com/engines/seo) · [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, SEO Engine, updated August 2026*

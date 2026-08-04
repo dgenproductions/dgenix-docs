@@ -111,3 +111,82 @@ Meer info: [llmstxt.org](https://llmstxt.org)
 | llms.txt genereren | 8.000 |
 | Local SEO check (rating/reviews/GBP) | 1.500 |
 | Volledig optimalisatie pakket | 65.000 |
+
+Mislukt een audit, dan krijg je de credits terug. Zie
+[Het creditsysteem](../hoe-het-werkt/credits.md).
+
+## Voorbeeld: wat een Max Audit oplevert
+
+Je draait een Max Audit op je site en geeft een concurrent op. Je krijgt niet
+alleen een score maar een antwoord op de vraag "noemt AI ons eigenlijk?":
+
+> **GEO-score 58 / 100** · **AI Share-of-Voice 24%** (concurrent: 41%)
+>
+> | Engine | Jij | Concurrent |
+> |---|---|---|
+> | ChatGPT | 30% | 40% |
+> | Claude | 20% | 40% |
+> | Gemini | 30% | 50% |
+> | Perplexity | 20% | 30% |
+>
+> **Waar je wél genoemd wordt:** "beste boekhoudsoftware voor zzp"
+> **Waar je gemist wordt:** "boekhoudprogramma vergelijken", "welk pakket voor kleine ondernemers"
+>
+> **Kritiek:** GPTBot en ClaudeBot worden geblokkeerd in je robots.txt
+> **Hoog:** geen Organization-schema, AI herkent je merk niet als entiteit
+
+Die eerste regel is meestal de opbrengst: veel sites blokkeren onbedoeld precies
+de bots die hen zouden kunnen citeren.
+
+## Grenzen
+
+- **De engine wijzigt niets aan je site.** Hij meet en levert kant-en-klare fixes; plaatsen doe je zelf.
+- **Share-of-Voice is een steekproef**, geen volledige telling. AI-antwoorden verschillen per keer, dus lees het als richting en trend, niet als exact cijfer.
+- **Share-of-Voice zit alleen in de Max Audit.** Lagere tiers meten je fundament, niet je vermeldingen.
+- **Je site moet publiek bereikbaar zijn**, ook voor de crawlers zelf.
+- **Geciteerd worden koop je niet.** Je kunt je vindbaarheid verbeteren, maar geen enkele leverancier kan garanderen dat een AI je noemt.
+- **Merknamen die op gewone woorden lijken** geven ruis in de meting, omdat een vermelding lastiger te onderscheiden is.
+
+## Problemen oplossen
+
+**Je Share-of-Voice is 0%.** Vaak terecht en waardevol: je merk komt simpelweg niet voor in de antwoorden. Kijk eerst naar crawler-toegang en entiteit-schema, dat zijn de twee grootste hefbomen.
+
+**De crawler-check meldt geblokkeerde bots die je niet blokkeert.** Een firewall of CDN kan bots tegenhouden vóór je robots.txt eraan te pas komt. Controleer je beveiligingsinstellingen bij je hostingpartij.
+
+**De score schommelt tussen audits zonder dat je iets veranderde.** Dat komt door de AI-steekproef. Kijk naar de trendlijn over meerdere audits in plaats van naar één meting.
+
+**Het gegenereerde `llms.txt` werkt niet.** Het bestand moet in de hoofdmap van je domein staan, dus op `jouwsite.nl/llms.txt`, niet in een submap.
+
+**Local SEO vindt je bedrijf niet.** Voeg de plaatsnaam toe en controleer of je Google-bedrijfsprofiel geclaimd is.
+
+## Veelgestelde vragen
+
+**Wat is GEO precies?**
+Generative Engine Optimization: zorgen dat AI-assistenten je noemen wanneer
+iemand hen iets vraagt in jouw vakgebied. Waar SEO om een positie in een lijst
+gaat, gaat GEO erom of je in het antwoord zélf voorkomt.
+
+**Vervangt dit SEO?**
+Nee, het komt erbij. De meeste klanten komen nog via Google, maar het aandeel
+dat eerst een AI vraagt groeit. De [SEO Engine](seo-engine.md) en deze engine
+meten twee verschillende dingen.
+
+**Hoe vaak moet ik dit meten?**
+Een Max Audit is een zware meting; maandelijks of per kwartaal is genoeg. Voor
+je fundament kun je vaker een lagere tier draaien.
+
+**Waarom kost een GEO-audit meer dan een SEO-audit?**
+Bij een Max Audit worden echte vragen gesteld aan vier verschillende
+AI-engines, en die antwoorden worden geanalyseerd. Dat is fors meer werk dan een
+pagina uitlezen.
+
+**Kan ik dit voor klanten inzetten?**
+Ja, en het is een sterk verhaal in een pitch, omdat weinig bureaus het meten.
+Werk per klant in een eigen project.
+
+---
+
+→ Verder: [SEO Engine](seo-engine.md) · [Authority Engine](authority-engine.md) · [Alle Groei Tools](../engines/README.md)
+→ Op de site: [GEO Engine](https://dgenix.nl/engines/geo) · [gratis scan](https://dgenix.nl/demo) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, GEO Engine, bijgewerkt augustus 2026*
