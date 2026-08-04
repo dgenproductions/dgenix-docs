@@ -1,72 +1,106 @@
 # Slack
 
-Send messages, read channel updates and automate team communication via your AI assistant. Keep your team informed without typing every message manually.
+With the Slack skill GENI reads along in your workspace, summarises threads and posts on your behalf, so you do not have to follow everything yourself.
 
----
+Available from **Growth**. You need a connected Slack workspace; see
+[Connecting Slack](../connectors/slack.md).
 
-## What can your assistant do?
+## What can GENI do with Slack?
 
-- Send messages to channels or colleagues
-- Read and summarise channel messages
-- Get thread summaries
-- Post automatic status updates on task completion
-- Show channels at a glance
-- Search messages by keyword or period
-- Send direct messages to individual team members
-- React to messages with emoji
-- Create new channels for projects or teams
+- **Read a channel** and fetch the recent messages
+- **Summarise a thread**, including all replies
+- **Search messages** for a term
+- **List your channels** the connection can reach
+- **Post a message** to a channel
+- **Send a DM** to a specific colleague
+- **React with an emoji** to a message
+- **Create a channel**
 
----
+## Example: what you ask, what you get
+
+```
+Summarise the discussion in #release, I was away two days
+```
+
+> **#release , 34 messages since Tuesday**
+>
+> **Decided**
+> - The release moves to Thursday, because of the bug in the payment flow
+> - Sanne picks up the release notes
+>
+> **Still open**
+> - Who handles customer communication? Jan suggested you, nobody confirmed.
+> - Whether the old API version stays up another month; three opinions, no decision.
+>
+> You were mentioned twice, both times about that customer communication.
+
+That last part is usually why you ask: you want to know whether something is
+waiting on you.
 
 ## Requirements
 
-- **Plan:** Growth or higher
-- **Integrations:** Slack OAuth connection (one-time setup)
+- **Plan:** Growth and up
+- **Connection:** a Slack workspace via **Dashboard -> Connectors**
 
----
+## Activating
 
-## How do you activate Slack?
+1. Go to **Dashboard -> Skills** and activate **Slack**
+2. Go to **Dashboard -> Connectors** and click **Connect**
+3. Pick your workspace and grant permission
+4. Slack is usable right away
 
-1. Go to **Dashboard -> Skills**
-2. Click **"Activate"** on Slack
-3. Go to **Dashboard -> Connectors**
-4. Click **"Connect"** on Slack
-5. Log in with your Slack workspace and grant access
-6. The skill is active right after connecting
+## What it costs
 
----
-
-## Example commands
-
-```
-Send a message to #general: "Standup in 10 minutes"
-```
-```
-What are the latest messages in #projects? Summarise
-```
-```
-Send an update to #sales about the deal with Client X
-```
-
----
-
-## Credit cost
-
-| Action | ~Credits |
+| Action | Credits |
 |---|---|
-| Read + summarise channel | ~40 cr |
-| Send a message (channel or DM) | ~30 cr |
-| Summarise a thread | ~50 cr |
-| Search messages | ~25 cr |
-| React to a message | ~15 cr |
-| Create a channel | ~20 cr |
+| React with an emoji | ~15 |
+| Search messages | ~25 |
+| Send a message or DM | ~30 |
+| Read and summarise a channel | ~40 |
+| Summarise a thread | ~50 |
 
----
+See [The credit system](../hoe-het-werkt/credits.md).
 
-## Pricing
+## Limits
 
-Included from the **Growth** plan. You pay per action in credits.
+- **Posting and sending DMs ask for confirmation.** You see the text first.
+- **GENI does not delete messages or channels.**
+- **Private channels are only visible** if the app has been invited (`/invite @dGENIX`).
+- **It does not read along continuously.** Messages are fetched when you ask.
+- **Files in Slack are recognised but not opened.**
+- **On a free Slack workspace** Slack itself limits the retained history.
+
+## Troubleshooting
+
+**A channel is not visible.** It is private. In Slack, type `/invite @dGENIX` in that channel.
+
+**Posting fails.** Your workspace may not allow apps to post. Ask your admin to approve the app.
+
+**A summary lacks context.** Name the period ("since Monday") and GENI fetches more messages.
+
+**Older messages cannot be found.** On a free workspace Slack retains only limited history.
+
+## Frequently asked questions
+
+**Can GENI post to a channel automatically?**
+Yes, as a scheduled task, for example a weekly summary in your team channel
+every Monday. The confirmation still applies. See
+[Scheduled tasks](../handleiding/geplande-taken.md).
+
+**Does it read all my Slack messages?**
+No. Only what your request needs, at the moment you ask.
+
+**Can I connect several workspaces?**
+One per account. Switching means disconnecting and connecting again.
+
+**Can it put a report from another skill into Slack?**
+Yes, and that is a strong combination: a [weekly report](weekly-report.md) or
+SEO audit appearing in your team channel by itself.
 
 ---
 
 Back to [Skills marketplace](README.md)
+See also: [Connecting Slack](../connectors/slack.md) · [Weekly report](weekly-report.md) · [Scheduled tasks](../handleiding/geplande-taken.md)
+On the site: [all skills](https://dgenix.com/skills) · [all integrations](https://dgenix.com/integrations)
+
+*dGENIX Docs, Slack, updated August 2026*

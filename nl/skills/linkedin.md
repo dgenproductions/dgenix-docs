@@ -1,65 +1,120 @@
-# LinkedIn Automation
+# LinkedIn
 
-Publiceer LinkedIn-posts en bekijk statistieken via je AI-assistent. Schrijf, optimaliseer en plaats content op jouw profiel, zonder LinkedIn zelf te openen.
+Met de LinkedIn-skill schrijft en publiceert GENI posts op je profiel, en haalt hij de cijfers van je recente posts op.
 
----
+Beschikbaar vanaf **Growth**. Je hebt een gekoppeld LinkedIn-profiel nodig; zie
+[LinkedIn koppelen](../connectors/linkedin.md).
 
-## Wat kan je assistent?
+## Wat kan GENI met LinkedIn?
 
-- LinkedIn-posts schrijven en direct publiceren
-- Poststatistieken opvragen (weergaven, likes, reacties)
-- Profieldata raadplegen voor context
-- Content plannen en uitvoeren op aanvraag
+- **Een tekstpost publiceren** op je profiel
+- **Je profiel lezen**: naam, headline en profielfoto
+- **Statistieken ophalen** van je recente posts: weergaven, likes en reacties
 
----
+De waarde zit vooral in het combineren: laat GENI een blogartikel, een
+weekrapport of een case omzetten naar een post die bij je toon past.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Maak een LinkedIn-post van mijn laatste blogartikel
+```
+
+> **Concept, 142 woorden**
+>
+> Vorige week belde een klant met een vraag die ik vaker hoor: "waarom staan we
+> niet in ChatGPT als iemand naar ons vakgebied vraagt?"
+>
+> Het antwoord bleek pijnlijk simpel. Hun robots.txt blokkeerde precies de bots
+> die hen hadden kunnen citeren. Al twee jaar.
+>
+> Drie dingen die ik sindsdien bij elke site check: […]
+>
+> **Geschatte leestijd:** 40 seconden. Geen hashtags, die doen op LinkedIn
+> weinig meer.
+>
+> Zal ik hem publiceren?
+
+En achteraf:
+
+```
+Hoe deden mijn laatste posts het?
+```
+
+> | Post | Weergaven | Reacties |
+> |---|---|---|
+> | "De fout die me 40.000 kostte" | 4.820 | 31 |
+> | "Waarom AI je niet noemt" | 2.140 | 12 |
+> | "Drie jaar ondernemen" | 890 | 4 |
+>
+> Persoonlijke verhalen halen hier ruim vijf keer zoveel bereik als algemene
+> tips.
 
 ## Vereisten
 
-- **Plan:** Pro
-- **Integraties:** LinkedIn OAuth-koppeling (eenmalig instellen)
+- **Plan:** Growth en hoger
+- **Koppeling:** een LinkedIn-profiel via **Dashboard → Connectors**
 
----
+## Activeren
 
-## Hoe activeer je LinkedIn Automation?
+1. Ga naar **Dashboard → Skills** en activeer **LinkedIn**
+2. Ga naar **Dashboard → Connectors** en klik op **Verbinden**
+3. Log in bij LinkedIn en geef toestemming
+4. LinkedIn is direct bruikbaar
 
-1. Ga naar **Dashboard → Skills**
-2. Klik op **"Activeer"** bij LinkedIn Automation
-3. Ga naar **Dashboard → Connectors**
-4. Klik op **"Verbinden"** bij LinkedIn
-5. Log in met je LinkedIn-account en geef toegang
-6. De skill is actief na verbinding
+> **Let op:** LinkedIn moet het publiceren-recht goedkeuren via hun Developer
+> Program, wat 1 tot 2 weken kan duren. Je profiel lezen en statistieken
+> ophalen werkt direct.
 
-> **Let op:** Het publiceren van posts via de API vereist goedkeuring van LinkedIn voor de `w_member_social` scope. Dit kan 1–2 weken duren na het aanmaken van de developer app. Het koppelen van je account werkt direct.
+## Wat het kost
 
----
-
-## Voorbeeldopdrachten
-
-```
-Schrijf een LinkedIn post over onze nieuwe dienst en publiceer hem
-```
-```
-Wat zijn de statistieken van mijn laatste 3 posts?
-```
-```
-Maak een thought leadership post over AI-automatisering voor MKB
-```
-
----
-
-## Creditkosten
-
-| Actie | ~Credits |
+| Actie | Credits |
 |---|---|
-| Post schrijven + publiceren | ~120 cr |
-| Statistieken opvragen | ~40 cr |
+| Statistieken opvragen | ~40 |
+| Post schrijven en publiceren | ~120 |
+
+Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
+
+## Grenzen en limieten
+
+- **Publiceren vraagt altijd om bevestiging.** Je leest de tekst eerst.
+- **Alleen tekstposts.** Afbeeldingen, video's, documenten en carrousels kunnen niet.
+- **Alleen je persoonlijke profiel.** Posten op een bedrijfspagina wordt niet ondersteund.
+- **GENI bewerkt of verwijdert geen bestaande posts.**
+- **Geen reacties, connectieverzoeken of berichten.** Deze skill raakt je inbox en netwerk niet.
+- **Statistieken komen met vertraging.** Voor een verse post is een leeg resultaat normaal.
+
+## Problemen oplossen
+
+**Publiceren geeft een rechtenfout.** Het publiceren-recht is nog niet goedgekeurd door LinkedIn. Lezen werkt al wel; publiceren komt beschikbaar zodra zij akkoord geven.
+
+**Statistieken zijn leeg.** LinkedIn levert cijfers pas na enige tijd.
+
+**Je wilt op je bedrijfspagina posten.** Dat ondersteunt de koppeling niet. Laat GENI de tekst schrijven en plaats hem zelf.
+
+**De toon klopt niet.** Leg je schrijfstijl vast in [Instellingen](../functies/instellingen.md) of in je [geheugen](../functies/geheugen.md), dan houdt GENI zich daaraan.
+
+## Veelgestelde vragen
+
+**Kan GENI wekelijks automatisch posten?**
+Ja, als geplande taak. Ook dan zie je de tekst eerst; er gaat nooit iets
+ongezien de deur uit. Zie [Geplande taken](../handleiding/geplande-taken.md).
+
+**Kan hij een blog omzetten naar een post?**
+Ja, dat is de meest gebruikte combinatie. Zie ook
+[Content Repurposing](content-repurposing.md).
+
+**Ziet hij mijn inbox of connecties?**
+Nee. De koppeling geeft daar geen toegang toe.
+
+**Wat is het verschil met de Social Media Manager?**
+Die plant content over meerdere kanalen. Deze skill is specifiek voor LinkedIn,
+inclusief de cijfers achteraf. Zie [Social Media Manager](social-media.md).
 
 ---
 
-## Prijs
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [LinkedIn koppelen](../connectors/linkedin.md) · [Content Repurposing](content-repurposing.md) · [Social Media Manager](social-media.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [alle koppelingen](https://dgenix.nl/integrations)
 
-Inbegrepen vanaf het **Growth**-plan. Je betaalt per actie in credits.
-
----
-
-→ Terug naar [Skills marketplace](README.md)
+*dGENIX Docs, LinkedIn, bijgewerkt augustus 2026*
