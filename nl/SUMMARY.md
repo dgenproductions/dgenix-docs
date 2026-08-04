@@ -8,6 +8,12 @@
 * [Account aanmaken](aan-de-slag/account-aanmaken.md)
 * [Telegram koppelen (optioneel)](aan-de-slag/telegram-koppelen.md)
 
+## Concepten
+
+* [Wat is dGENIX?](concepten/wat-is-dgenix.md)
+* [Hoe alles samenwerkt](concepten/hoe-alles-samenwerkt.md)
+* [Contextopslag vergeleken](concepten/context-opslag-vergeleken.md)
+
 ## Hoe het werkt
 
 * [Wat doet je AI-assistent?](hoe-het-werkt/README.md)
@@ -123,5 +129,7 @@
 * [Credits bijkopen](plannen-en-prijzen/credits-bijkopen.md)
 
 ## Overig
+
+* [Begrippenlijst](referentie/begrippenlijst.md)
 
 * [Veelgestelde vragen](faq.md)

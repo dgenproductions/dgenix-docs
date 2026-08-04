@@ -8,6 +8,12 @@
 * [Create an account](aan-de-slag/account-aanmaken.md)
 * [Connect Telegram (optional)](aan-de-slag/telegram-koppelen.md)
 
+## Concepts
+
+* [What is dGENIX?](concepten/wat-is-dgenix.md)
+* [How it all fits together](concepten/hoe-alles-samenwerkt.md)
+* [Context storage compared](concepten/context-opslag-vergeleken.md)
+
 ## How it works
 
 * [What your AI assistant does](hoe-het-werkt/README.md)
@@ -123,5 +129,7 @@
 * [Buy extra credits](plannen-en-prijzen/credits-bijkopen.md)
 
 ## More
+
+* [Glossary](referentie/begrippenlijst.md)
 
 * [Frequently asked questions](faq.md)
