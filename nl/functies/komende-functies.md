@@ -5,6 +5,20 @@ Op deze pagina staat wat er binnenkort bij komt en wat er recent is uitgerold, z
 Nieuwe skills en koppelingen verschijnen automatisch in je marktplaats zodra ze
 klaar zijn. Je hoeft niets te installeren of bij te werken.
 
+## Wat deze pagina doet
+
+Deze pagina houdt bij wat er aan zit te komen en wat er net uit is. Hij bestaat
+zodat je een keuze kunt maken op wat er **nu** werkt, niet op wat er ooit komt.
+
+Daarom staan er drie dingen bewust wel en niet in:
+
+- **Wel:** waarom iets nog niet beschikbaar is, zodat je weet of het aan ons ligt of aan een externe partij
+- **Niet:** datums. Microsoft en Canva bepalen zelf wanneer ze goedkeuren
+- **Niet:** een belofte. Wat hier staat is de stand van zaken, geen toezegging
+
+Gaat er iets live, dan verschijnt het vanzelf in je marktplaats en krijg je een
+melding in het dashboard. Je hoeft deze pagina dus niet in de gaten te houden.
+
 ## Binnenkort beschikbaar
 
 | Wat | Plan | Waar het op wacht |

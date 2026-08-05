@@ -38,14 +38,52 @@ WhatsApp. You do not need to do anything technical or run a server.
 
 Which one applies is shown in the connector's own instruction.
 
-## It runs on your account
+## What access you give
 
 An MCP connector works on **your own account** at that service by default. That
 has three consequences worth knowing:
 
 - You keep control over the account and the data in it
 - If the service charges, those costs run through your account and not through dGENIX
-- You can disconnect any time via **Connectors -> Disconnect**, after which GENI immediately loses access
+- You can disconnect any time, after which GENI immediately loses access
+
+What a connector is allowed to do is decided by the service at connection time.
+If you log in at the service, you see its consent screen listing the permissions
+requested , read that, because the real answer is there. If you paste a key,
+whatever that key allows applies; create one with as few rights as possible.
+
+Whatever is requested: actions that change or delete something always ask for
+your confirmation at dGENIX first.
+
+## Checking that it works
+
+After connecting, ask GENI to **read** something rather than create something:
+
+```
+What can you do with [connector name]?
+```
+
+> I have access to **[connector]** and can currently run 4 actions there: search,
+> open an item, create an item and update an item. Shall I look something up for
+> you?
+
+If you get that list, the connection stands and you immediately know which
+actions you have. If GENI says it has no access, check under
+**Dashboard -> Connectors** whether the connector shows as **Connected**.
+
+## Disconnecting
+
+Go to **Dashboard -> Connectors**, find the connector and click **Disconnect**.
+Access ends immediately and GENI can no longer do anything with it.
+
+Two things to know:
+
+- **The skill stays activated.** To remove it entirely, switch it off in the marketplace too.
+- **What the connector created earlier stays put.** Disconnecting pulls nothing back out of the service; you clear that up there.
+
+You can also revoke the permission at the service itself. If you do, the
+connector stops without warning , disconnecting inside dGENIX keeps the overview
+cleaner.
 
 ## What it costs
 

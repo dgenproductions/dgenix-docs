@@ -38,14 +38,52 @@ of WhatsApp. Je hoeft niets technisch te doen en geen server op te zetten.
 
 Welke manier geldt, staat in de instructie van de connector zelf.
 
-## Het draait op jouw account
+## Welke toegang je geeft
 
 Een MCP-connector werkt standaard op **jouw eigen account** bij die dienst. Dat
 heeft drie gevolgen die de moeite waard zijn:
 
 - Je houdt zelf zeggenschap over het account en de gegevens erin
 - Rekent de dienst zelf kosten, dan lopen die via jouw account en niet via dGENIX
-- Verbreken kan altijd via **Connectors → Verbreken**, waarna GENI er direct niet meer bij kan
+- Verbreken kan altijd, waarna GENI er direct niet meer bij kan
+
+Wat een connector precies mag, bepaalt de dienst bij het koppelen. Log je in bij
+de dienst, dan zie je daar het toestemmingsscherm met de rechten die gevraagd
+worden , lees dat, want daar staat het echte antwoord. Plak je een sleutel, dan
+geldt wat die sleutel mag; maak er een aan met zo min mogelijk rechten.
+
+Wat er ook gevraagd wordt: acties die iets wijzigen of verwijderen vragen bij
+dGENIX altijd eerst om jouw bevestiging.
+
+## Controleren of het werkt
+
+Vraag GENI na het koppelen om iets te **lezen**, niet om iets te maken:
+
+```
+Wat kun je met [naam van de connector]?
+```
+
+> Ik heb toegang tot **[connector]** en kan daar op dit moment 4 acties in
+> uitvoeren: zoeken, een item openen, een item aanmaken en een item bijwerken.
+> Zal ik iets voor je opzoeken?
+
+Krijg je die opsomming, dan staat de verbinding en weet je meteen welke acties
+je hebt. Zegt GENI dat hij er niet bij kan, kijk dan bij
+**Dashboard → Connectors** of de connector op **Verbonden** staat.
+
+## Verbinding verbreken
+
+Ga naar **Dashboard → Connectors**, zoek de connector en klik op **Verbreken**.
+De toegang vervalt onmiddellijk en GENI kan er daarna niets meer mee.
+
+Twee dingen om te weten:
+
+- **De skill blijft geactiveerd.** Wil je hem helemaal weg, zet hem dan ook uit in de marktplaats.
+- **Wat de connector eerder heeft gemaakt, blijft staan.** Verbreken haalt niets terug uit de dienst zelf; dat ruim je daar op.
+
+Je kunt de toestemming ook intrekken bij de dienst zelf. Doe je dat, dan stopt
+de connector zonder waarschuwing , verbreken in dGENIX houdt het overzicht
+schoner.
 
 ## Wat het kost
 

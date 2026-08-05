@@ -5,6 +5,20 @@ This page lists what is coming soon and what shipped recently, so you know what 
 New skills and connections appear in your marketplace automatically once they
 are ready. There is nothing to install or update.
 
+## What this page does
+
+This page tracks what is coming and what just shipped. It exists so you can make
+a decision on what works **now**, not on what might arrive later.
+
+So three things are deliberately in or out:
+
+- **In:** why something is not available yet, so you know whether it is on us or on an external party
+- **Out:** dates. Microsoft and Canva decide themselves when they approve
+- **Out:** a promise. What is here is the state of play, not a commitment
+
+When something goes live it appears in your marketplace by itself and you get a
+notification in the dashboard. So you do not need to watch this page.
+
 ## Coming soon
 
 | What | Plan | What it is waiting on |
