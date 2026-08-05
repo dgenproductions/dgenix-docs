@@ -1,44 +1,105 @@
 # Team Assistent
 
-## Wat doet deze skill?
+Met de Team Assistent vat GENI lange teamgesprekken samen tot wat er besloten is en wie wat moet doen, zodat een doorgelopen Slack-kanaal geen achterstand meer is.
 
-De Team Assistent verwerkt teamberichten, vergadernotities en statusupdates. Plak tekst direct in of koppel Slack voor automatisch ophalen, de assistent vat samen, extraheert actiepunten en maakt een gestructureerde takenlijst.
+Beschikbaar vanaf **Pro**. Werkt met geplakte tekst; met een gekoppelde
+[Slack](slack.md) haalt hij de berichten zelf op.
+
+## Wat kan GENI hiermee?
+
+- **Een team-update samenvatten** , een Slack-thread, vergadernotitie of lange mailwisseling terugbrengen tot de kern
+- **Actie-items extraheren** , wie doet wat, met deadline waar die genoemd is
+- **Slack-berichten ophalen** uit een kanaal (vereist een gekoppelde Slack-werkruimte)
+
+De eerste twee werken ook zonder koppeling: plak de tekst en je krijgt hetzelfde
+resultaat.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Vat #project-dekrent van deze week samen en haal de actiepunten eruit
+```
+
+> **#project-dekrent , 4 t/m 8 augustus, 63 berichten**
+>
+> **Waar het over ging**
+> De oplevering schoof van week 38 naar week 40 omdat de kassakoppeling
+> een extra testronde nodig heeft. De klant is akkoord, de planning is bijgewerkt.
+>
+> **Besloten**
+> - Oplevering week 40
+> - Extra testronde op de kassakoppeling, uitgevoerd door de klant zelf
+>
+> **Actiepunten**
+>
+> | Wie | Wat | Wanneer |
+> |---|---|---|
+> | Sanne | Planning bijwerken en klant bevestigen | vrijdag |
+> | Jij | Testscript aanleveren | woensdag |
+> | Onbekend | Wie doet de eindcontrole? | , |
+>
+> Die laatste is in het kanaal genoemd maar nooit toegewezen.
 
 ## Vereisten
 
-- **Plan:** Pro of hoger
-- **Integraties:** Slack (optioneel, voor automatisch berichten ophalen)
+- **Plan:** Pro en hoger
+- **Koppeling:** geen, tenzij je berichten uit Slack wilt laten ophalen. Zie [Slack koppelen](../connectors/slack.md)
 
-## Slack koppelen (optioneel)
+## Activeren
 
-1. Ga naar **Connectors → Slack**
-2. Klik **Koppelen** en autoriseer de dGENIX Slack-app in je workspace
-3. Selecteer de kanalen waartoe de assistent toegang krijgt
+1. Ga naar **Dashboard → Skills** en activeer **Team Assistent**
+2. Koppel eventueel Slack via **Dashboard → Connectors**
+3. Plak een gesprek, of noem het kanaal dat je wilt laten samenvatten
 
-## Wat kun je ermee?
-
-**Teamupdate samenvatten:**
-> "Vat deze standupnotities samen: [plak tekst]"
-
-**Actiepunten extraheren:**
-> "Haal alle actiepunten en deadlines uit deze vergadernotulen"
-
-**Slack berichten ophalen:**
-> "Haal de berichten van de afgelopen 24 uur op uit #projecten-kanaal"
-
-**Andere voorbeelden:**
-- Wekelijkse teamsamenvatting opstellen
-- Beslissingen uit vergaderingen documenteren
-- Takenlijst per teamlid genereren
-
-## Creditkosten
+## Wat het kost
 
 | Actie | Credits |
 |---|---|
-| Teamupdate samenvatten | 5 cr |
-| Actiepunten extraheren | 5 cr |
-| Slack berichten ophalen | 8 cr |
+| Team-update samenvatten | 5 |
+| Actie-items extraheren | 5 |
+| Slack-berichten ophalen | 3 |
+
+Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
+
+## Grenzen en limieten
+
+- **GENI reageert niet namens jou.** Hij leest en vat samen; posten doe je zelf of via de [Slack-skill](slack.md).
+- **Alleen kanalen waar de koppeling bij kan.** Privéberichten en besloten kanalen zonder toegang blijven buiten beeld.
+- **Actie-items zijn een voorstel.** Een toewijzing die niet expliciet in het gesprek staat, leidt hij af , controleer die voor je hem doorgeeft.
+- **Zeer lange periodes worden gedeeltelijk gelezen.** Vraag per week of per thread in plaats van per maand.
+- **Hij plant niets in.** Vraag [Google Calendar](google-calendar.md) of je [Werkruimte](../functies/werkruimte.md) om er echt taken van te maken.
+
+## Problemen oplossen
+
+**Het kanaal wordt niet gevonden.** De Slack-koppeling heeft geen toegang tot dat kanaal. Nodig de app uit in het kanaal, of plak de berichten.
+
+**De samenvatting mist de kern.** Zeg waar je op let: besluiten, blokkades, of alleen wat jou raakt.
+
+**Actiepunten staan bij de verkeerde persoon.** In een druk kanaal is de toewijzing vaak impliciet. Corrigeer voor je het deelt.
+
+**Ik wil dit elke maandag.** Zet het als [geplande taak](../handleiding/geplande-taken.md); een weeksamenvatting op maandagochtend is de meest gebruikte vorm.
+
+## Veelgestelde vragen
+
+**Werkt dit ook zonder Slack?**
+Ja. Plak de tekst uit welke bron dan ook , Teams, mail, notulen , en je krijgt
+hetzelfde resultaat.
+
+**Wat is het verschil met de Vergadering Assistent?**
+[Die](meeting-assistant.md) werkt vanaf een opname of transcript van één
+vergadering. De Team Assistent werkt op doorlopende teamcommunicatie.
+
+**Kan hij de actiepunten als taken klaarzetten?**
+Ja, vraag hem ze in je [Werkruimte](../functies/werkruimte.md) te zetten.
+
+**Leest hij mee in mijn Slack?**
+Alleen wanneer je erom vraagt, en alleen in kanalen waar de koppeling toegang
+toe heeft. Er draait niets op de achtergrond.
 
 ---
 
-*dGENIX, Growth skill, Slack optioneel*
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [Slack](slack.md) · [Vergadering Assistent](meeting-assistant.md) · [Werkruimte](../functies/werkruimte.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [alle koppelingen](https://dgenix.nl/integrations)
+
+*dGENIX Docs, Team Assistent, bijgewerkt augustus 2026*
