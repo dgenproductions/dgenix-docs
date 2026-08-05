@@ -96,5 +96,6 @@ No. It works in existing spreadsheets. You create a new file yourself and then p
 
 Back to [Connectors overview](README.md)
 See also: [Google Sheets skill](../skills/google-sheets.md)
+On the site: [all integrations](https://dgenix.com/integrations) · [all skills](https://dgenix.com/skills)
 
 *dGENIX Docs, Connect Google Sheets, updated August 2026*

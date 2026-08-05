@@ -44,3 +44,10 @@ Log in via [app.dgenix.com/login](https://app.dgenix.com/login).
 ## Wachtwoord vergeten?
 
 Op de loginpagina staat een "Wachtwoord vergeten?"-link. Vul je e-mail in en je ontvangt een resetlink.
+
+---
+
+→ Verder: [Telegram koppelen](telegram-koppelen.md) · [Plannen en prijzen](../plannen-en-prijzen/README.md)
+→ Op de site: [prijzen](https://dgenix.nl/pricing) · [gratis scan](https://dgenix.nl/demo)
+
+*dGENIX Docs, Account aanmaken, bijgewerkt augustus 2026*

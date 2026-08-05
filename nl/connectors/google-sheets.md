@@ -96,5 +96,6 @@ Nee. Hij werkt in bestaande spreadsheets. Een nieuw bestand maak je zelf aan en 
 
 → Terug naar [Connectors overzicht](README.md)
 → Zie ook: [Google Sheets skill](../skills/google-sheets.md)
+→ Op de site: [alle koppelingen](https://dgenix.nl/integrations) · [alle skills](https://dgenix.nl/skills)
 
 *dGENIX Docs, Google Sheets koppelen, bijgewerkt augustus 2026*

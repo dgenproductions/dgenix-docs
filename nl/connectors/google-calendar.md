@@ -76,5 +76,6 @@ GENI leest de agenda's van het gekoppelde account. Wijs in je opdracht aan welke
 
 → Terug naar [Connectors overzicht](README.md)
 → Zie ook: [Google Calendar skill](../skills/google-calendar.md)
+→ Op de site: [alle koppelingen](https://dgenix.nl/integrations) · [alle skills](https://dgenix.nl/skills)
 
 *dGENIX Docs, Google Calendar koppelen, bijgewerkt augustus 2026*

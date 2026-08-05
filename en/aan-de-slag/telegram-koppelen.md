@@ -94,3 +94,10 @@ account. Chat with your own bot instead.
 ## Disconnect Telegram
 
 Go to **Dashboard -> Skills**, open the Telegram add-on and disconnect. Your account, credits and history are kept, you simply keep working from the dashboard.
+
+---
+
+Next: [AI assistant](../functies/ai-assistent.md) · [Getting started](README.md)
+On the site: [all skills](https://dgenix.com/skills) · [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, Connecting Telegram, updated August 2026*

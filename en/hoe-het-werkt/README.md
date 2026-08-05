@@ -76,3 +76,10 @@ button. If the action fails, the credits are refunded automatically.
 - It does not delete files or emails unless you explicitly ask
 
 You stay in control at all times.
+
+---
+
+Next: [The credit system](credits.md) · [Skills explained](../handleiding/skills-uitgelegd.md)
+On the site: [all skills](https://dgenix.com/skills) · [the five engines](https://dgenix.com/engines) · [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, How it works, updated August 2026*

@@ -98,3 +98,10 @@ op de knop. Mislukt de actie? Dan worden de credits automatisch teruggestort.
 - Hij verwijdert geen bestanden of e-mails tenzij je dat expliciet opdraagt
 
 Je behoudt altijd de controle.
+
+---
+
+→ Verder: [Het creditsysteem](credits.md) · [Skills uitgelegd](../handleiding/skills-uitgelegd.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [de vijf engines](https://dgenix.nl/engines) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Hoe het werkt, bijgewerkt augustus 2026*

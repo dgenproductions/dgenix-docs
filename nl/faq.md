@@ -79,6 +79,9 @@ Richtlijn: een korte chat kost ~20 credits, een afspraak inplannen ~10, een inbo
 **Rollen credits over naar de volgende maand?**
 Maandelijkse credits vervallen aan het einde van je betaalperiode. Bijgekochte credit packs vervallen niet.
 
+**Waarom kost de ene actie 3 credits en de andere 300?**
+De prijs volgt het werk dat erachter zit. Een dagoverzicht opstellen doet GENI zelf en kost 3 credits; winkels opzoeken op de kaart haalt echte gegevens op en kost 300. Op elke knop in het dashboard staat de prijs vóór je hem indrukt, en mislukt een betaalde actie, dan krijg je de credits terug.
+
 **Wat gebeurt er als mijn credits op zijn?**
 Je assistent stopt automatisch met nieuwe taken. Je ontvangt een melding. Vanaf Starter kun je credits bijkopen, of je wacht op je maandelijkse verlenging.
 

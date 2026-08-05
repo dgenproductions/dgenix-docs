@@ -47,3 +47,10 @@ Nee. Bijgekochte credits verlopen **niet**, ze blijven geldig zolang je account 
 ## Liever upgraden?
 
 Koop je regelmatig bij? Dan is upgraden naar een hoger plan vaak voordeliger. Bekijk de [plannen](README.md).
+
+---
+
+→ Verder: [Plannen en prijzen](README.md) · [Het creditsysteem](../hoe-het-werkt/credits.md)
+→ Op de site: [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Credits bijkopen, bijgewerkt augustus 2026*

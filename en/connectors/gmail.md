@@ -78,5 +78,6 @@ Yes, provided your administrator allows external apps to be connected.
 
 Back to [Connectors overview](README.md)
 See also: [Gmail skill](../skills/gmail.md)
+On the site: [all integrations](https://dgenix.com/integrations) · [all skills](https://dgenix.com/skills)
 
 *dGENIX Docs, Connect Gmail, updated August 2026*

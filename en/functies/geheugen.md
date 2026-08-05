@@ -143,4 +143,7 @@ Depends on your plan (from 100 on Free and Starter up to 5,000 on Business). At 
 
 ---
 
-dGENIX Docs, Memory (Memory AI), updated July 2026
+Next: [Workspace](werkruimte.md) · [Projects](projecten.md) · [Knowledge base](kennisbank.md)
+On the site: [all skills](https://dgenix.com/skills) · [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, Memory (Memory AI), updated August 2026*

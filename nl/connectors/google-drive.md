@@ -80,5 +80,6 @@ Alleen wat nodig is voor je opdracht. Er wordt niets automatisch doorzocht of ge
 
 → Terug naar [Connectors overzicht](README.md)
 → Zie ook: [Google Drive skill](../skills/google-drive.md)
+→ Op de site: [alle koppelingen](https://dgenix.nl/integrations) · [alle skills](https://dgenix.nl/skills)
 
 *dGENIX Docs, Google Drive koppelen, bijgewerkt augustus 2026*

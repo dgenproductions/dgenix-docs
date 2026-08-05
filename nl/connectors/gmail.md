@@ -79,5 +79,6 @@ Ja, mits je beheerder toestaat dat externe apps gekoppeld worden.
 
 → Terug naar [Connectors overzicht](README.md)
 → Zie ook: [Gmail skill](../skills/gmail.md)
+→ Op de site: [alle koppelingen](https://dgenix.nl/integrations) · [alle skills](https://dgenix.nl/skills)
 
 *dGENIX Docs, Gmail koppelen, bijgewerkt augustus 2026*

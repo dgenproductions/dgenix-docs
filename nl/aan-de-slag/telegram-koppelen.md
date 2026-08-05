@@ -93,3 +93,10 @@ op jouw account. Chat met je eigen bot.
 ## Telegram ontkoppelen
 
 Ga naar **Dashboard -> Skills**, open de Telegram-add-on en kies ontkoppelen. Je account, credits en geschiedenis blijven bewaard, je blijft gewoon via het dashboard werken.
+
+---
+
+→ Verder: [AI-assistent](../functies/ai-assistent.md) · [Aan de slag](README.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Telegram koppelen, bijgewerkt augustus 2026*

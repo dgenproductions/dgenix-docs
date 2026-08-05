@@ -47,3 +47,10 @@ No. Purchased credits do **not** expire, they stay valid as long as your account
 ## Prefer to upgrade?
 
 Buying often? Upgrading to a higher plan is usually cheaper. See the [plans](README.md).
+
+---
+
+Next: [Plans and pricing](README.md) · [The credit system](../hoe-het-werkt/credits.md)
+On the site: [pricing](https://dgenix.com/pricing)
+
+*dGENIX Docs, Buying extra credits, updated August 2026*

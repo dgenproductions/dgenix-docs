@@ -79,6 +79,9 @@ Guideline: a short chat costs ~20 credits, scheduling an appointment ~10, summar
 **Do credits roll over to next month?**
 Monthly credits expire at the end of your billing period. Purchased credit packs do not expire.
 
+**Why does one action cost 3 credits and another 300?**
+The price follows the work behind it. Building a daily overview is something GENI does itself and costs 3 credits; looking up shops on the map fetches real data and costs 300. Every button in the dashboard shows the price before you press it, and if a paid action fails you get the credits back.
+
 **What happens when my credits run out?**
 GENI stops running new tasks and you get a notification. From Starter you can buy more credits, or wait for your monthly renewal.
 

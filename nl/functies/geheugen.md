@@ -143,4 +143,7 @@ Afhankelijk van je plan (van 100 op Free en Starter tot 5.000 op Business). Bij 
 
 ---
 
-dGENIX Docs, Geheugen (Memory AI), bijgewerkt juli 2026
+→ Verder: [Werkruimte](werkruimte.md) · [Projecten](projecten.md) · [Kennisbank](kennisbank.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Geheugen (Memory AI), bijgewerkt augustus 2026*

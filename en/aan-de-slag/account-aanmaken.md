@@ -44,3 +44,10 @@ Log in at [app.dgenix.com/login](https://app.dgenix.com/login).
 ## Forgot your password?
 
 The login page has a "Forgot password?" link. Enter your email and you receive a reset link.
+
+---
+
+Next: [Connect Telegram](telegram-koppelen.md) · [Plans and pricing](../plannen-en-prijzen/README.md)
+On the site: [pricing](https://dgenix.com/pricing) · [free scan](https://dgenix.com/demo)
+
+*dGENIX Docs, Creating an account, updated August 2026*

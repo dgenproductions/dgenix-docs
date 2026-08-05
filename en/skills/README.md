@@ -1,86 +1,121 @@
 # Skills marketplace
 
-Skills are the modular building blocks of dGENIX. You activate them with one click and stack them into a process that runs itself. There are 55+ skills, with new ones added every month. Personal skills are in Starter+, business skills from Growth+, and the heaviest engines from Pro+. You pay per action in credits, not per skill per month.
+Skills are the individual capabilities you add to GENI: you activate them with one click, they are included in your plan, and you only pay credits per action performed.
 
-Activate skills via **Dashboard -> Skills**.
+There are over 60 skills. What your plan decides is the level from which a skill
+becomes available , **no skill carries a separate monthly fee**. You activate
+them through **Dashboard -> Skills**.
+
+## What you see in the marketplace
+
+Every skill shows a badge with the plan it becomes available on:
+
+| Badge | Meaning |
+|---|---|
+| No badge | Available from **Starter** |
+| **Growth+** | Available from **Growth** |
+| **Pro+** | Available from **Pro** |
+| **Coming soon** | Not available yet, cannot be activated |
+
+On a lower plan you still see the skill listed but cannot activate it. So you
+always see what exists, not only what you currently have.
+
+## From Starter
+
+Your daily work: mail, calendar, files and documents.
+
+- **[Gmail](gmail.md)** , read, write and clear email
+- **[Google Calendar](google-calendar.md)** , view, schedule and move appointments
+- **[Google Drive](google-drive.md)** , find, read and create files
+- **[Google Sheets](google-sheets.md)** , read and update spreadsheets
+- **[Google Tasks](google-tasks.md)** , manage tasks and to-dos
+- **[Document Reader](document-reader.md)** , have a page or text summarised
+- **[Daily Planner](dagplanner.md)** , daily overview, priorities and recurring tasks
+- **[Short Generator](short-generator.md)** , a YouTube URL into a short clip
+- **[AI Image Editing](image-resizer.md)** , size, crop and optimisation
+- **[Canva](canva.md)** , find, fill and export designs
+- **Telegram** , reach GENI through Telegram, free add-on
+
+## From Growth
+
+The business layer: content, research, client work and the first engine.
+
+- **Image and audio** , [AI Image Generation](ai-beeldgeneratie.md), [FLUX](flux-image.md), [Audio Transcription](transcriptie.md)
+- **Content** , [Social Media Manager](social-media.md), [SEO Blog Writer](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
+- **Research** , [News & Research](nieuws-research.md), [Deep Research](deep-research.md)
+- **Client work** , [Lead Research](lead-research.md), [Proposal Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)
+- **Messaging** , [WhatsApp Business](whatsapp-business.md), [Instagram DM](instagram-dm.md), [Slack](slack.md)
+- **Office** , [Notion](notion.md), [Airtable](airtable.md), [Typeform](typeform.md), [Calendly](calendly.md), [CMS Publisher](cms-publisher.md)
+- **Google suite** , [Analytics](google-analytics.md), [Search Console](google-search-console.md), [Docs](google-docs.md), [Business Profile](google-business-profile.md)
+- **Reporting** , [Weekly Report](weekly-report.md), [Stripe Insights](stripe-insights.md)
+- **Personal** , [Travel Planner](travel.md), [Smart Shopping](shopping.md), [Meal Planner](meal-planner.md), [Financial Overview](finance.md)
+- **[SEO Engine](seo-engine.md)** , the first of the five engines
+- **[MCP connectors](../connectors/mcp-connectors.md)** , tools without a dedicated connection
+
+## From Pro
+
+The heaviest tools and everything that acts outwardly on your behalf.
+
+- **Four engines** , [GEO](geo-engine.md), [Authority](authority-engine.md), [Reputation](reputation-engine.md), [AI Content](ai-content-engine.md)
+- **Knowledge and meetings** , [Support Knowledge Base](knowledge-base.md), [Meeting Assistant](meeting-assistant.md), [Team Assistant](team-assistant.md)
+- **Automation** , [Workflow Builder](workflow-import.md), [Custom Workflows](custom-workflows.md)
+- **Administration** , [Invoice Automator](invoice-automator.md), [CRM Sync](crm-sync.md), [Email Marketing](email-marketing.md), [Renewal & Upsell](renewal-upsell.md)
+- **Client-facing** , [White Label Content](white-label.md), [AI Receptionist](ai-receptionist.md)
+- **Own Telegram bot** , GENI under your own bot name
+
+## The five Growth Engines
+
+The engines are the heaviest skills and have their own section, because they do
+not run one action but a continuous process. See
+[Growth Tools](../engines/README.md).
+
+| Engine | What it delivers | From |
+|---|---|---|
+| [SEO Engine](seo-engine.md) | Rank higher on Google | Growth |
+| [GEO Engine](geo-engine.md) | Get cited by AI | Pro |
+| [Authority Engine](authority-engine.md) | From measuring to publishing | Pro |
+| [Reputation Engine](reputation-engine.md) | More and better reviews | Pro |
+| [AI Content Engine](ai-content-engine.md) | One video into a week of content | Pro |
+
+## Stacking skills
+
+The gain rarely sits in one skill. GENI combines them in a single request: run an
+[SEO audit](seo-engine.md), push the findings through the
+[Blog Writer](seo-blog.md), stage the draft through the
+[CMS Publisher](cms-publisher.md) and email the result with
+[Gmail](gmail.md). That is one sentence, not four actions.
+
+To have it happen by itself, set it as a
+[scheduled task](../handleiding/geplande-taken.md).
+
+## Limits
+
+- **A skill you have not activated is one GENI does not use.** Not even if it would know the answer.
+- **Some skills need a connection.** Without a connected account the skill works, but it has nothing to work with.
+- **Credits are charged per action**, not per skill per month. See [The credit system](../hoe-het-werkt/credits.md).
+- **Skills on a higher plan are visible but not activatable.**
+
+## Frequently asked questions
+
+**Does a skill cost extra per month?**
+No. Skills are included in your plan; you pay credits per action performed. The
+only separate monthly fees are extra slots for recurring tasks and the optional
+Growth Engines subscription.
+
+**How many skills can I activate?**
+Everything your plan allows. There is no cap on the number.
+
+**What if a skill is missing?**
+Use **Request a skill** in your dashboard or the
+[contact page](https://dgenix.com/contact?type=skill). What gets asked for often moves to the top.
+
+**Do I get new skills automatically?**
+Yes. New skills appear in your marketplace by themselves; see
+[Upcoming features](../functies/komende-functies.md).
 
 ---
 
-## Personal (Starter+)
+Next: [Growth Tools](../engines/README.md) · [Connectors](../connectors/README.md) · [Compare plans](../plannen-en-prijzen/README.md)
+On the site: [all skills](https://dgenix.com/skills) · [the five engines](https://dgenix.com/engines) · [pricing](https://dgenix.com/pricing)
 
-Included from the Starter plan, activate for free.
-
-- **Gmail**, read, write and manage email
-- **Google Calendar**, view, create and manage appointments
-- **Google Drive**, find, read and create files
-- **Google Sheets**, read and update spreadsheets
-- **Google Tasks**, manage tasks and to-dos
-- **Document Reader**, analyse and summarise PDFs and documents
-- **Daily Planner & Life Assistant**, planning, routines and reminders
-- **Short Generator**, turn a YouTube URL into a short clip
-- **Travel Planner** (Growth+), flights, hotels and itineraries
-- **Smart Shopping** (Growth+), compare products and get buying advice
-- **Meal Planner** (Growth+), weekly menu and shopping list
-- **Personal Finance** (Growth+), analyse expenses and savings goals
-
----
-
-## Business (Growth+)
-
-Included from the Growth plan.
-
-- **AI Image Generation**, Google Nano Banana + Nano Banana Pro
-- **FLUX Image Generation**, photorealism via Fireworks FLUX-1
-- **AI Image Editing**, resize, crop and optimise images
-- **Audio Transcription**, audio and video to text (+ summary)
-- **Social Media Manager**, posts for LinkedIn, Instagram, X and Facebook
-- **SEO Blog Writer**, SEO-optimised articles
-- **News & Research** + **Deep Research**, web research and multi-step reports
-- **YouTube Channel Manager**, ideas, descriptions and channel analysis
-- **Proposal Generator**, professional quotes and proposals
-- **Content Repurposing**, one video into multiple social posts
-- **Weekly Report Generator**, automatic management reports
-- **Lead Research & Outreach**, find leads and write outreach
-- **Client Onboarding**, briefs, folders and kickoff
-- **WhatsApp Business** + **Instagram DM Manager**, read and reply to messages
-- **Stripe Insights**, revenue, customers and transactions
-- **Notion**, **Slack**, **HubSpot CRM**, **LinkedIn Automation**, **CMS Publisher**
-- **Airtable**, **Typeform**, **Calendly**
-- **Google Business Profile**, **Google Analytics**, **Google Docs**, **Search Console**
-- **[SEO Engine](https://dgenix.com/engines/seo)**, [see Growth Tools](../engines/README.md)
-- **Microsoft 365**, coming soon
-- **Canva**, coming soon
-
----
-
-## Pro+
-
-Included from the Pro plan.
-
-- **[GEO Engine](https://dgenix.com/engines/geo)**, AI Share-of-Voice in ChatGPT/Perplexity/Gemini/Claude
-- **Authority Engine**, write and publish content draft-first to your CMS
-- **Reputation Engine**, review campaigns via branded email
-- **AI Content Engine**, one video into a week of viral clips
-- **Workflow Builder**, import and run n8n workflows
-- **Support Knowledge Base**, RAG knowledge base for support answers
-- **Meeting Assistant**, minutes and action items
-- **CRM Sync**, **Invoice Generator**, **Renewal & Upsell Intelligence**
-- **Own Telegram Bot**, GENI under your own bot name and handle
-
----
-
-## The 5 Growth Engines
-
-The heaviest, outcome-driven tools get their own section. See [Growth Tools](../engines/README.md):
-
-- [SEO Engine](seo-engine.md), rank higher on Google
-- [GEO Engine](geo-engine.md), get cited by AI
-- [Authority Engine](authority-engine.md), from measuring to publishing
-- [Reputation Engine](reputation-engine.md), more and better reviews
-- [AI Content Engine](ai-content-engine.md), one video into a week of content
-
----
-
-## Missing a skill?
-
-Request it via the **Request a skill** button in your dashboard, or the [contact page](https://dgenix.com/contact?type=skill). dGENIX builds it and adds it to the marketplace.
+*dGENIX Docs, Skills marketplace, updated August 2026*

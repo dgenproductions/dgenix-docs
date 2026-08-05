@@ -62,3 +62,10 @@ GENI voert de taak uit en levert het resultaat terug.
 Wil je GENI ook via Telegram bereiken? Telegram is een **gratis, optionele add-on**, je activeert hem wanneer je wil via **Dashboard -> Skills**. Het is niet nodig om te starten.
 
 [Telegram activeren](telegram-koppelen.md)
+
+---
+
+→ Verder: [Hoe het werkt](../hoe-het-werkt/README.md) · [Skills uitgelegd](../handleiding/skills-uitgelegd.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Aan de slag, bijgewerkt augustus 2026*

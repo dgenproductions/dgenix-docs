@@ -1,336 +1,120 @@
-# Skills Marketplace
+# Skills marktplaats
 
-Skills geven je AI-assistent extra mogelijkheden. **Elke skill zit in je plan
-inbegrepen** , je betaalt er geen apart maandbedrag voor. Wat je plan bepaalt is
-vanaf welk niveau een skill beschikbaar is, en het gebruik reken je af in credits.
+Skills zijn de losse vaardigheden die je aan GENI toevoegt: je activeert ze met één klik, ze zitten in je plan inbegrepen, en je betaalt alleen credits per uitgevoerde actie.
 
-**Badges uitgelegd:**
-- Geen badge / groen = beschikbaar vanaf Starter
-- **Growth+** = beschikbaar vanaf Growth
-- **Pro** = beschikbaar vanaf Pro
+Er zijn ruim 60 skills. Wat je plan bepaalt is vanaf welk niveau een skill
+beschikbaar is , **geen enkele skill kost een apart maandbedrag**. Activeren doe
+je via **Dashboard → Skills**.
 
-De enige losse maandbedragen op het platform zijn extra slots voor herhaalde
-taken en het optionele Growth Engines-abonnement voor intensief engine-gebruik.
-Beide staan bij [Plannen vergelijken](../plannen-en-prijzen/README.md).
+## Wat je ziet in de marktplaats
 
-→ [Plannen vergelijken](../plannen-en-prijzen/README.md)
+Elke skill toont een badge met het plan waarop hij beschikbaar wordt:
+
+| Badge | Betekenis |
+|---|---|
+| Geen badge | Beschikbaar vanaf **Starter** |
+| **Growth+** | Beschikbaar vanaf **Growth** |
+| **Pro+** | Beschikbaar vanaf **Pro** |
+| **Binnenkort** | Nog niet beschikbaar, niet te activeren |
+
+Zit je op een lager plan, dan zie je de skill wel staan maar kun je hem niet
+activeren. Je ziet dus altijd wat er bestaat, niet alleen wat jij nu hebt.
+
+## Vanaf Starter
+
+Je dagelijkse werk: mail, agenda, bestanden en documenten.
+
+- **[Gmail](gmail.md)** , mail lezen, schrijven en opruimen
+- **[Google Calendar](google-calendar.md)** , afspraken bekijken, plannen en verzetten
+- **[Google Drive](google-drive.md)** , bestanden zoeken, lezen en aanmaken
+- **[Google Sheets](google-sheets.md)** , spreadsheets lezen en bijwerken
+- **[Google Taken](google-tasks.md)** , taken en to-do's beheren
+- **[Document Lezer](document-reader.md)** , een pagina of tekst laten samenvatten
+- **[Dagplanner](dagplanner.md)** , dagoverzicht, prioriteiten en terugkerende taken
+- **[Short Generator](short-generator.md)** , een YouTube-URL naar een korte clip
+- **[AI Beeldbewerking](image-resizer.md)** , formaat, uitsnede en optimalisatie
+- **[Canva](canva.md)** , designs zoeken, invullen en exporteren
+- **Telegram** , GENI bereiken via Telegram, gratis add-on
+
+## Vanaf Growth
+
+De zakelijke laag: content, onderzoek, klantwerk en de eerste engine.
+
+- **Beeld en geluid** , [AI Beeldgeneratie](ai-beeldgeneratie.md), [FLUX](flux-image.md), [Audio Transcriptie](transcriptie.md)
+- **Content** , [Social Media Manager](social-media.md), [SEO Blog Schrijver](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
+- **Onderzoek** , [Nieuws & Research](nieuws-research.md), [Deep Research](deep-research.md)
+- **Klantwerk** , [Lead Research](lead-research.md), [Voorstel Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)
+- **Berichten** , [WhatsApp Business](whatsapp-business.md), [Instagram DM](instagram-dm.md), [Slack](slack.md)
+- **Kantoor** , [Notion](notion.md), [Airtable](airtable.md), [Typeform](typeform.md), [Calendly](calendly.md), [CMS Publisher](cms-publisher.md)
+- **Google-suite** , [Analytics](google-analytics.md), [Search Console](google-search-console.md), [Docs](google-docs.md), [Bedrijfsprofiel](google-business-profile.md)
+- **Rapportage** , [Weekrapport](weekly-report.md), [Stripe Inzichten](stripe-insights.md)
+- **Persoonlijk** , [Travel Planner](travel.md), [Smart Shopping](shopping.md), [Maaltijdplanner](meal-planner.md), [Financieel Overzicht](finance.md)
+- **[SEO Engine](seo-engine.md)** , de eerste van de vijf engines
+- **[MCP-connectors](../connectors/mcp-connectors.md)** , tools zonder eigen koppeling
+
+## Vanaf Pro
+
+De zwaarste tools en alles wat namens jou naar buiten treedt.
+
+- **Vier engines** , [GEO](geo-engine.md), [Authority](authority-engine.md), [Reputation](reputation-engine.md), [AI Content](ai-content-engine.md)
+- **Kennis en overleg** , [Support Kennisbank](knowledge-base.md), [Vergadering Assistent](meeting-assistant.md), [Team Assistent](team-assistant.md)
+- **Automatisering** , [Workflow Builder](workflow-import.md), [Eigen Workflows](custom-workflows.md)
+- **Administratie** , [Factuur Automator](invoice-automator.md), [CRM Sync](crm-sync.md), [E-mail Marketing](email-marketing.md), [Renewal & Upsell](renewal-upsell.md)
+- **Klantgericht** , [White Label Content](white-label.md), [AI Receptionist](ai-receptionist.md)
+- **Eigen Telegram-bot** , GENI onder je eigen botnaam
+
+## De vijf Growth Engines
+
+De engines zijn de zwaarste skills en hebben een eigen sectie, omdat ze niet één
+actie uitvoeren maar een doorlopend proces. Zie [Groei Tools](../engines/README.md).
+
+| Engine | Wat het oplevert | Vanaf |
+|---|---|---|
+| [SEO Engine](seo-engine.md) | Hoger in Google | Growth |
+| [GEO Engine](geo-engine.md) | Geciteerd worden door AI | Pro |
+| [Authority Engine](authority-engine.md) | Van meten naar publiceren | Pro |
+| [Reputation Engine](reputation-engine.md) | Meer en betere reviews | Pro |
+| [AI Content Engine](ai-content-engine.md) | Eén video naar een week content | Pro |
+
+## Skills stapelen
+
+De winst zit zelden in één skill. GENI combineert ze in één opdracht: een
+[SEO-audit](seo-engine.md) draaien, de bevindingen door de
+[Blog Schrijver](seo-blog.md) halen, het concept via de
+[CMS Publisher](cms-publisher.md) klaarzetten en het resultaat mailen met
+[Gmail](gmail.md). Dat is één zin, geen vier handelingen.
+
+Wil je dat het vanzelf gebeurt, zet het dan als
+[geplande taak](../handleiding/geplande-taken.md).
+
+## Grenzen
+
+- **Een skill die je niet hebt geactiveerd, gebruikt GENI niet.** Ook niet als hij het antwoord zou weten.
+- **Sommige skills vragen een koppeling.** Zonder verbonden account werkt de skill wel, maar heeft hij niets om mee te werken.
+- **Credits reken je per actie af**, niet per skill per maand. Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
+- **Skills op een hoger plan zijn zichtbaar maar niet te activeren.**
+
+## Veelgestelde vragen
+
+**Kost een skill extra per maand?**
+Nee. Skills zitten in je plan; je betaalt credits per uitgevoerde actie. De enige
+losse maandbedragen zijn extra slots voor terugkerende taken en het optionele
+Growth Engines-abonnement.
+
+**Hoeveel skills kan ik activeren?**
+Alles wat je plan toelaat. Er is geen limiet op het aantal.
+
+**Wat als een skill ontbreekt?**
+Gebruik **Skill aanvragen** in je dashboard of de
+[contactpagina](https://dgenix.nl/contact?type=skill). Wat vaak gevraagd wordt, komt bovenaan.
+
+**Krijg ik nieuwe skills automatisch?**
+Ja. Nieuwe skills verschijnen vanzelf in je marktplaats; zie
+[Komende functies](../functies/komende-functies.md).
 
 ---
 
-## Persoonlijke skills, inbegrepen bij alle plannen
+→ Verder: [Groei Tools](../engines/README.md) · [Connectors](../connectors/README.md) · [Plannen vergelijken](../plannen-en-prijzen/README.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [de vijf engines](https://dgenix.nl/engines) · [prijzen](https://dgenix.nl/pricing)
 
-Deze skills zijn gratis inbegrepen. Je hebt alleen een eenmalige OAuth-koppeling nodig om ze te activeren.
-
-### Gmail
-
-Je inbox lezen, e-mails categoriseren en antwoorden schrijven, direct vanuit Telegram of het dashboard.
-
-→ [Gmail skill](gmail.md) · [Gmail koppelen](../connectors/gmail.md)
-
-### Google Calendar
-
-Agenda bekijken, afspraken inplannen en conflicten detecteren.
-
-→ [Google Calendar skill](google-calendar.md) · [Google Calendar koppelen](../connectors/google-calendar.md)
-
-### Google Drive
-
-Bestanden zoeken, ophalen en samenvatten uit je Google Drive.
-
-→ [Google Drive skill](google-drive.md) · [Google Drive koppelen](../connectors/google-drive.md)
-
-### Document Lezer
-
-PDF's, Word-bestanden en tekstdocumenten samenvatten, vergelijken en doorzoeken. Geen extra koppeling nodig, upload het bestand via Dashboard of deel het in de chat.
-
-**Ondersteunde formaten:** PDF, .txt, .md, .docx (via tekstextractie)
-
-**Creditkosten:** 40–80 cr (samenvatten) / 30 cr per vraag
-
-→ [Document Lezer gebruiken](document-reader.md)
-
-### Dagplanner & Life Assistant
-
-Plan je dag, prioriteer taken en optimaliseer je routine. Combineert automatisch je agenda (als Google Calendar verbonden is) met je taken en persoonlijke doelen.
-
-**Wat kan je assistent?**
-- Dagoverzicht opstellen op basis van je agenda en taken
-- Taken prioriteren op urgentie en impact
-- Routines voorstellen op basis van je werkpatroon
-
-Geen extra koppeling nodig.
-
-→ [Dagplanner gebruiken](dagplanner.md)
-
----
-
-## Zakelijke skills, Growth+ (inbegrepen bij plan)
-
-Inbegrepen bij **Growth**, **Pro** en **Custom**, geen extra maandkosten voor de skill zelf. Sommige skills verbruiken extra credits per taak.
-
-### AI Beeldgeneratie
-
-Genereer en bewerk afbeeldingen direct vanuit Telegram of het dashboard. Gebruik Google Nano Banana en Nano Banana Pro (Gemini Image) voor social media posts, marketing materiaal, portfolio-afbeeldingen en meer.
-
-**Wat kan je assistent?**
-- Afbeelding genereren op basis van een tekstbeschrijving
-- Bestaande afbeelding bewerken of transformeren (image-to-image)
-- Aspect ratio kiezen: 1:1, 9:16, 16:9, 4:3, 3:4
-- Modelkeuze: Nano Banana (500 cr) / bewerken image-to-image (500 cr) / Nano Banana Pro (1.700 cr, tot 4K)
-
-→ [AI Beeldgeneratie gebruiken](ai-beeldgeneratie.md)
-
-### Social Media Manager
-
-Posts schrijven en plannen voor LinkedIn, X (Twitter), Instagram en Facebook.
-
-**Wat kan je assistent?**
-- Posts schrijven op basis van een thema of onderwerp
-- Aanpassen per platform (toon, lengte, hashtags)
-- Posts inplannen voor een specifieke datum en tijd
-
-→ [Social Media Manager gebruiken](social-media.md)
-
-### Short Generator
-
-Stuur een YouTube URL, je assistent analyseert de video, kiest het beste fragment en maakt automatisch een short video clip.
-
-**Creditkosten:** 500 + (video_minuten × 90) + (clips × 150)
-
-**Voorbeeldopdracht:**
-- "Maak een short van deze video: youtube.com/watch?v=..."
-
-→ [Short Generator gebruiken](short-generator.md)
-
-### Google Sheets
-
-Spreadsheets lezen, bijwerken en rijen toevoegen.
-
-**Vereist:** Google Sheets koppelen via OAuth (eenmalig in Connectors).
-
-→ [Google Sheets skill](google-sheets.md) · [Google Sheets koppelen](../connectors/google-sheets.md)
-
-### Voorstel Generator
-
-Schrijf in één opdracht een compleet projectvoorstel. Geef de klantnaam, dienst en context, de assistent genereert een professioneel document klaar voor verzending.
-
-**Creditkosten:** 400 cr per voorstel
-
-→ [Voorstel Generator gebruiken](proposal-generator.md)
-
-### Content Repurposing
-
-Stuur een YouTube URL, de assistent genereert direct herbruikbare content voor LinkedIn, Instagram, X en een blog-samenvatting.
-
-**Creditkosten:** 500 cr per video
-
-→ [Content Repurposing gebruiken](content-repurposing.md)
-
-### Weekrapport Generator
-
-Automatisch een weekrapport op basis van je Gmail en Google Sheets. Elke week in één opdracht klaar.
-
-**Creditkosten:** 300 cr per rapport
-
-→ [Weekrapport Generator gebruiken](weekly-report.md)
-
-### AI Beeldbewerking
-
-Stuur een afbeelding en geef een opdracht, de assistent past formaat, dimensies of aspect ratio aan voor social media of marketing.
-
-**Creditkosten:** 200 cr per afbeelding
-
-→ [AI Beeldbewerking gebruiken](image-resizer.md)
-
-### AI Content Engine *(Pro+)*
-
-Plak een YouTube URL en ontvang tot 15 virale clips met virality score (0-100), content packs (3 titels + caption + hashtags) en optionele ingebakken captions.
-
-**Creditkosten:** 500 cr basiskosten + 600 cr per clip
-
-→ [AI Content Engine gebruiken](ai-content-engine.md)
-
-### Lead Research & Outreach
-
-Onderzoek een bedrijf en ontvang direct een cold email en LinkedIn DM. Optioneel direct versturen via Gmail.
-
-**Creditkosten:** 750 cr per lead + 50 cr voor direct verzenden
-
-→ [Lead Research & Outreach gebruiken](lead-research.md)
-
-### Client Onboarding
-
-Genereer een onboarding-document en plan de kick-off meeting in, in één opdracht.
-
-**Creditkosten:** 500 cr per onboarding + 100 cr voor kick-off inplannen
-
-→ [Client Onboarding gebruiken](client-onboarding.md)
-
-### Audio Transcriptie
-
-Zet audio-opnames om naar tekst via Fireworks Whisper v3. Ondersteunt MP3, WAV, M4A, OGG, FLAC en WebM tot 200 MB. Optioneel met tijdstempels en sprekersherkenning.
-
-**Creditkosten:** Turbo 12 cr/min, Large 20 cr/min, diarisering +40%
-
-→ [Audio Transcriptie gebruiken](transcriptie.md)
-
-### FLUX Beeldgeneratie
-
-Genereer fotorealistische afbeeldingen via FLUX-1 modellen. Vier modellen: Schnell (20 cr), Dev (175 cr), Kontext Pro (500 cr) en Kontext Max (1.000 cr). Kontext-modellen passen bestaande afbeeldingen contextbewust aan.
-
-**Creditkosten:** 20–1.000 cr per afbeelding afhankelijk van model
-
-→ [FLUX Beeldgeneratie gebruiken](flux-image.md)
-
-### Travel Planner
-
-Reisplannen opstellen op basis van bestemming, budget en duur. Van vluchtroutes en hotels tot dagprogramma's en lokale tips.
-
-**Creditkosten:** 50–100 cr (reisplan) / 30 cr (lokale tips) / 40 cr (dagprogramma)
-
-→ [Travel Planner gebruiken](travel.md)
-
-### Smart Shopping
-
-Snel de beste producten en aanbiedingen vinden op basis van jouw wensen. Producten vergelijken, boodschappenlijsten aanmaken en cadeausuggesties geven.
-
-**Creditkosten:** 30–50 cr (vergelijking) / 20 cr (boodschappenlijst) / 25 cr (cadeausuggesties)
-
-→ [Smart Shopping gebruiken](shopping.md)
-
----
-
-## Pro skills, inbegrepen bij Pro en Custom
-
-Inbegrepen bij **Pro** en **Custom**, geen extra maandkosten voor de skill zelf. Creditkosten per taak zijn van toepassing.
-
-### Renewal & Upsell Intelligence
-
-Scan je inbox op klanten met verlengings- of upgradepotentieel. Ontvang een top 5 en schrijf kant-en-klare re-engagement berichten.
-
-**Creditkosten:** 150 cr (scan) / 300 cr (bericht) | **Vereist:** Gmail
-
-→ [Renewal & Upsell Intelligence gebruiken](renewal-upsell.md)
-
-### Support Knowledge Base
-
-Voeg je eigen documentatie toe en laat je assistent vragen beantwoorden op basis van jouw kennisbank.
-
-**Creditkosten:** 50 cr/document (inladen) / 200 cr (vraag beantwoorden)
-
-→ [Support Knowledge Base gebruiken](knowledge-base.md)
-
-### Workflow Builder
-
-Importeer n8n workflow JSON bestanden en laat je assistent ze stap-voor-stap uitvoeren. Elke node wordt uitgevoerd via een ingebouwde Tool Layer, van HTTP requests tot e-mails en AI-generatie.
-
-**Slots:** 3 inbegrepen bij Pro, uitbreidbaar via add-ons (+1/+5/+10 slot)\
-**Creditkosten:** 25 cr (base) + kosten per stap (5–50 cr/node)
-
-→ [Workflow Builder gebruiken](workflow-import.md)
-
----
-
-## Skills die een koppeling nodig hebben
-
-Deze skills zitten gewoon in je plan, maar werken pas nadat je het bijbehorende
-account hebt gekoppeld via **Dashboard → Connectors**. Je betaalt er geen extra
-maandbedrag voor; alleen het gebruik kost credits.
-
-### WhatsApp Business *(Growth+)*
-
-WhatsApp-berichten lezen, antwoorden opstellen en klantcommunicatie automatiseren.
-
-→ [WhatsApp Business gebruiken](whatsapp-business.md)
-
-### Instagram DM Manager *(Growth+)*
-
-Instagram Direct Messages beheren en leads kwalificeren via je assistent.
-
-→ [Instagram DM Manager gebruiken](instagram-dm.md)
-
-### Stripe Inzichten *(Growth+)*
-
-Omzet, betalingen en klantdata ophalen vanuit Stripe via chat.
-
-→ [Stripe Inzichten gebruiken](stripe-insights.md)
-
-### Notion *(Growth+)*
-
-Notion-pagina's aanmaken, bijwerken en doorzoeken via chat. Vereist Notion OAuth-koppeling.
-
-→ [Notion gebruiken](notion.md)
-
-### Slack *(Growth+)*
-
-Berichten versturen, kanalen lezen en teamcommunicatie automatiseren. Vereist Slack OAuth-koppeling.
-
-→ [Slack gebruiken](slack.md)
-
-### CMS Publisher *(Growth+)*
-
-Content publiceren naar WordPress of Webflow direct vanuit een chatbericht.
-
-→ [CMS Publisher gebruiken](cms-publisher.md)
-
-### HubSpot CRM *(Pro)*
-
-Contacten beheren, deals bijwerken en je CRM-pipeline actueel houden.
-
-→ [HubSpot CRM gebruiken](hubspot.md)
-
-### LinkedIn Automation *(Pro)*
-
-LinkedIn-posts publiceren en statistieken opvragen via je assistent. Vereist LinkedIn OAuth-koppeling.
-
-→ [LinkedIn Automation gebruiken](linkedin.md)
-
-### Vergadering Assistent *(Pro)*
-
-Notulen maken, actiepunten vastleggen en samenvattingen opstellen na vergaderingen.
-
-→ [Vergadering Assistent gebruiken](meeting-assistant.md)
-
----
-
-## Overige add-ons
-
-### Eigen Telegram Bot *(Pro+, inbegrepen)*
-
-Standaard gebruikt je assistent de gedeelde dGENIX bot. Met deze add-on gebruik je een eigen Telegram bot met je eigen naam en profielfoto.
-
-**Nodig:** Een bot aangemaakt via [BotFather](https://t.me/BotFather) + je bot token.
-
-**Voordelen:**
-- Eigen naam en branding
-- Klanten zien jouw bot, niet dGENIX
-- Volledig je eigen kanaal
-
----
-
-## Skills stapelen = workflows
-
-Combineer meerdere skills en je assistent voert complete workflows uit:
-
-**Voorbeeld:** YouTube URL → Short Generator → Social Media Manager → post gepland
-
-Jij geeft één opdracht. De rest gaat automatisch.
-
----
-
-## Skill ontbreekt?
-
-Dien een aanvraag in via [Contact](https://dgenix.nl/contact?type=skill-aanvraag), dGENIX bouwt de skill en voegt hem toe aan de marketplace.
-
----
-
-## Coming soon
-
-| Skill | Beschrijving |
-| --- | --- |
-| **Microsoft 365** | Outlook, Teams en OneDrive beheren via je assistent |
-| **Canva** | Designs maken en exporteren via je assistent |
-
----
-
-→ [Plannen vergelijken](../plannen-en-prijzen/README.md)
+*dGENIX Docs, Skills marktplaats, bijgewerkt augustus 2026*
