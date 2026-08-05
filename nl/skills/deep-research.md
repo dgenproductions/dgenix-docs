@@ -1,59 +1,116 @@
 # Deep Research
 
-## Wat doet deze skill?
+Met Deep Research splitst GENI je vraag op in deelvragen, zoekt hij die apart uit en voegt hij de bevindingen samen tot één rapport met bronvermelding per claim.
 
-Deep Research voert diepgaand multi-iteratie onderzoek uit. Je geeft één onderzoeksonderwerp, en je assistent splitst het op in 4 tot 8 deelvragen, doet voor elke deelvraag een gerichte web search, en synthetiseert een eindrapport met TLDR, bevindingen per thema en een genummerde bronnenlijst. Ideaal voor markt-, branche- en concurrentie-analyses zonder zelf tien zoekopdrachten te hoeven doen.
+Beschikbaar vanaf **Growth**. Je hebt geen koppeling nodig.
+
+## Wat kan GENI hiermee?
+
+- **Diepgaand onderzoek uitvoeren** in twee dieptes: standaard (4 deelvragen) of diep (8 deelvragen), met een optioneel focuspunt
+
+Het verschil met gewoon zoeken zit in de opzet: hij bedenkt eerst wélke vragen
+beantwoord moeten worden, zoekt die één voor één uit en zet de bevindingen pas
+daarna naast elkaar. Zo mis je de vraag niet die je zelf niet had bedacht.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Onderzoek of we onze kassakoppeling als los product moeten verkopen.
+Focus: MKB-horeca in Nederland. Diepte: diep
+```
+
+> **Deep Research , kassakoppeling als los product**
+> *8 deelvragen onderzocht, 34 bronnen*
+>
+> **Wat ik heb uitgezocht**
+> 1. Marktomvang MKB-horeca Nederland
+> 2. Welke kassasystemen domineren
+> 3. Bestaande koppelingsaanbieders en hun prijzen
+> 4. Wat horecaondernemers zeggen over koppelingen
+> 5. Technische afhankelijkheden en API-beperkingen
+> 6. Prijsmodellen in aangrenzende markten
+> 7. Support-last van dit type product
+> 8. Juridische en betaalregelgeving
+>
+> **Conclusie**
+> Er is vraag, maar niet naar een losse koppeling. Ondernemers kopen een
+> kassasysteem en verwachten dat koppelingen erbij zitten , drie van de vier
+> grootste aanbieders leveren ze inmiddels standaard mee.
+>
+> **De opening die er wél is**
+> Twee kassasystemen met samen ongeveer 18 procent marktaandeel hebben geen
+> boekhoudkoppeling en verwijzen klanten naar losse partijen. Dat is een smallere
+> maar echte markt.
+>
+> **Waar je op moet letten**
+> - Support is de verborgen kostenpost: koppelingen breken bij elke update van
+>   een van beide kanten
+> - Betaalgegevens brengen extra eisen met zich mee
+>
+> **Bronnen per bevinding**
+> [34 links, gegroepeerd per deelvraag]
 
 ## Vereisten
 
-- **Plan:** Growth+
-- **Integraties:** geen, de skill gebruikt ingebouwde web search
+- **Plan:** Growth en hoger
+- **Koppeling:** geen
 
-## Hoe activeer je de skill?
+## Activeren
 
-1. Ga naar **Skills** in het dashboard
-2. Zoek **Deep Research** en klik op **Activeren**
-3. Open de **Assistent** en klik onderaan op **Tools**, kies **Deep Research**
-4. Typ je onderzoeksvraag en druk op Enter
+1. Ga naar **Dashboard → Skills** en activeer **Deep Research**
+2. Stel je vraag, noem de diepte en eventueel een focuspunt
 
-Je kunt de skill ook activeren via een suggestie zoals "Diepgaand marktonderzoek" op het lege chatscherm, of door je vraag te beginnen met "Onderzoek diepgaand ..." of "Deep research ...", de assistent kiest dan automatisch het juiste model en de skill.
+## Wat het kost
 
-## Wat kun je ermee?
+| Diepte | Deelvragen | Credits |
+|---|---|---|
+| Standaard | 4 | ~3.500 |
+| Diep | 8 | ~7.500 |
 
-### Marktonderzoek
-"Voer een diepgaand marktonderzoek uit naar Nederlandse e-commerce platforms voor MKB in 2026, focus op pricing en feature-set."
+Dit is een van de duurdere skills, omdat er per deelvraag apart gezocht en
+geanalyseerd wordt. Voor een snelle verkenning is
+[Nieuws & Research](nieuws-research.md) met 150 credits meestal genoeg. Zie
+[Het creditsysteem](../hoe-het-werkt/credits.md).
 
-### Concurrentie-analyse
-"Maak een concurrentie-analyse met onderbouwde bronnen voor [bedrijf] versus [concurrent 1] en [concurrent 2]."
+## Grenzen en limieten
 
-### Trendrapport
-"Onderzoek de belangrijkste trends in generative AI voor zorgverleners, met praktijkvoorbeelden en bronnen."
+- **Openbare bronnen.** Betaalde rapporten, vakbladen achter een paywall en interne data blijven buiten beeld.
+- **Het duurt even.** Acht deelvragen betekent acht zoekrondes; reken op meerdere minuten.
+- **Een conclusie is een conclusie op basis van wat vindbaar is.** Ontbreekt er data, dan zegt hij dat in plaats van een gat op te vullen.
+- **Geen bedrijfsspecifieke cijfers.** Je eigen omzet, marge of klantdata kent hij niet tenzij je ze meegeeft.
+- **Bij te weinig credits start hij niet.** Je krijgt vooraf te horen wat het kost.
 
-### Due diligence
-"Doe achtergrond-onderzoek naar [partner of klant], inclusief recente activiteiten, leiderschap en perspublicaties."
+## Problemen oplossen
 
-## Output
+**Het rapport gaat de verkeerde kant op.** Geef een focus mee. Zonder focus kiest hij de deelvragen zelf, en die zijn breder dan je waarschijnlijk wilt.
 
-Elk Deep Research-rapport bevat:
+**Te duur voor wat ik nodig heb.** Gebruik [Nieuws & Research](nieuws-research.md) voor een verkenning, en zet Deep Research pas in als je weet welke vraag het waard is.
 
-- **TLDR**, 3-zinnen samenvatting voor management
-- **Bevindingen**, per thema gegroepeerd, met inline citaties zoals `[1]` en `[2]`
-- **Bronnen**, genummerde lijst met titel + URL
+**"Niet genoeg credits".** Standaard vraagt ongeveer 3.500 en diep ongeveer 7.500 credits vooraf beschikbaar. Koop bij of kies de lagere diepte.
 
-Geen speculatie zonder bron. Wat niet uit de bronnen komt wordt expliciet als zodanig benoemd.
+**Ik wil de bronnen controleren.** Ze staan per deelvraag gegroepeerd onder het rapport, juist daarvoor.
 
-## Creditkosten
+## Veelgestelde vragen
 
-| Type | Deelvragen | Verwachte credits | Hard cap |
-|---|---|---|---|
-| Standard | 4 | ~3.500 cr | 4.500 cr |
-| Deep | 8 | ~7.500 cr | 8.500 cr |
+**Wat is het verschil met Nieuws & Research?**
+[Die](nieuws-research.md) doet één ronde voor 150 credits. Deep Research bedenkt
+deelvragen en onderzoekt die apart, wat een completer beeld geeft.
 
-De skill gebruikt het Sonnet model (krachtiger en duurder) omdat decompositie en synthese met bronnen meer redenering vereisen.
+**Kan ik het rapport bewaren?**
+Ja, vraag GENI het als notitie in je [Werkruimte](../functies/werkruimte.md) te
+zetten, of laat het naar je mailen.
 
-## Tips
+**Kan ik dit inplannen?**
+Technisch wel, maar bij deze prijs is dat zelden verstandig. Een wekelijkse
+Deep Research kost al snel meer dan een Starter-plan aan credits.
 
-- Wees specifiek in je onderwerp. "Trends in marketing" geeft te brede resultaten, "Trends in B2B SaaS marketing voor MKB in Nederland 2026" levert betere bronnen op.
-- Voeg met `focus` extra context toe ("vooral B2B", "Nederlandse markt", "alleen open data").
-- Gebruik **deep** alleen voor grote vraagstukken. Voor de meeste vragen is **standard** snel genoeg en de helft goedkoper.
-- Bewaar rapporten in een projectmap, Deep Research-rapporten zijn later goud waard als referentie.
+**Werkt het voor concurrentieonderzoek?**
+Ja, dat is een van de sterkste toepassingen. Noem de concurrenten met naam.
+
+---
+
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [Nieuws & Research](nieuws-research.md) · [Lead Research](lead-research.md) · [Werkruimte](../functies/werkruimte.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [prijzen](https://dgenix.nl/pricing)
+
+*dGENIX Docs, Deep Research, bijgewerkt augustus 2026*

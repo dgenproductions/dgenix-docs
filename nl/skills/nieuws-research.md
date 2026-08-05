@@ -1,58 +1,98 @@
 # Nieuws & Research
 
-## Wat doet deze skill?
+Met Nieuws & Research zoekt GENI actuele informatie op het web en levert hij een samenvatting met bronnen, zodat je niet zelf twintig tabbladen hoeft door te lezen.
 
-Je assistent voert autonome research uit op elk onderwerp. Geef een onderwerp of vraag, de assistent zoekt actief online, analyseert bronnen en levert een gestructureerd rapport met samenvatting, concrete bevindingen en bronvermelding. Van actueel nieuws tot marktanalyse en concurrentieonderzoek.
+Beschikbaar vanaf **Growth**. Je hebt geen koppeling nodig.
+
+## Wat kan GENI hiermee?
+
+- **Een onderwerp onderzoeken** met een keuze in invalshoek: nieuws (actuele berichten), markt (marktanalyse), concurrent (concurrentieonderzoek), trends (sectorontwikkelingen) of algemeen (breed overzicht)
+
+Eén tool, maar de invalshoek bepaalt waar hij zoekt en hoe het antwoord eruitziet.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Wat speelt er in de Nederlandse horeca-automatisering? Type: markt
+```
+
+> **Markt , horeca-automatisering Nederland**
+>
+> **Wat er gebeurt**
+> Kassasystemen bewegen richting all-in-one: bestellen, betalen, voorraad en
+> personeelsplanning in één pakket. De losse-tools-aanpak verdwijnt uit het
+> middensegment.
+>
+> **Wat opvalt**
+> - Personeelstekort is de belangrijkste aanjager, niet kostenbesparing
+> - Zelfbestel-oplossingen groeien het hardst bij fastcasual, niet bij restaurants
+> - Koppelingen met de boekhouding worden standaard verwacht, niet meer als extra
+>
+> **Bronnen**
+> - Brancherapport horeca 2026 , voorbeeld.nl/rapport
+> - Vakblad, artikel juli 2026 , voorbeeld.nl/artikel
+> - Marktoverzicht kassaleveranciers , voorbeeld.nl/overzicht
+>
+> Wil je dat ik hier een concurrentieanalyse van drie leveranciers naast zet?
 
 ## Vereisten
 
-- **Plan:** Growth+
-- **Integraties:** geen extra koppeling nodig
+- **Plan:** Growth en hoger
+- **Koppeling:** geen
 
-## Hoe activeer je de skill?
+## Activeren
 
-1. Ga naar **Skills** in je dashboard
-2. Zoek **Nieuws & Research** en klik Activeren
-3. Klaar, geen extra setup vereist
+1. Ga naar **Dashboard → Skills** en activeer **Nieuws & Research**
+2. Stel je vraag en noem eventueel het type onderzoek
 
-## Wat kun je ermee?
-
-**Voorbeeldopdrachten:**
-
-- "Onderzoek de trends in AI-automatisering voor het MKB"
-- "Wat is het laatste nieuws over OpenAI?"
-- "Analyseer de markt voor e-commerce software in Nederland"
-- "Onderzoek concurrentie voor mijn sector: HR-software"
-- "Geef een overzicht van ontwikkelingen in duurzame energie 2026"
-
-**Focustypes:**
-
-| Focus | Wat je krijgt |
-| --- | --- |
-| `nieuws` | Actuele berichten en ontwikkelingen van de afgelopen weken |
-| `markt` | Marktomvang, groeicijfers, key spelers |
-| `concurrent` | Positionering, sterke/zwakke punten van concurrenten |
-| `trends` | Opkomende ontwikkelingen en toekomstige richting |
-| `algemeen` | Breed overzicht: achtergrond + huidige stand |
-
-**Structuur van het rapport:**
-
-1. **Samenvatting**, kern van het onderwerp in 3-5 zinnen
-2. **Belangrijkste bevindingen**, 4-6 concrete feiten en cijfers
-3. **Bronnen**, geconsulteerde bronnen met beschrijving
-4. **Insights & Implicaties**, 2-3 concrete inzichten
-
-## Creditkosten
+## Wat het kost
 
 | Actie | Credits |
-| --- | --- |
-| Research run (alle focustypes) | 150 cr |
+|---|---|
+| Onderzoek uitvoeren | 150 |
 
-## Prijs
+Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
 
-Inbegrepen bij **Growth**, **Pro** en **Custom**, geen extra maandkosten voor de skill.
-Creditkosten per taak: 150 cr.
+## Grenzen en limieten
+
+- **Dit is een verkenning, geen diepgaand onderzoek.** Voor een uitgebreid rapport met deelvragen is er [Deep Research](deep-research.md).
+- **Bronnen zijn openbaar bereikbaar.** Betaalde vakbladen, rapporten achter een paywall en interne data komen er niet in.
+- **Actualiteit heeft grenzen.** Iets van vanochtend staat mogelijk nog nergens geïndexeerd.
+- **Controleer cijfers voor je ze gebruikt.** Hij noemt de bron erbij, juist zodat je dat kunt.
+- **Geen automatische monitoring.** Wil je iets blijven volgen, zet het dan als [geplande taak](../handleiding/geplande-taken.md).
+
+## Problemen oplossen
+
+**Het antwoord is te algemeen.** Maak de vraag scherper en noem het type. "Trends in e-commerce" levert minder op dan "trends in bezorging bij kleine webshops, type: trends".
+
+**Er zitten weinig bronnen bij.** Voor een nichevraag is er soms weinig openbaar materiaal. Verbreed de vraag of probeer het in het Engels.
+
+**Het gaat over de verkeerde markt.** Noem het land of de regio; zonder dat pakt hij vaak internationale bronnen.
+
+**Ik wil dit wekelijks.** Zet het als geplande taak, bijvoorbeeld elke maandag een update over je sector.
+
+## Veelgestelde vragen
+
+**Wat is het verschil met Deep Research?**
+Deze skill geeft één ronde onderzoek voor 150 credits.
+[Deep Research](deep-research.md) splitst je vraag op in deelvragen en gaat per
+vraag apart zoeken, wat meer oplevert maar ook meer kost.
+
+**Wat is het verschil met gewoon zoeken in de chat?**
+GENI kan sowieso zoeken. Deze skill structureert het: invalshoek, samenvatting en
+bronnenlijst in een vaste vorm.
+
+**Kan ik dit inplannen?**
+Ja, via [Geplande taken](../handleiding/geplande-taken.md). Een wekelijkse
+sectorupdate in je mail is de meest gebruikte vorm.
+
+**Werkt het in het Engels?**
+Ja, en voor internationale onderwerpen levert dat vaak meer bronnen op.
 
 ---
 
-→ Terug naar [Skills marketplace](README.md)
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [Deep Research](deep-research.md) · [Lead Research](lead-research.md) · [Geplande taken](../handleiding/geplande-taken.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills)
+
+*dGENIX Docs, Nieuws & Research, bijgewerkt augustus 2026*

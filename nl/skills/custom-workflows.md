@@ -1,47 +1,105 @@
 # Eigen Workflows
 
-## Wat doet deze skill?
+Met Eigen Workflows start GENI een webhook op jouw eigen server of in je eigen n8n, zodat je bestaande automatiseringen vanuit een gesprek kunt aansturen.
 
-Met Eigen Workflows koppel je je eigen n8n workflows of andere webhook-gebaseerde automatiseringen aan de AI-assistent. Geef de webhook-URL's op, en de assistent triggert ze op commando, zonder dat je het n8n-dashboard hoeft te openen.
+Beschikbaar vanaf **Pro**. Je configureert zelf welke webhooks bereikbaar zijn.
+
+## Wat kan GENI hiermee?
+
+- **Een workflow triggeren** op naam, met optionele parameters als JSON
+- **Je geconfigureerde workflows tonen**
+
+Dit is de brug naar wat je al hebt draaien. dGENIX voert je workflow niet uit,
+hij start hem en geeft het antwoord terug.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Welke workflows heb ik staan?
+```
+
+> Je hebt er drie geconfigureerd:
+>
+> | Naam | Wat hij doet |
+> |---|---|
+> | offerte-pdf | Genereert een offerte-PDF uit je template |
+> | voorraad-sync | Synchroniseert voorraad met je webshop |
+> | klant-export | Exporteert een klantdossier als zip |
+
+En bij het starten:
+
+```
+Start offerte-pdf voor De Krent, bedrag 4.800
+```
+
+> Gestart. De workflow gaf terug:
+>
+> > `{ "status": "ok", "url": "https://jouwserver.nl/offertes/2026-084.pdf" }`
+>
+> De offerte staat klaar: [2026-084.pdf](https://jouwserver.nl/offertes/2026-084.pdf)
 
 ## Vereisten
 
-- **Plan:** Pro of hoger
-- **Integraties:** Eigen webhook-URLs (bijv. n8n, Make.com, Zapier)
+- **Plan:** Pro en hoger
+- **Koppeling:** een bereikbare webhook-URL, geconfigureerd in je account
 
-## Workflows instellen
+## Activeren
 
-1. Ga naar **Connectors → Eigen Workflows**
-2. Klik **Koppelen**
-3. Voer je workflows in als JSON-array:
-   ```json
-   [
-     { "naam": "Lead opvolging", "url": "https://n8n.mijnbedrijf.nl/webhook/abc123" },
-     { "naam": "Factuur aanmaken", "url": "https://n8n.mijnbedrijf.nl/webhook/def456" }
-   ]
-   ```
-4. Klik **Verbinding testen**, klaar
+1. Ga naar **Dashboard → Skills** en activeer **Eigen Workflows**
+2. Configureer je webhooks (naam + URL) via **Dashboard → Connectors**
+3. Vraag GENI welke workflows er staan
 
-## Wat kun je ermee?
-
-**Workflow triggeren:**
-> "Trigger de workflow 'Lead opvolging'"
-
-**Workflows ophalen:**
-> "Welke workflows heb ik gekoppeld?"
-
-**Andere voorbeelden:**
-- n8n workflow triggeren na een vergadering
-- Automatische factuur workflow starten
-- Data-synchronisatie starten via spraakcommando
-
-## Creditkosten
+## Wat het kost
 
 | Actie | Credits |
 |---|---|
-| Workflow triggeren | 10 cr |
-| Workflows ophalen | 3 cr |
+| Workflow triggeren | 10 |
+| Workflows tonen | 3 |
+
+Wat je eigen server daarna doet, kost bij dGENIX niets , die rekening loopt bij
+jou. Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
+
+## Grenzen en limieten
+
+- **De webhook moet publiek bereikbaar zijn.** Interne en privé-adressen worden geblokkeerd, dat is een bewuste veiligheidsmaatregel.
+- **GENI wacht op een antwoord.** Duurt je workflow minuten, laat hem dan direct bevestigen en het resultaat later terugsturen.
+- **Wat je workflow doet, controleert dGENIX niet.** Een verkeerde parameter kan aan jouw kant echt iets wijzigen.
+- **Alleen workflows die je zelf configureerde.** GENI kan geen willekeurige URL aanroepen.
+- **Het antwoord komt terug zoals je server het geeft.** Stuur leesbare JSON, dan kan GENI er iets zinnigs mee.
+
+## Problemen oplossen
+
+**"Workflow niet gevonden".** De naam wijkt af van wat er geconfigureerd is. Vraag eerst het overzicht op.
+
+**De webhook wordt geweigerd.** Het adres is niet publiek bereikbaar, of het is een intern netwerkadres. Gebruik een publiek endpoint met authenticatie.
+
+**Time-out.** Je workflow doet er te lang over. Laat hem direct antwoorden en het echte werk in de achtergrond doen.
+
+**De parameters komen verkeerd binnen.** Zeg welke velden je workflow verwacht, dan stuurt GENI ze in die vorm mee.
+
+## Veelgestelde vragen
+
+**Wat is het verschil met de Workflow Builder?**
+De [Workflow Builder](workflow-import.md) importeert n8n-JSON en voert de stappen
+bij dGENIX uit. Eigen Workflows roept jouw server aan en laat de uitvoering
+daar.
+
+**Kan ik dit inplannen?**
+Ja. Zet het als [geplande taak](../handleiding/geplande-taken.md), bijvoorbeeld
+elke nacht een sync.
+
+**Hoe beveilig ik de webhook?**
+Zet er een token of een geheime URL op. dGENIX stuurt wat je configureert; de
+authenticatie regel je aan jouw kant.
+
+**Werkt dit met andere tools dan n8n?**
+Ja. Elke dienst die een HTTP-webhook accepteert werkt, van Make tot een eigen
+script.
 
 ---
 
-*dGENIX, Growth skill, Vereist: webhook-URL(s)*
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [Workflow Builder](workflow-import.md) · [Automations](../functies/workflow-automations.md) · [Connectors](../connectors/README.md)
+→ Op de site: [alle koppelingen](https://dgenix.nl/integrations) · [alle skills](https://dgenix.nl/skills)
+
+*dGENIX Docs, Eigen Workflows, bijgewerkt augustus 2026*
