@@ -1,70 +1,107 @@
 # HubSpot CRM
 
-Beheer je HubSpot CRM direct via chat. Voeg contacten toe, werk deals bij en houd je pipeline actueel, zonder HubSpot handmatig te openen.
+Met de HubSpot-skill houdt GENI je CRM bij vanuit de chat: contacten opzoeken en aanmaken, deals bijwerken, notities toevoegen en je pipeline samenvatten.
 
----
+Beschikbaar vanaf **Growth**. Je hebt een gekoppeld HubSpot-account nodig; zie
+[HubSpot koppelen](../connectors/hubspot.md).
 
-## Wat kan je assistent?
+## Wat kan GENI met HubSpot?
 
-- Nieuwe contacten aanmaken na een gesprek of meeting
-- Bestaande contacten zoeken en raadplegen
-- Dealstatus bijwerken in de pipeline
-- Notities toevoegen aan contacten of deals
-- Pipeline-overzicht opvragen per fase
+- **Een contact opzoeken** op e-mail, naam of bedrijf
+- **Een contact aanmaken**
+- **Een deal aanmaken of van fase wisselen**
+- **Een notitie toevoegen** aan een contact of deal
+- **Je pipeline ophalen**, gegroepeerd per fase
 
----
+Het meeste rendement zit in de kleine handelingen: na een gesprek meteen een
+notitie erbij, in plaats van het later alsnog niet doen.
+
+## Voorbeeld: wat je vraagt, wat je terugkrijgt
+
+```
+Hoe staat mijn pipeline ervoor?
+```
+
+> **14 open deals, samen € 96.400**
+>
+> | Fase | Deals | Waarde |
+> |---|---|---|
+> | Eerste contact | 5 | € 18.200 |
+> | Offerte verstuurd | 6 | € 52.900 |
+> | Onderhandeling | 3 | € 25.300 |
+>
+> **Wat opvalt:** vier deals in "Offerte verstuurd" staan er langer dan drie
+> weken in, samen goed voor € 31.000. De oudste is De Vries, sinds 12 juli.
+>
+> Zal ik voor die vier een opvolgnotitie klaarzetten?
 
 ## Vereisten
 
-- **Plan:** Growth of hoger
-- **Integraties:** HubSpot Private App Token (aanmaken in HubSpot-instellingen)
+- **Plan:** Growth en hoger
+- **Koppeling:** een HubSpot Private App Token via **Dashboard → Connectors**
 
----
+## Activeren
 
-## Hoe activeer je HubSpot CRM?
+1. Ga naar **Dashboard → Skills** en activeer **HubSpot CRM**
+2. Maak in HubSpot een private app aan met de benodigde scopes
+3. Plak het token bij **Dashboard → Connectors**
 
-1. Ga naar **Dashboard → Skills**
-2. Klik op **"Activeer"** bij HubSpot CRM
-3. Ga naar **Dashboard → Connectors**
-4. Maak in HubSpot een **Private App** aan: *Instellingen -> Integraties -> Private Apps*
-5. Geef de scopes: `crm.objects.contacts.read/write`, `crm.objects.deals.read/write`, `crm.objects.notes.write`
-6. Voer het gegenereerde token in bij dGENIX
-7. De skill is direct actief
+De scopes die je aanzet bepalen wat GENI mag. Laat je de schrijfrechten uit, dan
+kan hij alleen lezen. Zie [HubSpot koppelen](../connectors/hubspot.md).
 
----
+## Wat het kost
 
-## Voorbeeldopdrachten
-
-```
-Maak een nieuw contact aan: Jan Jansen, jan@bedrijf.nl, CEO bij BedrijfX
-```
-```
-Wat is de status van de deal met Klant Y?
-```
-```
-Voeg een notitie toe aan contact jan@bedrijf.nl: "Gesprek gehad op 14 april"
-```
-```
-Geef een overzicht van alle open deals in de pipeline
-```
-
----
-
-## Creditkosten
-
-| Actie | ~Credits |
+| Actie | Credits |
 |---|---|
-| Contact aanmaken of zoeken | ~50 cr |
-| Deal bijwerken | ~50 cr |
-| Notitie toevoegen | ~40 cr |
-| Pipeline overzicht | ~70 cr |
+| Notitie toevoegen | ~40 |
+| Contact aanmaken of zoeken | ~50 |
+| Deal bijwerken | ~50 |
+| Pipeline-overzicht | ~70 |
+
+Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
+
+## Grenzen en limieten
+
+- **Aanmaken en bijwerken vragen om bevestiging.**
+- **GENI verwijdert nooit** contacten, deals of notities.
+- **Alleen contacten, deals en notities.** Tickets, producten en offertes vallen erbuiten.
+- **Aangepaste eigenschappen worden niet automatisch gevuld.**
+- **Zonder de juiste scope kan hij het niet**, ook niet als je het vraagt. Dat is opzet.
+- **E-mail versturen loopt niet via HubSpot** maar via je e-mailkoppeling.
+
+## Problemen oplossen
+
+**Rechtenfout bij een actie.** De bijbehorende scope staat uit in je private app. Vink hem aan in HubSpot en sla op; het token blijft hetzelfde.
+
+**Een deal komt in de verkeerde pipeline.** Zonder aanduiding gebruikt HubSpot je standaardpipeline. Noem de pipeline in je opdracht.
+
+**Een contact wordt niet gevonden.** Zoek op e-mail; dat is het betrouwbaarste veld. Namen komen vaker dubbel of anders gespeld voor.
+
+**Het token wordt geweigerd.** Je plakte waarschijnlijk de Client secret in plaats van het access token van de private app.
+
+## Veelgestelde vragen
+
+**Kan GENI mijn hele CRM doorzoeken?**
+Hij zoekt gericht op e-mail, naam of bedrijf. Er wordt niets gekopieerd of
+geïndexeerd; elke zoekopdracht gaat live naar HubSpot.
+
+**Kan ik dit combineren met andere skills?**
+Ja, dat is de meerwaarde: een nieuwe lead uit [Lead Research](lead-research.md)
+meteen als contact wegschrijven, of een pipeline-overzicht in je
+[weekrapport](weekly-report.md).
+
+**Werkt dit met een gratis HubSpot-account?**
+Private apps zijn beschikbaar in de gratis CRM-tiers. Sommige velden en
+pipelines vragen wel een betaald HubSpot-plan.
+
+**Wat is het verschil met CRM Sync?**
+[CRM Sync](crm-sync.md) houdt gegevens tussen systemen gelijk. Deze skill werkt
+rechtstreeks in HubSpot.
 
 ---
 
-## Prijs
+→ Terug naar [Skills marktplaats](README.md)
+→ Zie ook: [HubSpot koppelen](../connectors/hubspot.md) · [Lead Research](lead-research.md) · [CRM Sync](crm-sync.md)
+→ Op de site: [alle skills](https://dgenix.nl/skills) · [alle koppelingen](https://dgenix.nl/integrations)
 
-Inbegrepen vanaf het **Growth**-plan. Je betaalt per actie in credits.
-
----
-
-→ Terug naar [Skills marketplace](README.md)
+*dGENIX Docs, HubSpot CRM, bijgewerkt augustus 2026*
