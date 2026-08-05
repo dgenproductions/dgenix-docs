@@ -1,47 +1,98 @@
 # CRM Sync
 
-## What does this skill do?
+With the CRM Sync skill GENI fetches contacts from your CRM, updates deal statuses and produces an overview report, so your systems do not drift apart.
 
-The CRM Sync skill connects your HubSpot CRM data to your AI assistant. Fetch contacts and deal statuses, get pipeline reports and keep your sales pipeline up to date, without opening the HubSpot dashboard.
+Available from **Pro**.
+
+## What can GENI do with it?
+
+- **Fetch contacts** from your connected CRM
+- **Update a deal status**
+- **Generate a sync report** with what does not line up
+
+The third is where the skill gets its name. If you work with several systems
+they drift without anyone noticing: a deal won in one system and still open in
+the other.
+
+## Example: what you ask, what you get
+
+```
+Make a sync report
+```
+
+> **12 contacts checked, 3 differences found**
+>
+> | Contact | Difference |
+> |---|---|
+> | De Vries | Deal is "won" in the CRM, "quote" in your workspace |
+> | Studio Noord | Phone number differs between the two systems |
+> | Van Dijk BV | Exists only in your workspace, not in the CRM |
+>
+> The first matters most: that deal was won three weeks ago and still counts
+> towards your open pipeline.
+>
+> Shall I update the status in your workspace?
 
 ## Requirements
 
-- **Plan:** Pro or higher
-- **Integrations:** HubSpot Private App token
+- **Plan:** Pro and up
+- **Connection:** a CRM, for example [HubSpot](hubspot.md)
 
-## Connecting HubSpot
+## Activating
 
-1. Log in to HubSpot -> **Settings -> Integrations -> Private Apps**
-2. Create a new Private App with scopes: `crm.objects.contacts.read`, `crm.objects.deals.read`, `crm.objects.deals.write`
-3. Copy the Access Token
-4. In dGENIX go to **Connectors -> HubSpot CRM**
-5. Click **Connect** and paste the token
-6. Click **Test connection**, done
+1. Go to **Dashboard -> Skills** and activate **CRM Sync**
+2. Connect your CRM via **Dashboard -> Connectors**
+3. Ask for contacts, a status change or a report
 
-## What can you do with it?
-
-**Fetch contacts:**
-> "Get my 20 newest HubSpot contacts"
-
-**View the deal pipeline:**
-> "Show all open deals in the pipeline and their status"
-
-**Generate a CRM report:**
-> "Make a summary report of my CRM pipeline for this week"
-
-**Other examples:**
-- Identify stalled deals
-- Find contacts by company or sector
-- Calculate pipeline value
-
-## Credit cost
+## What it costs
 
 | Action | Credits |
 |---|---|
-| Fetch contacts | 15 cr |
-| Update deal status | 5 cr |
-| Generate CRM report | 15 cr |
+| Fetch contacts | 15 |
+| Generate a sync report | 15 |
+
+This is one of the cheapest skills, precisely because you are meant to run it
+regularly. See [The credit system](../hoe-het-werkt/credits.md).
+
+## Limits
+
+- **It does not sync automatically.** You see the differences and decide what happens.
+- **Updating asks for confirmation.**
+- **GENI never deletes contacts or deals.**
+- **No two-way sync in one click.** You resolve differences case by case, not with a "make everything match" button.
+- **Only the fields the CRM exposes.** Custom properties often fall outside.
+
+## Troubleshooting
+
+**No differences are found.** That may be correct. Do check that your CRM is connected and that contacts exist in both systems.
+
+**A difference is not real.** Two systems can differ deliberately, for example an internal field the client should not see. Say which fields you want compared.
+
+**Updating fails.** The write scopes in your CRM connection are off. See [Connecting HubSpot](../connectors/hubspot.md).
+
+**Contacts are missing.** It fetches what the connection exposes; contacts in another pipeline or with another owner sometimes fall outside.
+
+## Frequently asked questions
+
+**Which CRM is supported?**
+HubSpot through its own connection. Other systems may become available through
+[MCP connectors](../connectors/mcp-connectors.md).
+
+**What is the difference with the HubSpot skill?**
+[That one](hubspot.md) works directly inside HubSpot: creating contacts,
+updating deals. CRM Sync looks at differences between systems.
+
+**Can I run this weekly?**
+Yes, and that is the best use: 15 credits per report, so weekly costs you almost
+nothing. See [Scheduled tasks](../handleiding/geplande-taken.md).
+
+**Does it change things without me knowing?**
+No. Every change asks for confirmation.
 
 ---
 
-*dGENIX, Growth skill, requires a HubSpot Private App token*
+Back to [Skills marketplace](README.md)
+See also: [HubSpot CRM](hubspot.md) · [Weekly report](weekly-report.md) · [Scheduled tasks](../handleiding/geplande-taken.md)
+On the site: [all skills](https://dgenix.com/skills) · [all integrations](https://dgenix.com/integrations)
+
+*dGENIX Docs, CRM Sync, updated August 2026*

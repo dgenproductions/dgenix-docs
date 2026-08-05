@@ -1,47 +1,101 @@
 # Client Onboarding
 
-## What does this skill do?
+With the Onboarding skill GENI sets up the start of a new engagement: an onboarding document covering what you need from the client, and the kick-off in your calendar.
 
-Your assistant automates onboarding for new clients. Generate a personalised onboarding document and automatically schedule the kick-off meeting, straight from one chat message.
+Available from **Growth**.
+
+## What can GENI do with it?
+
+- **Draft an onboarding document** with intake questions, required materials and the first steps
+- **Schedule the kick-off** in your calendar
+
+The point is that every engagement starts the same way. What you forgot to ask
+client five, you do ask client six, because it is in the document.
+
+## Example: what you ask, what you get
+
+```
+Set up onboarding for Bakkerij De Krent, website project
+```
+
+> **Onboarding , Bakkerij De Krent**
+>
+> **What we need from you**
+> - Access to the current domain and hosting
+> - Logo and brand assets, preferably as vector files
+> - Copy, or a first draft of it, per page
+> - Contact person and decision-maker, with phone number
+>
+> **First steps**
+> 1. One-hour kick-off, fixing goal and scope
+> 2. Materials delivered , by 15 August at the latest
+> 3. First design for review , week 35
+>
+> **Working agreements**
+> - Response time on drafts: 3 working days
+> - Check-in: briefly every Monday
+>
+> Shall I schedule the kick-off? That costs 100 credits extra.
 
 ## Requirements
 
-- **Plan:** Growth+
-- **Integrations:** Google Drive (optional, to save in a client folder), Google Calendar (optional, to schedule the kick-off)
+- **Plan:** Growth and up
+- **Connection:** [Google Calendar](google-calendar.md) if you want the kick-off scheduled
 
-## How do you activate the skill?
+## Activating
 
-1. Go to **Skills** in your dashboard
-2. Find **Client Onboarding** and click Activate
-3. Connect Google Drive and/or Google Calendar for extra options (optional)
+1. Go to **Dashboard -> Skills** and activate **Client Onboarding**
+2. Name the client and the type of engagement
 
-## What can you do with it?
-
-**Example commands:**
-
-- "Make an onboarding document for new client Company X, website redesign project"
-- "Schedule the kick-off meeting for client Company X next Tuesday at 10:00"
-- "Generate an onboarding brief for a social media package, client has 3 platforms"
-
-**What the assistant does:**
-
-1. Generates a personalised onboarding document (markdown)
-2. Saves it in your files and optionally in a Google Drive client folder
-3. Schedules the kick-off meeting in your Google Calendar (with description and agenda)
-
-## Credit cost
+## What it costs
 
 | Action | Credits |
-| --- | --- |
-| Generate onboarding document | 500 cr |
-| Schedule kick-off meeting | 100 cr |
+|---|---|
+| Schedule the kick-off | 100 |
+| Generate an onboarding document | 500 |
 
----
+See [The credit system](../hoe-het-werkt/credits.md).
 
-## Pricing
+## Limits
 
-Included in **Growth**, **Pro** and **Custom**, no extra monthly cost for the skill.
+- **It does not send the document on its own.** You get it; sending is yours or through [Gmail](gmail.md).
+- **Scheduling an appointment asks for confirmation**, and only works with a connected calendar.
+- **No contract or letter of engagement.** That is legal work, not onboarding.
+- **No inviting guests.** The appointment goes in your calendar; you invite the client yourself.
+- **The document is a starting point.** Whatever your trade specifically needs, you add.
+
+## Troubleshooting
+
+**The document misses questions you always ask.** Put your standard intake questions in your [knowledge base](../functies/kennisbank.md) or [memory](../functies/geheugen.md); GENI then includes them.
+
+**The planning is unrealistic.** Name your own lead times, otherwise it estimates them.
+
+**The kick-off is not scheduled.** Google Calendar is not connected, or the requested time falls outside what your calendar allows.
+
+**Every client gets the same document.** That is partly the point, but name the engagement type and specifics and it differentiates.
+
+## Frequently asked questions
+
+**Can it stage it as a document?**
+Yes, with [Google Docs](google-docs.md) connected it writes it out and returns
+the link.
+
+**What is the difference with the Proposal Generator?**
+[That one](proposal-generator.md) writes the proposal before approval. This skill
+arranges the start afterwards.
+
+**Can I fix this per client type?**
+Yes, through [projects](../functies/projecten.md) with their own instructions, or
+by putting your standard approach in your knowledge base.
+
+**Can I schedule it?**
+There is little point: onboarding starts with a new engagement, not at a fixed
+time.
 
 ---
 
 Back to [Skills marketplace](README.md)
+See also: [Proposal Generator](proposal-generator.md) · [Google Calendar](google-calendar.md) · [Projects](../functies/projecten.md)
+On the site: [all skills](https://dgenix.com/skills)
+
+*dGENIX Docs, Client Onboarding, updated August 2026*
