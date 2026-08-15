@@ -45,7 +45,7 @@ Je kunt ook expliciet een skill aanroepen als je wil:
 
 ## Skillcategorieën
 
-### Persoonlijk, inbegrepen (Starter+)
+### Inbegrepen (Starter+)
 
 Skills voor dagelijkse productiviteit. Gratis te activeren.
 
@@ -60,7 +60,7 @@ Skills voor dagelijkse productiviteit. Gratis te activeren.
 | **Short Generator** | Korte clips uit een video-URL (basis) |
 | **Telegram Add-on** | Assistent ook via Telegram gebruiken |
 
-### Zakelijk, Growth+
+### Growth+
 
 Skills voor zakelijke taken. Beschikbaar vanaf het Growth-plan.
 
@@ -83,7 +83,7 @@ Skills voor zakelijke taken. Beschikbaar vanaf het Growth-plan.
 | **SEO Blog Schrijver** | SEO-geoptimaliseerde blogartikelen schrijven |
 | **AI Beeldbewerking** | Bestaande afbeeldingen bewerken met AI |
 
-### Zakelijk, Pro+
+### Pro+
 
 Skills voor geavanceerde toepassingen. Inbegrepen vanaf het Pro-plan.
 

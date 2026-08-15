@@ -45,7 +45,7 @@ You can also call a skill explicitly:
 
 ## Skill categories
 
-### Personal, included (Starter+)
+### Included (Starter+)
 
 Skills for daily productivity. Free to activate.
 
@@ -60,7 +60,7 @@ Skills for daily productivity. Free to activate.
 | **Short Generator** | Short clips from a video URL (basic) |
 | **Telegram Add-on** | Use the assistant via Telegram too |
 
-### Business, Growth+
+### Growth+
 
 Skills for business tasks. Available from the Growth plan.
 
@@ -83,7 +83,7 @@ Skills for business tasks. Available from the Growth plan.
 | **SEO Blog Writer** | Write SEO-optimised blog articles |
 | **AI Image Editing** | Edit existing images with AI |
 
-### Business, Pro+
+### Pro+
 
 Skills for advanced use. Included from the Pro plan.
 

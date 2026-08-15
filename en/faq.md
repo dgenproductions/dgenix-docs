@@ -58,7 +58,7 @@ Yes, with the **Own Telegram Bot**, included from the Pro plan. Your own bot has
 ## Skills
 
 **What are skills?**
-Skills are modular capabilities you add to GENI via the Skills Marketplace. Personal skills (Gmail, Calendar, Drive, Daily Planner) are in Starter+. Business skills (Social Media Manager, AI Image Generation, [SEO Engine](https://dgenix.com/engines/seo) and more) are included from Growth+; the heaviest engines from Pro+. You pay per action in credits, not per skill per month.
+Skills are modular capabilities you add to GENI via the Skills Marketplace. They are tagged by purpose (Communication, Sales, Marketing, Content, Research, Reporting, Operations, Personal), so you can filter the marketplace by what you want to get done. Gmail, Calendar, Drive and the Daily Planner are in Starter+; skills like Social Media Manager, AI Image Generation and the [SEO Engine](https://dgenix.com/engines/seo) from Growth+, the heaviest engines from Pro+. You pay per action in credits, not per skill per month.
 
 **How do I activate a skill?**
 Go to **Dashboard -> Skills** and click "Activate" on the skill you want. Skills included in your plan activate for free with one click.

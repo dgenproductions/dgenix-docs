@@ -58,7 +58,7 @@ Ja, met de **Eigen Telegram Bot**, inbegrepen vanaf het Pro-plan. Je eigen bot h
 ## Skills
 
 **Wat zijn skills?**
-Skills zijn modulaire vaardigheden die je aan GENI toevoegt via de Skills Marketplace. Persoonlijke skills (Gmail, Calendar, Drive, Dagplanner) zitten in Starter+. Zakelijke skills (Social Media Manager, AI Beeldgeneratie, [SEO Engine](https://dgenix.nl/engines/seo) en meer) zijn inbegrepen vanaf Growth+; de zwaarste engines vanaf Pro+. Je betaalt per uitgevoerde actie in credits, niet per skill per maand.
+Skills zijn modulaire vaardigheden die je aan GENI toevoegt via de Skills Marketplace. Ze zijn getagd op gebruiksdoel (Communicatie, Sales, Marketing, Content, Research, Rapportage, Operaties, Persoonlijk), zodat je in de marktplaats kunt filteren op wat je wilt doen. Gmail, Calendar, Drive en de Dagplanner zitten in Starter+; skills als Social Media Manager, AI Beeldgeneratie en de [SEO Engine](https://dgenix.nl/engines/seo) vanaf Growth+, de zwaarste engines vanaf Pro+. Je betaalt per uitgevoerde actie in credits, niet per skill per maand.
 
 **Hoe activeer ik een skill?**
 Ga naar **Dashboard → Skills** en klik op "Activeer" bij de gewenste skill. Skills die in je plan zitten activeer je gratis met één klik.
