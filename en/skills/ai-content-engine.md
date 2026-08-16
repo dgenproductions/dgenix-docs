@@ -65,11 +65,21 @@ as a standalone fragment.
 
 | Action | Credits |
 |---|---|
-| Base cost per video, transcription and analysis | 500 |
+| Base cost per video, analysis | 500 |
+| Per minute of source video, downloading and transcribing | 90 |
 | Per clip, cutting, scoring and content pack | 600 |
-| 5 clips, the default | 3,500 |
-| 10 clips | 6,500 |
-| 15 clips, the maximum | 9,500 |
+
+A few examples:
+
+| Source video | Clips | Total |
+|---|---|---|
+| 10 minutes | 5 | 4,400 |
+| 30 minutes | 5 | 6,200 |
+| 60 minutes | 10 | 11,900 |
+
+So the price depends on **two** things: how long the source video is and how many clips
+you want out of it. That is not arbitrary , a longer video costs us more to fetch and
+transcribe, even if you only pull three clips from it.
 
 If processing fails, you get the credits back. See
 [The credit system](../hoe-het-werkt/credits.md).
@@ -77,6 +87,7 @@ If processing fails, you get the credits back. See
 ## Limits
 
 - **Up to 15 clips** per video.
+- **Source video of at most 60 minutes.** Anything longer is refused with the reason, rather than half processed. Split the video or use a shorter source.
 - **The video has to be publicly reachable.** A private or unlisted video, or one behind a login, cannot be fetched.
 - **Spoken content works best.** The analysis leans on the transcript, so music videos and footage without speech yield little.
 - **No automatic publishing.** You download the clips and post them yourself; the engine does not post to social channels.

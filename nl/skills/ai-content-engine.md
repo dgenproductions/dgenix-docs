@@ -65,11 +65,21 @@ fragment waarschijnlijk minder goed doet.
 
 | Actie | Credits |
 |---|---|
-| Basiskosten per video, transcriptie en analyse | 500 |
+| Basiskosten per video, analyse | 500 |
+| Per minuut bronvideo, downloaden en transcriberen | 90 |
 | Per clip, knippen, scoren en content pack | 600 |
-| 5 clips, de standaard | 3.500 |
-| 10 clips | 6.500 |
-| 15 clips, het maximum | 9.500 |
+
+Een paar voorbeelden:
+
+| Bronvideo | Clips | Totaal |
+|---|---|---|
+| 10 minuten | 5 | 4.400 |
+| 30 minuten | 5 | 6.200 |
+| 60 minuten | 10 | 11.900 |
+
+De prijs hangt dus af van **twee** dingen: hoe lang de bronvideo is en hoeveel clips
+je eruit wilt. Dat is niet willekeurig , een langere video kost ons meer om binnen te
+halen en uit te schrijven, ook als je er maar drie clips uit haalt.
 
 Mislukt de verwerking, dan krijg je de credits terug. Zie
 [Het creditsysteem](../hoe-het-werkt/credits.md).
@@ -77,6 +87,7 @@ Mislukt de verwerking, dan krijg je de credits terug. Zie
 ## Grenzen
 
 - **Maximaal 15 clips** per video.
+- **Bronvideo van maximaal 60 minuten.** Langer wordt geweigerd met de reden erbij, in plaats van half verwerkt. Knip de video op of gebruik een kortere bron.
 - **De video moet publiek bereikbaar zijn.** Een privé- of verborgen video, of een video achter een login, kan niet opgehaald worden.
 - **Gesproken content werkt het best.** De analyse leunt op de transcriptie, dus muziekvideo's en beeld zonder spraak leveren weinig op.
 - **Geen automatisch publiceren.** Je downloadt de clips en plaatst ze zelf; de engine post niet naar sociale kanalen.
