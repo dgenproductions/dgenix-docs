@@ -73,6 +73,7 @@
 * [FLUX Image Generation](skills/flux-image.md)
 * [AI Image Editing](skills/image-resizer.md)
 * [Audio Transcription](skills/transcriptie.md)
+* [Voice Message](skills/spraakbericht.md)
 * [Social Media Manager](skills/social-media.md)
 * [SEO Blog Writer](skills/seo-blog.md)
 * [News & Research](skills/nieuws-research.md)
