@@ -50,18 +50,38 @@ https://example.com/research-2026 , what does it say about small business?
 1. Go to **Dashboard -> Skills** and activate **Document Reader**
 2. Paste a URL or the text into the chat and ask your question
 
+## A PDF is genuinely read
+
+Give it a link to a PDF and the file itself goes to the model. That is something
+other than squeezing flat text out of it: **tables stay tables, columns do not run
+into each other, and a scanned document is simply read.** Exactly the difference
+between reading an invoice and guessing at it.
+
+You do not have to switch anything on. If GENI sees the link is a PDF, it takes
+that route automatically.
+
 ## What it costs
 
 | Action | Credits |
 |---|---|
-| Analyse a document or page | 5 |
+| Analyse a web page or pasted text | 5 |
+| Read a PDF | 10 per page, 25 minimum |
 
+A single-page PDF therefore costs 25 credits, a twenty-page report 200. You pay for
+what the model actually has to read. GENI mentions the price before opening a PDF.
 The conversation itself comes on top; see
 [The credit system](../hoe-het-werkt/credits.md).
 
+**Or send the file along.** You can also attach the same PDF in the chat (paperclip,
+up to 5 MB). That route does not run through this skill but through the conversation
+itself, so you pay the normal conversation cost instead of a per-page price. A link
+is handy when the file lives online; uploading is handy when you have it on your own
+computer.
+
 ## Limits
 
-- **This skill works from a URL or pasted text.** To send a file along, use the attachment button in the chat , that runs through the chat itself, not through this skill.
+- **PDF up to 25 pages and 10 MB.** Anything larger is refused with the reason, rather than read halfway. Split the document or say which part you mean.
+- **Want to send a file instead of a link?** Use the attachment button in the chat , that runs through the chat itself, not through this skill.
 - **Chat attachments:** images, PDF, txt, markdown and csv, up to **5 MB per file** and **3 files per message**.
 - **A page behind a login or paywall cannot be fetched.** Paste the text instead.
 - **Internal or private addresses are blocked.** Publicly reachable URLs only, which is a deliberate safety measure.
@@ -72,7 +92,9 @@ The conversation itself comes on top; see
 
 **"Failed to fetch URL".** The page blocks automated visits or asks for a login. Paste the text directly into the chat.
 
-**"No usable content found".** The page builds its content with JavaScript, or it is a PDF behind a viewer. Copy the text across.
+**"No usable content found".** The page builds its content with JavaScript, or the PDF sits behind a viewer instead of the link pointing at the file itself. Copy the text across, or give the direct link to the `.pdf`.
+
+**"This PDF has roughly X pages".** Above 25 pages it will not read it in one go. Split the document, or ask for the part you need.
 
 **The answer is too shallow.** Ask a sharper question. "What does it say about the notice period" yields more than "summarise".
 
@@ -80,9 +102,16 @@ The conversation itself comes on top; see
 
 ## Frequently asked questions
 
-**Can I attach a PDF?**
-Yes, through the attachment button in the chat (up to 5 MB). That runs through
-the chat, not this skill, so you do not pay this skill's 5 credits for it.
+**Can I have a PDF read?**
+Yes. Give a link to the `.pdf` and the file itself goes to the model, with tables
+and scans intact. That costs 10 credits per page, up to 25 pages. If you would rather send
+a file than a link, use the attachment button in the chat (up to 5 MB); that runs
+through the chat, not this skill.
+
+**Why is a PDF so much more expensive than a web page?**
+Because there is far more to process. A page of text is a few thousand tokens, a
+25-page PDF well over thirty thousand, and with a PDF the layout comes along too
+so that tables stay correct. You pay for what the model actually reads.
 
 **What is the difference with the Support Knowledge Base?**
 This skill reads one thing, now. The [Knowledge Base](knowledge-base.md)
