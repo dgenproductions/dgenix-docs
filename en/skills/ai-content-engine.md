@@ -61,21 +61,35 @@ The score is a weighted judgement across five dimensions:
 A low score does not mean a clip is bad, only that it will probably do less well
 as a standalone fragment.
 
+## GENI looks at the video, not just the transcript
+
+Until recently a clip was chosen on what was **said**: the video went through a
+transcription and the model read only that text. A moment that is visually strong but
+where nobody says anything notable therefore never made the cut.
+
+Now a frame is pulled from the video every ten seconds, and those go into the choice.
+So GENI also knows what is happening on screen: a reaction, a scene change, text on
+screen, something you show rather than tell.
+
+You do not have to switch anything on. If the visual analysis fails, the clip is
+simply chosen on the transcript , you always get your clips.
+
 ## What it costs
 
 | Action | Credits |
 |---|---|
 | Base cost per video, analysis | 500 |
 | Per minute of source video, downloading and transcribing | 90 |
+| Per minute of source video, visual analysis | 8 |
 | Per clip, cutting, scoring and content pack | 600 |
 
 A few examples:
 
 | Source video | Clips | Total |
 |---|---|---|
-| 10 minutes | 5 | 4,400 |
-| 30 minutes | 5 | 6,200 |
-| 60 minutes | 10 | 11,900 |
+| 10 minutes | 5 | 4,480 |
+| 30 minutes | 5 | 6,440 |
+| 60 minutes | 10 | 12,380 |
 
 So the price depends on **two** things: how long the source video is and how many clips
 you want out of it. That is not arbitrary , a longer video costs us more to fetch and
@@ -89,7 +103,7 @@ If processing fails, you get the credits back. See
 - **Up to 15 clips** per video.
 - **Source video of at most 60 minutes.** Anything longer is refused with the reason, rather than half processed. Split the video or use a shorter source.
 - **The video has to be publicly reachable.** A private or unlisted video, or one behind a login, cannot be fetched.
-- **Spoken content works best.** The analysis leans on the transcript, so music videos and footage without speech yield little.
+- **Spoken content still works best.** The choice now also looks at the footage, but a clip has to stand on its own , with no speech there is little to quote.
 - **No automatic publishing.** You download the clips and post them yourself; the engine does not post to social channels.
 - **The crop is optimised for vertical** short-form video; widescreen footage gets cropped.
 - **Burning in subtitles cannot be undone**; generate again if you decide against them.

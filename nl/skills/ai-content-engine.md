@@ -61,21 +61,35 @@ De score is een gewogen oordeel over vijf dimensies:
 Een lage score betekent niet dat een clip slecht is, wel dat hij het als los
 fragment waarschijnlijk minder goed doet.
 
+## GENI kijkt naar de video, niet alleen naar het transcript
+
+Tot voor kort werd een clip gekozen op wat er **gezegd** werd: de video ging door een
+transcriptie en het model las alleen die tekst. Een moment dat visueel sterk is maar
+waar niemand iets bijzonders zegt, viel daardoor altijd af.
+
+Nu wordt er elke tien seconden een beeld uit de video gehaald, en die gaan mee in de
+keuze. GENI weet dus ook wat er in beeld gebeurt: een reactie, een scènewissel, tekst
+in beeld, iets dat je laat zien in plaats van vertelt.
+
+Je hoeft niets aan te zetten. Lukt de beeldanalyse niet, dan wordt de clip gewoon op
+het transcript gekozen , je krijgt altijd je clips.
+
 ## Wat het kost
 
 | Actie | Credits |
 |---|---|
 | Basiskosten per video, analyse | 500 |
 | Per minuut bronvideo, downloaden en transcriberen | 90 |
+| Per minuut bronvideo, beeldanalyse | 8 |
 | Per clip, knippen, scoren en content pack | 600 |
 
 Een paar voorbeelden:
 
 | Bronvideo | Clips | Totaal |
 |---|---|---|
-| 10 minuten | 5 | 4.400 |
-| 30 minuten | 5 | 6.200 |
-| 60 minuten | 10 | 11.900 |
+| 10 minuten | 5 | 4.480 |
+| 30 minuten | 5 | 6.440 |
+| 60 minuten | 10 | 12.380 |
 
 De prijs hangt dus af van **twee** dingen: hoe lang de bronvideo is en hoeveel clips
 je eruit wilt. Dat is niet willekeurig , een langere video kost ons meer om binnen te
@@ -89,7 +103,7 @@ Mislukt de verwerking, dan krijg je de credits terug. Zie
 - **Maximaal 15 clips** per video.
 - **Bronvideo van maximaal 60 minuten.** Langer wordt geweigerd met de reden erbij, in plaats van half verwerkt. Knip de video op of gebruik een kortere bron.
 - **De video moet publiek bereikbaar zijn.** Een privé- of verborgen video, of een video achter een login, kan niet opgehaald worden.
-- **Gesproken content werkt het best.** De analyse leunt op de transcriptie, dus muziekvideo's en beeld zonder spraak leveren weinig op.
+- **Gesproken content werkt nog steeds het best.** De keuze kijkt sinds kort ook naar het beeld, maar een clip moet zelfstandig te volgen zijn , bij een video zonder spraak valt er weinig te citeren.
 - **Geen automatisch publiceren.** Je downloadt de clips en plaatst ze zelf; de engine post niet naar sociale kanalen.
 - **De uitsnede is verticaal geoptimaliseerd** voor korte video; een breedbeeldopname wordt bijgesneden.
 - **Ondertitels inbakken kan niet ongedaan** worden gemaakt; genereer opnieuw als je ze toch niet wilt.
