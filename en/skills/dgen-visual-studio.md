@@ -124,5 +124,6 @@ It lands in two places: in your studio library, exactly like work you make on th
 → Back to [Skills marketplace](README.md)
 → See also: [Connecting dGEN Visual Studio](../connectors/dgen-visual-studio.md) · [AI Image Generation](ai-beeldgeneratie.md) · [Scheduled tasks](../handleiding/geplande-taken.md)
 → On the site: [all skills](https://dgenix.com/skills)
+→ About the product itself: [dGEN Visual Studio](https://dgenvisual.com)
 
 *dGENIX Docs, dGEN Visual Studio, updated August 2026*

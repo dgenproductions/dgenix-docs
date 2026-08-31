@@ -27,7 +27,7 @@ De flow is waar dit interessant wordt. Bouw hem één keer op het canvas, zet he
 3. Log in bij de studio; je krijgt daar een toestemmingsscherm met de rechten die gevraagd worden
 4. Klik op **Allow**. De [dGEN Visual Studio-skill](../skills/dgen-visual-studio.md) is direct actief
 
-De koppeling valt onder **Growth** en hoger. Heb je nog geen studio-account, maak dat dan eerst aan op dgenvisual.com.
+De koppeling valt onder **Growth** en hoger. Heb je nog geen studio-account, maak dat dan eerst aan op [dgenvisual.com](https://dgenvisual.com).
 
 ## Welke toegang je geeft
 
@@ -125,5 +125,6 @@ Op twee plekken: in je studiobibliotheek, net als werk dat je zelf op het canvas
 → Terug naar [Connectors](README.md)
 → Verder: [dGEN Visual Studio-skill](../skills/dgen-visual-studio.md) · [Geplande taken](../handleiding/geplande-taken.md)
 → Op de site: [alle koppelingen](https://dgenix.nl/integrations)
+→ Over het product zelf: [dGEN Visual Studio](https://dgenvisual.com)
 
 *dGENIX Docs, dGEN Visual Studio, bijgewerkt augustus 2026*

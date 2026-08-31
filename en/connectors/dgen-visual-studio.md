@@ -27,7 +27,7 @@ The flow is where this gets interesting. Build it once on the canvas, put it in 
 3. Sign in to the studio; you get a consent screen there listing the permissions requested
 4. Click **Allow**. The [dGEN Visual Studio skill](../skills/dgen-visual-studio.md) is active straight away
 
-The connector is available from **Growth** upwards. If you do not have a studio account yet, create one first at dgenvisual.com.
+The connector is available from **Growth** upwards. If you do not have a studio account yet, create one first at [dgenvisual.com](https://dgenvisual.com).
 
 ## What access you give
 
@@ -125,5 +125,6 @@ In two places: in your studio library, exactly like work you make on the canvas 
 → Back to [Connectors](README.md)
 → Next: [dGEN Visual Studio skill](../skills/dgen-visual-studio.md) · [Scheduled tasks](../handleiding/geplande-taken.md)
 → On the site: [all integrations](https://dgenix.com/integrations)
+→ About the product itself: [dGEN Visual Studio](https://dgenvisual.com)
 
 *dGENIX Docs, dGEN Visual Studio, updated August 2026*
