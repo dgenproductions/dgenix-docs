@@ -1,7 +1,7 @@
 # dGEN Visual Studio
 
-Met deze skill doet GENI je beeldwerk in je eigen dGEN Visual Studio: hij maakt daar een
-afbeelding of video, en hij draait de flows die jij op het canvas hebt gebouwd.
+dGEN Visual Studio is een AI-studio voor beeld en video, met je eigen stijl en met
+terugkerend werk als flow op een canvas. Met deze skill doet GENI dat werk daar voor je: een afbeelding of video maken, of een flow draaien die jij hebt gebouwd.
 
 Beschikbaar vanaf **Growth**. Je hebt de
 [dGEN Visual Studio-koppeling](../connectors/dgen-visual-studio.md) nodig en een eigen
@@ -22,6 +22,7 @@ andere twee niet kunnen: een flow draaien die jij hebt gebouwd.
 | `visualstudio_flow_draaien` | Draait een flow van begin tot eind |
 | `visualstudio_modellen` | De catalogus, met wat elk model aanneemt |
 | `visualstudio_bibliotheek` | Je laatste bestanden met een link |
+| `visualstudio_bestand_ophalen` | Haalt een bestand op zodat een volgende stap het kan gebruiken |
 | `visualstudio_saldo` | Je creditsaldo in de studio |
 
 ## Voorbeeld: wat je vraagt, wat je terugkrijgt
@@ -40,6 +41,21 @@ Draai mijn weekbanner-flow en zet het resultaat klaar
 
 Zet diezelfde opdracht in een [geplande taak](../handleiding/geplande-taken.md) en je
 maandelijkse beeldronde gebeurt vanzelf, elke maandag om acht uur.
+
+## Combineren met andere skills
+
+Alles wat GENI in je studio maakt, komt ook in je dGENIX-bestanden te staan. Daardoor is het
+resultaat geen eindpunt maar een schakel:
+
+- **Kennisbank → SEO Blog Schrijver → deze skill → CMS Publisher** , een artikel met een
+  passend beeld, als concept klaargezet
+- **Geplande taak → deze skill → Social Media Manager** , elke maandag verse beelden met de
+  posts erbij ingepland
+- **Google Bedrijfsprofiel → deze skill → LinkedIn** , een goede review wordt een beeldcitaat
+- **Google Sheets → deze skill → Google Drive** , elke rij zonder beeld krijgt er een
+
+⚠️ Wil je een **bestaand** bestand gebruiken, laat GENI het dan eerst ophalen. De link uit
+`visualstudio_bibliotheek` is tijdelijk; een opgehaald bestand blijft werken.
 
 ## Vereisten
 
@@ -101,7 +117,7 @@ Ja. Dat is de belangrijkste reden dat deze skill bestaat; zie
 [Geplande taken](../handleiding/geplande-taken.md).
 
 **Wat gebeurt er met wat hij maakt?**
-Het komt in je studiobibliotheek te staan, net als werk dat je zelf op het canvas maakt.
+Het komt op twee plekken te staan: in je studiobibliotheek, net als werk dat je zelf op het canvas maakt, en in je dGENIX-bestanden. Dat laatste maakt het bruikbaar in een volgende stap.
 
 ---
 

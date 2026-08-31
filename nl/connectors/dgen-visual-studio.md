@@ -1,8 +1,8 @@
 # dGEN Visual Studio koppelen
 
-Met deze koppeling werkt GENI in jouw eigen dGEN Visual Studio: hij maakt daar beeld en video, en hij draait de flows die jij op het canvas hebt gebouwd.
+dGEN Visual Studio is een AI-studio voor beeld en video. Je werkt er met de bekende beeldmodellen, je legt er je eigen stijl vast, en terugkerend beeldwerk bouw je er als flow op een canvas. Met deze koppeling doet GENI dat werk daar voor je: beeld en video maken, en de flows draaien die jij hebt gebouwd.
 
-Het verschil met de beeldskills die dGENIX zelf meebrengt zit in het woord *jouw*. Het werk gebeurt in je eigen studio-account, met je eigen modellen en je eigen LoRA-s, en het resultaat komt in je eigen bibliotheek te staan.
+Het verschil met de beeldskills die dGENIX zelf meebrengt zit in het woord *jouw*. Het werk gebeurt op je eigen studio-account, met je eigen modellen en je eigen stijlmodellen, en het resultaat komt in je eigen bibliotheek.
 
 ## Wat je hiermee kunt
 
@@ -13,7 +13,10 @@ Het verschil met de beeldskills die dGENIX zelf meebrengt zit in het woord *jouw
 | "Draai de flow voor de weekbanner" | Start die flow van begin tot eind |
 | "Welke modellen kan ik gebruiken?" | Geeft de catalogus met wat elk model aankan |
 | "Wat staat er in mijn bibliotheek?" | Geeft je laatste bestanden met een link |
+| "Pak dat beeld en zet het in een post" | Haalt het bestand op en gebruikt het in de volgende stap |
 | "Hoeveel credits heb ik daar nog?" | Leest je studiosaldo |
+
+Waar het echt interessant wordt, is dat een resultaat **bruikbaar blijft**. Alles wat GENI in je studio maakt, wordt ook opgeslagen in je dGENIX-bestanden. Daardoor kan een volgende stap ermee verder: een artikel plus het beeld als concept naar je CMS, een social post met het nieuwe beeld eronder, of een mail met de hele set eraan.
 
 De flow is waar dit interessant wordt. Bouw hem één keer op het canvas, zet hem daarna in een [geplande taak](../handleiding/geplande-taken.md), en je terugkerende beeldwerk gebeurt zonder dat je de studio nog opent.
 
@@ -40,6 +43,21 @@ De koppeling valt onder **Growth** en hoger. Heb je nog geen studio-account, maa
 
 Wijzigen of verwijderen zit er niet bij: GENI kan je flows niet aanpassen en niets uit je bibliotheek weghalen.
 
+## Combineren met andere skills
+
+Dit is waar de koppeling voor bedoeld is: niet één plaatje, maar een schakel in werk dat al liep.
+
+| Keten | Wat er gebeurt |
+|---|---|
+| Kennisbank → SEO Blog Schrijver → dGEN Visual Studio → CMS Publisher | Een artikel uit je eigen kennis, met een beeld in jouw stijl, als concept in je CMS |
+| Geplande taak → dGEN Visual Studio → Social Media Manager | Elke maandag verse beelden met de posts er ingepland bij |
+| Google Bedrijfsprofiel → dGEN Visual Studio → LinkedIn | Een goede review wordt een beeldcitaat dat klaarstaat om te delen |
+| Google Sheets → dGEN Visual Studio → Google Drive | Elke rij zonder beeld krijgt er een, opgeslagen in de juiste map |
+
+Je hoeft daar niets voor in te stellen. Vraag het in één zin, of zet die zin in een [geplande taak](../handleiding/geplande-taken.md).
+
+⚠️ **Wil je een bestaand bestand uit je studio gebruiken, vraag GENI dan het op te halen.** De link die de bibliotheek toont is tijdelijk en werkt na ongeveer een uur niet meer; een opgehaald bestand staat in je dGENIX-bestanden en blijft werken.
+
 ## Wat het kost
 
 Dit is het punt waar de meeste verwarring ontstaat, dus expliciet: **de generatie wordt in de studio afgerekend, op je saldo dáár.** dGENIX rekent alleen de handeling, 5 credits voor iets opvragen en 25 voor iets laten maken. Wat het beeld zelf kost, staat in de studio bij het model.
@@ -58,7 +76,7 @@ Krijg je een saldo terug, dan staat de verbinding. Vraag daarna gerust welke flo
 
 ## Grenzen
 
-- **Beeld duurt seconden, video duurt minuten.** Bij video krijg je eerst een bevestiging dat het loopt; het resultaat komt in je bibliotheek te staan
+- **Beeld duurt seconden, video duurt minuten.** Bij video krijg je eerst een bevestiging dat het loopt; het resultaat komt daarna in je studiobibliotheek én in je dGENIX-bestanden
 - **GENI bouwt geen flows.** Hij draait wat jij hebt gemaakt; het canvas blijft jouw werk
 - **Een model dat je aansluiting niet kan lezen, weigert de studio** , vraag eerst welke modellen er zijn in plaats van een naam te noemen
 - **Geen studio-credits, geen beeld.** dGENIX kan daar niet bijkopen
@@ -98,6 +116,9 @@ Ja, dat is de belangrijkste reden dat deze koppeling bestaat. Zie [Geplande take
 
 **Kan GENI mijn flows aanpassen?**
 Nee. Hij mag ze lezen en draaien, meer niet.
+
+**Waar komt het resultaat terecht?**
+Op twee plekken: in je studiobibliotheek, net als werk dat je zelf op het canvas maakt, én in je dGENIX-bestanden. Dat tweede is nodig om het in een volgende stap te kunnen gebruiken.
 
 ---
 

@@ -1,7 +1,7 @@
 # dGEN Visual Studio
 
-With this skill GENI does your visual work inside your own dGEN Visual Studio: it creates an
-image or a video there, and it runs the flows you built on the canvas yourself.
+dGEN Visual Studio is an AI studio for images and video, with your own style and with
+recurring work built as a flow on a canvas. With this skill GENI does that work for you: creating an image or a video, or running a flow you built yourself.
 
 Available from **Growth** upwards. You need the
 [dGEN Visual Studio connector](../connectors/dgen-visual-studio.md) and a studio account of
@@ -22,6 +22,7 @@ other two cannot: run a flow you built.
 | `visualstudio_flow_draaien` | Runs a flow from beginning to end |
 | `visualstudio_modellen` | The catalogue, with what each model accepts |
 | `visualstudio_bibliotheek` | Your latest files with a link |
+| `visualstudio_bestand_ophalen` | Fetches a file so a next step can use it |
 | `visualstudio_saldo` | Your credit balance in the studio |
 
 ## Example: what you ask, what you get back
@@ -40,6 +41,21 @@ Run my weekly banner flow and get the result ready
 
 Put that same instruction in a [scheduled task](../handleiding/geplande-taken.md) and your
 monthly round of visuals happens on its own, every Monday at eight.
+
+## Combining with other skills
+
+Everything GENI makes in your studio also lands in your dGENIX files. That turns the result
+from an endpoint into a link in a chain:
+
+- **Knowledge base → SEO Blog Writer → this skill → CMS Publisher** , an article with a
+  matching image, staged as a draft
+- **Scheduled task → this skill → Social Media Manager** , fresh visuals every Monday with
+  the posts scheduled alongside
+- **Google Business Profile → this skill → LinkedIn** , a good review becomes a quote card
+- **Google Sheets → this skill → Google Drive** , every row without an image gets one
+
+⚠️ To use an **existing** file, have GENI fetch it first. The link from
+`visualstudio_bibliotheek` is temporary; a fetched file keeps working.
 
 ## Requirements
 
@@ -101,7 +117,7 @@ Yes. That is the main reason this skill exists; see
 [Scheduled tasks](../handleiding/geplande-taken.md).
 
 **What happens to what it makes?**
-It lands in your studio library, exactly like work you make on the canvas yourself.
+It lands in two places: in your studio library, exactly like work you make on the canvas yourself, and in your dGENIX files. The second is what makes it usable in a next step.
 
 ---
 
