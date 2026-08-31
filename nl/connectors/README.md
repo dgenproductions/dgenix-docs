@@ -64,6 +64,12 @@ zien.
 | [WhatsApp Business](whatsapp-business.md) | WhatsApp Business | Growth+ |
 | [Instagram Business](instagram.md) | Instagram DM | Growth+ |
 
+### Beeld en video
+
+| Connector | Skill | Plan |
+|---|---|---|
+| [dGEN Visual Studio](dgen-visual-studio.md) | dGEN Visual Studio | Growth+ |
+
 ### Financieel en CRM
 
 | Connector | Skill | Plan |

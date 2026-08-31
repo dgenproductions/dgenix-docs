@@ -47,6 +47,7 @@ works today.
 
 ## Recently shipped
 
+- **[dGEN Visual Studio](../connectors/dgen-visual-studio.md)**, images and video in your own studio, and your saved flows running from a scheduled task
 - The five **[Growth Engines](../engines/README.md)**: SEO, GEO, Authority, Reputation and AI Content
 - **News and Research** and **Deep Research**
 - **SEO Blog Writer**

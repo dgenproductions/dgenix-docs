@@ -72,6 +72,7 @@
 * [AI Image Generation](skills/ai-beeldgeneratie.md)
 * [FLUX Image Generation](skills/flux-image.md)
 * [AI Image Editing](skills/image-resizer.md)
+* [dGEN Visual Studio](skills/dgen-visual-studio.md)
 * [Audio Transcription](skills/transcriptie.md)
 * [Voice Message](skills/spraakbericht.md)
 * [Social Media Manager](skills/social-media.md)
@@ -126,6 +127,7 @@
 * [HubSpot](connectors/hubspot.md)
 * [Microsoft 365](connectors/microsoft-365.md)
 * [Canva](connectors/canva.md)
+* [dGEN Visual Studio](connectors/dgen-visual-studio.md)
 
 ## Plans & Pricing
 

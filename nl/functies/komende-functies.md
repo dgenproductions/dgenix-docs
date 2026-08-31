@@ -48,6 +48,7 @@ vandaag.
 
 ## Recent uitgerold
 
+- **[dGEN Visual Studio](../connectors/dgen-visual-studio.md)**, beeld en video in je eigen studio, en je opgeslagen flows draaien vanuit een geplande taak
 - De vijf **[Growth Engines](../engines/README.md)**: SEO, GEO, Authority, Reputation en AI Content
 - **Nieuws en Research** en **Deep Research**
 - **SEO Blog Schrijver**

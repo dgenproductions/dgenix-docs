@@ -63,6 +63,12 @@ service, so you decide whether GENI sees only your calendar or your mail too.
 | [WhatsApp Business](whatsapp-business.md) | WhatsApp Business | Growth+ |
 | [Instagram Business](instagram.md) | Instagram DM | Growth+ |
 
+### Images and video
+
+| Connector | Skill | Plan |
+|---|---|---|
+| [dGEN Visual Studio](dgen-visual-studio.md) | dGEN Visual Studio | Growth+ |
+
 ### Finance and CRM
 
 | Connector | Skill | Plan |

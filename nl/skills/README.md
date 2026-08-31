@@ -40,7 +40,7 @@ Je dagelijkse werk: mail, agenda, bestanden en documenten.
 
 De zakelijke laag: content, onderzoek, klantwerk en de eerste engine.
 
-- **Beeld en geluid** , [AI Beeldgeneratie](ai-beeldgeneratie.md), [FLUX](flux-image.md), [Audio Transcriptie](transcriptie.md)
+- **Beeld en geluid** , [AI Beeldgeneratie](ai-beeldgeneratie.md), [FLUX](flux-image.md), [dGEN Visual Studio](dgen-visual-studio.md), [Audio Transcriptie](transcriptie.md)
 - **Content** , [Social Media Manager](social-media.md), [SEO Blog Schrijver](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
 - **Onderzoek** , [Nieuws & Research](nieuws-research.md), [Deep Research](deep-research.md)
 - **Klantwerk** , [Lead Research](lead-research.md), [Voorstel Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)

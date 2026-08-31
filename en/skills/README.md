@@ -40,7 +40,7 @@ Your daily work: mail, calendar, files and documents.
 
 The business layer: content, research, client work and the first engine.
 
-- **Image and audio** , [AI Image Generation](ai-beeldgeneratie.md), [FLUX](flux-image.md), [Audio Transcription](transcriptie.md)
+- **Image and audio** , [AI Image Generation](ai-beeldgeneratie.md), [FLUX](flux-image.md), [dGEN Visual Studio](dgen-visual-studio.md), [Audio Transcription](transcriptie.md)
 - **Content** , [Social Media Manager](social-media.md), [SEO Blog Writer](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
 - **Research** , [News & Research](nieuws-research.md), [Deep Research](deep-research.md)
 - **Client work** , [Lead Research](lead-research.md), [Proposal Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)
