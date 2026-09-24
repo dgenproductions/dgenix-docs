@@ -58,4 +58,4 @@ Gebruik het contactformulier op [Contact](https://dgenix.nl/contact) of mail [co
 
 ---
 
-*dGENIX is een product van [dGEN Productions](https://dgenproductions.nl) en [Ro-tech Development](https://ro-tech.nl).*
+*dGENIX is een product van [dGEN Labs](https://dgenlabs.com), het bedrijf achter [dGEN Productions](https://dgenproductions.nl).*

@@ -17,7 +17,7 @@ Ja. Tijdens de intake geef je GENI een naam en een werkwijze. Die naam gebruikt 
 Het dashboard ([app.dgenix.com](https://app.dgenix.com)) werkt op elke browser. Met de gratis Telegram add-on is je assistent ook via Telegram bereikbaar op Android, iPhone, Windows, Mac en in de browser.
 
 **Wie heeft dGENIX gemaakt?**
-dGENIX is ontwikkeld door [dGEN Productions](https://dgenproductions.nl) (Mike Beerens) en [Ro-tech Development](https://ro-tech.nl) (Bart van Rooij).
+dGENIX is ontwikkeld door [dGEN Labs](https://dgenlabs.com), het bedrijf van Mike Beerens en Bart van Rooij, waar ook [dGEN Productions](https://dgenproductions.nl) onder valt.
 
 ---
 

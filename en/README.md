@@ -56,4 +56,4 @@ Use the contact form at [Contact](https://dgenix.com/contact) or email [contact@
 
 ---
 
-*dGENIX is a product of [dGEN Productions](https://dgenproductions.nl) and [Ro-tech Development](https://ro-tech.nl).*
+*dGENIX is a product of [dGEN Labs](https://dgenlabs.com), the company behind [dGEN Productions](https://dgenproductions.nl).*
