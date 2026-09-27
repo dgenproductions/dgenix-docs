@@ -138,7 +138,7 @@ Elke interactie met je assistent verbruikt credits. Credits worden maandelijks b
 | Uitgebreid bericht of analyse (Sonnet) | 100–200 cr |
 | AI-afbeelding genereren | 250–1.500 cr |
 | E-mail lezen en beantwoorden | 50–150 cr |
-| Voice Call-antwoord (~500 tekens) | ~1.375 cr |
+| Voice Call-antwoord (~500 tekens) | ~313 cr |
 | Audio transcriberen (per minuut) | 12–20 cr |
 
 Maandelijkse credits vervallen aan het einde van je periode; bijgekochte credit packs verlopen niet.

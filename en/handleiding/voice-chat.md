@@ -43,8 +43,8 @@ You can talk to your assistant instead of typing. dGENIX has two voice modes: **
 |---|---|
 | Transcribe your question | ~5-20 cr |
 | AI processing (Haiku) | ~25-50 cr |
-| Spoken answer ~500 chars | ~1,375 cr |
-| Spoken answer ~1,000 chars | ~2,750 cr |
+| Spoken answer ~500 chars | ~313 cr |
+| Spoken answer ~1,000 chars | ~625 cr |
 
 Voice Call uses more credits than typing, mainly because of text-to-speech.
 
@@ -122,7 +122,7 @@ away. Say nothing more and it waits quietly until you hang up.
 
 **You hear no answer.** Check your volume and whether the tab is muted. If it stays silent while the text does appear, the speech conversion failed; try again.
 
-**It uses credits faster than expected.** That is correct: a spoken answer of a thousand characters costs about 2,750 credits. For short requests Voice Memo is considerably cheaper.
+**It uses credits faster than expected.** That is correct: a spoken answer of a thousand characters costs about 625 credits. For short requests Voice Memo is considerably cheaper.
 
 **The wrong language comes out.** The voice follows the domain you work on. Use `app.dgenix.com` for English.
 

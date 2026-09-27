@@ -44,8 +44,8 @@ Je kunt met je assistent ook praten in plaats van typen. dGENIX heeft twee spraa
 |---|---|
 | Je vraag transcriberen (per gesprek) | ~5–20 cr |
 | AI-verwerking (Haiku) | ~25–50 cr |
-| Spraakantwoord ~500 tekens | ~1.375 cr |
-| Spraakantwoord ~1.000 tekens | ~2.750 cr |
+| Spraakantwoord ~500 tekens | ~313 cr |
+| Spraakantwoord ~1.000 tekens | ~625 cr |
 
 Voice Call verbruikt meer credits dan typen, vooral door de tekst-naar-spraak omzetting.
 
@@ -127,7 +127,7 @@ niets meer, dan wacht hij rustig af tot je ophangt.
 
 **Je hoort geen antwoord.** Controleer je volume en of het tabblad niet gedempt is. Blijft het stil terwijl de tekst wel verschijnt, dan is de spraakomzetting misgegaan; probeer het opnieuw.
 
-**Het verbruikt sneller credits dan verwacht.** Dat klopt: een gesproken antwoord van duizend tekens kost ongeveer 2.750 credits. Voor korte opdrachten is Voice Memo een stuk goedkoper.
+**Het verbruikt sneller credits dan verwacht.** Dat klopt: een gesproken antwoord van duizend tekens kost ongeveer 625 credits. Voor korte opdrachten is Voice Memo een stuk goedkoper.
 
 **De verkeerde taal komt eruit.** De stem volgt het domein waarop je werkt. Gebruik `app.dgenix.nl` voor Nederlands.
 

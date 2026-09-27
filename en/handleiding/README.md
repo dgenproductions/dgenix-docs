@@ -138,7 +138,7 @@ Every interaction with your assistant uses credits. Credits are topped up monthl
 | Detailed message or analysis (Sonnet) | 100-200 cr |
 | Generate an AI image | 250-1,500 cr |
 | Read and reply to email | 50-150 cr |
-| Voice Call answer (~500 chars) | ~1,375 cr |
+| Voice Call answer (~500 chars) | ~313 cr |
 | Transcribe audio (per minute) | 12-20 cr |
 
 Monthly credits expire at the end of your billing period; purchased credit packs do not expire.
