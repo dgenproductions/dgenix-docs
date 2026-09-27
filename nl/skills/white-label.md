@@ -7,7 +7,7 @@ merken schrijven.
 
 ## Wat kan GENI hiermee?
 
-- **Content maken in de stijl van een merk** , social post, e-mail, blogintro, productbeschrijving of slogan, op basis van merknaam, toon, kernwaarden en doelgroep
+- **Content maken in de stijl van een merk**, social post, e-mail, blogintro, productbeschrijving of slogan, op basis van merknaam, toon, kernwaarden en doelgroep
 - **Een merkprofiel opslaan** zodat je die gegevens niet elke keer opnieuw invoert
 
 ## Voorbeeld: wat je vraagt, wat je terugkrijgt
@@ -30,7 +30,7 @@ Daarna:
 Social post voor De Krent over het nieuwe zuurdesembrood
 ```
 
-> **Social post , Bakkerij De Krent**
+> **Social post, Bakkerij De Krent**
 >
 > > Het duurde drie weken proberen voordat we tevreden waren.
 > >

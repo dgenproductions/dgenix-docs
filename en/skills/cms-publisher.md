@@ -6,8 +6,8 @@ Available from **Growth**. You need a connected WordPress or Webflow site.
 
 ## What can GENI do with it?
 
-- **Publish to WordPress** , title, content, categories and tags, as draft or straight live
-- **Publish to Webflow** , an item in your CMS collection, as draft or published
+- **Publish to WordPress**, title, content, categories and tags, as draft or straight live
+- **Publish to Webflow**, an item in your CMS collection, as draft or published
 
 Both default to **draft**. Going live is possible, but you have to ask for it
 explicitly.

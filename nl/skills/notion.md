@@ -18,7 +18,7 @@ Beschikbaar vanaf **Growth**. Je hebt een gekoppelde Notion-workspace nodig; zie
 Zet de uitkomst van dit gesprek in Notion, bij het project De Krent
 ```
 
-> **Aangemaakt: Overleg De Krent , 5 augustus**
+> **Aangemaakt: Overleg De Krent, 5 augustus**
 > `notion.so/Overleg-De-Krent-5-augustus-1a2b3c`
 >
 > Met daarin:

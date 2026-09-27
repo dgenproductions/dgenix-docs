@@ -26,7 +26,7 @@ Maak een aankondiging voor onze open dag op 14 september, met die datum in beeld
 > Klaar met **Nano Banana Pro** (1.700 credits), omdat je leesbare tekst in het
 > beeld wilde.
 >
-> Een werkplaats met open deuren en warm licht, met "OPEN DAG , 14 SEPTEMBER"
+> Een werkplaats met open deuren en warm licht, met "OPEN DAG, 14 SEPTEMBER"
 > in duidelijke letters over de onderste helft.
 >
 > De afbeelding staat in je Werkruimte. Wil je hem ook vierkant voor Instagram,

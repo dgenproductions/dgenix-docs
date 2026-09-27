@@ -19,7 +19,7 @@ Onderzoek of we onze kassakoppeling als los product moeten verkopen.
 Focus: MKB-horeca in Nederland. Diepte: diep
 ```
 
-> **Deep Research , kassakoppeling als los product**
+> **Deep Research, kassakoppeling als los product**
 > *8 deelvragen onderzocht, 34 bronnen*
 >
 > **Wat ik heb uitgezocht**
@@ -34,7 +34,7 @@ Focus: MKB-horeca in Nederland. Diepte: diep
 >
 > **Conclusie**
 > Er is vraag, maar niet naar een losse koppeling. Ondernemers kopen een
-> kassasysteem en verwachten dat koppelingen erbij zitten , drie van de vier
+> kassasysteem en verwachten dat koppelingen erbij zitten, drie van de vier
 > grootste aanbieders leveren ze inmiddels standaard mee.
 >
 > **De opening die er wél is**

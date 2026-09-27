@@ -167,9 +167,9 @@ antwoord:
 
 > **12 ongelezen, 3 vragen actie**
 >
-> - **Sofie van Dijk** , offerte akkoord, wil deze week tekenen. *Actie: contract sturen.*
-> - **Boekhouder** , btw-aangifte vóór de 25e. *Actie: cijfers aanleveren.*
-> - **Jan Bakker** , vraagt of de afspraak van donderdag kan verzetten.
+> - **Sofie van Dijk**, offerte akkoord, wil deze week tekenen. *Actie: contract sturen.*
+> - **Boekhouder**, btw-aangifte vóór de 25e. *Actie: cijfers aanleveren.*
+> - **Jan Bakker**, vraagt of de afspraak van donderdag kan verzetten.
 >
 > De andere 9 zijn nieuwsbrieven en notificaties. Zal ik die archiveren?
 

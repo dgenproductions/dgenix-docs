@@ -23,9 +23,9 @@ Vat mijn ongelezen mail samen
 
 > **12 ongelezen, 3 vragen actie**
 >
-> - **Sofie van Dijk** , offerte akkoord, wil deze week tekenen. *Actie: contract sturen.*
-> - **Boekhouder** , btw-aangifte vóór de 25e. *Actie: cijfers aanleveren.*
-> - **Jan Bakker** , vraagt of donderdag verzet kan worden.
+> - **Sofie van Dijk**, offerte akkoord, wil deze week tekenen. *Actie: contract sturen.*
+> - **Boekhouder**, btw-aangifte vóór de 25e. *Actie: cijfers aanleveren.*
+> - **Jan Bakker**, vraagt of donderdag verzet kan worden.
 >
 > De andere 9 zijn nieuwsbrieven en notificaties.
 

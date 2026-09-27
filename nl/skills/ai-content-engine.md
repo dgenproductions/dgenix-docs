@@ -19,7 +19,7 @@ bruikbare momenten te vinden. Beschikbaar vanaf **Pro**.
 Je plakt een YouTube-link van een interview van 42 minuten en vraagt om 5 clips.
 Na een paar minuten staat er:
 
-> **Clip 3 , 0:47** · score **87** (Hoog)
+> **Clip 3, 0:47** · score **87** (Hoog)
 >
 > *"De grootste fout die ik maakte was te vroeg personeel aannemen"*
 >
@@ -72,7 +72,7 @@ keuze. GENI weet dus ook wat er in beeld gebeurt: een reactie, een scènewissel,
 in beeld, iets dat je laat zien in plaats van vertelt.
 
 Je hoeft niets aan te zetten. Lukt de beeldanalyse niet, dan wordt de clip gewoon op
-het transcript gekozen , je krijgt altijd je clips.
+het transcript gekozen, je krijgt altijd je clips.
 
 ## Wat het kost
 
@@ -92,7 +92,7 @@ Een paar voorbeelden:
 | 60 minuten | 10 | 12.380 |
 
 De prijs hangt dus af van **twee** dingen: hoe lang de bronvideo is en hoeveel clips
-je eruit wilt. Dat is niet willekeurig , een langere video kost ons meer om binnen te
+je eruit wilt. Dat is niet willekeurig, een langere video kost ons meer om binnen te
 halen en uit te schrijven, ook als je er maar drie clips uit haalt.
 
 Mislukt de verwerking, dan krijg je de credits terug. Zie
@@ -103,7 +103,7 @@ Mislukt de verwerking, dan krijg je de credits terug. Zie
 - **Maximaal 15 clips** per video.
 - **Bronvideo van maximaal 60 minuten.** Langer wordt geweigerd met de reden erbij, in plaats van half verwerkt. Knip de video op of gebruik een kortere bron.
 - **De video moet publiek bereikbaar zijn.** Een privé- of verborgen video, of een video achter een login, kan niet opgehaald worden.
-- **Gesproken content werkt nog steeds het best.** De keuze kijkt sinds kort ook naar het beeld, maar een clip moet zelfstandig te volgen zijn , bij een video zonder spraak valt er weinig te citeren.
+- **Gesproken content werkt nog steeds het best.** De keuze kijkt sinds kort ook naar het beeld, maar een clip moet zelfstandig te volgen zijn, bij een video zonder spraak valt er weinig te citeren.
 - **Geen automatisch publiceren.** Je downloadt de clips en plaatst ze zelf; de engine post niet naar sociale kanalen.
 - **De uitsnede is verticaal geoptimaliseerd** voor korte video; een breedbeeldopname wordt bijgesneden.
 - **Ondertitels inbakken kan niet ongedaan** worden gemaakt; genereer opnieuw als je ze toch niet wilt.

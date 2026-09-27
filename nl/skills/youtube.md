@@ -7,13 +7,13 @@ skill leest alleen; uploaden kan niet.
 
 ## Wat kan GENI hiermee?
 
-- **Je kanaal analyseren** , abonnees, weergaves, welke video's het doen en welke niet
+- **Je kanaal analyseren**, abonnees, weergaves, welke video's het doen en welke niet
 - **Video-ideeën genereren** op basis van wat op jouw kanaal werkt
-- **Een upload-checklist maken** , titel, beschrijving, tags, thumbnail-advies
+- **Een upload-checklist maken**, titel, beschrijving, tags, thumbnail-advies
 - **Videostatistieken opvragen** voor een specifieke video
-- **Reacties analyseren** , wat vragen kijkers, waar zit de kritiek, welke onderwerpen komen terug
+- **Reacties analyseren**, wat vragen kijkers, waar zit de kritiek, welke onderwerpen komen terug
 - **Een analytics-rapport maken** over een periode
-- **Doelgroepinzichten geven** , wie kijkt er, wanneer, en hoe lang blijven ze
+- **Doelgroepinzichten geven**, wie kijkt er, wanneer, en hoe lang blijven ze
 
 ## Voorbeeld: wat je vraagt, wat je terugkrijgt
 

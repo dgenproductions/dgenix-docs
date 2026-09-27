@@ -7,10 +7,10 @@ itself.
 
 ## What can GENI do with it?
 
-- **Look up shops on the map** , supermarkets, DIY stores, clothing shops or a specialist, with address, rating and opening hours
+- **Look up shops on the map**, supermarkets, DIY stores, clothing shops or a specialist, with address, rating and opening hours
 - **Work out the route to a shop**, with distance and travel time
 - **Build and maintain shopping lists**, grouped by aisle
-- **Think along about a purchase** , what to watch for, which size or variant you need, where it is usually sold
+- **Think along about a purchase**, what to watch for, which size or variant you need, where it is usually sold
 
 Only the first two fetch real data, and that is also where the credits sit.
 
@@ -43,7 +43,7 @@ Add to my list: coffee, toilet paper, toothpaste, and something for Sunday eveni
 > **Coffee & tea:** coffee beans
 > **Household:** toilet paper, toothpaste
 > **Sunday evening:** you had a bake last week, so I am adding salmon,
-> potatoes and broccoli , 25 minutes of work.
+> potatoes and broccoli, 25 minutes of work.
 >
 > Say the word if you want something else for Sunday.
 
@@ -71,7 +71,7 @@ See [The credit system](../hoe-het-werkt/credits.md).
 
 ## Limits
 
-- **GENI orders and buys nothing.** No web shops, no payments , you get the list and the shops.
+- **GENI orders and buys nothing.** No web shops, no payments, you get the list and the shops.
 - **There are no current prices or stock levels.** It does not know whether that product is on the shelf today.
 - **Offers and leaflets are not included.**
 - **Opening hours can be out of date**, especially around public holidays. Check them if you are driving somewhere specially.

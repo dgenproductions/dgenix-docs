@@ -49,7 +49,7 @@ heeft drie gevolgen die de moeite waard zijn:
 
 Wat een connector precies mag, bepaalt de dienst bij het koppelen. Log je in bij
 de dienst, dan zie je daar het toestemmingsscherm met de rechten die gevraagd
-worden , lees dat, want daar staat het echte antwoord. Plak je een sleutel, dan
+worden, lees dat, want daar staat het echte antwoord. Plak je een sleutel, dan
 geldt wat die sleutel mag; maak er een aan met zo min mogelijk rechten.
 
 Wat er ook gevraagd wordt: acties die iets wijzigen of verwijderen vragen bij
@@ -82,7 +82,7 @@ Twee dingen om te weten:
 - **Wat de connector eerder heeft gemaakt, blijft staan.** Verbreken haalt niets terug uit de dienst zelf; dat ruim je daar op.
 
 Je kunt de toestemming ook intrekken bij de dienst zelf. Doe je dat, dan stopt
-de connector zonder waarschuwing , verbreken in dGENIX houdt het overzicht
+de connector zonder waarschuwing, verbreken in dGENIX houdt het overzicht
 schoner.
 
 ## Wat het kost

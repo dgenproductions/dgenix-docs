@@ -28,7 +28,7 @@ Je assistent kan e-mails verwerken (Gmail), afspraken plannen (Google Calendar),
 
 **Onthoudt mijn assistent wat ik eerder heb gedaan?**
 Ja, en niet alleen binnen één gesprek. GENI bouwt een geheugen op met feiten,
-voorkeuren, doelen en afspraken, en gebruikt dat in elk kanaal , webchat,
+voorkeuren, doelen en afspraken, en gebruikt dat in elk kanaal, webchat,
 Telegram en voice. Daarnaast leert hij van wat je op het platform doet. Je
 beheert alles zelf via **Dashboard → Geheugen**: bekijken, aanvullen,
 aanpassen of wissen. Werk je voor meerdere klanten of merken? Dan houdt een

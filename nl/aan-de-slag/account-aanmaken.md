@@ -2,6 +2,10 @@
 
 dGENIX is gratis te starten.
 
+> **Tijdens de beta** kom je binnen via een uitnodiging. Zet je op de
+> [wachtlijst](https://app.dgenix.com/waitlist); zodra je plek vrijkomt, krijg je een
+> mail met een link waarmee je de stappen hieronder doorloopt.
+
 ---
 
 ## Stap voor stap

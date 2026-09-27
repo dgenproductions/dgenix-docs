@@ -18,7 +18,7 @@ client five, you do ask client six, because it is in the document.
 Set up onboarding for Bakkerij De Krent, website project
 ```
 
-> **Onboarding , Bakkerij De Krent**
+> **Onboarding, Bakkerij De Krent**
 >
 > **What we need from you**
 > - Access to the current domain and hosting
@@ -28,8 +28,8 @@ Set up onboarding for Bakkerij De Krent, website project
 >
 > **First steps**
 > 1. One-hour kick-off, fixing goal and scope
-> 2. Materials delivered , by 15 August at the latest
-> 3. First design for review , week 35
+> 2. Materials delivered, by 15 August at the latest
+> 3. First design for review, week 35
 >
 > **Working agreements**
 > - Response time on drafts: 3 working days

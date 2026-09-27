@@ -17,16 +17,16 @@ happen and by whom, and what nobody actually settled.
 Take minutes from this recording
 ```
 
-> **Project meeting De Krent , 47 minutes, 4 participants**
+> **Project meeting De Krent, 47 minutes, 4 participants**
 >
 > **Decided**
 > - Website and POS integration go ahead, delivery week 40
 > - Maintenance contract will not be renewed
 >
 > **Action items**
-> - **You** , revise the quote to the new scope, before Friday
-> - **Sanne** , supply the copy, by 15 August at the latest
-> - **Nobody yet** , who tests the POS integration?
+> - **You**, revise the quote to the new scope, before Friday
+> - **Sanne**, supply the copy, by 15 August at the latest
+> - **Nobody yet**, who tests the POS integration?
 >
 > **Still open**
 > - An 8 percent price increase was mentioned but not decided

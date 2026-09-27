@@ -21,10 +21,10 @@ What came in on WhatsApp?
 
 > **9 messages since yesterday, 4 need action**
 >
-> - **+31 6 12…** , asks whether you are open on Saturday. *Comes up often.*
-> - **+31 6 44…** , still waiting for last week's quote.
-> - **+31 6 78…** , reports a fault with the March installation. *Urgent.*
-> - **+31 6 21…** , asks about maintenance pricing.
+> - **+31 6 12…**, asks whether you are open on Saturday. *Comes up often.*
+> - **+31 6 44…**, still waiting for last week's quote.
+> - **+31 6 78…**, reports a fault with the March installation. *Urgent.*
+> - **+31 6 21…**, asks about maintenance pricing.
 >
 > The other 5 are thank-yous and confirmations.
 >

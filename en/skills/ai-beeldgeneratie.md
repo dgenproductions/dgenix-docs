@@ -26,7 +26,7 @@ Make an announcement for our open day on 14 September, with that date in the ima
 > Done with **Nano Banana Pro** (1,700 credits), because you wanted readable
 > text in the image.
 >
-> A workshop with open doors and warm light, with "OPEN DAY , 14 SEPTEMBER" in
+> A workshop with open doors and warm light, with "OPEN DAY, 14 SEPTEMBER" in
 > clear lettering across the lower half.
 >
 > The image is in your Workspace. If you also want it square for Instagram,

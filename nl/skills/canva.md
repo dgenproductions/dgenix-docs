@@ -29,10 +29,10 @@ Maak vier aanbiedingsposts uit onze actie-template, voor deze vier producten
 >
 > | Design | Product | Prijs in beeld |
 > |---|---|---|
-> | Actie , warmtepomp | Warmtepomp 8kW | € 8.450 |
-> | Actie , airco | Split-airco | € 1.295 |
-> | Actie , onderhoud | Onderhoudscontract | € 240/jaar |
-> | Actie , zonneboiler | Zonneboiler | € 3.100 |
+> | Actie, warmtepomp | Warmtepomp 8kW | € 8.450 |
+> | Actie, airco | Split-airco | € 1.295 |
+> | Actie, onderhoud | Onderhoudscontract | € 240/jaar |
+> | Actie, zonneboiler | Zonneboiler | € 3.100 |
 >
 > Kosten: 4 × 75 = 300 credits. Alle vier staan in je Canva-account, klaar om te
 > exporteren of nog bij te werken.

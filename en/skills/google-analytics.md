@@ -18,7 +18,7 @@ the GA4 property.
 How did my website do last month?
 ```
 
-> **July 2026** , 3,480 sessions from 2,910 users *(+12% vs June)*
+> **July 2026**, 3,480 sessions from 2,910 users *(+12% vs June)*
 >
 > | Source | Sessions | Share |
 > |---|---|---|

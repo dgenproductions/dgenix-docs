@@ -19,7 +19,7 @@ patterns out is the work that never gets done.
 What is coming out of our customer satisfaction form?
 ```
 
-> **Customer satisfaction , 87 responses, last 30 days**
+> **Customer satisfaction, 87 responses, last 30 days**
 >
 > **Average score:** 8.1 *(was 7.6 last period)*
 >

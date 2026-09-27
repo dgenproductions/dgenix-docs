@@ -19,7 +19,7 @@ Beschikbaar vanaf **Starter**. Je hebt een gekoppeld Google-account nodig; zie
 Zoek de offerte voor De Vries en vat hem samen
 ```
 
-> Gevonden: **Offerte De Vries , warmtepomp.docx**, laatst gewijzigd 2 augustus.
+> Gevonden: **Offerte De Vries, warmtepomp.docx**, laatst gewijzigd 2 augustus.
 >
 > - Warmtepomp inclusief installatie: **€ 8.450** exclusief btw
 > - Levertijd 4 tot 6 weken na akkoord

@@ -78,7 +78,7 @@ Krijg je een saldo terug, dan staat de verbinding. Vraag daarna gerust welke flo
 
 - **Beeld duurt seconden, video duurt minuten.** Bij video krijg je eerst een bevestiging dat het loopt; het resultaat komt daarna in je studiobibliotheek én in je dGENIX-bestanden
 - **GENI bouwt geen flows.** Hij draait wat jij hebt gemaakt; het canvas blijft jouw werk
-- **Een model dat je aansluiting niet kan lezen, weigert de studio** , vraag eerst welke modellen er zijn in plaats van een naam te noemen
+- **Een model dat je aansluiting niet kan lezen, weigert de studio**, vraag eerst welke modellen er zijn in plaats van een naam te noemen
 - **Geen studio-credits, geen beeld.** dGENIX kan daar niet bijkopen
 - **De studio bepaalt het aanbod.** Verandert de modellencatalogus daar, dan verandert hij hier mee
 

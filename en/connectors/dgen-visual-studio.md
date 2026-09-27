@@ -78,7 +78,7 @@ If you get a balance back, the connection is live. Then feel free to ask which f
 
 - **Images take seconds, video takes minutes.** For video you first get a confirmation that it is running; the result then lands in your studio library and in your dGENIX files
 - **GENI does not build flows.** It runs what you made; the canvas stays your work
-- **A model that cannot read your input is refused by the studio** , ask which models exist rather than naming one
+- **A model that cannot read your input is refused by the studio**, ask which models exist rather than naming one
 - **No studio credits, no images.** dGENIX cannot top up your balance there
 - **The studio decides the catalogue.** If the model line-up changes there, it changes here
 

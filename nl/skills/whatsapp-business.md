@@ -21,10 +21,10 @@ Wat is er binnengekomen op WhatsApp?
 
 > **9 berichten sinds gisteren, 4 vragen actie**
 >
-> - **+31 6 12…** , vraagt of je zaterdag open bent. *Komt vaker terug.*
-> - **+31 6 44…** , wil de offerte van vorige week nog ontvangen.
-> - **+31 6 78…** , meldt een storing aan de installatie van maart. *Urgent.*
-> - **+31 6 21…** , vraagt naar prijzen voor onderhoud.
+> - **+31 6 12…**, vraagt of je zaterdag open bent. *Komt vaker terug.*
+> - **+31 6 44…**, wil de offerte van vorige week nog ontvangen.
+> - **+31 6 78…**, meldt een storing aan de installatie van maart. *Urgent.*
+> - **+31 6 21…**, vraagt naar prijzen voor onderhoud.
 >
 > De overige 5 zijn bedankjes en bevestigingen.
 >

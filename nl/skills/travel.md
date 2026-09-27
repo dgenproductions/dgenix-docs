@@ -7,10 +7,10 @@ komen van dGENIX zelf.
 
 ## Wat kan GENI hiermee?
 
-- **Plekken opzoeken op de kaart** , hotels, restaurants, musea, stranden en attracties op je bestemming, met beoordeling, adres en openingstijden
+- **Plekken opzoeken op de kaart**, hotels, restaurants, musea, stranden en attracties op je bestemming, met beoordeling, adres en openingstijden
 - **Een route berekenen** tussen twee punten, met afstand en reistijd
 - **Een dagprogramma opstellen** dat rekening houdt met wat waar ligt
-- **Meedenken over de reis zelf** , wanneer je het beste gaat, wat je regelt vóór vertrek, hoe je de dagen indeelt
+- **Meedenken over de reis zelf**, wanneer je het beste gaat, wat je regelt vóór vertrek, hoe je de dagen indeelt
 
 De eerste twee halen echte gegevens op. De rest komt uit wat GENI weet, en dat
 maakt verschil voor je credits (zie hieronder).
@@ -21,23 +21,23 @@ maakt verschil voor je credits (zie hieronder).
 We gaan 4 dagen naar Porto in oktober, wat moeten we zien?
 ```
 
-> **Porto , 4 dagen in oktober**
+> **Porto, 4 dagen in oktober**
 >
 > Oktober is een goede maand: rond 20 graden, veel minder druk dan de zomer.
 >
-> **Dag 1 , Ribeira en de rivier**
+> **Dag 1, Ribeira en de rivier**
 > - Livraria Lello (boek vooraf, anders sta je een uur in de rij)
 > - Ponte Luís I te voet oversteken bij zonsondergang
 >
-> **Dag 2 , Vila Nova de Gaia**
+> **Dag 2, Vila Nova de Gaia**
 > - Portwijnkelders aan de overkant, twee is genoeg
 > - Teleférico terug omhoog, scheelt een steile klim
 >
-> **Dag 3 , Bolhão en Cedofeita**
+> **Dag 3, Bolhão en Cedofeita**
 > - Mercado do Bolhão in de ochtend
 > - Rua de Miguel Bombarda voor galeries
 >
-> **Dag 4 , kust**
+> **Dag 4, kust**
 > - Matosinhos, 20 minuten met de metro, vis eten aan zee
 >
 > Zal ik hotels opzoeken in Ribeira of Cedofeita?
@@ -83,7 +83,7 @@ restaurants en musea" al snel drie. Zie
 
 ## Grenzen en limieten
 
-- **GENI boekt niets.** Geen vluchten, geen hotels, geen tickets , je krijgt de opties en boekt zelf.
+- **GENI boekt niets.** Geen vluchten, geen hotels, geen tickets, je krijgt de opties en boekt zelf.
 - **Er zijn geen live prijzen of beschikbaarheid.** Kaartgegevens geven plek, beoordeling en openingstijden, geen kamerprijs voor jouw datum.
 - **Vluchten zitten er niet in.** GENI kan meedenken over routes en overstappen, maar haalt geen vluchtschema's op.
 - **Openingstijden en beoordelingen kunnen verouderd zijn.** Controleer ze vóór je afreist, zeker bij feestdagen.

@@ -18,7 +18,7 @@ Summarise these terms and tell me what stands out
 [text pasted]
 ```
 
-> **Summary , Supplier X terms and conditions**
+> **Summary, Supplier X terms and conditions**
 >
 > - Payment term **14 days**, then 2 percent interest per month
 > - Notice period **three months**, only at the end of a quarter
@@ -81,7 +81,7 @@ computer.
 ## Limits
 
 - **PDF up to 25 pages and 10 MB.** Anything larger is refused with the reason, rather than read halfway. Split the document or say which part you mean.
-- **Want to send a file instead of a link?** Use the attachment button in the chat , that runs through the chat itself, not through this skill.
+- **Want to send a file instead of a link?** Use the attachment button in the chat, that runs through the chat itself, not through this skill.
 - **Chat attachments:** images, PDF, txt, markdown and csv, up to **5 MB per file** and **3 files per message**.
 - **A page behind a login or paywall cannot be fetched.** Paste the text instead.
 - **Internal or private addresses are blocked.** Publicly reachable URLs only, which is a deliberate safety measure.

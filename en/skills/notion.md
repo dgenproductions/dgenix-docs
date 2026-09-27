@@ -18,7 +18,7 @@ Available from **Growth**. You need a connected Notion workspace; see
 Put the outcome of this conversation in Notion, under the De Krent project
 ```
 
-> **Created: Meeting De Krent , 5 August**
+> **Created: Meeting De Krent, 5 August**
 > `notion.so/Meeting-De-Krent-5-August-1a2b3c`
 >
 > Containing:

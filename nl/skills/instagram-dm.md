@@ -28,9 +28,9 @@ Welke DM's van vandaag zijn echt de moeite waard?
 > | Spam | 9 |
 >
 > **De 3 leads:**
-> - **@sportschool_veldhoven** , vraagt naar een offerte voor 40 man
-> - **@marieke.k** , wil weten of je ook in Tilburg werkt
-> - **@bouwbedrijf_jansen** , vraagt naar samenwerking
+> - **@sportschool_veldhoven**, vraagt naar een offerte voor 40 man
+> - **@marieke.k**, wil weten of je ook in Tilburg werkt
+> - **@bouwbedrijf_jansen**, vraagt naar samenwerking
 >
 > De 9 veelgestelde vragen gaan bijna allemaal over je openingstijden. Zal ik
 > daar één antwoord voor opstellen dat je kunt hergebruiken?

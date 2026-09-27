@@ -22,9 +22,9 @@ What should I do today?
 
 > You have **7 open tasks**. This is what I would do today:
 >
-> 1. **File VAT return** , due tomorrow. Statutory deadline, start here.
-> 2. **Send De Vries contract** , they have been waiting since Tuesday.
-> 3. **Finish the bakery quote** , due Friday, about an hour left.
+> 1. **File VAT return**, due tomorrow. Statutory deadline, start here.
+> 2. **Send De Vries contract**, they have been waiting since Tuesday.
+> 3. **Finish the bakery quote**, due Friday, about an hour left.
 >
 > The other 4 have no deadline and can wait. Shall I tick off the first when
 > you are done?

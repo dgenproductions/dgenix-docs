@@ -19,7 +19,7 @@ dat één keer goed neer, dan hoef je het nooit meer te herhalen.
 Maak een weekmenu voor 2 personen, vegetarisch, geen noten
 ```
 
-> **Weekmenu , 2 personen, vegetarisch, notenvrij**
+> **Weekmenu, 2 personen, vegetarisch, notenvrij**
 >
 > | Dag | Avondeten | Bereidingstijd |
 > |---|---|---|
@@ -40,7 +40,7 @@ En daarna:
 Ja, boodschappenlijst graag
 ```
 
-> **Boodschappen , week 32**
+> **Boodschappen, week 32**
 >
 > **Groente & fruit:** 3 paprika, 1 aubergine, 400 g spinazie, 1 pompoen,
 > 4 wortels, 2 uien, knoflook, verse salie

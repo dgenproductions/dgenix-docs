@@ -4,7 +4,7 @@ dGENIX is een platform dat je één AI-assistent geeft, GENI, die werk uitvoert 
 
 Het verschil met een chatbot zit in het woord *uitvoert*. Een chatbot geeft
 antwoord. GENI leest je inbox, schrijft de mail, plant de afspraak in je agenda
-en publiceert het artikel , in jouw accounts, met jouw gegevens.
+en publiceert het artikel, in jouw accounts, met jouw gegevens.
 
 ## Wie is GENI?
 
@@ -61,9 +61,9 @@ een geordend antwoord:
 
 > **12 ongelezen, 3 vragen om actie**
 >
-> - **Sofie van Dijk** , offerte akkoord, wil deze week tekenen. *Actie: contract sturen.*
-> - **Boekhouder** , btw-aangifte moet vóór de 25e. *Actie: cijfers aanleveren.*
-> - **Jan Bakker** , vraagt of de meeting van donderdag kan verschuiven.
+> - **Sofie van Dijk**, offerte akkoord, wil deze week tekenen. *Actie: contract sturen.*
+> - **Boekhouder**, btw-aangifte moet vóór de 25e. *Actie: cijfers aanleveren.*
+> - **Jan Bakker**, vraagt of de meeting van donderdag kan verschuiven.
 >
 > De overige 9 zijn nieuwsbrieven en notificaties. Zal ik die archiveren?
 

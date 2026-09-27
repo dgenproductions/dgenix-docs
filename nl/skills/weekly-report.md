@@ -1,6 +1,6 @@
 # Weekrapport Generator
 
-Met de Weekrapport Generator maakt GENI één rapport uit je verspreide gegevens , KPI's uit een spreadsheet, wat er in je inbox speelde , en mailt hij het naar wie het moet lezen.
+Met de Weekrapport Generator maakt GENI één rapport uit je verspreide gegevens, KPI's uit een spreadsheet, wat er in je inbox speelde, en mailt hij het naar wie het moet lezen.
 
 Beschikbaar vanaf **Growth**. Werkt beter naarmate je meer koppelingen hebt.
 
@@ -17,7 +17,7 @@ de eerste keer.
 Maak het weekrapport en stuur het naar bart@voorbeeld.nl
 ```
 
-> **Weekrapport , 29 juli t/m 4 augustus**
+> **Weekrapport, 29 juli t/m 4 augustus**
 >
 > **Cijfers**
 >

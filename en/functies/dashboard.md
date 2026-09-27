@@ -45,9 +45,9 @@ The Home screen of an account on Growth looks like this:
 > | Used this month | 32,500 |
 >
 > **Recent activity**
-> - Inbox summarised , 240 cr
-> - SEO audit dgenix.com , 4,000 cr
-> - LinkedIn post published , 180 cr
+> - Inbox summarised, 240 cr
+> - SEO audit dgenix.com, 4,000 cr
+> - LinkedIn post published, 180 cr
 
 That way you see at a glance whether you are on track, and where your credits
 go.

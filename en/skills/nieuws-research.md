@@ -16,7 +16,7 @@ One tool, but the angle decides where it searches and what the answer looks like
 What is happening in Dutch hospitality automation? Type: market
 ```
 
-> **Market , hospitality automation in the Netherlands**
+> **Market, hospitality automation in the Netherlands**
 >
 > **What is happening**
 > Point-of-sale systems are moving towards all-in-one: ordering, payment, stock
@@ -29,9 +29,9 @@ What is happening in Dutch hospitality automation? Type: market
 > - Accounting integrations are now expected as standard, not as an extra
 >
 > **Sources**
-> - Hospitality sector report 2026 , example.com/report
-> - Trade magazine, July 2026 article , example.com/article
-> - Market overview of POS vendors , example.com/overview
+> - Hospitality sector report 2026, example.com/report
+> - Trade magazine, July 2026 article, example.com/article
+> - Market overview of POS vendors, example.com/overview
 >
 > Shall I put a competitive analysis of three vendors alongside this?
 

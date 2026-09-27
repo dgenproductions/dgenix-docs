@@ -113,7 +113,7 @@ In the **Links** tab you analyse your backlink profile:
 You run a Standard Audit on your services page. The result is not a list of
 technical notices but an ordered judgement:
 
-> **SEO score 61 / 100** , was 54 at your previous audit *(+7)*
+> **SEO score 61 / 100**, was 54 at your previous audit *(+7)*
 >
 > | Category | Score |
 > |---|---|

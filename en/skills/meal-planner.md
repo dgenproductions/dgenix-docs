@@ -19,7 +19,7 @@ that up once and you never have to repeat it.
 Make a weekly menu for 2 people, vegetarian, no nuts
 ```
 
-> **Weekly menu , 2 people, vegetarian, nut-free**
+> **Weekly menu, 2 people, vegetarian, nut-free**
 >
 > | Day | Dinner | Prep time |
 > |---|---|---|
@@ -40,7 +40,7 @@ And then:
 Yes, shopping list please
 ```
 
-> **Shopping , week 32**
+> **Shopping, week 32**
 >
 > **Fruit & veg:** 3 peppers, 1 aubergine, 400 g spinach, 1 squash, 4 carrots,
 > 2 onions, garlic, fresh sage

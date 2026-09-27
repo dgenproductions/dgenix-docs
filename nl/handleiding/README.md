@@ -94,7 +94,7 @@ Skills voegen specifieke capabilities toe aan je assistent. Standaard kan hij ch
 - Facturen aanmaken
 - En nog tientallen andere taken
 
-Skills zijn getagd op waar je ze voor gebruikt: **Communicatie**, **Sales**, **Marketing**, **Content**, **Research**, **Rapportage**, **Operaties** en **Persoonlijk**. Een skill kan er meerdere dragen , Social Media Manager staat onder zowel Content als Marketing. In de marktplaats filter je op die tags. Welk plan je nodig hebt staat los van de tag: sommige skills zitten in Starter+, de zwaarste engines vanaf Pro+.
+Skills zijn getagd op waar je ze voor gebruikt: **Communicatie**, **Sales**, **Marketing**, **Content**, **Research**, **Rapportage**, **Operaties** en **Persoonlijk**. Een skill kan er meerdere dragen, Social Media Manager staat onder zowel Content als Marketing. In de marktplaats filter je op die tags. Welk plan je nodig hebt staat los van de tag: sommige skills zitten in Starter+, de zwaarste engines vanaf Pro+.
 
 → [Skills uitgelegd](skills-uitgelegd.md)
 → [Skills marketplace overzicht](../skills/README.md)

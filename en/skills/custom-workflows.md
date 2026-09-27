@@ -56,7 +56,7 @@ Start quote-pdf for De Krent, amount 4,800
 | Trigger a workflow | 10 |
 | List workflows | 3 |
 
-Whatever your own server does afterwards costs nothing at dGENIX , that bill
+Whatever your own server does afterwards costs nothing at dGENIX, that bill
 runs at your end. See [The credit system](../hoe-het-werkt/credits.md).
 
 ## Limits

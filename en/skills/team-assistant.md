@@ -7,8 +7,8 @@ it fetches the messages itself.
 
 ## What can GENI do with it?
 
-- **Summarise a team update** , a Slack thread, meeting note or long email chain reduced to the essentials
-- **Extract action items** , who does what, with a deadline where one was given
+- **Summarise a team update**, a Slack thread, meeting note or long email chain reduced to the essentials
+- **Extract action items**, who does what, with a deadline where one was given
 - **Fetch Slack messages** from a channel (requires a connected Slack workspace)
 
 The first two work without a connection too: paste the text and you get the same
@@ -20,7 +20,7 @@ result.
 Summarise #project-dekrent from this week and pull out the action items
 ```
 
-> **#project-dekrent , 4 to 8 August, 63 messages**
+> **#project-dekrent, 4 to 8 August, 63 messages**
 >
 > **What it was about**
 > Delivery moved from week 38 to week 40 because the POS integration needs an
@@ -65,7 +65,7 @@ See [The credit system](../hoe-het-werkt/credits.md).
 
 - **GENI does not reply on your behalf.** It reads and summarises; posting is yours or through the [Slack skill](slack.md).
 - **Only channels the connection can reach.** Direct messages and private channels without access stay out of view.
-- **Action items are a proposal.** An assignment not stated explicitly in the conversation is inferred , check it before passing it on.
+- **Action items are a proposal.** An assignment not stated explicitly in the conversation is inferred, check it before passing it on.
 - **Very long periods are read partially.** Ask per week or per thread rather than per month.
 - **It schedules nothing.** Ask [Google Calendar](google-calendar.md) or your [Workspace](../functies/werkruimte.md) to turn it into actual tasks.
 
@@ -82,7 +82,7 @@ See [The credit system](../hoe-het-werkt/credits.md).
 ## Frequently asked questions
 
 **Does this work without Slack?**
-Yes. Paste the text from any source , Teams, email, minutes , and you get the
+Yes. Paste the text from any source, Teams, email, minutes, and you get the
 same result.
 
 **What is the difference with the Meeting Assistant?**

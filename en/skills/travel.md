@@ -7,10 +7,10 @@ itself.
 
 ## What can GENI do with it?
 
-- **Look up places on the map** , hotels, restaurants, museums, beaches and attractions at your destination, with rating, address and opening hours
+- **Look up places on the map**, hotels, restaurants, museums, beaches and attractions at your destination, with rating, address and opening hours
 - **Work out a route** between two points, with distance and travel time
 - **Build a day programme** that accounts for what sits where
-- **Think along about the trip itself** , when to go, what to arrange before departure, how to split the days
+- **Think along about the trip itself**, when to go, what to arrange before departure, how to split the days
 
 The first two fetch real data. The rest comes from what GENI knows, and that
 matters for your credits (see below).
@@ -21,23 +21,23 @@ matters for your credits (see below).
 We are going to Porto for 4 days in October, what should we see?
 ```
 
-> **Porto , 4 days in October**
+> **Porto, 4 days in October**
 >
 > October is a good month: around 20 degrees, far quieter than summer.
 >
-> **Day 1 , Ribeira and the river**
+> **Day 1, Ribeira and the river**
 > - Livraria Lello (book ahead, or you queue for an hour)
 > - Cross Ponte Luís I on foot at sunset
 >
-> **Day 2 , Vila Nova de Gaia**
+> **Day 2, Vila Nova de Gaia**
 > - Port cellars across the river, two is plenty
 > - Teleférico back up, saves a steep climb
 >
-> **Day 3 , Bolhão and Cedofeita**
+> **Day 3, Bolhão and Cedofeita**
 > - Mercado do Bolhão in the morning
 > - Rua de Miguel Bombarda for galleries
 >
-> **Day 4 , the coast**
+> **Day 4, the coast**
 > - Matosinhos, 20 minutes on the metro, seafood by the sea
 >
 > Shall I look up hotels in Ribeira or Cedofeita?
@@ -83,7 +83,7 @@ restaurants and museums" quickly becomes three. See
 
 ## Limits
 
-- **GENI books nothing.** No flights, no hotels, no tickets , you get the options and book yourself.
+- **GENI books nothing.** No flights, no hotels, no tickets, you get the options and book yourself.
 - **There are no live prices or availability.** Map data gives place, rating and opening hours, not a room rate for your dates.
 - **Flights are not included.** GENI can think along about routes and connections, but does not pull flight schedules.
 - **Opening hours and ratings can be out of date.** Check them before you travel, especially around public holidays.

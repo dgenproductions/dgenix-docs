@@ -6,7 +6,7 @@ Available from **Pro**. No connection needed.
 
 ## What can GENI do with it?
 
-- **Configure your FAQ** , company name, question-and-answer pairs, tone of voice and extra business information such as opening hours and address
+- **Configure your FAQ**, company name, question-and-answer pairs, tone of voice and extra business information such as opening hours and address
 - **Answer a customer question** from that FAQ
 - **Summarise a customer conversation** with the action items pulled out
 

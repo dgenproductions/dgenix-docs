@@ -8,7 +8,7 @@ read-only.
 ## What can GENI do with it?
 
 - **Fetch a revenue overview** for a period: revenue, number of payments, refunds
-- **Fetch failed payments** , which ones, from whom, and why they failed
+- **Fetch failed payments**, which ones, from whom, and why they failed
 - **Look up a customer** with their payment history and subscription status
 
 ## Example: what you ask, what you get
@@ -38,7 +38,7 @@ And specifically:
 What is the status of customer De Krent?
 ```
 
-> **De Krent** , customer since March 2026
+> **De Krent**, customer since March 2026
 > Subscription **active**, € 95 per month, next charge 12 August.
 > Total paid: € 475 across 5 invoices, no failed payments.
 

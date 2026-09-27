@@ -45,9 +45,9 @@ Het Home-scherm van een account op Growth ziet er zo uit:
 > | Deze maand verbruikt | 32.500 |
 >
 > **Recente activiteit**
-> - Inbox samengevat , 240 cr
-> - SEO-audit dgenix.nl , 4.000 cr
-> - LinkedIn-post gepubliceerd , 180 cr
+> - Inbox samengevat, 240 cr
+> - SEO-audit dgenix.nl, 4.000 cr
+> - LinkedIn-post gepubliceerd, 180 cr
 
 Zo zie je in één blik of je op koers ligt, en waar je credits heen gaan.
 

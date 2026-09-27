@@ -21,9 +21,9 @@ What is on my calendar tomorrow?
 
 > **Thursday 7 August**
 >
-> - **10:00-11:00** , Client call De Vries
-> - **13:30-14:30** , Supplier, Industrieweg 4
-> - **16:00-17:00** , Team meeting
+> - **10:00-11:00**, Client call De Vries
+> - **13:30-14:30**, Supplier, Industrieweg 4
+> - **16:00-17:00**, Team meeting
 >
 > You have one free block from 11:00 to 13:30.
 
@@ -33,7 +33,7 @@ When scheduling you see what is about to be created:
 Book an hour on Friday at 14:00 with ABC about the quote
 ```
 
-> **Client call ABC , quote**
+> **Client call ABC, quote**
 > Friday 8 August, 14:00-15:00
 >
 > This does not clash with your other appointments. Shall I create it?

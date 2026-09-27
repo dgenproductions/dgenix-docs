@@ -22,11 +22,11 @@ De Werkruimte heeft drie tabbladen:
 
 Leg in één plek vast wat je niet wil vergeten. Je typt een notitie in de snelle invoerbalk bovenaan, of opent een notitie voor de volledige editor met titel, tags en een map.
 
-- **Mappen** , orden notities per project of onderwerp.
-- **Tags** , label notities zodat je ze makkelijk terugvindt.
-- **Zoeken** , zoek door titels, inhoud en tags.
-- **Vastpinnen** , houd belangrijke notities bovenaan.
-- **Bespreek met GENI** , stuur een notitie met één klik naar de chat om er samen aan te werken.
+- **Mappen**, orden notities per project of onderwerp.
+- **Tags**, label notities zodat je ze makkelijk terugvindt.
+- **Zoeken**, zoek door titels, inhoud en tags.
+- **Vastpinnen**, houd belangrijke notities bovenaan.
+- **Bespreek met GENI**, stuur een notitie met één klik naar de chat om er samen aan te werken.
 
 Je kunt ook vanuit de AI Assistent een bericht met één klik als notitie bewaren (het notitieboek-icoon onder een bericht).
 
@@ -61,10 +61,10 @@ In `Instellingen` kun je aanzetten dat GENI actiepunten uit je gesprekken detect
 
 De Werkruimte heeft een AI-laag die je helpt sneller vastleggen en terugvinden:
 
-- **Semantisch zoeken** , zoek op betekenis, niet alleen op exacte woorden. Typ een vraag in de zoekbalk (of vraag het GENI) en je vindt de juiste notitie ook zonder dezelfde woorden.
-- **Vergelijkbare notities** , in een geopende notitie zie je automatisch eerder opgeslagen notities die erbij passen.
-- **AI-tags** , laat GENI passende tags voorstellen op basis van de inhoud, met één klik.
-- **Voice-notities** , spreek je notitie in; GENI zet 'm om naar tekst en bewaart 'm meteen in je werkruimte.
+- **Semantisch zoeken**, zoek op betekenis, niet alleen op exacte woorden. Typ een vraag in de zoekbalk (of vraag het GENI) en je vindt de juiste notitie ook zonder dezelfde woorden.
+- **Vergelijkbare notities**, in een geopende notitie zie je automatisch eerder opgeslagen notities die erbij passen.
+- **AI-tags**, laat GENI passende tags voorstellen op basis van de inhoud, met één klik.
+- **Voice-notities**, spreek je notitie in; GENI zet 'm om naar tekst en bewaart 'm meteen in je werkruimte.
 
 ---
 

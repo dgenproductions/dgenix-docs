@@ -18,15 +18,15 @@ Maak een voorstel voor Bakkerij De Krent: nieuwe website plus koppeling met
 hun kassasysteem, budget rond de 12.000
 ```
 
-> **Voorstel , Website en kassakoppeling, Bakkerij De Krent**
+> **Voorstel, Website en kassakoppeling, Bakkerij De Krent**
 >
 > **Situatie.** Twee vestigingen, groeiende horecalevering, maar bestellingen
 > komen nu telefonisch en per mail binnen.
 >
 > **Aanpak in drie fasen**
-> 1. Website met zakelijk bestelportaal , 4 weken
-> 2. Koppeling met het kassasysteem , 3 weken
-> 3. Overdracht en instructie , 1 week
+> 1. Website met zakelijk bestelportaal, 4 weken
+> 2. Koppeling met het kassasysteem, 3 weken
+> 3. Overdracht en instructie, 1 week
 >
 > **Investering:** € 11.800 exclusief btw, in drie termijnen
 > **Doorlooptijd:** 8 weken na akkoord

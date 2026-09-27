@@ -17,16 +17,16 @@ moet er gebeuren en door wie, en waar is nog geen knoop over doorgehakt.
 Maak notulen van deze opname
 ```
 
-> **Projectoverleg De Krent , 47 minuten, 4 deelnemers**
+> **Projectoverleg De Krent, 47 minuten, 4 deelnemers**
 >
 > **Besloten**
 > - Website en kassakoppeling gaan door, oplevering week 40
 > - Onderhoudscontract wordt niet verlengd
 >
 > **Actiepunten**
-> - **Jij** , offerte aanpassen naar de nieuwe scope, vóór vrijdag
-> - **Sanne** , teksten aanleveren, uiterlijk 15 augustus
-> - **Nog niemand** , wie test de kassakoppeling?
+> - **Jij**, offerte aanpassen naar de nieuwe scope, vóór vrijdag
+> - **Sanne**, teksten aanleveren, uiterlijk 15 augustus
+> - **Nog niemand**, wie test de kassakoppeling?
 >
 > **Nog open**
 > - Prijsverhoging van 8 procent werd genoemd maar niet besloten

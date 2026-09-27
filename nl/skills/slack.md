@@ -22,7 +22,7 @@ Beschikbaar vanaf **Growth**. Je hebt een gekoppelde Slack-werkruimte nodig; zie
 Vat de discussie in #release samen, ik was er twee dagen niet
 ```
 
-> **#release , 34 berichten sinds dinsdag**
+> **#release, 34 berichten sinds dinsdag**
 >
 > **Besloten**
 > - De release schuift naar donderdag, vanwege de bug in de betaalflow

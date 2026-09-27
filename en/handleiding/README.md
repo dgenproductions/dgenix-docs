@@ -94,7 +94,7 @@ Skills add specific capabilities to your assistant. By default it can chat, plan
 - Create invoices
 - And dozens of other tasks
 
-Skills are tagged by what you use them for: **Communication**, **Sales**, **Marketing**, **Content**, **Research**, **Reporting**, **Operations** and **Personal**. A skill can carry several , Social Media Manager sits under both Content and Marketing. You filter on those tags in the marketplace. Which plan you need is separate from the tag: some skills are in Starter+, the heaviest engines from Pro+. You pay per action in credits.
+Skills are tagged by what you use them for: **Communication**, **Sales**, **Marketing**, **Content**, **Research**, **Reporting**, **Operations** and **Personal**. A skill can carry several, Social Media Manager sits under both Content and Marketing. You filter on those tags in the marketplace. Which plan you need is separate from the tag: some skills are in Starter+, the heaviest engines from Pro+. You pay per action in credits.
 
 [Skills explained](skills-uitgelegd.md)
 [Skills marketplace overview](../skills/README.md)

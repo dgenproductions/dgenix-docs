@@ -4,7 +4,7 @@ dGENIX is a platform that gives you one AI assistant, GENI, that does work insid
 
 The difference with a chatbot is the word *does*. A chatbot answers. GENI reads
 your inbox, writes the email, books the appointment in your calendar and
-publishes the article , in your accounts, with your data.
+publishes the article, in your accounts, with your data.
 
 ## Who is GENI?
 
@@ -60,9 +60,9 @@ answer:
 
 > **12 unread, 3 need action**
 >
-> - **Sofie van Dijk** , quote approved, wants to sign this week. *Action: send contract.*
-> - **Accountant** , VAT return due before the 25th. *Action: supply figures.*
-> - **Jan Bakker** , asks whether Thursday's meeting can move.
+> - **Sofie van Dijk**, quote approved, wants to sign this week. *Action: send contract.*
+> - **Accountant**, VAT return due before the 25th. *Action: supply figures.*
+> - **Jan Bakker**, asks whether Thursday's meeting can move.
 >
 > The other 9 are newsletters and notifications. Shall I archive those?
 

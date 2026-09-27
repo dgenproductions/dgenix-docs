@@ -7,13 +7,13 @@ only; uploading is not possible.
 
 ## What can GENI do with it?
 
-- **Analyse your channel** , subscribers, views, which videos land and which do not
+- **Analyse your channel**, subscribers, views, which videos land and which do not
 - **Generate video ideas** based on what works on your channel
-- **Build an upload checklist** , title, description, tags, thumbnail advice
+- **Build an upload checklist**, title, description, tags, thumbnail advice
 - **Fetch video statistics** for a specific video
-- **Analyse comments** , what viewers ask, where the criticism sits, which topics keep coming back
+- **Analyse comments**, what viewers ask, where the criticism sits, which topics keep coming back
 - **Build an analytics report** over a period
-- **Give audience insights** , who watches, when, and how long they stay
+- **Give audience insights**, who watches, when, and how long they stay
 
 ## Example: what you ask, what you get
 

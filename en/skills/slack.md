@@ -22,7 +22,7 @@ Available from **Growth**. You need a connected Slack workspace; see
 Summarise the discussion in #release, I was away two days
 ```
 
-> **#release , 34 messages since Tuesday**
+> **#release, 34 messages since Tuesday**
 >
 > **Decided**
 > - The release moves to Thursday, because of the bug in the payment flow

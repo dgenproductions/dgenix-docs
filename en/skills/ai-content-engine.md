@@ -19,7 +19,7 @@ moments. Available from **Pro**.
 You paste a YouTube link to a 42-minute interview and ask for 5 clips. A few
 minutes later:
 
-> **Clip 3 , 0:47** · score **87** (High)
+> **Clip 3, 0:47** · score **87** (High)
 >
 > *"The biggest mistake I made was hiring too early"*
 >
@@ -72,7 +72,7 @@ So GENI also knows what is happening on screen: a reaction, a scene change, text
 screen, something you show rather than tell.
 
 You do not have to switch anything on. If the visual analysis fails, the clip is
-simply chosen on the transcript , you always get your clips.
+simply chosen on the transcript, you always get your clips.
 
 ## What it costs
 
@@ -92,7 +92,7 @@ A few examples:
 | 60 minutes | 10 | 12,380 |
 
 So the price depends on **two** things: how long the source video is and how many clips
-you want out of it. That is not arbitrary , a longer video costs us more to fetch and
+you want out of it. That is not arbitrary, a longer video costs us more to fetch and
 transcribe, even if you only pull three clips from it.
 
 If processing fails, you get the credits back. See
@@ -103,7 +103,7 @@ If processing fails, you get the credits back. See
 - **Up to 15 clips** per video.
 - **Source video of at most 60 minutes.** Anything longer is refused with the reason, rather than half processed. Split the video or use a shorter source.
 - **The video has to be publicly reachable.** A private or unlisted video, or one behind a login, cannot be fetched.
-- **Spoken content still works best.** The choice now also looks at the footage, but a clip has to stand on its own , with no speech there is little to quote.
+- **Spoken content still works best.** The choice now also looks at the footage, but a clip has to stand on its own, with no speech there is little to quote.
 - **No automatic publishing.** You download the clips and post them yourself; the engine does not post to social channels.
 - **The crop is optimised for vertical** short-form video; widescreen footage gets cropped.
 - **Burning in subtitles cannot be undone**; generate again if you decide against them.

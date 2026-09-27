@@ -15,7 +15,7 @@ Calendar erbij wordt het overzicht compleet.
 - **Een terugkerende taak verwijderen**
 
 Let op het verschil: de eerste twee gaan over jouw dag, de laatste vier beheren
-**Automations** , taken die GENI zelf uitvoert op een vast moment. Zie
+**Automations**, taken die GENI zelf uitvoert op een vast moment. Zie
 [Geplande taken](../handleiding/geplande-taken.md).
 
 ## Voorbeeld: wat je vraagt, wat je terugkrijgt
@@ -27,16 +27,16 @@ Hoe ziet mijn dag eruit?
 > **Woensdag 5 augustus**
 >
 > **Vast in de agenda**
-> - 09:30-10:00 , Standup
-> - 14:00-15:00 , Klantgesprek De Krent
-> - 16:30-17:00 , Belafspraak leverancier
+> - 09:30-10:00, Standup
+> - 14:00-15:00, Klantgesprek De Krent
+> - 16:30-17:00, Belafspraak leverancier
 >
 > **Je hebt twee blokken vrij:** 10:00-14:00 en 15:00-16:30
 >
 > **Wat er ligt**
-> - Offerte De Krent afmaken , vóór het gesprek van 14:00, dus in het ochtendblok
-> - Factuur 2026-084 versturen , 10 minuten, kan tussendoor
-> - Kwartaalplan schrijven , past niet meer vandaag, morgenochtend
+> - Offerte De Krent afmaken, vóór het gesprek van 14:00, dus in het ochtendblok
+> - Factuur 2026-084 versturen, 10 minuten, kan tussendoor
+> - Kwartaalplan schrijven, past niet meer vandaag, morgenochtend
 >
 > Zal ik je ochtendblok op de offerte zetten?
 

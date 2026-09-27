@@ -1,6 +1,6 @@
 # Weekly Report Generator
 
-With the Weekly Report Generator GENI builds one report from your scattered data , KPIs from a spreadsheet, what came up in your inbox , and emails it to whoever needs to read it.
+With the Weekly Report Generator GENI builds one report from your scattered data, KPIs from a spreadsheet, what came up in your inbox, and emails it to whoever needs to read it.
 
 Available from **Growth**. It works better the more connections you have.
 
@@ -17,7 +17,7 @@ the first time.
 Build the weekly report and send it to bart@example.com
 ```
 
-> **Weekly report , 29 July to 4 August**
+> **Weekly report, 29 July to 4 August**
 >
 > **Figures**
 >

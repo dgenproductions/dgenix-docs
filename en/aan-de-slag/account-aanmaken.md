@@ -2,6 +2,10 @@
 
 dGENIX is free to start.
 
+> **During the beta** you get in by invitation. Join the
+> [waitlist](https://app.dgenix.com/waitlist); when your spot opens up, you get an email
+> with a link that takes you through the steps below.
+
 ---
 
 ## Step by step

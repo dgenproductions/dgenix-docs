@@ -23,12 +23,12 @@ Import this workflow
 > **Imported: Lead enrichment**
 >
 > 6 steps recognised:
-> 1. Webhook , receives company name
-> 2. HTTP , fetch registry data
-> 3. Filter , active registrations only
-> 4. HTTP , fetch website
-> 5. AI , summarise the company description
-> 6. Google Sheets , append a row
+> 1. Webhook, receives company name
+> 2. HTTP, fetch registry data
+> 3. Filter, active registrations only
+> 4. HTTP, fetch website
+> 5. AI, summarise the company description
+> 6. Google Sheets, append a row
 >
 > You are now using **2 of your 3 slots**.
 > Running it costs around 25 credits, depending on the number of steps.

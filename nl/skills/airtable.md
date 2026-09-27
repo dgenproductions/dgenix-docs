@@ -38,7 +38,7 @@ Bij het aanmaken of bijwerken zie je eerst wat er komt te staan:
 Zet Van Dijk op "offerte verstuurd"
 ```
 
-> **Van Dijk BV** , status van *wacht op offerte* naar *offerte verstuurd*.
+> **Van Dijk BV**, status van *wacht op offerte* naar *offerte verstuurd*.
 > Zal ik dat doorvoeren?
 
 ## Vereisten

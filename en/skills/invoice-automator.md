@@ -17,7 +17,7 @@ Invoice for De Krent: website build 1x 1500, POS integration 1x 850,
 maintenance 3 months at 95
 ```
 
-> **Invoice 2026-085 , De Krent**
+> **Invoice 2026-085, De Krent**
 >
 > | Description | Qty | Amount |
 > |---|---|---|
@@ -60,7 +60,7 @@ See [The credit system](../hoe-het-werkt/credits.md).
 - **It sends nothing.** Emailing is yours or through [Gmail](gmail.md).
 - **VAT calculation is arithmetic, not advice.** Reverse charge, intra-EU supplies and non-standard rates are yours to check.
 - **Invoice numbers continue from what you give it.** It does not know your books, so the sequence is yours to guard.
-- **No payment status.** Whether you were paid is not something it knows , [Stripe Insights](stripe-insights.md) or Moneybird covers that.
+- **No payment status.** Whether you were paid is not something it knows, [Stripe Insights](stripe-insights.md) or Moneybird covers that.
 
 ## Troubleshooting
 

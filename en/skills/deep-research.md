@@ -20,7 +20,7 @@ Research whether we should sell our POS integration as a separate product.
 Focus: small hospitality businesses in the Netherlands. Depth: deep
 ```
 
-> **Deep Research , POS integration as a separate product**
+> **Deep Research, POS integration as a separate product**
 > *8 sub-questions researched, 34 sources*
 >
 > **What I looked into**
@@ -35,7 +35,7 @@ Focus: small hospitality businesses in the Netherlands. Depth: deep
 >
 > **Conclusion**
 > There is demand, but not for a standalone integration. Operators buy a POS
-> system and expect integrations to be included , three of the four largest
+> system and expect integrations to be included, three of the four largest
 > vendors now ship them as standard.
 >
 > **The opening that does exist**

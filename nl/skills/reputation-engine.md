@@ -19,7 +19,7 @@ haalt precies die twee drempels weg. Beschikbaar vanaf **Pro**.
 
 Je vraagt GENI naar de stand van je campagnes:
 
-> **Campagne "Klanten juli"** , 48 contacten
+> **Campagne "Klanten juli"**, 48 contacten
 >
 > - Verzonden: 44
 > - Wachtend: 3

@@ -18,7 +18,7 @@ vergat te vragen, vraag je bij klant zes wel, omdat het in het document staat.
 Zet de onboarding op voor Bakkerij De Krent, websiteproject
 ```
 
-> **Onboarding , Bakkerij De Krent**
+> **Onboarding, Bakkerij De Krent**
 >
 > **Wat we van jullie nodig hebben**
 > - Toegang tot het huidige domein en de hosting
@@ -28,8 +28,8 @@ Zet de onboarding op voor Bakkerij De Krent, websiteproject
 >
 > **Eerste stappen**
 > 1. Kick-off van een uur, doel en scope vastleggen
-> 2. Aanlevering materiaal , uiterlijk 15 augustus
-> 3. Eerste ontwerp ter beoordeling , week 35
+> 2. Aanlevering materiaal, uiterlijk 15 augustus
+> 3. Eerste ontwerp ter beoordeling, week 35
 >
 > **Afspraken**
 > - Reactietermijn op concepten: 3 werkdagen

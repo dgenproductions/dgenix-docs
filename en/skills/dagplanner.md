@@ -15,7 +15,7 @@ the overview complete.
 - **Delete a recurring task**
 
 Note the difference: the first two are about your day, the last four manage
-**Automations** , tasks GENI runs itself at a set moment. See
+**Automations**, tasks GENI runs itself at a set moment. See
 [Scheduled tasks](../handleiding/geplande-taken.md).
 
 ## Example: what you ask, what you get
@@ -27,16 +27,16 @@ What does my day look like?
 > **Wednesday 5 August**
 >
 > **Fixed in the calendar**
-> - 09:30-10:00 , Standup
-> - 14:00-15:00 , Client call De Krent
-> - 16:30-17:00 , Supplier call
+> - 09:30-10:00, Standup
+> - 14:00-15:00, Client call De Krent
+> - 16:30-17:00, Supplier call
 >
 > **You have two blocks free:** 10:00-14:00 and 15:00-16:30
 >
 > **What is outstanding**
-> - Finish the De Krent quote , before the 14:00 call, so in the morning block
-> - Send invoice 2026-084 , 10 minutes, fits in between
-> - Write the quarterly plan , will not fit today, tomorrow morning
+> - Finish the De Krent quote, before the 14:00 call, so in the morning block
+> - Send invoice 2026-084, 10 minutes, fits in between
+> - Write the quarterly plan, will not fit today, tomorrow morning
 >
 > Shall I put your morning block on the quote?
 

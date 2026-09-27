@@ -56,7 +56,7 @@ Start offerte-pdf voor De Krent, bedrag 4.800
 | Workflow triggeren | 10 |
 | Workflows tonen | 3 |
 
-Wat je eigen server daarna doet, kost bij dGENIX niets , die rekening loopt bij
+Wat je eigen server daarna doet, kost bij dGENIX niets, die rekening loopt bij
 jou. Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
 
 ## Grenzen en limieten

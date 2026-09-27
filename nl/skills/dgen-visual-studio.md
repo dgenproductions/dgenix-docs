@@ -11,7 +11,7 @@ studio-account.
 
 Het verschil met [AI Beeldgeneratie](ai-beeldgeneratie.md) en [FLUX](flux-image.md) zit in
 het woord *jouw*. Die twee maken snel een los beeld op onze modellen. Deze skill werkt in
-jouw studio, met jouw modellen, jouw LoRA-s en jouw bibliotheek , en hij kan iets wat de
+jouw studio, met jouw modellen, jouw LoRA-s en jouw bibliotheek, en hij kan iets wat de
 andere twee niet kunnen: een flow draaien die jij hebt gebouwd.
 
 | Tool | Wat hij doet |
@@ -47,12 +47,12 @@ maandelijkse beeldronde gebeurt vanzelf, elke maandag om acht uur.
 Alles wat GENI in je studio maakt, komt ook in je dGENIX-bestanden te staan. Daardoor is het
 resultaat geen eindpunt maar een schakel:
 
-- **Kennisbank → SEO Blog Schrijver → deze skill → CMS Publisher** , een artikel met een
+- **Kennisbank → SEO Blog Schrijver → deze skill → CMS Publisher**, een artikel met een
   passend beeld, als concept klaargezet
-- **Geplande taak → deze skill → Social Media Manager** , elke maandag verse beelden met de
+- **Geplande taak → deze skill → Social Media Manager**, elke maandag verse beelden met de
   posts erbij ingepland
-- **Google Bedrijfsprofiel → deze skill → LinkedIn** , een goede review wordt een beeldcitaat
-- **Google Sheets → deze skill → Google Drive** , elke rij zonder beeld krijgt er een
+- **Google Bedrijfsprofiel → deze skill → LinkedIn**, een goede review wordt een beeldcitaat
+- **Google Sheets → deze skill → Google Drive**, elke rij zonder beeld krijgt er een
 
 ⚠️ Wil je een **bestaand** bestand gebruiken, laat GENI het dan eerst ophalen. De link uit
 `visualstudio_bibliotheek` is tijdelijk; een opgehaald bestand blijft werken.

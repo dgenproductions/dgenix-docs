@@ -7,7 +7,7 @@ Beschikbaar vanaf **Growth**. Je hebt geen koppeling nodig, maar met
 
 ## Wat kan GENI hiermee?
 
-- **Je financiële beeld analyseren** , inkomen, vaste lasten, variabele uitgaven, schulden en spaardoel in één overzicht met een oordeel erbij
+- **Je financiële beeld analyseren**, inkomen, vaste lasten, variabele uitgaven, schulden en spaardoel in één overzicht met een oordeel erbij
 - **Een besparingsplan maken** met een concreet maandbedrag als doel, en waar dat vandaan moet komen
 
 Heb je [Stripe Inzichten](stripe-insights.md) actief, dan gebruikt GENI je
@@ -21,7 +21,7 @@ Ik verdien netto 3.200. Huur 1.150, verzekeringen 210, abonnementen 95,
 boodschappen 450, uit eten ongeveer 200. Ik wil 500 per maand sparen.
 ```
 
-> **Financieel overzicht , per maand**
+> **Financieel overzicht, per maand**
 >
 > | Post | Bedrag |
 > |---|---|

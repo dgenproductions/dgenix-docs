@@ -19,7 +19,7 @@ exactly those two barriers. Available from **Pro**.
 
 You ask GENI how your campaigns stand:
 
-> **Campaign "July customers"** , 48 contacts
+> **Campaign "July customers"**, 48 contacts
 >
 > - Sent: 44
 > - Pending: 3

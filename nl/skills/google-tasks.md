@@ -22,9 +22,9 @@ Wat moet ik vandaag doen?
 
 > Je hebt **7 openstaande taken**. Dit zou ik vandaag doen:
 >
-> 1. **Btw-aangifte indienen** , deadline morgen. Wettelijke termijn, hier begin je mee.
-> 2. **Contract De Vries sturen** , ze wachten er sinds dinsdag op.
-> 3. **Offerte Bakkerij afronden** , deadline vrijdag, kost je nog een uur.
+> 1. **Btw-aangifte indienen**, deadline morgen. Wettelijke termijn, hier begin je mee.
+> 2. **Contract De Vries sturen**, ze wachten er sinds dinsdag op.
+> 3. **Offerte Bakkerij afronden**, deadline vrijdag, kost je nog een uur.
 >
 > De overige 4 hebben geen deadline en kunnen wachten. Zal ik de eerste
 > afvinken als je klaar bent?

@@ -38,7 +38,7 @@ When creating or updating you see what will be written first:
 Set Van Dijk to "quote sent"
 ```
 
-> **Van Dijk BV** , status from *waiting for quote* to *quote sent*.
+> **Van Dijk BV**, status from *waiting for quote* to *quote sent*.
 > Shall I apply that?
 
 ## Requirements

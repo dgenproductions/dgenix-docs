@@ -18,7 +18,7 @@ toegang tot de GA4-property.
 Hoe liep mijn website vorige maand?
 ```
 
-> **Juli 2026** , 3.480 sessies van 2.910 gebruikers *(+12% t.o.v. juni)*
+> **Juli 2026**, 3.480 sessies van 2.910 gebruikers *(+12% t.o.v. juni)*
 >
 > | Bron | Sessies | Aandeel |
 > |---|---|---|

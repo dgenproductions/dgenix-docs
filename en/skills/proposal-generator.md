@@ -18,15 +18,15 @@ Make a proposal for Bakkerij De Krent: new website plus integration with their
 point-of-sale system, budget around 12,000
 ```
 
-> **Proposal , Website and POS integration, Bakkerij De Krent**
+> **Proposal, Website and POS integration, Bakkerij De Krent**
 >
 > **Situation.** Two locations, growing hospitality supply, but orders currently
 > come in by phone and email.
 >
 > **Approach in three phases**
-> 1. Website with a business ordering portal , 4 weeks
-> 2. Integration with the POS system , 3 weeks
-> 3. Handover and training , 1 week
+> 1. Website with a business ordering portal, 4 weeks
+> 2. Integration with the POS system, 3 weeks
+> 3. Handover and training, 1 week
 >
 > **Investment:** €11,800 excluding VAT, in three instalments
 > **Lead time:** 8 weeks after approval

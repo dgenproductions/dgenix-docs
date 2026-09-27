@@ -7,10 +7,10 @@ komen van dGENIX zelf.
 
 ## Wat kan GENI hiermee?
 
-- **Winkels opzoeken op de kaart** , supermarkten, bouwmarkten, kledingzaken of een speciaalzaak, met adres, beoordeling en openingstijden
+- **Winkels opzoeken op de kaart**, supermarkten, bouwmarkten, kledingzaken of een speciaalzaak, met adres, beoordeling en openingstijden
 - **De route naar een winkel berekenen**, met afstand en reistijd
 - **Boodschappenlijsten maken en bijhouden**, gegroepeerd per schap
-- **Meedenken over een aankoop** , waar je op let, welke maat of variant je nodig hebt, waar het meestal te krijgen is
+- **Meedenken over een aankoop**, waar je op let, welke maat of variant je nodig hebt, waar het meestal te krijgen is
 
 Alleen de eerste twee halen echte gegevens op; dat is ook waar de credits zitten.
 
@@ -43,7 +43,7 @@ Zet op mijn lijst: koffie, wc-papier, tandpasta, en iets voor zondagavond
 > **Koffie & thee:** koffiebonen
 > **Huishoudelijk:** wc-papier, tandpasta
 > **Zondagavond:** je hebt vorige week ovenschotel gehad, dus ik zet er
-> zalm, aardappels en broccoli bij , 25 minuten werk.
+> zalm, aardappels en broccoli bij, 25 minuten werk.
 >
 > Zeg het als je iets anders wilt voor zondag.
 
@@ -71,7 +71,7 @@ opgehaald. Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
 
 ## Grenzen en limieten
 
-- **GENI bestelt en koopt niets.** Geen webshops, geen betalingen , je krijgt de lijst en de winkels.
+- **GENI bestelt en koopt niets.** Geen webshops, geen betalingen, je krijgt de lijst en de winkels.
 - **Er zijn geen actuele prijzen of voorraad.** Hij weet niet of dat ene product vandaag in dat filiaal ligt.
 - **Aanbiedingen en folders zitten er niet in.**
 - **Openingstijden kunnen verouderd zijn**, zeker rond feestdagen. Check ze als je speciaal ergens heen rijdt.

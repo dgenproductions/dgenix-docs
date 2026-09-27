@@ -28,7 +28,7 @@ Google without switching on the skill and it has access but no actions.
 
 That sounds roundabout and is not. You connect Google once and then decide per
 skill what to switch on. And if you revoke the connection, every skill that
-depends on it is out of play immediately , one button, no loose ends.
+depends on it is out of play immediately, one button, no loose ends.
 
 ## What happens on a single request
 

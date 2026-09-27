@@ -19,7 +19,7 @@ eruit halen is het werk dat blijft liggen.
 Wat komt er uit ons klanttevredenheidsformulier?
 ```
 
-> **Klanttevredenheid , 87 reacties, laatste 30 dagen**
+> **Klanttevredenheid, 87 reacties, laatste 30 dagen**
 >
 > **Gemiddelde score:** 8,1 *(was 7,6 vorige periode)*
 >

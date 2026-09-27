@@ -15,7 +15,7 @@ dGENIX is in ongeveer 5 minuten actief. Je werkt via het dashboard op [app.dgeni
 
 ### 1. Account aanmaken
 
-Ga naar [app.dgenix.com/signup](https://app.dgenix.com/signup) en maak een account met je e-mail en een wachtwoord.
+Ga naar [app.dgenix.com/signup](https://app.dgenix.com/signup) en maak een account met je e-mail en een wachtwoord. Tijdens de beta zet je je eerst op de [wachtlijst](https://app.dgenix.com/waitlist) en krijg je een uitnodiging.
 
 [Account aanmaken](account-aanmaken.md)
 

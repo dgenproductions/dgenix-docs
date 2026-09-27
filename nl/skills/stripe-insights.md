@@ -8,7 +8,7 @@ koppeling is alleen-lezen.
 ## Wat kan GENI hiermee?
 
 - **Een omzetoverzicht opvragen** over een periode: omzet, aantal betalingen, terugbetalingen
-- **Mislukte betalingen opvragen** , welke, van wie, en waarom ze misgingen
+- **Mislukte betalingen opvragen**, welke, van wie, en waarom ze misgingen
 - **Een klant opzoeken** met zijn betaalgeschiedenis en abonnementsstatus
 
 ## Voorbeeld: wat je vraagt, wat je terugkrijgt
@@ -38,7 +38,7 @@ En gericht:
 Wat is de status van klant De Krent?
 ```
 
-> **De Krent** , klant sinds maart 2026
+> **De Krent**, klant sinds maart 2026
 > Abonnement **actief**, € 95 per maand, volgende incasso 12 augustus.
 > Totaal betaald: € 475 over 5 facturen, geen mislukte betalingen.
 

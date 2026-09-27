@@ -3,7 +3,7 @@
 Skills zijn de losse vaardigheden die je aan GENI toevoegt: je activeert ze met één klik, ze zitten in je plan inbegrepen, en je betaalt alleen credits per uitgevoerde actie.
 
 Er zijn ruim 60 skills. Wat je plan bepaalt is vanaf welk niveau een skill
-beschikbaar is , **geen enkele skill kost een apart maandbedrag**. Activeren doe
+beschikbaar is, **geen enkele skill kost een apart maandbedrag**. Activeren doe
 je via **Dashboard → Skills**.
 
 ## Wat je ziet in de marktplaats
@@ -24,44 +24,44 @@ activeren. Je ziet dus altijd wat er bestaat, niet alleen wat jij nu hebt.
 
 Je dagelijkse werk: mail, agenda, bestanden en documenten.
 
-- **[Gmail](gmail.md)** , mail lezen, schrijven en opruimen
-- **[Google Calendar](google-calendar.md)** , afspraken bekijken, plannen en verzetten
-- **[Google Drive](google-drive.md)** , bestanden zoeken, lezen en aanmaken
-- **[Google Sheets](google-sheets.md)** , spreadsheets lezen en bijwerken
-- **[Google Taken](google-tasks.md)** , taken en to-do's beheren
-- **[Document Lezer](document-reader.md)** , een pagina of tekst laten samenvatten
-- **[Dagplanner](dagplanner.md)** , dagoverzicht, prioriteiten en terugkerende taken
-- **[Short Generator](short-generator.md)** , een YouTube-URL naar een korte clip
-- **[AI Beeldbewerking](image-resizer.md)** , formaat, uitsnede en optimalisatie
-- **[Canva](canva.md)** , designs zoeken, invullen en exporteren
-- **Telegram** , GENI bereiken via Telegram, gratis add-on
+- **[Gmail](gmail.md)**, mail lezen, schrijven en opruimen
+- **[Google Calendar](google-calendar.md)**, afspraken bekijken, plannen en verzetten
+- **[Google Drive](google-drive.md)**, bestanden zoeken, lezen en aanmaken
+- **[Google Sheets](google-sheets.md)**, spreadsheets lezen en bijwerken
+- **[Google Taken](google-tasks.md)**, taken en to-do's beheren
+- **[Document Lezer](document-reader.md)**, een pagina of tekst laten samenvatten
+- **[Dagplanner](dagplanner.md)**, dagoverzicht, prioriteiten en terugkerende taken
+- **[Short Generator](short-generator.md)**, een YouTube-URL naar een korte clip
+- **[AI Beeldbewerking](image-resizer.md)**, formaat, uitsnede en optimalisatie
+- **[Canva](canva.md)**, designs zoeken, invullen en exporteren
+- **Telegram**, GENI bereiken via Telegram, gratis add-on
 
 ## Vanaf Growth
 
 De zakelijke laag: content, onderzoek, klantwerk en de eerste engine.
 
-- **Beeld en geluid** , [AI Beeldgeneratie](ai-beeldgeneratie.md), [FLUX](flux-image.md), [dGEN Visual Studio](dgen-visual-studio.md), [Audio Transcriptie](transcriptie.md)
-- **Content** , [Social Media Manager](social-media.md), [SEO Blog Schrijver](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
-- **Onderzoek** , [Nieuws & Research](nieuws-research.md), [Deep Research](deep-research.md)
-- **Klantwerk** , [Lead Research](lead-research.md), [Voorstel Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)
-- **Berichten** , [WhatsApp Business](whatsapp-business.md), [Instagram DM](instagram-dm.md), [Slack](slack.md)
-- **Kantoor** , [Notion](notion.md), [Airtable](airtable.md), [Typeform](typeform.md), [Calendly](calendly.md), [CMS Publisher](cms-publisher.md)
-- **Google-suite** , [Analytics](google-analytics.md), [Search Console](google-search-console.md), [Docs](google-docs.md), [Bedrijfsprofiel](google-business-profile.md)
-- **Rapportage** , [Weekrapport](weekly-report.md), [Stripe Inzichten](stripe-insights.md)
-- **Persoonlijk** , [Travel Planner](travel.md), [Smart Shopping](shopping.md), [Maaltijdplanner](meal-planner.md), [Financieel Overzicht](finance.md)
-- **[SEO Engine](seo-engine.md)** , de eerste van de vijf engines
-- **[MCP-connectors](../connectors/mcp-connectors.md)** , tools zonder eigen koppeling
+- **Beeld en geluid**, [AI Beeldgeneratie](ai-beeldgeneratie.md), [FLUX](flux-image.md), [dGEN Visual Studio](dgen-visual-studio.md), [Audio Transcriptie](transcriptie.md)
+- **Content**, [Social Media Manager](social-media.md), [SEO Blog Schrijver](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
+- **Onderzoek**, [Nieuws & Research](nieuws-research.md), [Deep Research](deep-research.md)
+- **Klantwerk**, [Lead Research](lead-research.md), [Voorstel Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)
+- **Berichten**, [WhatsApp Business](whatsapp-business.md), [Instagram DM](instagram-dm.md), [Slack](slack.md)
+- **Kantoor**, [Notion](notion.md), [Airtable](airtable.md), [Typeform](typeform.md), [Calendly](calendly.md), [CMS Publisher](cms-publisher.md)
+- **Google-suite**, [Analytics](google-analytics.md), [Search Console](google-search-console.md), [Docs](google-docs.md), [Bedrijfsprofiel](google-business-profile.md)
+- **Rapportage**, [Weekrapport](weekly-report.md), [Stripe Inzichten](stripe-insights.md)
+- **Persoonlijk**, [Travel Planner](travel.md), [Smart Shopping](shopping.md), [Maaltijdplanner](meal-planner.md), [Financieel Overzicht](finance.md)
+- **[SEO Engine](seo-engine.md)**, de eerste van de vijf engines
+- **[MCP-connectors](../connectors/mcp-connectors.md)**, tools zonder eigen koppeling
 
 ## Vanaf Pro
 
 De zwaarste tools en alles wat namens jou naar buiten treedt.
 
-- **Vier engines** , [GEO](geo-engine.md), [Authority](authority-engine.md), [Reputation](reputation-engine.md), [AI Content](ai-content-engine.md)
-- **Kennis en overleg** , [Support Kennisbank](knowledge-base.md), [Vergadering Assistent](meeting-assistant.md), [Team Assistent](team-assistant.md)
-- **Automatisering** , [Workflow Builder](workflow-import.md), [Eigen Workflows](custom-workflows.md)
-- **Administratie** , [Factuur Automator](invoice-automator.md), [CRM Sync](crm-sync.md), [E-mail Marketing](email-marketing.md), [Renewal & Upsell](renewal-upsell.md)
-- **Klantgericht** , [White Label Content](white-label.md), [AI Receptionist](ai-receptionist.md)
-- **Eigen Telegram-bot** , GENI onder je eigen botnaam
+- **Vier engines**, [GEO](geo-engine.md), [Authority](authority-engine.md), [Reputation](reputation-engine.md), [AI Content](ai-content-engine.md)
+- **Kennis en overleg**, [Support Kennisbank](knowledge-base.md), [Vergadering Assistent](meeting-assistant.md), [Team Assistent](team-assistant.md)
+- **Automatisering**, [Workflow Builder](workflow-import.md), [Eigen Workflows](custom-workflows.md)
+- **Administratie**, [Factuur Automator](invoice-automator.md), [CRM Sync](crm-sync.md), [E-mail Marketing](email-marketing.md), [Renewal & Upsell](renewal-upsell.md)
+- **Klantgericht**, [White Label Content](white-label.md), [AI Receptionist](ai-receptionist.md)
+- **Eigen Telegram-bot**, GENI onder je eigen botnaam
 
 ## De vijf Growth Engines
 

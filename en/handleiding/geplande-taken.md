@@ -122,9 +122,9 @@ this is waiting without you asking:
 
 > **Good morning. Here is today.**
 >
-> - **10:00** , call De Vries about the quote
-> - **13:30** , supplier, Industrieweg 4
-> - **16:00** , team meeting
+> - **10:00**, call De Vries about the quote
+> - **13:30**, supplier, Industrieweg 4
+> - **16:00**, team meeting
 >
 > **From your inbox:** 2 emails need action. The accountant wants the VAT
 > figures before the 25th, and Sofie is waiting on the contract.

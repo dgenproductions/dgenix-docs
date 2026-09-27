@@ -11,7 +11,7 @@ your own.
 
 The difference with [AI Image Generation](ai-beeldgeneratie.md) and [FLUX](flux-image.md) is
 the word *your*. Those two quickly make a one-off image on our models. This skill works in
-your studio, with your models, your LoRAs and your library , and it can do something the
+your studio, with your models, your LoRAs and your library, and it can do something the
 other two cannot: run a flow you built.
 
 | Tool | What it does |
@@ -47,12 +47,12 @@ monthly round of visuals happens on its own, every Monday at eight.
 Everything GENI makes in your studio also lands in your dGENIX files. That turns the result
 from an endpoint into a link in a chain:
 
-- **Knowledge base → SEO Blog Writer → this skill → CMS Publisher** , an article with a
+- **Knowledge base → SEO Blog Writer → this skill → CMS Publisher**, an article with a
   matching image, staged as a draft
-- **Scheduled task → this skill → Social Media Manager** , fresh visuals every Monday with
+- **Scheduled task → this skill → Social Media Manager**, fresh visuals every Monday with
   the posts scheduled alongside
-- **Google Business Profile → this skill → LinkedIn** , a good review becomes a quote card
-- **Google Sheets → this skill → Google Drive** , every row without an image gets one
+- **Google Business Profile → this skill → LinkedIn**, a good review becomes a quote card
+- **Google Sheets → this skill → Google Drive**, every row without an image gets one
 
 ⚠️ To use an **existing** file, have GENI fetch it first. The link from
 `visualstudio_bibliotheek` is temporary; a fetched file keeps working.

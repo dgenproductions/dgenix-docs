@@ -7,7 +7,7 @@ Available from **Growth**. No connection needed, though with
 
 ## What can GENI do with it?
 
-- **Analyse your financial picture** , income, fixed costs, variable spending, debts and savings goal in one overview, with a verdict attached
+- **Analyse your financial picture**, income, fixed costs, variable spending, debts and savings goal in one overview, with a verdict attached
 - **Build a savings plan** with a concrete monthly target, and where that has to come from
 
 If you have [Stripe Insights](stripe-insights.md) active, GENI uses your actual
@@ -20,7 +20,7 @@ I earn 3,200 net. Rent 1,150, insurance 210, subscriptions 95,
 groceries 450, eating out about 200. I want to save 500 a month.
 ```
 
-> **Financial overview , per month**
+> **Financial overview, per month**
 >
 > | Item | Amount |
 > |---|---|

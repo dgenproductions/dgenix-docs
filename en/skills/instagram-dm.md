@@ -28,9 +28,9 @@ Which DMs today are actually worth it?
 > | Spam | 9 |
 >
 > **The 3 leads:**
-> - **@sportschool_veldhoven** , asking for a quote for 40 people
-> - **@marieke.k** , wants to know whether you also work in Tilburg
-> - **@bouwbedrijf_jansen** , asking about a partnership
+> - **@sportschool_veldhoven**, asking for a quote for 40 people
+> - **@marieke.k**, wants to know whether you also work in Tilburg
+> - **@bouwbedrijf_jansen**, asking about a partnership
 >
 > The 9 FAQs are almost all about your opening hours. Shall I draft one answer
 > you can reuse?

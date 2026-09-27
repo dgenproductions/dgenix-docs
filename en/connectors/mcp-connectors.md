@@ -49,7 +49,7 @@ has three consequences worth knowing:
 
 What a connector is allowed to do is decided by the service at connection time.
 If you log in at the service, you see its consent screen listing the permissions
-requested , read that, because the real answer is there. If you paste a key,
+requested, read that, because the real answer is there. If you paste a key,
 whatever that key allows applies; create one with as few rights as possible.
 
 Whatever is requested: actions that change or delete something always ask for
@@ -82,7 +82,7 @@ Two things to know:
 - **What the connector created earlier stays put.** Disconnecting pulls nothing back out of the service; you clear that up there.
 
 You can also revoke the permission at the service itself. If you do, the
-connector stops without warning , disconnecting inside dGENIX keeps the overview
+connector stops without warning, disconnecting inside dGENIX keeps the overview
 cleaner.
 
 ## What it costs

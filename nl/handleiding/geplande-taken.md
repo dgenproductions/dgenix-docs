@@ -132,9 +132,9 @@ ochtend staat dit klaar zonder dat je erom vroeg:
 
 > **Goedemorgen. Dit staat er vandaag.**
 >
-> - **10:00** , bellen met De Vries over de offerte
-> - **13:30** , leverancier, Industrieweg 4
-> - **16:00** , teamoverleg
+> - **10:00**, bellen met De Vries over de offerte
+> - **13:30**, leverancier, Industrieweg 4
+> - **16:00**, teamoverleg
 >
 > **Uit je inbox:** 2 mails vragen actie. De boekhouder wil de btw-cijfers vóór
 > de 25e, en Sofie wacht op het contract.

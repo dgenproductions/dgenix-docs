@@ -19,7 +19,7 @@ Available from **Starter**. You need a connected Google account; see
 Find the De Vries quote and summarise it
 ```
 
-> Found: **Quote De Vries , heat pump.docx**, last modified 2 August.
+> Found: **Quote De Vries, heat pump.docx**, last modified 2 August.
 >
 > - Heat pump including installation: **€8,450** excluding VAT
 > - Lead time 4 to 6 weeks after approval

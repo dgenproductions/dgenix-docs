@@ -18,15 +18,15 @@ Instagram wil een haakje. Dezelfde inhoud, vier verschillende vormen.
 Maak van dit blogartikel content voor LinkedIn, X, mijn nieuwsbrief en Instagram
 ```
 
-> **LinkedIn** , 140 woorden, persoonlijke insteek
+> **LinkedIn**, 140 woorden, persoonlijke insteek
 > "Vorige week belde een klant met een vraag die ik vaker hoor…"
 >
-> **X** , 3 losse posts, elk onder 280 tekens
+> **X**, 3 losse posts, elk onder 280 tekens
 > "De meeste sites blokkeren precies de AI-bots die hen zouden citeren. Al jaren."
 >
-> **Nieuwsbrief** , 320 woorden, met een korte inleiding en een afsluiter
+> **Nieuwsbrief**, 320 woorden, met een korte inleiding en een afsluiter
 >
-> **Instagram** , caption van 90 woorden plus 12 hashtags, met een suggestie voor
+> **Instagram**, caption van 90 woorden plus 12 hashtags, met een suggestie voor
 > het beeld: een screenshot van de robots.txt-regel.
 >
 > Alles staat in je Werkruimte. Zal ik de LinkedIn-versie meteen publiceren?

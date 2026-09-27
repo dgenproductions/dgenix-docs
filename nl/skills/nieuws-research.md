@@ -16,7 +16,7 @@ Eén tool, maar de invalshoek bepaalt waar hij zoekt en hoe het antwoord eruitzi
 Wat speelt er in de Nederlandse horeca-automatisering? Type: markt
 ```
 
-> **Markt , horeca-automatisering Nederland**
+> **Markt, horeca-automatisering Nederland**
 >
 > **Wat er gebeurt**
 > Kassasystemen bewegen richting all-in-one: bestellen, betalen, voorraad en
@@ -29,9 +29,9 @@ Wat speelt er in de Nederlandse horeca-automatisering? Type: markt
 > - Koppelingen met de boekhouding worden standaard verwacht, niet meer als extra
 >
 > **Bronnen**
-> - Brancherapport horeca 2026 , voorbeeld.nl/rapport
-> - Vakblad, artikel juli 2026 , voorbeeld.nl/artikel
-> - Marktoverzicht kassaleveranciers , voorbeeld.nl/overzicht
+> - Brancherapport horeca 2026, voorbeeld.nl/rapport
+> - Vakblad, artikel juli 2026, voorbeeld.nl/artikel
+> - Marktoverzicht kassaleveranciers, voorbeeld.nl/overzicht
 >
 > Wil je dat ik hier een concurrentieanalyse van drie leveranciers naast zet?
 

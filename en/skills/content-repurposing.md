@@ -18,15 +18,15 @@ hook. Same substance, four different shapes.
 Turn this blog article into content for LinkedIn, X, my newsletter and Instagram
 ```
 
-> **LinkedIn** , 140 words, personal angle
+> **LinkedIn**, 140 words, personal angle
 > "Last week a client called with a question I hear often…"
 >
-> **X** , 3 separate posts, each under 280 characters
+> **X**, 3 separate posts, each under 280 characters
 > "Most sites block exactly the AI bots that would cite them. For years."
 >
-> **Newsletter** , 320 words, with a short intro and a closing line
+> **Newsletter**, 320 words, with a short intro and a closing line
 >
-> **Instagram** , a 90-word caption plus 12 hashtags, with a suggestion for the
+> **Instagram**, a 90-word caption plus 12 hashtags, with a suggestion for the
 > visual: a screenshot of the robots.txt line.
 >
 > Everything is in your Workspace. Shall I publish the LinkedIn version now?

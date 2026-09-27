@@ -26,9 +26,9 @@ Transcribe this recording and give me the action items
 > - The maintenance contract will not be renewed
 >
 > **Action items**
-> - **You** , finish the De Vries quote, before Friday
-> - **Sanne** , call the supplier about the lead time
-> - **Nobody yet** , who takes on customer communication?
+> - **You**, finish the De Vries quote, before Friday
+> - **Sanne**, call the supplier about the lead time
+> - **Nobody yet**, who takes on customer communication?
 >
 > **Worth noting:** around minute 31 an 8 percent price increase is mentioned
 > that was never formally decided.

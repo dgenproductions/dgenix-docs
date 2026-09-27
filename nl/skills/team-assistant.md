@@ -7,8 +7,8 @@ Beschikbaar vanaf **Pro**. Werkt met geplakte tekst; met een gekoppelde
 
 ## Wat kan GENI hiermee?
 
-- **Een team-update samenvatten** , een Slack-thread, vergadernotitie of lange mailwisseling terugbrengen tot de kern
-- **Actie-items extraheren** , wie doet wat, met deadline waar die genoemd is
+- **Een team-update samenvatten**, een Slack-thread, vergadernotitie of lange mailwisseling terugbrengen tot de kern
+- **Actie-items extraheren**, wie doet wat, met deadline waar die genoemd is
 - **Slack-berichten ophalen** uit een kanaal (vereist een gekoppelde Slack-werkruimte)
 
 De eerste twee werken ook zonder koppeling: plak de tekst en je krijgt hetzelfde
@@ -20,7 +20,7 @@ resultaat.
 Vat #project-dekrent van deze week samen en haal de actiepunten eruit
 ```
 
-> **#project-dekrent , 4 t/m 8 augustus, 63 berichten**
+> **#project-dekrent, 4 t/m 8 augustus, 63 berichten**
 >
 > **Waar het over ging**
 > De oplevering schoof van week 38 naar week 40 omdat de kassakoppeling
@@ -65,7 +65,7 @@ Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
 
 - **GENI reageert niet namens jou.** Hij leest en vat samen; posten doe je zelf of via de [Slack-skill](slack.md).
 - **Alleen kanalen waar de koppeling bij kan.** Privéberichten en besloten kanalen zonder toegang blijven buiten beeld.
-- **Actie-items zijn een voorstel.** Een toewijzing die niet expliciet in het gesprek staat, leidt hij af , controleer die voor je hem doorgeeft.
+- **Actie-items zijn een voorstel.** Een toewijzing die niet expliciet in het gesprek staat, leidt hij af, controleer die voor je hem doorgeeft.
 - **Zeer lange periodes worden gedeeltelijk gelezen.** Vraag per week of per thread in plaats van per maand.
 - **Hij plant niets in.** Vraag [Google Calendar](google-calendar.md) of je [Werkruimte](../functies/werkruimte.md) om er echt taken van te maken.
 
@@ -82,7 +82,7 @@ Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
 ## Veelgestelde vragen
 
 **Werkt dit ook zonder Slack?**
-Ja. Plak de tekst uit welke bron dan ook , Teams, mail, notulen , en je krijgt
+Ja. Plak de tekst uit welke bron dan ook, Teams, mail, notulen, en je krijgt
 hetzelfde resultaat.
 
 **Wat is het verschil met de Vergadering Assistent?**

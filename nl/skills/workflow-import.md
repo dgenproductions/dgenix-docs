@@ -24,12 +24,12 @@ Importeer deze workflow
 > **Geïmporteerd: Lead-verrijking**
 >
 > 6 stappen herkend:
-> 1. Webhook , ontvangt bedrijfsnaam
-> 2. HTTP , KvK-gegevens ophalen
-> 3. Filter , alleen actieve inschrijvingen
-> 4. HTTP , website ophalen
-> 5. AI , bedrijfsomschrijving samenvatten
-> 6. Google Sheets , regel toevoegen
+> 1. Webhook, ontvangt bedrijfsnaam
+> 2. HTTP, KvK-gegevens ophalen
+> 3. Filter, alleen actieve inschrijvingen
+> 4. HTTP, website ophalen
+> 5. AI, bedrijfsomschrijving samenvatten
+> 6. Google Sheets, regel toevoegen
 >
 > Je gebruikt nu **2 van je 3 slots**.
 > Uitvoeren kost ongeveer 25 credits, afhankelijk van het aantal stappen.

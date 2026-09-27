@@ -6,7 +6,7 @@ Beschikbaar vanaf **Pro**. Je hebt geen koppeling nodig.
 
 ## Wat kan GENI hiermee?
 
-- **Je FAQ instellen** , bedrijfsnaam, vraag-en-antwoordparen, communicatietoon en extra bedrijfsinformatie zoals openingstijden en adres
+- **Je FAQ instellen**, bedrijfsnaam, vraag-en-antwoordparen, communicatietoon en extra bedrijfsinformatie zoals openingstijden en adres
 - **Een klantvraag beantwoorden** op basis van die FAQ
 - **Een klantgesprek samenvatten** met de actiepunten eruit
 

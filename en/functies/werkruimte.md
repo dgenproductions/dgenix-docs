@@ -22,11 +22,11 @@ The Workspace has three tabs:
 
 Capture what you do not want to forget, all in one place. Type a note in the quick capture bar at the top, or open a note for the full editor with a title, tags and a folder.
 
-- **Folders** , organize notes per project or topic.
-- **Tags** , label notes so you find them back easily.
-- **Search** , search through titles, content and tags.
-- **Pin** , keep important notes at the top.
-- **Discuss with GENI** , send a note to the chat in one click to work on it together.
+- **Folders**, organize notes per project or topic.
+- **Tags**, label notes so you find them back easily.
+- **Search**, search through titles, content and tags.
+- **Pin**, keep important notes at the top.
+- **Discuss with GENI**, send a note to the chat in one click to work on it together.
 
 You can also save any assistant message as a note in one click (the notebook icon under a message).
 
@@ -61,10 +61,10 @@ In `Settings` you can enable GENI to detect action items from your conversations
 
 The Workspace has an AI layer that helps you capture and find things faster:
 
-- **Semantic search** , search by meaning, not just exact words. Type a question in the search bar (or ask GENI) and you find the right note even without the same words.
-- **Similar notes** , inside an open note you automatically see earlier notes that relate to it.
-- **AI tags** , let GENI suggest fitting tags based on the content, in one click.
-- **Voice notes** , speak your note; GENI transcribes it and saves it straight to your workspace.
+- **Semantic search**, search by meaning, not just exact words. Type a question in the search bar (or ask GENI) and you find the right note even without the same words.
+- **Similar notes**, inside an open note you automatically see earlier notes that relate to it.
+- **AI tags**, let GENI suggest fitting tags based on the content, in one click.
+- **Voice notes**, speak your note; GENI transcribes it and saves it straight to your workspace.
 
 ---
 

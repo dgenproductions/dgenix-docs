@@ -15,7 +15,7 @@ dGENIX is live in about 5 minutes. You work from the dashboard at [app.dgenix.co
 
 ### 1. Create an account
 
-Go to [app.dgenix.com/signup](https://app.dgenix.com/signup) and create an account with your email and a password.
+Go to [app.dgenix.com/signup](https://app.dgenix.com/signup) and create an account with your email and a password. During the beta you first join the [waitlist](https://app.dgenix.com/waitlist) and receive an invitation.
 
 [Create an account](account-aanmaken.md)
 

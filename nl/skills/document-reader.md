@@ -18,7 +18,7 @@ Vat deze algemene voorwaarden samen en zeg wat er opvalt
 [tekst geplakt]
 ```
 
-> **Samenvatting , Algemene voorwaarden leverancier X**
+> **Samenvatting, Algemene voorwaarden leverancier X**
 >
 > - Betaaltermijn **14 dagen**, daarna 2 procent rente per maand
 > - Opzegtermijn **drie maanden**, alleen per einde kwartaal
@@ -81,7 +81,7 @@ je eigen computer hebt.
 ## Grenzen en limieten
 
 - **PDF tot 25 pagina's en 10 MB.** Groter wordt geweigerd met de reden erbij, in plaats van half gelezen. Splits het document of geef aan welk deel je bedoelt.
-- **Wil je een bestand meesturen in plaats van een link?** Gebruik de bijlage-knop in de chat , dat loopt via de chat zelf en niet via deze skill.
+- **Wil je een bestand meesturen in plaats van een link?** Gebruik de bijlage-knop in de chat, dat loopt via de chat zelf en niet via deze skill.
 - **Bijlagen in de chat:** afbeeldingen, PDF, txt, markdown en csv, maximaal **5 MB per bestand** en **3 bestanden per bericht**.
 - **Een pagina achter een login of paywall kan hij niet ophalen.** Plak de tekst dan zelf.
 - **Interne of privé-adressen worden geblokkeerd.** Alleen publiek bereikbare URL's, dat is een bewuste veiligheidsmaatregel.

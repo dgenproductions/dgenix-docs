@@ -21,9 +21,9 @@ Wat staat er morgen op mijn agenda?
 
 > **Donderdag 7 augustus**
 >
-> - **10:00-11:00** , Klantgesprek De Vries
-> - **13:30-14:30** , Leverancier, Industrieweg 4
-> - **16:00-17:00** , Teamoverleg
+> - **10:00-11:00**, Klantgesprek De Vries
+> - **13:30-14:30**, Leverancier, Industrieweg 4
+> - **16:00-17:00**, Teamoverleg
 >
 > Je hebt één vrij blok van 11:00 tot 13:30.
 
@@ -33,7 +33,7 @@ Bij het inplannen zie je eerst wat er komt te staan:
 Plan vrijdag om 14:00 een uur in met ABC over de offerte
 ```
 
-> **Klantgesprek ABC , offerte**
+> **Klantgesprek ABC, offerte**
 > Vrijdag 8 augustus, 14:00-15:00
 >
 > Dit staat niet in de weg van je andere afspraken. Zal ik hem aanmaken?

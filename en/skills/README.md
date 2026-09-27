@@ -3,7 +3,7 @@
 Skills are the individual capabilities you add to GENI: you activate them with one click, they are included in your plan, and you only pay credits per action performed.
 
 There are over 60 skills. What your plan decides is the level from which a skill
-becomes available , **no skill carries a separate monthly fee**. You activate
+becomes available, **no skill carries a separate monthly fee**. You activate
 them through **Dashboard -> Skills**.
 
 ## What you see in the marketplace
@@ -24,44 +24,44 @@ always see what exists, not only what you currently have.
 
 Your daily work: mail, calendar, files and documents.
 
-- **[Gmail](gmail.md)** , read, write and clear email
-- **[Google Calendar](google-calendar.md)** , view, schedule and move appointments
-- **[Google Drive](google-drive.md)** , find, read and create files
-- **[Google Sheets](google-sheets.md)** , read and update spreadsheets
-- **[Google Tasks](google-tasks.md)** , manage tasks and to-dos
-- **[Document Reader](document-reader.md)** , have a page or text summarised
-- **[Daily Planner](dagplanner.md)** , daily overview, priorities and recurring tasks
-- **[Short Generator](short-generator.md)** , a YouTube URL into a short clip
-- **[AI Image Editing](image-resizer.md)** , size, crop and optimisation
-- **[Canva](canva.md)** , find, fill and export designs
-- **Telegram** , reach GENI through Telegram, free add-on
+- **[Gmail](gmail.md)**, read, write and clear email
+- **[Google Calendar](google-calendar.md)**, view, schedule and move appointments
+- **[Google Drive](google-drive.md)**, find, read and create files
+- **[Google Sheets](google-sheets.md)**, read and update spreadsheets
+- **[Google Tasks](google-tasks.md)**, manage tasks and to-dos
+- **[Document Reader](document-reader.md)**, have a page or text summarised
+- **[Daily Planner](dagplanner.md)**, daily overview, priorities and recurring tasks
+- **[Short Generator](short-generator.md)**, a YouTube URL into a short clip
+- **[AI Image Editing](image-resizer.md)**, size, crop and optimisation
+- **[Canva](canva.md)**, find, fill and export designs
+- **Telegram**, reach GENI through Telegram, free add-on
 
 ## From Growth
 
 The business layer: content, research, client work and the first engine.
 
-- **Image and audio** , [AI Image Generation](ai-beeldgeneratie.md), [FLUX](flux-image.md), [dGEN Visual Studio](dgen-visual-studio.md), [Audio Transcription](transcriptie.md)
-- **Content** , [Social Media Manager](social-media.md), [SEO Blog Writer](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
-- **Research** , [News & Research](nieuws-research.md), [Deep Research](deep-research.md)
-- **Client work** , [Lead Research](lead-research.md), [Proposal Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)
-- **Messaging** , [WhatsApp Business](whatsapp-business.md), [Instagram DM](instagram-dm.md), [Slack](slack.md)
-- **Office** , [Notion](notion.md), [Airtable](airtable.md), [Typeform](typeform.md), [Calendly](calendly.md), [CMS Publisher](cms-publisher.md)
-- **Google suite** , [Analytics](google-analytics.md), [Search Console](google-search-console.md), [Docs](google-docs.md), [Business Profile](google-business-profile.md)
-- **Reporting** , [Weekly Report](weekly-report.md), [Stripe Insights](stripe-insights.md)
-- **Personal** , [Travel Planner](travel.md), [Smart Shopping](shopping.md), [Meal Planner](meal-planner.md), [Financial Overview](finance.md)
-- **[SEO Engine](seo-engine.md)** , the first of the five engines
-- **[MCP connectors](../connectors/mcp-connectors.md)** , tools without a dedicated connection
+- **Image and audio**, [AI Image Generation](ai-beeldgeneratie.md), [FLUX](flux-image.md), [dGEN Visual Studio](dgen-visual-studio.md), [Audio Transcription](transcriptie.md)
+- **Content**, [Social Media Manager](social-media.md), [SEO Blog Writer](seo-blog.md), [Content Repurposing](content-repurposing.md), [YouTube Manager](youtube.md)
+- **Research**, [News & Research](nieuws-research.md), [Deep Research](deep-research.md)
+- **Client work**, [Lead Research](lead-research.md), [Proposal Generator](proposal-generator.md), [Client Onboarding](client-onboarding.md), [HubSpot](hubspot.md), [LinkedIn](linkedin.md)
+- **Messaging**, [WhatsApp Business](whatsapp-business.md), [Instagram DM](instagram-dm.md), [Slack](slack.md)
+- **Office**, [Notion](notion.md), [Airtable](airtable.md), [Typeform](typeform.md), [Calendly](calendly.md), [CMS Publisher](cms-publisher.md)
+- **Google suite**, [Analytics](google-analytics.md), [Search Console](google-search-console.md), [Docs](google-docs.md), [Business Profile](google-business-profile.md)
+- **Reporting**, [Weekly Report](weekly-report.md), [Stripe Insights](stripe-insights.md)
+- **Personal**, [Travel Planner](travel.md), [Smart Shopping](shopping.md), [Meal Planner](meal-planner.md), [Financial Overview](finance.md)
+- **[SEO Engine](seo-engine.md)**, the first of the five engines
+- **[MCP connectors](../connectors/mcp-connectors.md)**, tools without a dedicated connection
 
 ## From Pro
 
 The heaviest tools and everything that acts outwardly on your behalf.
 
-- **Four engines** , [GEO](geo-engine.md), [Authority](authority-engine.md), [Reputation](reputation-engine.md), [AI Content](ai-content-engine.md)
-- **Knowledge and meetings** , [Support Knowledge Base](knowledge-base.md), [Meeting Assistant](meeting-assistant.md), [Team Assistant](team-assistant.md)
-- **Automation** , [Workflow Builder](workflow-import.md), [Custom Workflows](custom-workflows.md)
-- **Administration** , [Invoice Automator](invoice-automator.md), [CRM Sync](crm-sync.md), [Email Marketing](email-marketing.md), [Renewal & Upsell](renewal-upsell.md)
-- **Client-facing** , [White Label Content](white-label.md), [AI Receptionist](ai-receptionist.md)
-- **Own Telegram bot** , GENI under your own bot name
+- **Four engines**, [GEO](geo-engine.md), [Authority](authority-engine.md), [Reputation](reputation-engine.md), [AI Content](ai-content-engine.md)
+- **Knowledge and meetings**, [Support Knowledge Base](knowledge-base.md), [Meeting Assistant](meeting-assistant.md), [Team Assistant](team-assistant.md)
+- **Automation**, [Workflow Builder](workflow-import.md), [Custom Workflows](custom-workflows.md)
+- **Administration**, [Invoice Automator](invoice-automator.md), [CRM Sync](crm-sync.md), [Email Marketing](email-marketing.md), [Renewal & Upsell](renewal-upsell.md)
+- **Client-facing**, [White Label Content](white-label.md), [AI Receptionist](ai-receptionist.md)
+- **Own Telegram bot**, GENI under your own bot name
 
 ## The five Growth Engines
 

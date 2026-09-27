@@ -113,7 +113,7 @@ In de tab **Links** analyseer je je backlink-profiel:
 Je draait een Standaard Audit op je dienstenpagina. Het resultaat is geen lijst
 met technische meldingen maar een geordend oordeel:
 
-> **SEO-score 61 / 100** , was 54 bij je vorige audit *(+7)*
+> **SEO-score 61 / 100**, was 54 bij je vorige audit *(+7)*
 >
 > | Categorie | Score |
 > |---|---|

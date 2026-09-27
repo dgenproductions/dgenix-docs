@@ -29,10 +29,10 @@ Make four promo posts from our offer template, for these four products
 >
 > | Design | Product | Price shown |
 > |---|---|---|
-> | Offer , heat pump | Heat pump 8kW | €8,450 |
-> | Offer , air conditioning | Split unit | €1,295 |
-> | Offer , maintenance | Maintenance contract | €240/year |
-> | Offer , solar boiler | Solar boiler | €3,100 |
+> | Offer, heat pump | Heat pump 8kW | €8,450 |
+> | Offer, air conditioning | Split unit | €1,295 |
+> | Offer, maintenance | Maintenance contract | €240/year |
+> | Offer, solar boiler | Solar boiler | €3,100 |
 >
 > Cost: 4 × 75 = 300 credits. All four are in your Canva account, ready to
 > export or adjust further.

@@ -27,9 +27,9 @@ Transcribeer deze opname en geef me de actiepunten
 > - Het onderhoudscontract wordt niet verlengd
 >
 > **Actiepunten**
-> - **Jij** , offerte De Vries afronden, vóór vrijdag
-> - **Sanne** , leverancier bellen over de levertijd
-> - **Nog niemand** , wie neemt de klantcommunicatie op zich?
+> - **Jij**, offerte De Vries afronden, vóór vrijdag
+> - **Sanne**, leverancier bellen over de levertijd
+> - **Nog niemand**, wie neemt de klantcommunicatie op zich?
 >
 > **Opvallend:** rond minuut 31 wordt een prijsverhoging van 8 procent genoemd
 > die niet formeel besloten is.

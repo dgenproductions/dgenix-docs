@@ -7,8 +7,8 @@ Webflow-site nodig.
 
 ## Wat kan GENI hiermee?
 
-- **Publiceren naar WordPress** , titel, inhoud, categorieën en tags, als concept of direct live
-- **Publiceren naar Webflow** , een item in je CMS-collectie, als concept of gepubliceerd
+- **Publiceren naar WordPress**, titel, inhoud, categorieën en tags, als concept of direct live
+- **Publiceren naar Webflow**, een item in je CMS-collectie, als concept of gepubliceerd
 
 Beide staan standaard op **concept**. Live zetten kan, maar dan moet je het
 expliciet vragen.

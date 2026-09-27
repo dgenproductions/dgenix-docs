@@ -7,7 +7,7 @@ brands.
 
 ## What can GENI do with it?
 
-- **Create content in a brand's style** , social post, email, blog intro, product description or slogan, based on brand name, tone, core values and audience
+- **Create content in a brand's style**, social post, email, blog intro, product description or slogan, based on brand name, tone, core values and audience
 - **Save a brand profile** so you do not re-enter those details every time
 
 ## Example: what you ask, what you get
@@ -30,7 +30,7 @@ Then:
 Social post for De Krent about the new sourdough
 ```
 
-> **Social post , De Krent Bakery**
+> **Social post, De Krent Bakery**
 >
 > > It took three weeks of trying before we were happy.
 > >

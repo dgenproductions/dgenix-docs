@@ -17,7 +17,7 @@ Factuur voor De Krent: website bouw 1x 1500, kassakoppeling 1x 850,
 onderhoud 3 maanden a 95
 ```
 
-> **Factuur 2026-085 , De Krent**
+> **Factuur 2026-085, De Krent**
 >
 > | Omschrijving | Aantal | Bedrag |
 > |---|---|---|
@@ -60,7 +60,7 @@ Zie [Het creditsysteem](../hoe-het-werkt/credits.md).
 - **Hij verstuurt niets.** Mailen doe je zelf of via [Gmail](gmail.md).
 - **Btw-berekening is rekenwerk, geen advies.** Verlegde btw, ICP-leveringen en afwijkende tarieven controleer je zelf.
 - **Factuurnummers lopen door op wat je hem geeft.** Hij kent je administratie niet, dus de reeks bewaak jij.
-- **Geen betaalstatus.** Of er betaald is, weet hij niet , daarvoor is [Stripe Inzichten](stripe-insights.md) of Moneybird.
+- **Geen betaalstatus.** Of er betaald is, weet hij niet, daarvoor is [Stripe Inzichten](stripe-insights.md) of Moneybird.
 
 ## Problemen oplossen
 
