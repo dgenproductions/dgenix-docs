@@ -95,8 +95,8 @@ Ga naar **Instellingen → Mijn Assistent → Stem voor spraakantwoord**. Kies u
 | Actie | Credits |
 | --- | --- |
 | Vraag stellen via microfoon (AI-antwoord) | ~20–36 cr |
-| Spraakantwoord ~500 tekens | ~94 cr |
-| Spraakantwoord ~1.000 tekens | ~188 cr |
+| Spraakantwoord ~500 tekens | ~313 cr |
+| Spraakantwoord ~1.000 tekens | ~625 cr |
 
 Spraakberichten via Telegram worden ook verwerkt, de assistent transcribeert ze automatisch en reageert als tekst.
 

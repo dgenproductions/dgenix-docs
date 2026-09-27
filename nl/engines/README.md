@@ -46,7 +46,7 @@ Fixes doorvoeren kan op jouw manier: geef het PDF-auditrapport aan je webbouwer 
 
 **Van één video naar een week content.** Geef GENI één lange video; je krijgt de beste fragmenten terug als kant-en-klare verticale clips, elk met een viraliteits-score en een content pack (titels, caption, hashtags).
 
-- Plan: Growth+
+- Plan: Pro+
 - [Lees meer](../skills/ai-content-engine.md)
 
 ---
@@ -65,6 +65,6 @@ Vraag het GENI in één zin, of laat het wekelijks automatisch draaien via [Auto
 
 ## Wat kost een engine
 
-De **toegang** tot de engines zit in je plan (SEO en AI Content vanaf Growth, GEO, Authority en Reputation vanaf Pro). Elke **actie** die een engine uitvoert, zoals een site-audit, een Share-of-Voice-meting of een backlink-builder-run, gebruikt credits uit je maandbundel. Je ziet de kosten per actie op de knop en je verbruik terug op het dashboard.
+De **toegang** tot de engines zit in je plan (SEO vanaf Growth; GEO, Authority, Reputation en AI Content vanaf Pro). Elke **actie** die een engine uitvoert, zoals een site-audit, een Share-of-Voice-meting of een backlink-builder-run, gebruikt credits uit je maandbundel. Je ziet de kosten per actie op de knop en je verbruik terug op het dashboard.
 
 Gebruik je de engines intensief? Dan is er het optionele **Growth Engines-abonnement**: een aparte engine-credit-wallet die elke maand wordt bijgevuld en eerst wordt aangesproken bij engine-acties, zodat zwaar engine-werk je gewone plan-credits niet opeet. Vier tiers: Lite €19/mnd (60k), Start €39/mnd (150k), Pro €99/mnd (500k) en Scale €199/mnd (1,5M), jaarlijks 20% korting. Zonder de add-on draaien de engines gewoon op je plan-credits. Zie [Plannen en prijzen](../plannen-en-prijzen/README.md).
