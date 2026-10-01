@@ -35,7 +35,7 @@ Run an audit on any page you want to improve. Choose from four depths:
 
 **On-Page**, title tag, meta description, H1-H3 headings, alt texts, internal links.
 
-**Content**, readability, keyword density (if provided), text length, unique-content signals.
+**Content**, substantial paragraphs, subheadings, author and date, whether the target keyword appears in the text (if provided), text length.
 
 **Technical**, HTTPS, canonical tag, viewport meta, **real Core Web Vitals** (LCP/INP/CLS via Google PageSpeed, mobile/desktop selectable), Open Graph, alt texts. Plus the **fundamentals**: robots.txt validation, XML sitemap check, **broken links** (4xx/5xx), **redirect chains** (including HTTP->HTTPS), **mixed content**, **hreflang** and outdated **image format** (WebP/AVIF advice).
 
@@ -51,7 +51,7 @@ The **Max Audit** adds three things on top of a Deep Audit:
 
 ### Specify a target keyword
 
-You can optionally pass a target keyword with each audit. The SEO Engine then also analyses keyword density, placement in title/H1 and content relevance for that keyword.
+You can optionally pass a target keyword with each audit. The SEO Engine then also checks whether that keyword appears in the title and in the text. We deliberately do not measure a density target: Google does not use keyword density as a factor.
 
 ### Issues and recommendations
 

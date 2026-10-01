@@ -34,8 +34,8 @@ De **GEO Score** (0–100) is samengesteld uit vijf factoren:
 
 | Factor | Gewicht | Wat het meet |
 |---|---|---|
-| Citability | 30% | Hoe goed je content geciteerd kan worden door AI (directe antwoorden, lengte, leesbaarheid, concrete cijfers) |
-| Crawler Access | 20% | Of de 14 AI-bots toegang hebben tot je site (retrieval-bots niet blokkeren) |
+| Geciteerd door AI | 30% | Gemeten: in hoeveel AI-antwoorden een pagina van jouw site als bron staat. Max: 8 vragen aan Claude, ChatGPT, Gemini en Perplexity. Andere audits: 3 vragen aan Perplexity en Gemini. Lukt de meting niet, dan telt dit onderdeel niet mee en staat er "niet gemeten" |
+| Crawler Access | 20% | Of de zoekbots van AI-assistenten je site mogen lezen. Trainingsbots tellen niet mee |
 | Entiteit & Autoriteit | 20% | Organization-schema, sameAs-links, Person-schema, herkent AI je merk als entiteit |
 | Technical | 15% | HTTPS, leesbare HTML-content, canonical, echte Core Web Vitals |
 | Schema | 15% | Volledigheid van JSON-LD schema markup |
@@ -70,13 +70,21 @@ Naast AI-chatbots heeft Google nu **AI Overviews** bovenaan de zoekresultaten. I
 
 In de GEO Engine zit een **Local SEO-kaart**: typ een bedrijfsnaam + locatie en je krijgt de **rating**, het **aantal reviews**, de **categorie** en de **GBP-status** (geclaimd/niet geclaimd). Werkt voor elk bedrijf, ook je concurrenten. **1.500 credits** per check.
 
-### 14 AI-crawlers gecontroleerd
+### 18 crawlers gecontroleerd
 
-| Tier | Bots |
-|---|---|
-| Kritiek | GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, PerplexityBot |
-| Ecosysteem | Google-Extended, GoogleOther, Applebot-Extended, Amazonbot, FacebookBot |
-| Training | CCBot, anthropic-ai, Bytespider, cohere-ai |
+Ingedeeld zoals OpenAI, Anthropic, Perplexity en Google het zelf documenteren.
+
+| Soort | Bots | Telt mee |
+|---|---|---|
+| Zoeken | OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Perplexity-User, Googlebot | 70% van de crawlerscore |
+| Overig | GoogleOther, Amazonbot, FacebookBot | 30% |
+| Training | GPTBot, ClaudeBot, anthropic-ai, Google-Extended, Applebot-Extended, CCBot, Bytespider, cohere-ai | Geen aftrek |
+
+Een geblokkeerde zoekbot betekent dat die assistent je site niet in zijn antwoorden kan tonen. Een geweigerde trainingsbot verandert daar niets aan: je teksten komen alleen niet in de trainingsdata van dat model. Dat meldt de audit apart, zodat je het bewust kiest. Voor een bedrijf dat gevonden wil worden, is alles toelaten de standaard.
+
+Googlebot staat bij de zoekbots omdat AI Overviews en AI Mode volgens Google bij Search horen en Googlebot volgen. Google-Extended gaat alleen over training van Gemini. ChatGPT-User en Perplexity-User halen een pagina op als een gebruiker erom vraagt; volgens OpenAI en Perplexity geldt robots.txt daar mogelijk niet.
+
+**Firewallcheck.** Een robots.txt die alles toelaat, zegt niet alles: veel hostingpartijen en CDN's hebben een instelling die AI-bots blokkeert. De engine vraagt je homepage daarom op als gewone browser, dan met de user-agent van OAI-SearchBot, Claude-SearchBot, PerplexityBot, GPTBot en ClaudeBot, en dan weer als browser. Weigert je server een bot terwijl de browser er vóór en na wel in komt, dan meldt de audit dat, met de HTTP-status. Het telt niet mee in de score, want de test komt niet van het IP-adres van de echte bot.
 
 ### Fixes genereren
 
@@ -132,7 +140,7 @@ alleen een score maar een antwoord op de vraag "noemt AI ons eigenlijk?":
 > **Waar je wél genoemd wordt:** "beste boekhoudsoftware voor zzp"
 > **Waar je gemist wordt:** "boekhoudprogramma vergelijken", "welk pakket voor kleine ondernemers"
 >
-> **Kritiek:** GPTBot en ClaudeBot worden geblokkeerd in je robots.txt
+> **Kritiek:** OAI-SearchBot en Claude-SearchBot worden geblokkeerd in je robots.txt
 > **Hoog:** geen Organization-schema, AI herkent je merk niet als entiteit
 
 Die eerste regel is meestal de opbrengst: veel sites blokkeren onbedoeld precies

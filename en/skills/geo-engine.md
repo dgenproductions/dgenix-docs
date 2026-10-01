@@ -35,8 +35,8 @@ The **GEO Score** (0-100) is made up of five factors:
 
 | Factor | Weight | What it measures |
 |---|---|---|
-| Citability | 30% | How well your content can be cited by AI (direct answers, length, readability, concrete figures) |
-| Crawler Access | 20% | Whether the 14 AI bots can reach your site (do not block retrieval bots) |
+| Cited by AI | 30% | Measured: in how many AI answers a page of your site is used as a source. Max: 8 questions to Claude, ChatGPT, Gemini and Perplexity. Other audits: 3 questions to Perplexity and Gemini. If the measurement fails, this part does not count and it says "not measured" |
+| Crawler Access | 20% | Whether the search bots of AI assistants may read your site. Training bots do not count |
 | Entity & Authority | 20% | Organization schema, sameAs links, Person schema, does AI recognise your brand as an entity |
 | Technical | 15% | HTTPS, readable HTML content, canonical, real Core Web Vitals |
 | Schema | 15% | Completeness of JSON-LD schema markup |
@@ -71,13 +71,21 @@ Besides AI chatbots, Google now has **AI Overviews** at the top of search result
 
 The GEO Engine includes a **Local SEO card**: type a business name + location and you get the **rating**, the **number of reviews**, the **category** and the **GBP status** (claimed/not claimed). Works for any business, including competitors. **1,500 credits** per check.
 
-### 14 AI crawlers checked
+### 18 crawlers checked
 
-| Tier | Bots |
-|---|---|
-| Critical | GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, PerplexityBot |
-| Ecosystem | Google-Extended, GoogleOther, Applebot-Extended, Amazonbot, FacebookBot |
-| Training | CCBot, anthropic-ai, Bytespider, cohere-ai |
+Classified the way OpenAI, Anthropic, Perplexity and Google document them.
+
+| Kind | Bots | Counts for |
+|---|---|---|
+| Search | OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Perplexity-User, Googlebot | 70% of the crawler score |
+| Other | GoogleOther, Amazonbot, FacebookBot | 30% |
+| Training | GPTBot, ClaudeBot, anthropic-ai, Google-Extended, Applebot-Extended, CCBot, Bytespider, cohere-ai | No deduction |
+
+A blocked search bot means that assistant cannot show your site in its answers. A blocked training bot changes nothing there: your text just does not go into that model's training data. The audit reports it separately, so it is a conscious choice. For a business that wants to be found, allowing everything is the default.
+
+Googlebot counts as a search bot because, according to Google, AI Overviews and AI Mode are part of Search and follow Googlebot. Google-Extended only covers Gemini training. ChatGPT-User and Perplexity-User fetch a page when a user asks for it; according to OpenAI and Perplexity, robots.txt may not apply to them.
+
+**Firewall check.** A robots.txt that allows everything does not tell the whole story: many hosts and CDNs have a setting that blocks AI bots. The engine therefore requests your homepage as a regular browser, then with the user agent of OAI-SearchBot, Claude-SearchBot, PerplexityBot, GPTBot and ClaudeBot, then as a browser again. If your server refuses a bot while the browser gets in before and after, the audit reports it with the HTTP status. It does not count towards the score, because the test does not come from the real bot's IP address.
 
 ### Generate fixes
 
@@ -133,7 +141,7 @@ score, you get an answer to "does AI actually mention us?":
 > **Where you are mentioned:** "best accounting software for freelancers"
 > **Where you are missed:** "compare accounting packages", "which package for small businesses"
 >
-> **Critical:** GPTBot and ClaudeBot are blocked in your robots.txt
+> **Critical:** OAI-SearchBot and Claude-SearchBot are blocked in your robots.txt
 > **High:** no Organization schema, AI does not recognise your brand as an entity
 
 That first critical line is usually the payoff: many sites unintentionally block

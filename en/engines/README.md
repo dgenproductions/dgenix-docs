@@ -4,9 +4,9 @@ Besides the individual skills, dGENIX has five **[Growth Engines](https://dgenix
 
 Fixed order: SEO, GEO, Authority, Reputation, AI Content.
 
-At the top of Growth Tools is the **Overview** tab: one combined dashboard with your latest SEO, GEO and Authority scores per site (plus AI Share-of-Voice, keywords in the top 100 and traffic value), with a progress chart per engine, the comparison versus your competitor and a prioritized **"what to fix next" list** that surfaces the highest-impact actions from your audits and positions.
+At the top of Growth Tools is the **Overview** tab: one combined dashboard with your latest SEO, GEO and Authority scores per site (plus AI Share-of-Voice, keywords in the top 100 and estimated organic traffic), with a progress chart per engine, the comparison versus your competitor and a prioritized **"what to fix next" list** that surfaces the highest-impact actions from your audits and positions.
 
-**For agencies:** the **portfolio overview** shows all your client sites in one table with the latest SEO, GEO and Authority scores plus traffic value per site (click a row to jump to that client). Deliver **white-label reports** (from Pro): put your own agency name, logo and accent colour on the PDF audit reports. And in the AI assistant, create a **project** (chat folder) per client and use "To project" to add that client's audits and fixes. GENI then knows that context in every chat inside the project, so you can work, plan and report per client.
+**For agencies:** the **portfolio overview** shows all your client sites in one table with the latest SEO, GEO and Authority scores plus estimated organic traffic per site (click a row to jump to that client). Deliver **white-label reports** (from Pro): put your own agency name, logo and accent colour on the PDF audit reports. And in the AI assistant, create a **project** (chat folder) per client and use "To project" to add that client's audits and fixes. GENI then knows that context in every chat inside the project, so you can work, plan and report per client.
 
 > **Want to try it free?** At [Free scan](https://dgenix.com/demo) you can scan your website for free on SEO and AI visibility (GEO), no account needed. You get your score and the top issues instantly. The full results and the engines themselves sit behind a (free) account.
 

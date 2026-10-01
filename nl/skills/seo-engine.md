@@ -35,7 +35,7 @@ Voer een audit uit op elke pagina die je wilt verbeteren. Kies uit vier dieptes:
 
 **On-Page**, title tag, meta description, H1–H3 koppen, alt-teksten, interne links.
 
-**Content**, leesbaarheid, keyword density (indien opgegeven), tekstlengte, unieke content signalen.
+**Content**, inhoudelijke alinea's, tussenkoppen, auteur en datum, of het doelzoekwoord in de tekst staat (indien opgegeven), tekstlengte.
 
 **Technisch**, HTTPS, canonical tag, viewport meta, **echte Core Web Vitals** (LCP/INP/CLS via Google PageSpeed, instelbaar mobiel/desktop), Open Graph, alt-teksten. Plus de **fundamenten**: robots.txt-validatie, XML-sitemap-check, **gebroken links** (4xx/5xx), **redirect-ketens** (inclusief HTTP→HTTPS), **mixed-content**, **hreflang** en verouderd **beeldformaat** (WebP/AVIF-advies).
 
@@ -51,7 +51,7 @@ De **Max Audit** voegt drie dingen toe bovenop een Deep Audit:
 
 ### Doelzoekwoord opgeven
 
-Je kunt optioneel een doelzoekwoord meegeven bij elke audit. De SEO Engine analyseert dan ook de keyword density, plaatsing in title/H1 en content relevantie voor dat zoekwoord.
+Je kunt optioneel een doelzoekwoord meegeven bij elke audit. De SEO Engine kijkt dan ook of dat zoekwoord in de title en in de tekst staat. Een dichtheidsdoel meten we bewust niet: Google gebruikt keyword density niet als factor.
 
 ### Issues en aanbevelingen
 
