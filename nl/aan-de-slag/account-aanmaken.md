@@ -1,6 +1,6 @@
 # Account aanmaken
 
-dGENIX is gratis te starten.
+dGENIX is gratis te starten. Maak in een paar stappen je account aan, kies een plan en je AI-assistent GENI staat klaar.
 
 > **Tijdens de beta** kom je binnen via een uitnodiging. Zet je op de
 > [wachtlijst](https://app.dgenix.com/waitlist); zodra je plek vrijkomt, krijg je een

@@ -1,6 +1,6 @@
 # Create an account
 
-dGENIX is free to start.
+dGENIX is free to start. Create your account in a few steps, pick a plan and your AI assistant GENI is ready to work.
 
 > **During the beta** you get in by invitation. Join the
 > [waitlist](https://app.dgenix.com/waitlist); when your spot opens up, you get an email

@@ -1,5 +1,7 @@
 # Veelgestelde vragen
 
+Antwoorden op de vragen die mensen het vaakst stellen over dGENIX: wat GENI doet, credits en plannen, je tools koppelen, privacy en beveiliging.
+
 ---
 
 ## Algemeen

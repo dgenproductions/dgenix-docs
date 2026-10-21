@@ -1,5 +1,7 @@
 # Frequently asked questions
 
+Answers to the questions people ask most about dGENIX: what GENI does, credits and plans, connecting your tools, privacy and security.
+
 ---
 
 ## General
